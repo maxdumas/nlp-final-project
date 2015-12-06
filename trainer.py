@@ -84,11 +84,20 @@ def train(training_dir):
     # B: Total count of each word
 
     print(' Calculating feature-sense concordances...')
-    # A := { s_i: [c_i { f_j:v(f_j): c_f_j}]}
+    # A := { s_i: [c_i { f_j: { v(f_j): c_f_j }}]}
+    # That is:
+    #   A[sense][0] is the total count of all occurrences of that sense
+    #   A[sense][1] is a dictionary of all features applied to that sense
+    #   A[sense][1][feature] is a dictionary of all values found for that feature-sense
+    #   A[sense][1][feature][value] is the count of the number of times that value-feature-sense was found
     A = calcA(filenames)
 
     print(' Calculating word-sense counts...')
     # B := { w_i: [c_i, { s_w_i: c_w_i }]}
+    # That is:
+    #   B[word][0] is the total count of all occurrences of that word
+    #   B[word][1] is a dictionary of all senses that were found for that word
+    #   B[word][1][sense] is the count of the number of times that sense-word was found
     B = calcB(filenames)
 
     return (A, B)
