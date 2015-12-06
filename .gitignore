@@ -8,3 +8,5 @@ semcor*
 *.fls
 *.log
 *.synctex.gz
+
+result.txt
