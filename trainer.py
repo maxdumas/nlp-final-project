@@ -1,0 +1,94 @@
+from collections import defaultdict
+import os
+import xml.etree.ElementTree as ET
+
+def cl(i, minv, maxv):
+    return sorted((minv, maxv - 1, i))[1]
+
+def generate_key(word_form):
+    lemma = word_form.attrib['lemma']
+    lexsn = word_form.attrib['lexsn']
+    return '{}%{}'.format(lemma, lexsn)
+
+def parse_xml(filenames, operation):
+    for filename in filenames:
+        tree = ET.parse(filename)
+        root = tree.getroot()
+        file = root[0]
+        for paragraph in file:
+            for sentence in paragraph:
+                for i in range(len(sentence)):
+                    word_form = sentence[i]
+                    # Choose only tagged words
+                    if 'cmd' in word_form.attrib \
+                    and 'lemma' in word_form.attrib \
+                    and word_form.attrib['cmd'] == 'done' \
+                    and 'ot' not in word_form.attrib:
+                        operation(word_form, i, sentence)
+
+def extract_features(word_form, i, sentence):
+    n = len(sentence)
+    features = {}
+
+    features['pos'] = word_form.attrib['pos']
+    features['lemma'] = word_form.attrib['lemma']
+
+    prev_form = sentence[cl(i - 1, 0, n)]
+
+    if 'pos' in prev_form.attrib:
+        features['prev_pos'] = prev_form.attrib['pos']
+    features['prev_word'] = prev_form.text
+
+    return features
+
+def calcA(filenames):
+    output = defaultdict(lambda: [0, defaultdict(lambda: defaultdict(int))])
+
+    def operate(word_form, i, sentence):
+        feature_set = extract_features(word_form, i, sentence)
+        key = generate_key(word_form)
+        # Increment total count for sense
+        output[key][0] += 1
+        # For each found feature, increment
+        # count for that feature-value pair
+        for feature, value in feature_set.items():
+            kvp = '{}-{}'.format(feature, value)
+            output[key][1][feature][value] += 1
+
+    parse_xml(filenames, operate)
+
+    return output
+
+def calcB(filenames):
+    output = defaultdict(lambda: [0, defaultdict(int)])
+
+    def operate(word_form, i, sentence):
+        word = word_form.text
+        key = generate_key(word_form)
+        # Increment total count for word
+        output[word][0] += 1
+        # Increment count for word in this sense
+        output[word][1][key] += 1
+
+    parse_xml(filenames, operate)
+
+    return output
+
+def train(training_dir):
+    filenames = {os.path.join(training_dir, filename) for filename in os.listdir(training_dir)}
+
+    # We want to calculate the following:
+    # A: Total count of each sense
+    # A: Count of each feature per sense
+    # B: Count of each sense per word
+    # B: Total count of each word
+
+    print(' Calculating feature-sense concordances...')
+    # A := { s_i: [c_i { f_j:v(f_j): c_f_j}]}
+    A = calcA(filenames)
+
+    print(' Calculating word-sense counts...')
+    # B := { w_i: [c_i, { s_w_i: c_w_i }]}
+    B = calcB(filenames)
+
+    return (A, B)
