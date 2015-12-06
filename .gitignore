@@ -1,0 +1,10 @@
+.DS_Store
+
+thing
+semcor*
+
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
