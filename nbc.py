@@ -9,55 +9,107 @@ from nltk.corpus import wordnet as wn
 from nltk.stem.wordnet import WordNetLemmatizer
 import nltk
 
+def cl(i, minv, maxv):
+    return sorted((minv, maxv - 1, i))[1]
+
 def generate_key(word_form):
     lemma = word_form.attrib['lemma']
     lexsn = word_form.attrib['lexsn']
     return '{}%{}'.format(lemma, lexsn)
 
-def parse_xml(tree, sense_counts):
-    root = tree.getroot()
-    file = root[0]
-    for paragraph in file:
-        for sentence in paragraph:
-            for word_form in sentence:
-                # Choose only tagged words
-                if 'cmd' in word_form.attrib \
-                and 'lemma' in word_form.attrib \
-                and word_form.attrib['cmd'] == 'done' \
-                and 'ot' not in word_form.attrib:
-                    # Construct fully-qualified WordNet lemma name using wf attributes
-                    key = generate_key(word_form)
-                    lemma = word_form.attrib['lemma']
-                    # Add to dictionary, incrementing count
-                    # Key by lemma
-                    # Store all found sense_keys for that lemma along with counts for each
-                    sense_counts[lemma][key]['count'] += 1
+def parse_xml(filenames, operation):
+    for filename in filenames:
+        tree = ET.parse(filename)
+        root = tree.getroot()
+        file = root[0]
+        for paragraph in file:
+            for sentence in paragraph:
+                for i in range(len(sentence)):
+                    word_form = sentence[i]
+                    # Choose only tagged words
+                    if 'cmd' in word_form.attrib \
+                    and 'lemma' in word_form.attrib \
+                    and word_form.attrib['cmd'] == 'done' \
+                    and 'ot' not in word_form.attrib:
+                        operation(word_form, i, sentence)
+
+def extract_features(word_form, i, sentence):
+    n = len(sentence)
+    features = {}
+
+    features['pos'] = word_form.attrib['pos']
+    features['lemma'] = word_form.attrib['lemma']
+
+    prev_form = sentence[cl(i - 1, 0, n)]
+
+    if 'pos' in prev_form.attrib:
+        features['prev_pos'] = prev_form.attrib['pos']
+    features['prev_word'] = prev_form.text
+
+    return features
+
+def calcA(filenames):
+    output = defaultdict(lambda: [0, defaultdict(lambda: defaultdict(int))])
+
+    def operate(word_form, i, sentence):
+        feature_set = extract_features(word_form, i, sentence)
+        key = generate_key(word_form)
+        # Increment total count for sense
+        output[key][0] += 1
+        # For each found feature, increment
+        # count for that feature-value pair
+        for feature, value in feature_set.items():
+            kvp = '{}-{}'.format(feature, value)
+            output[key][1][feature][value] += 1
+
+    parse_xml(filenames, operate)
+
+    return output
+
+def calcB(filenames):
+    output = defaultdict(lambda: [0, defaultdict(int)])
+
+    def operate(word_form, i, sentence):
+        word = word_form.text
+        key = generate_key(word_form)
+        # Increment total count for word
+        output[word][0] += 1
+        # Increment count for word in this sense
+        output[word][1][key] += 1
+
+    parse_xml(filenames, operate)
+
+    return output
 
 def train(training_dir):
-    # Create dictionaries for storing word frequencies
-    sense_counts = defaultdict(
-        lambda: defaultdict(
-            lambda: { 'count': 0 }))
+    filenames = {os.path.join(training_dir, filename) for filename in os.listdir(training_dir)}
 
-    # Load training file(s)
-    filenames = os.listdir(training_dir)
-    for filename in filenames:
-        # Parse File with XML Parser
-        tree = ET.parse(os.path.join(training_dir, filename))
-        parse_xml(tree, sense_counts)
+    # We want to calculate the following:
+    # A: Total count of each sense
+    # A: Count of each feature per sense
+    # B: Count of each sense per word
+    # B: Total count of each word
 
-    return sense_counts
+    print(' Calculating feature-sense concordances...')
+    # A := { s_i: [c_i { f_j:v(f_j): c_f_j}]}
+    A = calcA(filenames)
 
-def find_word_sense(lemma, sense_counts):
+    print(' Calculating word-sense counts...')
+    # B := { w_i: [c_i, { s_w_i: c_w_i }]}
+    B = calcB(filenames)
+
+    return (A, B)
+
+def find_word_sense(word, B):
     # Use the lemma form that has the synset with the highest count
     max_count = 0
     max_sense_key = None
     # for lemma in possible_lemmas:
-    if lemma in sense_counts:
-        for sense_key, v in sense_counts[lemma].items():
-            if max_count < v['count']:
+    if word in B:
+        for sense_key, count in B[word][1].items():
+            if max_count < count:
                 max_sense_key = sense_key
-                max_count = v['count']
+                max_count = count
 
     # if max_sense_key == None:
     #     print('Chosen form {} for {} after looking at {}'.format(max_sense_key, word, possible_lemmas))
@@ -96,22 +148,15 @@ def preprocess(file):
 
     return lemma_tagged
 
-def extract_features(data):
-    
-    return data
-
 def process(sense_counts, test_file):
     output_data = []
 
     print(' Preprocessing...')
     data = preprocess(open(test_file))
 
-    print(' Extracting features...')
-    data = extract_features(data)
-
     print(' Determining word senses...')
     for entry in data:
-        wf = find_word_sense(entry['lemma'], sense_counts)
+        wf = find_word_sense(entry['word'], sense_counts)
         output_data.append((entry['word'], wf))
 
     return output_data
