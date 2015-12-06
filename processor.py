@@ -2,7 +2,8 @@ import nltk
 from nltk.corpus import wordnet as wn
 from nltk.stem.wordnet import WordNetLemmatizer
 
-def find_word_sense(word, B):
+def find_word_sense(word, training_data):
+    A, B = training_data
     # Use the lemma form that has the synset with the highest count
     max_count = 0
     max_sense_key = None
@@ -50,7 +51,7 @@ def preprocess(file):
 
     return lemma_tagged
 
-def process(sense_counts, test_file):
+def process(training_data, test_file):
     output_data = []
 
     print(' Preprocessing...')
@@ -58,7 +59,7 @@ def process(sense_counts, test_file):
 
     print(' Determining word senses...')
     for entry in data:
-        wf = find_word_sense(entry['word'], sense_counts)
+        wf = find_word_sense(entry['word'], training_data)
         output_data.append((entry['word'], wf))
 
     return output_data
