@@ -1,0 +1,2171 @@
+Apart apart%4:02:01::
+from
+the
+honeybee honeybee%1:05:00::
+,
+practically practically%4:02:00::
+all
+bees bee%1:05:00::
+and
+bumblebees bumblebee%1:05:00::
+hibernate hibernate%2:29:00::
+in
+a
+state state%1:03:00::
+of
+torpor torpor%1:26:00::
+.
+Occasionally occasionally%4:02:00::
+,
+you
+may
+come_across come_across%2:40:02::
+one one%5:00:00:cardinal:00
+or
+two two%5:00:00:cardinal:00
+bumblebees bumblebee%1:05:00::
+in
+the
+cold cold%3:00:01::
+season season%1:28:00::
+,
+when
+you
+are
+turning_over turn_over%2:35:00::
+sods sod%1:17:00::
+in
+your
+garden garden%1:06:00::
+,
+but
+you
+have_to
+be be%2:42:03::
+a
+really really%4:02:03::
+keen keen%5:00:00:perceptive:00
+observer observer%1:18:00::
+to
+see see%2:39:00::
+them
+at_all at_all%4:02:00::
+.
+They
+keep keep%2:42:00::
+their
+wings wing%1:05:00::
+and
+feet foot%1:05:00::
+pressed press%2:35:00::
+tightly tightly%4:02:02::
+against
+their
+bodies body%1:08:00::
+,
+and
+in_spite_of
+their
+often often%4:02:00::
+colorful colorful%3:00:00::
+attire attire%1:06:00::
+you
+may
+very very%4:02:00::
+well well%4:02:03::
+mistake mistake%2:31:00::
+them
+for
+lumps lump%1:14:00::
+of
+dirt dirt%1:27:01::
+.
+I
+must
+add add%2:32:01::
+at_once at_once%4:02:00::
+that
+these
+animals animal%1:03:00::
+are be%2:42:06::
+what
+we
+call call%2:32:02::
+``
+queens queen%1:05:01::
+''
+,
+young young%3:00:00::
+females female%1:05:00::
+that
+have
+mated mate%2:35:00::
+in
+the
+previous previous%5:00:00:preceding(a):00
+summer summer%1:28:00::
+or
+autumn autumn%1:28:00::
+.
+It
+is be%2:42:03::
+on
+them
+alone alone%4:02:00::
+that
+the
+future future%1:28:00::
+of
+their
+race race%1:14:01::
+depends depend_on%2:42:00::
+,
+for
+all
+their
+relatives relative%1:05:00::
+(
+mothers mother%1:18:00::
+,
+husbands husband%1:18:00::
+,
+brothers brother%1:18:00::
+,
+and
+unmated unmated%3:00:00::
+sisters sister%1:18:00::
+)
+have
+perished perish%2:30:00::
+with
+the
+arrival arrival%1:04:00::
+of
+the
+cold_weather cold_weather%1:19:00::
+.
+Even even%4:02:00::
+some some%3:00:00::
+of
+the
+queens queen%1:05:01::
+will
+die die%2:30:00::
+before before%4:02:03::
+the
+winter winter%1:28:00::
+is be%2:42:03::
+over over%5:00:01:finished:01
+,
+falling fall%2:30:08::
+prey prey%1:18:00::
+to
+enemies enemy%1:18:00::
+or
+disease disease%1:26:00::
+.
+The
+survivors survivor%1:05:00::
+emerge emerge%2:30:00::
+on
+some
+nice nice%3:00:00::
+,
+sunny sunny%5:00:00:clear:03
+day day%1:28:01::
+in
+March march%1:28:00::
+or
+April april%1:28:00::
+,
+when
+the
+temperature temperature%1:07:00::
+is be%2:42:03::
+close close%3:00:05::
+to
+50 50%5:00:00:cardinal:00
+`
+F f%1:23:02::
+and
+there
+is be%2:42:04::
+not not%4:02:00::
+too_much too_much%5:00:00:immoderate:00
+wind wind%1:19:00::
+.
+Now now%1:28:00::
+the
+thing thing%1:04:00::
+for
+us
+to
+do do%2:41:01::
+is be%2:42:06::
+to
+find find%2:40:01::
+ourselves
+a_couple_of a_couple_of%5:00:00:few:00
+those
+wonderful wonderful%5:00:00:extraordinary:00
+flowering flowering%1:22:00::
+currants currant%1:13:01::
+such_as
+the
+red red%5:00:01:chromatic:00
+Ribes_sanguineum ribes_sanguineum%1:20:00::
+of
+our
+Pacific_Northwest location%1:03:00::
+,
+or
+otherwise otherwise%4:02:03::
+a
+good good%3:00:01::
+sloe sloe%1:20:02::
+tree tree%1:20:00::
+,
+or
+perhaps perhaps%4:02:00::
+some
+nice nice%3:00:00::
+pussy_willow pussy_willow%1:20:01::
+in
+bloom bloom%2:30:00::
+,
+preferably preferably%4:02:00::
+one
+with
+male male%3:00:00::
+or
+staminate staminate%5:00:00:male:00
+catkins catkin%1:20:00::
+.
+The
+blooms bloom%1:20:00::
+of
+Ribes ribes%1:20:00::
+and
+of
+the
+willow willow%1:20:00::
+and
+sloe sloe%1:20:02::
+are be%2:42:06::
+the
+places place%1:15:00::
+where
+large_numbers large_number%1:23:00::
+of
+our
+early early%5:00:00:young:00
+insects insect%1:05:00::
+will
+assemble assemble%2:41:00::
+:
+honeybees honeybee%1:05:00::
+,
+bumblebees bumblebee%1:05:00::
+,
+and
+other other%3:00:00::
+wild wild%3:00:01::
+bees bee%1:05:00::
+,
+and
+also also%4:02:00::
+various various%5:00:02:different:00
+kinds kind%1:09:00::
+of
+flies fly%1:05:00::
+.
+It
+is be%2:42:03::
+a
+happy happy%3:00:00::
+,
+buzzing buzzing%5:00:00:noisy:00
+crowd crowd%1:14:00::
+.
+Each
+male male%3:00:00::
+willow willow%1:20:00::
+catkin catkin%1:20:00::
+is be%2:42:03::
+composed composed%5:00:00:combined:00
+of
+a
+large_number large_number%1:23:00::
+of
+small small%3:00:00::
+flowers flower%1:20:00::
+.
+It
+is be%2:42:03::
+not not%4:02:00::
+difficult difficult%3:00:00::
+to
+see see%2:39:00::
+that
+the
+stamens stamen%1:20:00::
+of
+the
+catkin catkin%1:20:00::
+are
+always always%4:02:00::
+arranged arrange%2:35:00::
+in
+pairs pair%1:14:00::
+,
+and
+that
+each each%5:00:00:all(a):00
+individual individual%3:00:00::
+flower flower%1:20:00::
+is be%2:42:06::
+nothing nothing%1:23:00::
+but
+one one%1:23:00::
+such such%5:00:01:specified:00
+pair pair%1:14:01::
+standing stand%2:35:00::
+on
+a
+green green%5:00:00:chromatic:00
+,
+black black%3:00:01::
+tipped tip%2:30:00::
+little little%3:00:01::
+scale scale%1:20:00::
+.
+By
+scrutinizing scrutinize%2:39:00::
+the
+flowers flower%1:20:00::
+,
+one
+can
+also also%4:02:00::
+notice notice%2:39:04::
+that
+the
+scale scale%1:20:00::
+bears bear%2:42:14::
+one one%5:00:00:cardinal:00
+or
+two two%5:00:00:cardinal:00
+tiny tiny%5:00:00:small:00
+warts wart%1:25:00::
+.
+Those
+are be%2:42:06::
+the
+nectaries nectary%1:20:00::
+or
+honey honey%1:13:00::
+glands gland%1:08:00::
+(
+Fig. fig%1:10:00::
+26 26%5:00:00:cardinal:00
+,
+page page%1:10:00::
+74
+)
+.
+The
+staminate staminate%5:00:00:male:00
+willow willow%1:20:00::
+catkins catkin%1:20:00::
+,
+then then%4:02:02::
+,
+provide provide%2:40:00::
+their
+visitors visitor%1:18:00::
+with
+both
+nectar nectar%1:27:00::
+and
+pollen pollen%1:20:00::
+;
+a
+marvelous marvelous%5:00:00:incredible:00
+arrangement arrangement%1:04:02::
+,
+for
+it
+provides provide%2:40:00::
+exactly exactly%4:02:01::
+what
+the
+bee bee%1:05:00::
+queens queen%1:05:01::
+need
+to
+make make%2:36:11::
+their
+beebread beebread%1:27:00::
+,
+a
+combination combination%1:14:00::
+of
+honey honey%1:13:00::
+and
+pollen pollen%1:20:00::
+with
+which
+the
+young young%1:05:00::
+of
+all
+species species%1:14:00::
+are
+fed feed%2:34:04::
+.
+The
+only only%5:00:00:single(a):00
+exception exception%1:09:00::
+to
+this
+is be%2:42:06::
+certain certain%5:00:00:definite:00
+bees bee%1:05:00::
+that
+have
+become become%2:42:01::
+parasites parasite%1:05:00::
+.
+I
+will
+deal deal%2:41:09::
+with
+these
+later_on later_on%4:02:00::
+.
+Quite quite%4:02:01::
+often often%4:02:00::
+,
+honeybees honeybee%1:05:00::
+form form%2:42:00::
+a
+majority majority%1:07:00::
+on
+the
+willow willow%1:20:00::
+catkins catkin%1:20:00::
+.
+As
+we
+have
+already already%4:02:00::
+seen see%2:32:00::
+in
+the
+first first%5:00:00:ordinal:00
+chapter chapter%1:10:00::
+,
+bumblebees bumblebee%1:05:00::
+are be%2:42:03::
+bigger big%3:00:01::
+,
+hairier hairy%3:00:00::
+,
+and
+much much%4:02:00::
+more more%4:02:00::
+colorful colorful%3:00:00::
+than
+honeybees honeybee%1:05:00::
+,
+exhibiting exhibit%2:42:00::
+various various%5:00:02:different:00
+combinations combination%1:14:00::
+of
+black black%1:07:00::
+,
+yellow yellow%1:07:00::
+,
+white white%1:07:00::
+and
+orange orange%1:07:00::
+.
+Let let%2:41:00::
+us
+not not%4:02:00::
+try try%2:41:00::
+to
+key key%2:31:00::
+them
+out
+at
+this
+stage stage%1:28:00::
+of
+the
+game game%1:04:01::
+,
+and
+let let%2:41:00::
+us
+just just%4:02:00::
+call call%2:32:02::
+them
+Bombus bombus%1:05:00::
+;
+there
+must
+be be%2:42:00::
+several several%5:00:00:some(a):00
+dozen dozen%1:23:00::
+species species%1:14:00::
+in
+the
+United_States united_states%1:15:00::
+alone alone%4:02:00::
+.
+If
+you
+really really%4:02:03::
+insist insist%2:32:00::
+on
+knowing know%2:31:01::
+their
+names name%1:10:00::
+,
+an
+excellent excellent%5:00:00:superior:02
+book book%1:10:00::
+on
+the
+North_American north-american%3:01:00::
+species species%1:14:00::
+is be%2:42:06::
+Bumblebees bumblebee%1:05:00::
+and
+Their
+Ways way%1:04:00::
+by
+O._E._Plath person%1:03:00::
+.
+If
+we
+manage manage%2:41:09::
+to
+keep keep%2:31:00::
+track track%1:09:00::
+of
+a
+Bombus bombus%1:05:00::
+queen queen%1:05:01::
+after
+she
+has
+left leave%2:38:01::
+her
+feeding feeding%1:04:00::
+place place%1:15:00::
+,
+we
+may
+discover discover%2:36:00::
+the
+snug snug%5:00:00:protected:00
+little little%3:00:01::
+hideout hideout%1:15:00::
+which
+she
+has
+fixed_up fix_up%2:34:00::
+for
+herself
+when
+she
+woke_up wake_up%2:29:01::
+from
+her
+winter winter%1:28:00::
+sleep sleep%1:26:00::
+.
+As
+befits befit%2:42:00::
+a
+queen queen%1:05:01::
+,
+a
+bumblebee bumblebee%1:05:00::
+female female%1:05:00::
+is be%2:42:03::
+rather rather%4:02:04::
+choosy choosy%5:00:00:fastidious:00
+and
+may
+spend spend%2:42:00::
+considerable considerable%3:00:00::
+time time%1:28:05::
+searching search%2:35:00::
+for
+a
+suitable suitable%5:00:00:good:01
+nesting_place nesting_place%1:15:00::
+.
+Most most%3:00:01::
+species species%1:14:00::
+seem seem%2:39:00::
+to
+prefer prefer%2:31:00::
+a
+ready-made ready-made%3:00:00::
+hollow hollow%1:17:00::
+such_as
+a
+deserted deserted%5:00:00:forsaken:00
+mouse_nest mouse_nest%1:17:00::
+,
+a
+bird_house birdhouse%1:06:00::
+,
+or
+the
+hole hole%1:17:01::
+made make%2:36:00::
+by
+a
+woodpecker woodpecker%1:05:00::
+;
+some some%3:00:00::
+show show%2:39:02::
+a
+definite definite%3:00:00::
+liking liking%1:12:00::
+for
+making make%2:36:13::
+their
+nest nest%1:17:00::
+in
+moss moss%1:20:00::
+.
+Once once%4:02:02::
+she
+has
+made_up_her_mind make_up_one's_mind%2:31:00::
+,
+the
+queen queen%1:05:01::
+starts_out start_out%2:38:00::
+by
+constructing construct%2:36:00::
+,
+in
+her
+chosen chosen%5:00:00:selected:00
+abode abode%1:06:00::
+,
+a
+small small%3:00:00::
+``
+floor floor%1:06:00::
+''
+of
+dried dried%5:00:00:dry:01
+grass grass%1:20:00::
+or
+some
+woolly woolly%5:00:00:soft:01
+material material%1:27:00::
+.
+On
+this
+,
+she
+builds build%2:36:00::
+an
+``
+egg egg%1:05:00::
+compartment compartment%1:06:01::
+''
+or
+``
+egg egg%1:05:00::
+cell cell%1:06:03::
+''
+which
+is
+filled filled%5:00:01:full:00
+with
+that
+famous famous%5:00:00:known:00
+pollen pollen%1:20:00::
+and
+nectar nectar%1:27:00::
+mixture mixture%1:13:00::
+called called%5:00:00:titled:00
+beebread beebread%1:27:00::
+.
+She
+also also%4:02:00::
+builds build%2:36:00::
+one one%5:00:00:cardinal:00
+or
+two two%5:00:00:cardinal:00
+waxen waxen%3:01:00::
+cups cup%1:25:00::
+which
+she
+fills fill%2:30:01::
+with
+honey honey%1:13:00::
+.
+Then then%4:02:00::
+,
+a
+group group%1:03:00::
+of
+eggs egg%1:05:00::
+is
+deposited deposit%2:35:01::
+in
+a
+cavity cavity%1:17:00::
+in
+the
+beebread beebread%1:27:00::
+loaf loaf%1:13:00::
+and
+the
+egg egg%1:05:00::
+compartment compartment%1:06:01::
+is
+closed close%2:35:00::
+.
+The
+queen queen%1:05:01::
+afterward afterward%4:02:00::
+keeps keep%2:42:07::
+incubating incubate%2:29:00::
+and
+guarding guard%2:41:00::
+her
+eggs egg%1:05:00::
+like
+a
+mother mother%1:18:00::
+hen hen%1:05:01::
+,
+taking take%2:34:00::
+a
+sip sip%1:04:01::
+from_time_to_time from_time_to_time%4:02:00::
+from
+the
+rather rather%4:02:04::
+liquid liquid%3:00:00::
+honey honey%1:13:00::
+in
+her
+honey honey%1:13:00::
+pots pot%1:23:00::
+.
+When
+the
+larvae larva%1:05:00::
+hatch hatch%2:29:01::
+,
+they
+feed_on feed_on%2:34:00::
+the
+beebread beebread%1:27:00::
+,
+although
+they
+also also%4:02:00::
+receive receive%2:40:00::
+extra extra%5:00:00:added:00
+honey honey%1:13:00::
+meals meal%1:13:00::
+from
+their
+mother mother%1:18:00::
+.
+She
+continues continue%2:42:01::
+to
+add add%2:30:00::
+to
+the
+pollen pollen%1:20:00::
+supply supply%1:23:00::
+as_needed as_needed%4:02:00::
+.
+The
+larvae larva%1:05:00::
+,
+kept keep%2:42:00::
+warm warm%3:00:01::
+by
+the
+queen queen%1:05:01::
+,
+are be%2:42:03::
+full_grown full-grown%5:00:00:mature:01
+in
+about
+ten ten%5:00:00:cardinal:00
+days day%1:28:00::
+.
+Each
+now now%4:02:05::
+makes make%2:36:00::
+a
+tough tough%3:00:02::
+,
+papery papery%5:00:00:thin:01
+cocoon cocoon%1:05:00::
+and
+pupates pupate%2:29:00::
+.
+After
+another
+two_weeks two_weeks%1:28:00::
+,
+the
+first first%5:00:00:ordinal:00
+young young%1:05:00::
+emerge emerge%2:30:00::
+,
+four four%5:00:00:cardinal:00
+to
+eight eight%5:00:00:cardinal:00
+small small%5:00:00:young:00
+daughters daughter%1:18:00::
+that
+begin begin%2:30:00::
+to
+play play%2:29:01::
+the
+role role%1:04:00::
+of
+worker_bees worker_bee%1:05:00::
+,
+collecting collect%2:40:00::
+pollen pollen%1:20:00::
+and
+nectar nectar%1:27:00::
+in
+the
+field field%1:15:00::
+and
+caring care%2:41:13::
+for
+the
+new new%3:00:00::
+young young%3:00:00::
+generation generation%1:14:00::
+while
+the
+queen queen%1:05:01::
+retires retire%2:41:00::
+to
+a
+life life%1:26:02::
+of
+egg_laying egg_laying%1:22:00::
+.
+The
+first first%5:00:00:ordinal:00
+worker_bees worker_bee%1:05:00::
+do
+not not%4:02:00::
+mate mate%2:35:00::
+or
+lay lay%2:35:02::
+eggs egg%1:05:00::
+;
+males male%1:05:00::
+and
+mating mating%1:04:00::
+females female%1:05:00::
+do
+not not%4:02:00::
+emerge emerge%2:30:00::
+until
+later later%4:02:01::
+in
+the
+season season%1:28:00::
+.
+The
+broods brood%1:14:00::
+of
+workers worker%1:05:01::
+that
+appear appear%2:30:00::
+later later%4:02:01::
+tend tend%2:42:01::
+to
+be be%2:42:03::
+bigger bigger%5:00:00:large:00
+than
+the
+first first%5:00:00:ordinal:00
+ones
+,
+probably probably%4:02:00::
+because
+they
+are
+better better%4:02:00::
+fed feed%2:34:04::
+.
+By
+the
+middle middle%5:00:00:intermediate:00
+of
+the
+summer summer%1:28:00::
+,
+many_of
+the
+larvae larva%1:05:00::
+apparently apparently%4:02:00::
+receive receive%2:40:00::
+such such%4:02:00::
+a
+good good%3:00:01::
+diet diet%1:13:00::
+that
+it
+is be%2:42:03::
+``
+optimal optimal%5:00:00:best:00
+''
+,
+and
+it
+is
+then then%4:02:01::
+that
+young young%3:00:00::
+queens queen%1:05:01::
+begin begin%2:30:00::
+to
+appear appear%2:30:00::
+.
+Simultaneously simultaneously%4:02:00::
+,
+males male%1:05:00::
+or
+drones drone%1:05:00::
+are
+produced produce%2:36:02::
+,
+mostly mostly%4:02:03::
+from
+the
+unfertilized unfertilized%5:00:00:infertile:00
+eggs egg%1:05:00::
+of
+workers worker%1:05:01::
+,
+although
+a
+few few%1:23:00::
+may
+be
+produced produce%2:36:02::
+by
+the
+queen queen%1:05:01::
+.
+The
+young young%3:00:00::
+queens queen%1:05:01::
+and
+drones drone%1:05:00::
+leave leave%2:38:01::
+the
+nest nest%1:17:00::
+and
+mate mate%2:35:00::
+,
+and
+after
+a
+short short%3:00:02::
+period period%1:28:00::
+of
+freedom freedom%1:26:00::
+,
+the
+fertilized fertilized%5:00:00:fertile:00
+young young%3:00:00::
+queens queen%1:05:01::
+will
+begin begin%2:30:00::
+to
+dig dig%2:35:00::
+in
+for
+the
+winter winter%1:28:00::
+.
+It
+is be%2:42:03::
+an
+amazing amazing%5:00:00:surprising:00
+fact fact%1:09:01::
+that
+in
+some some%3:00:00::
+species species%1:14:00::
+this
+will
+happen happen%2:30:00::
+while
+the
+summer summer%1:28:00::
+is be%2:42:03::
+still still%4:02:01::
+in_full_swing in_full_swing%5:00:00:active:06
+,
+for_instance for_instance%4:02:00::
+,
+in
+August august%1:28:00::
+.
+The
+temperature temperature%1:07:00::
+then then%4:02:01::
+is be%2:42:03::
+still still%4:02:01::
+very very%4:02:00::
+high high%3:00:02::
+.
+At
+the
+old old%3:00:01::
+nest nest%1:17:00::
+,
+the
+queen queen%1:05:01::
+will
+in
+the
+early early%3:00:00::
+fall fall%1:28:00::
+cease cease%2:42:00::
+to
+lay lay%2:35:02::
+the
+fertilized fertilized%5:00:00:fertile:00
+eggs egg%1:05:00::
+that
+will
+produce produce%2:36:02::
+females female%1:05:00::
+.
+As
+a
+result result%1:19:00::
+,
+the
+proportion proportion%1:24:00::
+of
+males male%1:05:00::
+(
+which
+leave leave%2:38:01::
+the
+nest nest%1:17:00::
+)
+increases increase%2:30:00::
+,
+and
+eventually eventually%4:02:00::
+the
+old old%3:00:01::
+colony colony%1:14:01::
+will
+die_out die_out%2:30:00::
+completely completely%4:02:03::
+.
+The
+nest nest%1:17:00::
+itself
+,
+the
+structure structure%1:06:00::
+that
+in
+some
+cases case%1:11:00::
+housed house%2:41:00::
+about
+2000
+individuals individual%1:18:00::
+when
+the
+season season%1:28:00::
+was be%2:42:05::
+at
+its
+peak peak%1:28:00::
+,
+is
+now now%4:02:05::
+rapidly rapidly%4:02:00::
+destroyed destroy%2:35:00::
+by
+the
+scavenging scavenging%5:00:00:thrifty:00
+larvae larva%1:05:00::
+of
+certain certain%5:00:00:definite:00
+beetles beetle%1:05:00::
+and
+moths moth%1:05:00::
+.
+Not not%4:02:00::
+always always%4:02:00::
+,
+though though%4:02:00::
+,
+does
+the
+development development%1:22:01::
+of
+a
+bumblebee bumblebee%1:05:00::
+colony colony%1:14:01::
+take_place take_place%2:30:00::
+in
+the
+smooth smooth%3:00:00::
+fashion fashion%1:04:00::
+we
+have
+just just%4:02:01::
+described describe%2:32:01::
+.
+Some some%5:00:00:unspecified:00
+members member%1:24:00::
+of
+the
+bee bee%1:05:00::
+family family%1:14:03::
+have
+become become%2:42:01::
+idlers idler%1:18:00::
+,
+social social%3:00:00::
+parasites parasite%1:05:00::
+that
+live live%2:42:01::
+at
+the
+expense expense%1:21:00::
+of
+their
+hardworking hardworking%5:00:00:diligent:00
+relatives relative%1:05:00::
+.
+Bumblebees bumblebee%1:05:00::
+can
+thus thus%4:02:01::
+suffer suffer%2:30:00::
+severely severely%4:02:01::
+from
+the
+onslaughts onslaught%1:11:00::
+of
+Psithyrus
+,
+the
+``
+cuckoo_bumblebee cuckoo-bumblebee%1:05:00::
+''
+as
+it
+is
+called called%5:00:01:titled:00
+in
+some
+European_countries european_country%1:15:00::
+.
+Female female%1:05:00::
+individuals individual%1:18:00::
+of
+Psithyrus psithyrus%1:05:00::
+look look%2:29:00::
+deceptively deceptively%4:02:00::
+like
+the
+workers worker%1:05:01::
+and
+queens queen%1:05:01::
+of
+the
+bumblebees bumblebee%1:05:00::
+they
+victimize victimize%2:41:01::
+.
+The
+one one%5:00:02:single(a):00
+sure sure%5:00:00:reliable:00
+way way%1:04:01::
+to
+tell tell_apart%2:39:00::
+victim victim%1:18:00::
+and
+villain villain%1:18:00::
+apart
+is be%2:42:06::
+to
+examine examine%2:39:00::
+the
+hind_legs hind_leg%1:05:00::
+which
+in
+the
+case case%1:26:00::
+of
+the
+idler idler%1:18:00::
+,
+Psithyrus psithyrus%1:05:00::
+,
+lack lack%2:42:00::
+the
+pollen pollen%1:20:00::
+baskets basket%1:23:00::
+-
+naturally naturally%4:02:00::
+!
+The
+female female%3:00:00::
+parasite parasite%1:05:00::
+spends spend%2:42:00::
+much much%3:00:00::
+time time%1:28:05::
+in
+her
+efforts effort%1:04:00::
+to
+find find%2:40:01::
+a
+nest nest%1:17:00::
+of
+her
+host host%1:05:00::
+.
+When
+she
+succeeds succeed%2:41:00::
+,
+she
+usually usually%4:02:00::
+manages manage%2:41:09::
+to
+slip_in slip_in%2:32:00::
+unobtrusively unobtrusively%4:02:00::
+,
+to
+deposit deposit%2:35:01::
+an
+egg egg%1:05:00::
+on
+a
+completed completed%5:00:00:complete:00
+loaf loaf%1:13:00::
+of
+beebread beebread%1:27:00::
+before
+the
+bumblebees bumblebee%1:05:00::
+seal seal%2:35:00::
+the
+egg egg%1:05:00::
+compartment compartment%1:06:01::
+.
+The
+hosts host%1:05:00::
+never never%4:02:00::
+seem seem%2:39:00::
+to
+recognize recognize%2:31:01::
+that
+something
+is be%2:42:03::
+amiss amiss%5:00:00:malfunctioning:00
+,
+so
+that
+the
+compartment compartment%1:06:01::
+afterward afterward%4:02:00::
+is
+sealed seal%2:35:00::
+normally normally%4:02:00::
+.
+Thus thus%4:02:00::
+,
+the
+larvae larva%1:05:00::
+of
+the
+intruder intruder%1:18:00::
+can
+develop develop%2:30:00::
+at
+the
+expense expense%1:21:00::
+of
+the
+rightful rightful%5:00:00:just:00
+inhabitants inhabitant%1:18:00::
+and
+the
+store store%1:21:00::
+of
+beebread beebread%1:27:00::
+.
+Later_on later_on%4:02:00::
+,
+they
+and
+the
+mother mother%1:18:00::
+Psithyrus psithyrus%1:05:00::
+are
+fed feed%2:34:04::
+by
+the
+Bombus bombus%1:05:00::
+workers worker%1:05:01::
+.
+Worse worse%4:02:00::
+still still%4:02:00::
+,
+in
+a
+number number%1:07:00::
+of
+cases case%1:26:00::
+it
+has
+been be%2:42:03::
+claimed claim%2:32:03::
+that
+the
+Psithyrus psithyrus%1:05:00::
+female female%1:05:00::
+kills_off kill_off%2:35:00::
+the
+Bombus bombus%1:05:00::
+queen queen%1:05:01::
+.
+But
+let let%2:41:00::
+us
+return return%2:30:00::
+,
+after
+this
+gruesome gruesome%5:00:00:alarming:00
+interlude interlude%1:28:00::
+,
+to
+our
+willow willow%1:20:00::
+catkins catkin%1:20:00::
+in
+the
+spring spring%1:28:00::
+;
+there
+are be%2:42:00::
+other other%3:00:00::
+wild wild%3:00:01::
+bees bee%1:05:00::
+that
+command command%2:32:02::
+our
+attention attention%1:09:00::
+.
+It
+is be%2:42:03::
+almost almost%4:02:00::
+certain certain%3:00:01::
+that
+some
+of
+these
+,
+usually usually%4:02:00::
+a_trifle a_trifle%4:02:00::
+smaller smaller%5:00:00:small:00
+than
+the
+honeybees honeybee%1:05:00::
+,
+are be%2:42:06::
+andrenas
+or
+mining_bees mining_bee%1:05:00::
+.
+There
+are be%2:42:00::
+about about%4:02:00::
+200
+different different%3:00:00::
+kinds kind%1:09:00::
+of
+Andrena andrena%1:05:00::
+in
+Europe europe%1:17:00::
+alone alone%4:02:00::
+.
+One
+of
+my
+favorites favorite%1:09:00::
+is be%2:42:06::
+A._armata
+,
+a
+species species%1:14:00::
+very very%4:02:01::
+common common%3:00:01::
+in
+England england%1:15:00::
+,
+where
+it
+is
+sometimes sometimes%4:02:01::
+referred refer%2:31:00::
+to
+as
+the
+lawn lawn%1:15:00::
+bee bee%1:05:00::
+.
+The
+females female%1:05:00::
+like like%2:37:05::
+to
+burrow burrow%2:38:00::
+in
+the
+short short%3:00:03::
+turf turf%1:17:00::
+of
+well-kept well-kept%5:00:00:preserved:01
+lawns lawn%1:15:00::
+,
+where
+their
+little little%3:00:01::
+mounds mound%1:14:00::
+of
+earth earth%1:27:00::
+often often%4:02:00::
+appear appear%2:30:00::
+by
+the
+hundreds hundred%1:23:00::
+.
+Almost almost%4:02:00::
+equal equal%3:00:00::
+in
+size size%1:07:00::
+to
+a
+honeybee honeybee%1:05:00::
+.
+A._armata
+is be%2:42:03::
+much much%4:02:00::
+more more%4:02:00::
+beautiful beautiful%3:00:00::
+in
+color color%1:07:00::
+,
+at_least at_least%4:02:01::
+in
+the
+female female%1:05:00::
+of
+the
+species species%1:14:00::
+:
+a
+rich rich%5:00:00:colorful:00
+,
+velvety velvety%5:00:00:smooth:00
+,
+rusty rusty%5:00:00:chromatic:00
+red red%5:00:01:chromatic:00
+.
+The
+males male%1:05:00::
+are be%2:42:03::
+much much%4:02:00::
+duller dull%5:00:00:unsaturated:03
+.
+After
+having
+mated mate%2:35:00::
+,
+an
+Andrena andrena%1:05:00::
+female female%1:05:00::
+digs dig%2:35:01::
+a
+hole hole%1:17:01::
+straight straight%4:02:04::
+down down%4:02:00::
+into
+the
+ground ground%1:17:00::
+,
+forming form%2:36:00::
+a
+burrow burrow%1:17:00::
+about
+the
+size size%1:07:00::
+of
+a
+lead_pencil lead_pencil%1:06:01::
+.
+The
+bottom bottom%1:15:00::
+part part%1:17:00::
+of
+a
+burrow burrow%1:17:00::
+has have%2:42:00::
+a
+number number%1:07:00::
+of
+side side%5:00:00:incidental:00
+tunnels tunnel%1:06:00::
+or
+``
+cells cell%1:06:03::
+''
+,
+each
+of
+which
+is
+provided provide%2:40:00::
+with
+an
+egg egg%1:05:00::
+plus
+a
+store store%1:21:00::
+of
+beebread beebread%1:27:00::
+.
+The
+development development%1:22:01::
+of
+the
+Andrena andrena%1:05:00::
+larvae larva%1:05:00::
+is be%2:42:03::
+very very%4:02:00::
+rapid rapid%5:00:00:fast:01
+,
+so
+that
+by
+the
+end end%1:28:00::
+of
+spring spring%1:28:00::
+they
+have
+already already%4:02:00::
+pupated pupate%2:29:00::
+and
+become become%2:42:01::
+adults adult%1:05:00::
+.
+But
+they
+are
+still still%4:02:01::
+enclosed enclose%2:42:00::
+in
+their
+larval larval%5:00:00:immature:01
+cells cell%1:06:03::
+and
+remain remain%2:42:03::
+there there%4:02:00::
+throughout
+the
+summer summer%1:28:00::
+,
+fall fall%1:28:00::
+,
+and
+winter winter%1:28:00::
+.
+Their
+appearance appearance%1:11:00::
+,
+next next%5:00:00:succeeding(a):00
+spring spring%1:28:00::
+,
+coincides coincide%2:42:00::
+in
+an
+almost almost%4:02:00::
+uncanny uncanny%5:00:00:supernatural:00
+way way%1:07:01::
+with
+the
+flowering flowering%1:22:00::
+of
+their
+host host%1:05:00::
+plants plant%1:03:00::
+.
+In
+the
+Sacramento sacramento%1:15:00::
+valley valley%1:17:00::
+in
+California california%1:15:00::
+,
+for_instance for_instance%4:02:00::
+,
+it
+has
+been be%2:42:03::
+observed observe%2:39:02::
+that
+there
+was be%2:42:04::
+not not%4:02:00::
+one one%5:00:00:cardinal:00
+day day%1:28:00::
+'s
+difference difference%1:07:00::
+between
+the
+emergence emergence%1:11:00::
+of
+the
+andrenas
+and
+the
+opening opening%1:04:02::
+of
+the
+willow willow%1:20:00::
+catkins catkin%1:20:00::
+.
+This
+must
+be_due be_due%2:42:00::
+to
+a
+completely completely%4:02:04::
+identical identical%5:00:00:same:02
+response response%1:04:01::
+to
+the
+weather weather%1:19:00::
+,
+in
+the
+plant plant%1:03:00::
+and
+the
+animal animal%1:03:00::
+.
+After
+the
+male male%3:00:00::
+and
+female female%3:00:00::
+andrenas
+have
+mated mate%2:35:00::
+,
+the
+cycle cycle%1:28:00::
+is
+repeated repeat%2:36:00::
+.
+Although
+Andrena andrena%1:05:00::
+is be%2:42:03::
+gregarious gregarious%3:00:00::
+,
+so so%4:02:06::
+that
+we
+may
+find find%2:39:01::
+hundreds hundred%1:23:00::
+and
+hundreds hundred%1:23:00::
+of
+burrows burrow%1:17:00::
+together together%4:02:03::
+,
+we
+must
+still still%4:02:01::
+call call%2:32:00::
+it
+a
+solitary solitary%5:00:00:ungregarious:00
+bee bee%1:05:00::
+.
+Its
+life_history life_history%1:10:00::
+is be%2:42:03::
+much much%4:02:00::
+simpler simple%3:00:02::
+than
+that
+of
+the
+truly truly%4:02:00::
+colonial colonial%3:01:00::
+bumblebees bumblebee%1:05:00::
+and
+can
+serve serve%2:42:03::
+as
+an
+example example%1:09:02::
+of
+the
+life_cycle life_cycle%1:19:00::
+of
+many many%3:00:00::
+other other%3:00:00::
+species species%1:14:00::
+.
+After_all after_all%4:02:00::
+,
+social social%3:00:00::
+life life%1:26:01::
+in
+the
+group group%1:03:00::
+of
+the
+bees bee%1:05:00::
+is be%2:42:03::
+by_no_means by_no_means%4:02:00::
+general general%3:00:00::
+,
+although
+it
+certainly certainly%4:02:00::
+is be%2:42:03::
+a
+striking striking%5:00:00:impressive:00
+feature feature%1:09:00::
+.
+On
+the
+basis basis%1:09:00::
+of
+its
+life_history life_history%1:10:00::
+,
+we
+like like%2:37:01::
+to
+think think%2:31:03::
+that
+Andrena andrena%1:05:00::
+is be%2:42:03::
+more more%4:02:00::
+primitive primitive%5:00:01:early:02
+than
+the
+bumblebees bumblebee%1:05:00::
+.
+The
+way way%1:07:01::
+in
+which
+it
+transports transport%2:35:00::
+its
+pollen pollen%1:20:00::
+is be%2:42:03::
+not not%4:02:00::
+so so%4:02:02::
+perfect perfect%3:00:00::
+,
+either either%4:02:00::
+.
+It
+lacks lack%2:42:00::
+pollen pollen%1:20:00::
+baskets basket%1:23:00::
+and
+possesses possess%2:42:00::
+only only%4:02:02::
+a
+large_number large_number%1:23:00::
+of
+long long%3:00:01::
+,
+branched branched%5:00:00:divided:00
+hairs hair%1:08:00::
+on
+its
+legs leg%1:08:02::
+,
+on
+which
+the
+pollen pollen%1:20:00::
+grains grain%1:17:00::
+will
+collect collect%2:40:00::
+.
+Still still%4:02:04::
+Andrena andrena%1:05:00::
+will
+do do%2:41:01::
+a
+reasonably reasonably%4:02:00::
+good good%3:00:01::
+job job%1:04:01::
+,
+so so%4:02:06::
+that
+an
+animal animal%1:03:00::
+with
+a
+full full%3:00:00::
+pollen pollen%1:20:00::
+load load%1:06:00::
+looks_like look_like%2:42:00::
+a
+gay gay%5:00:00:colorful:03
+little little%3:00:01::
+piece piece%1:17:00::
+of
+yellow yellow%1:07:00::
+down down%1:05:00::
+floating float%2:38:00::
+in
+the
+wind wind%1:19:00::
+.
+Closely closely%4:02:00::
+related related%3:00:01::
+to
+the
+andrenas andrena%1:05:00::
+are be%2:42:03::
+the
+nomias nomia%1:05:00::
+or
+alkali_bees alkali_bee%1:05:00::
+.
+Nomia_melanderi nomia_melanderi%1:05:00::
+can
+be
+found find%2:39:02::
+in
+tremendous tremendous%5:00:00:large:00
+numbers number%1:23:00::
+in
+certain certain%5:00:00:definite:00
+parts part%1:15:00::
+of
+the
+United_States united_states%1:15:00::
+west west%1:24:00::
+of
+the
+Great_Plains location%1:03:00::
+,
+for_example for_example%4:02:00::
+,
+in
+Utah utah%1:15:00::
+and
+central central%3:01:00::
+Washington washington%1:15:00::
+.
+In
+the
+United_States united_states%1:15:00::
+Department_of_Agriculture department_of_agriculture%1:14:00::
+'s
+Yearbook_of_Agriculture
+,
+1952
+,
+which
+is
+devoted devote%2:32:00::
+entirely entirely%4:02:00::
+to
+insects insect%1:05:00::
+,
+George_E._Bohart person%1:03:00::
+mentions mention%2:32:02::
+a
+site site%1:15:02::
+in
+Utah utah%1:15:00::
+which
+was
+estimated estimate%2:31:00::
+to
+contain contain%2:42:00::
+200000
+nesting nest%2:42:00::
+females female%1:05:00::
+.
+Often often%4:02:00::
+the
+burrows burrow%1:17:00::
+are be%2:42:05::
+only only%4:02:02::
+an
+inch inch%1:23:00::
+or
+two two%5:00:00:cardinal:00
+apart apart%4:02:03::
+,
+and
+the
+bee bee%1:05:00::
+cities city%1:15:00::
+cover cover%2:42:01::
+several several%5:00:00:some(a):00
+acres acres%1:21:00::
+.
+The
+life_history life_history%1:10:00::
+of
+the
+alkali_bee alkali_bee%1:05:00::
+is be%2:42:03::
+similar similar%3:00:00::
+to
+that
+of
+Andrena andrena%1:05:00::
+,
+but
+the
+first first%5:00:00:ordinal:00
+activity activity%1:26:00::
+of
+the
+adults adult%1:05:00::
+does
+not not%4:02:00::
+take_place take_place%2:30:00::
+until
+summer summer%1:28:00::
+,
+and
+the
+individuals individual%1:18:00::
+hibernate hibernate%2:29:00::
+in
+the
+prepupal prepupal%5:00:00:immature:01
+stage stage%1:26:00::
+.
+In
+most most%3:00:02::
+places place%1:15:01::
+,
+there
+are be%2:42:04::
+two two%5:00:00:cardinal:00
+generations generation%1:14:00::
+a
+year year%1:28:01::
+,
+a
+second second%5:00:00:ordinal:00
+brood brood%1:14:00::
+of
+adults adult%1:05:00::
+appearing appear%2:30:00::
+late late%3:00:00::
+in
+the
+summer summer%1:28:00::
+.
+I
+must
+plead plead%2:32:01::
+guilty guilty%3:00:00::
+to
+a
+special special%5:00:01:specific:00
+sympathy sympathy%1:09:00::
+for
+nomias nomia%1:05:00::
+.
+This
+may
+just just%4:02:00::
+be be%2:42:06::
+pride pride%1:12:00::
+in
+my
+adopted adopted%3:00:00::
+State_of_Washington location%1:03:00::
+,
+but
+certainly certainly%4:02:00::
+I
+love love%2:37:02::
+to
+visit visit%2:38:00::
+their
+mound mound%1:17:00::
+cities city%1:15:00::
+near
+Yakima location%1:03:00::
+and
+Prosser location%1:03:00::
+in
+July july%1:28:00::
+or
+August august%1:28:00::
+,
+when
+the
+bees bee%1:05:00::
+are be%2:42:03::
+in
+their
+most most%3:00:01::
+active active%3:00:01::
+period period%1:28:00::
+.
+The
+name name%1:10:00::
+``
+alkali_bee alkali_bee%1:05:00::
+''
+indicates indicate%2:32:00::
+that
+one
+has_to
+look_for look_for%2:35:00::
+them
+in
+rather rather%4:02:04::
+inhospitable inhospitable%3:00:00::
+places place%1:15:00::
+.
+Sometimes sometimes%4:02:01::
+,
+although
+by_no_means by_no_means%4:02:00::
+always always%4:02:00::
+,
+these
+are be%2:42:03::
+indeed indeed%4:02:03::
+alkaline alkaline%3:00:00::
+.
+The
+thing thing%1:26:00::
+is be%2:42:06::
+that
+these
+bees bee%1:05:00::
+love love%2:37:02::
+a
+fine-grained fine-grained%5:00:02:fine:00
+soil soil%1:27:01::
+that
+is be%2:42:03::
+moist moist%5:00:00:wet:01
+;
+yet
+the
+water water%1:27:00::
+in
+the
+ground ground%1:17:00::
+should
+not not%4:02:00::
+be be%2:42:03::
+stagnant stagnant%5:00:00:standing(a):02
+either either%4:02:00::
+.
+They
+dislike dislike%2:37:00::
+dense dense%5:00:00:thick:02
+vegetation vegetation%1:14:00::
+.
+Where
+does
+one
+find find%2:40:02::
+such such%5:00:01:specified:00
+conditions condition%1:26:00::
+?
+The
+best best%3:00:00::
+chance chance%1:26:00::
+,
+of_course of_course%4:02:00::
+,
+is
+offered offer%2:40:02::
+by
+gently gently%4:02:00::
+sloping sloping%5:00:00:inclined:01
+terrain terrain%1:15:00::
+where
+the
+water water%1:27:00::
+remains remain%2:30:00::
+close close%3:00:01::
+to
+the
+surface surface%1:17:00::
+and
+where
+the
+air air%1:27:00::
+is be%2:42:03::
+dry dry%3:00:01::
+,
+so so%4:02:06::
+that
+a
+high high%3:00:02::
+evaporation evaporation%1:22:00::
+leaves leave%2:30:03::
+salty salty%5:00:00:salt:00
+deposits deposit%1:17:00::
+which
+permit permit%2:41:00::
+only only%4:02:01::
+sparse sparse%5:00:00:distributed:00
+plant plant%1:03:00::
+growth growth%1:14:00::
+.

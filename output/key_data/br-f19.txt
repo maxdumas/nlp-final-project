@@ -1,0 +1,2219 @@
+The
+popularity popularity%1:07:00::
+of
+folklore folklore%1:09:00::
+in
+America america%1:15:00::
+stands stand%2:42:04::
+in
+direct direct%5:00:00:immediate:00
+proportion proportion%1:24:00::
+to
+the
+popularity popularity%1:07:00::
+of
+nationalism nationalism%1:07:00::
+in
+America america%1:15:00::
+.
+And
+the
+emphasis emphasis%1:26:00::
+on
+nationalism nationalism%1:07:00::
+in
+America america%1:15:00::
+is be%2:42:03::
+in_proportion_to in_proportion_to%5:00:00:commensurate:00
+the
+growth growth%1:22:02::
+of
+American american%3:01:01::
+influence influence%1:09:00::
+across
+the
+world world%1:17:00::
+.
+Thus thus%4:02:00::
+,
+if
+we
+are
+to
+observe observe%2:39:01::
+American american%3:01:01::
+folklore folklore%1:09:00::
+in
+the
+twentieth twentieth%5:00:00:ordinal:00
+century century%1:28:00::
+,
+we
+will
+do_well
+to
+establish establish%2:31:02::
+the
+relationships relationship%1:24:00::
+between
+folklore folklore%1:09:00::
+,
+nationalism nationalism%1:07:00::
+and
+imperialism imperialism%1:10:00::
+at
+the
+outset outset%1:28:00::
+.
+Historians historian%1:18:00::
+have
+come come%2:30:03::
+to
+recognize recognize%2:31:01::
+two two%5:00:00:cardinal:00
+cardinal cardinal%5:00:00:important:00
+facts fact%1:09:01::
+concerning concern%2:42:00::
+nationalism nationalism%1:07:00::
+and
+international international%5:00:00:foreign:02
+influence influence%1:09:00::
+.
+1
+)
+Every every%5:00:00:all(a):00
+age age%1:28:02::
+rewrites rewrite%2:32:00::
+the
+events event%1:03:00::
+of
+its
+history history%1:28:00::
+in_terms_of in_terms_of%5:00:00:related:02
+what
+should
+have
+been be%2:42:00::
+,
+creating create%2:36:00::
+legends legend%1:10:01::
+about
+itself
+that
+rationalize rationalize%2:32:00::
+contemporary contemporary%5:00:00:modern:00
+beliefs belief%1:09:00::
+and
+excuse excuse%2:32:01::
+contemporary contemporary%5:00:00:modern:00
+actions action%1:04:02::
+.
+What
+actually actually%4:02:01::
+occurred occur%2:30:00::
+in
+the
+past past%1:28:00::
+is be%2:42:03::
+seldom seldom%4:02:00::
+as
+important important%3:00:00::
+as
+what
+a
+given given%5:00:00:specified:00
+generation generation%1:14:01::
+feels feel%2:31:00::
+must
+have
+occurred occur%2:30:00::
+.
+2
+)
+As
+a
+country country%1:14:00::
+superimposes superimpose%2:35:00::
+its
+cultural cultural%5:00:00:social:00
+and
+political political%3:01:01::
+attitudes attitude%1:09:00::
+on
+others
+,
+it
+searches search%2:31:00::
+its
+heritage heritage%1:09:00::
+in
+hopes hope%1:12:01::
+of
+justifying justify%2:32:00::
+its
+aggressiveness aggressiveness%1:12:00::
+.
+Its
+folklore folklore%1:09:00::
+and
+legend legend%1:10:01::
+,
+usually usually%4:02:00::
+disguised disguised%5:00:00:covert:00
+as
+history history%1:09:01::
+,
+are
+allowed allow%2:41:00::
+to
+account_for account_for%2:42:00::
+group_actions group_action%1:04:00::
+,
+to
+provide provide%2:40:00::
+a
+focal_point focal_point%1:19:00::
+for
+group group%1:03:00::
+loyalty loyalty%1:07:00::
+,
+and
+to
+become become%2:42:01::
+a
+cohesive cohesive%5:00:00:adhesive:00
+force force%1:07:01::
+for
+national national%3:01:00::
+identification identification%1:12:00::
+.
+One
+can
+apply apply%2:34:00::
+these
+facts fact%1:09:01::
+to
+Britain britain%1:15:00::
+in
+the
+late late%3:00:00::
+eighteenth eighteenth%5:00:00:ordinal:00
+and
+nineteenth nineteenth%5:00:00:ordinal:00
+centuries century%1:28:00::
+as
+she
+spread spread%2:35:00::
+her
+dominion dominion%1:26:00::
+over
+palm
+and
+pine
+,
+and
+they
+can
+be
+applied apply%2:34:00::
+again again%4:02:00::
+to
+the
+United_States united_states%1:15:00::
+in
+more more%4:02:00::
+recent recent%5:00:00:new:00
+years year%1:28:01::
+.
+The
+popularity popularity%1:07:00::
+of
+local local%3:00:01::
+color color%1:07:03::
+literature literature%1:10:00::
+before
+the
+Spanish-American_War spanish-american_war%1:04:00::
+,
+the
+steady steady%5:00:00:invariable:00
+currency currency%1:07:02::
+of
+the
+Lincoln lincoln%1:18:00::
+myth myth%1:10:00::
+,
+the
+increased increased%3:00:00::
+emphasis emphasis%1:26:00::
+on
+the
+frontier frontier%5:00:00:rural:00
+west west%1:15:01::
+in
+our
+mass_media mass_media%1:10:00::
+are be%2:42:03::
+cases_in_point case_in_point%1:09:00::
+.
+Nor
+is
+it
+an
+accident accident%1:11:00::
+that
+baseball baseball%1:04:00::
+,
+growing grow%2:30:03::
+into
+the
+national national%3:01:00::
+game game%1:04:01::
+in
+the
+last last%5:00:00:past:00
+75
+years year%1:28:01::
+,
+has
+become become%2:42:01::
+a
+microcosm microcosm%1:09:00::
+of
+American american%3:01:01::
+life life%1:26:01::
+,
+that
+learned learned%5:00:00:scholarly:00
+societies society%1:14:01::
+such_as
+the
+American_Folklore_Society group%1:03:00::
+and
+the
+American_Historical_Association group%1:03:00::
+were
+founded found%2:41:00::
+in
+the
+1880's
+,
+or
+that
+courses course%1:04:01::
+in
+American american%3:01:01::
+literature literature%1:10:00::
+,
+American american%3:01:01::
+civilization civilization%1:14:00::
+,
+American american%3:01:01::
+anything
+have
+swept sweep%2:42:00::
+our
+school school%1:14:00::
+and
+college college%1:14:00::
+curricula curriculum%1:10:00::
+.
+Of_course of_course%4:02:00::
+,
+nationalism nationalism%1:09:00::
+has
+really really%4:02:04::
+outlived outlive%2:42:00::
+its
+usefulness usefulness%1:07:00::
+in
+a
+country country%1:14:00::
+as
+world world%1:14:00::
+oriented oriented%3:00:00::
+as
+ours
+,
+and
+its
+continued continued%3:00:00::
+existence existence%1:26:00::
+reflects reflect%2:39:01::
+one
+of
+the
+major major%3:00:02::
+culture culture%1:14:00::
+lags lag%1:04:00::
+of
+the
+twentieth twentieth%5:00:00:ordinal:00
+century century%1:28:00::
+United_States united_states%1:15:00::
+.
+Yet yet%4:02:02::
+nationalism nationalism%1:09:00::;1:07:00::
+has
+lost lose%2:40:02::
+few few%3:00:00::
+of
+its
+charms charm%1:07:00::
+for
+the
+historian historian%1:18:00::
+,
+writer writer%1:18:00::
+or
+man_in_the_street man_in_the_street%1:18:00::
+.
+It
+is
+an
+understandable understandable%5:00:00:meaningful:00
+paradox paradox%1:10:00::
+that
+most most%3:00:01::
+American american%3:01:01::
+history history%1:09:01::
+and
+most most%3:00:01::
+American american%3:01:01::
+literature literature%1:10:00::
+is be%2:42:03::
+today today%4:02:01::
+written write%2:36:00::
+from
+an
+essentially essentially%4:02:01::
+egocentric egocentric%5:00:00:egoistic:00
+and
+isolationistic isolationist%3:01:00::
+point_of_view point_of_view%1:09:00::
+at
+the
+very very%5:00:00:precise:00
+time time%1:28:00::
+America america%1:15:00::
+is
+spreading spread%2:35:00::
+her
+dominion dominion%1:26:00::
+over
+palm
+and
+pine
+.
+After_all after_all%4:02:00::
+,
+the
+average average%5:00:00:common:01
+American american%1:18:00::
+as
+he
+lies lie%2:35:00::
+and
+waits wait%2:42:00::
+for
+the
+enemy enemy%1:14:00::
+in
+Korea korea%1:15:00::
+or
+as
+she
+scans scan%2:31:01::
+the
+newspaper newspaper%1:10:00::
+in
+some
+vain vain%5:00:00:unproductive:00
+hope hope%1:12:01::
+of
+personal personal%3:00:00::
+contact contact%1:04:02::
+with
+the
+front front%1:15:01::
+is be%2:42:03::
+unconcerned unconcerned%5:00:00:untroubled:00
+that
+his
+or
+her
+plight plight%1:26:00::
+is be%2:42:03::
+the
+result result%1:19:00::
+of
+a
+complex complex%1:09:00::
+of
+personal personal%3:00:00::
+,
+economic economic%3:01:01::
+and
+governmental governmental%3:01:00::
+actions action%1:04:02::
+far far%4:02:02::
+beyond
+the
+normal normal%3:00:01::
+citizen citizen%1:18:00::
+'s
+comprehension comprehension%1:09:00::
+and
+control control%1:07:00::
+.
+Anyone
+'s
+identification identification%1:12:00::
+with
+an
+international international%3:00:00::
+struggle struggle%1:04:02::
+,
+whether
+warlike warlike%5:00:00:unpeaceful:00
+or
+peaceful peaceful%3:00:00::
+,
+requires require%2:42:00::
+absurd absurd%5:00:00:illogical:00
+oversimplification oversimplification%1:04:00::
+and
+intense intense%3:00:00::
+emotional emotional%3:00:02::
+involvement involvement%1:09:00::
+.
+Such such%5:00:01:specified:00
+identification identification%1:12:00::
+comes come%2:30:01::
+for
+each each%5:00:00:all(a):00
+group group%1:03:00::
+in
+each each%5:00:00:all(a):00
+crisis crisis%1:26:00::
+by
+rewriting rewrite%2:32:00::
+history history%1:28:00::
+into
+legend legend%1:10:01::
+and
+developing develop%2:36:00::
+appropriate appropriate%5:00:00:expedient:00
+national national%3:01:00::
+heroes hero%1:18:00::
+.
+In
+America america%1:15:00::
+,
+such such%5:00:01:specified:00
+self-deception self-deception%1:09:00::
+has
+served serve%2:42:03::
+a
+particularly particularly%4:02:00::
+useful useful%5:00:00:important:00
+purpose purpose%1:07:00::
+.
+A
+heterogeneous heterogeneous%3:00:00::
+people people%1:14:01::
+have
+needed need%2:34:00::
+it
+to
+attain attain%2:41:00::
+an
+element element%1:09:00::
+of
+cultural cultural%5:00:00:social:00
+and
+political political%3:01:01::
+cohesion cohesion%1:26:00::
+in
+a
+new new%3:00:00::
+and
+ever_changing ever-changing%5:00:00:dynamic:00
+land land%1:14:00::
+.
+But
+we
+must
+never never%4:02:00::
+forget forget%2:31:00::
+,
+most_of
+the
+appropriate appropriate%5:00:00:expedient:00
+heroes hero%1:18:00::
+and
+their
+legends legend%1:10:01::
+were
+created create%2:36:02::
+overnight overnight%4:02:00::
+,
+to
+answer answer%2:31:03::
+immediate immediate%5:00:00:present(a):01
+needs need%1:26:00::
+,
+almost almost%4:02:00::
+always always%4:02:00::
+with
+conscious conscious%5:00:00:intended:00
+aims aim%1:09:00::
+and
+ends end%1:09:02::
+.
+Parson_Weems person%1:03:00::
+'s
+George_Washington george_washington%1:18:00::
+became become%2:42:01::
+the
+symbol symbol%1:09:00::
+of
+honesty honesty%1:07:00::
+and
+the
+father father%1:18:03::
+image image%1:09:02::
+of
+the
+uniting unite%2:30:00::
+States state%1:15:01::
+.
+Abraham_Lincoln abraham_lincoln%1:18:00::
+emerged emerge%2:30:01::
+as
+an
+incarnation incarnation%1:18:00::
+of
+the
+national national%3:01:00::
+Constitution constitution%1:10:00::
+.
+Robert_E._Lee robert_e_lee%1:18:00::
+represented represent%2:32:02::
+the
+dignity dignity%1:07:00::
+needed
+by
+a
+rebelling rebelling%5:00:00:disloyal:00
+confederacy confederacy%1:14:00::
+.
+And
+their
+roles role%1:04:00::
+are
+paralleled parallel%2:42:00::
+by
+those
+of
+Patrick_Henry person%1:03:00::
+,
+Nathan_Hale person%1:03:00::
+,
+Andrew_Jackson person%1:03:00::
+,
+Davy_Crockett person%1:03:00::
+,
+Theodore_Roosevelt person%1:03:00::
+and
+many many%3:00:00::
+,
+many many%3:00:00::
+more more%1:23:00::
+.
+Therefore therefore%4:02:00::
+,
+the
+scholar scholar%1:18:00::
+,
+as
+he
+looks_at look_at%2:31:00::
+our
+national national%3:01:00::
+folklore folklore%1:09:00::
+of
+the
+last last%5:00:00:past:00
+60 60%5:00:00:cardinal:00
+years year%1:28:01::
+,
+will
+be be%2:42:03::
+mindful mindful%3:00:00::
+of
+two two%5:00:00:cardinal:00
+facts fact%1:09:01::
+.
+1
+)
+Most_of
+the
+legends legend%1:10:01::
+that
+are
+created create%2:36:02::
+to
+fan fan%2:30:00::
+the
+fires
+of
+patriotism patriotism%1:07:00::
+are be%2:42:03::
+essentially essentially%4:02:01::
+propagandistic propagandistic%3:01:00::
+and
+are be%2:42:03::
+not not%4:02:00::
+folk folk%1:14:00::
+legends legend%1:10:01::
+at_all at_all%4:02:00::
+.
+2
+)
+The
+concept concept%1:09:00::
+that
+an
+``
+American american%3:01:01::
+national national%3:01:00::
+folklore folklore%1:09:00::
+''
+exists exist%2:42:00::
+is be%2:42:03::
+itself
+probably probably%4:02:00::
+another
+propagandistic propagandistic%3:01:00::
+legend legend%1:10:01::
+.
+Folklore folklore%1:09:00::
+is be%2:42:03::
+individually individually%4:02:00::
+created create%2:36:02::
+art art%1:06:00::
+that
+a
+homogeneous homogeneous%3:00:00::
+group group%1:03:00::
+of
+people people%1:14:00::
+preserve preserve%2:42:00::
+,
+vary vary%2:30:01::
+and
+recreate recreate%2:29:02::
+through
+oral oral%5:00:00:spoken:00
+transmission transmission%1:10:00::
+.
+It
+has
+come come%2:30:03::
+to
+mean mean%2:32:03::
+myths myth%1:10:00::
+,
+legends legend%1:10:01::
+,
+tales tale%1:10:00::
+,
+songs song%1:10:00::
+,
+proverbs proverb%1:10:00::
+,
+riddles riddle%1:10:00::
+,
+superstitions superstition%1:09:00::
+,
+rhymes rhyme%1:10:01::
+and
+such such%5:00:01:specified:00
+literary literary%3:01:00::
+forms form%1:09:01::
+of
+expression expression%1:10:04::
+.
+Related relate%2:32:00::
+to
+written written%3:00:00::
+literature literature%1:10:00::
+,
+and
+often often%4:02:00::
+remaining remain%2:30:00::
+temporarily temporarily%4:02:00::
+frozen freeze%2:38:00::
+in
+written written%3:00:00::
+form form%1:09:01::
+,
+it
+loses lose%2:40:02::
+its
+vitality vitality%1:07:01::
+when
+transcribed transcribe%2:32:01::
+or
+removed remove%2:30:00::
+from
+its
+oral oral%5:00:00:spoken:00
+existence existence%1:26:00::
+.
+Though
+it
+may
+exist exist%2:42:00::
+in
+either
+literate literate%3:00:00::
+or
+illiterate illiterate%3:00:00::
+societies society%1:14:00::
+,
+it
+assumes assume%2:30:00::
+a
+role role%1:04:00::
+of
+true true%5:00:00:genuine:00
+cultural cultural%5:00:00:social:00
+importance importance%1:07:00::
+only only%4:02:01::
+in
+the
+latter latter%3:00:00::
+.
+In
+its
+propagandistic propagandistic%3:01:00::
+and
+commercial commercial%3:00:00::
+haste haste%1:07:00::
+to
+discover discover%2:39:03::
+our
+folk folk%1:14:00::
+heritage heritage%1:09:00::
+,
+the
+public public%1:14:00::
+has
+remained remain%2:30:00::
+ignorant ignorant%5:00:01:uneducated:00
+of
+definitions definition%1:10:00::
+such such%5:00:01:specified:00
+as
+this
+.
+Enthusiastically enthusiastically%4:02:00::
+,
+Americans american%1:18:00::
+have
+swept sweep_up%2:31:00::
+subliterary subliterary%5:00:00:informal:02
+and
+bogus bogus%5:00:00:counterfeit:00
+materials material%1:10:00::
+like
+Paul_Bunyan person%1:03:00::
+tales tale%1:10:00::
+,
+Abe_Lincoln abraham_lincoln%1:18:00::
+anecdotes anecdote%1:10:00::
+and
+labor_union labor_union%1:14:00::
+songs song%1:10:00::
+up
+as
+true true%3:00:00::
+products product%1:06:00::
+of
+our
+American american%3:01:01::
+oral oral%5:00:00:spoken:00
+tradition tradition%1:09:01::
+.
+Nor
+have
+we
+remembered remember%2:31:01::
+that
+in
+the
+melting_pot melting_pot%1:15:00::
+of
+America america%1:15:00::
+the
+hundreds hundred%1:23:00::
+of
+isolated isolated%5:00:00:separate:00
+and
+semi semi%5:00:00:similar:00
+isolated isolated%5:00:00:separate:00
+ethnic ethnic%3:01:00::
+,
+regional regional%5:00:00:territorial:00
+and
+occupational occupational%3:01:00::
+groups group%1:03:00::
+did
+not not%4:02:00::
+fuse fuse%2:30:00::
+into
+a
+homogeneous homogeneous%3:00:00::
+national national%3:01:00::
+unit unit%1:14:00::
+until
+long long%4:02:00::
+after
+education education%1:09:00::
+and
+industrialization industrialization%1:04:00::
+had
+caused cause%2:32:00::
+them
+to
+cast cast_aside%2:40:00::
+oral oral%5:00:00:spoken:00
+tradition tradition%1:09:01::
+aside
+as
+a
+means means%1:04:00::
+of
+carrying carry%2:32:02::
+culturally culturally%4:02:00::
+significant significant%3:00:00::
+material material%1:10:00::
+.
+Naturally naturally%4:02:00::
+,
+such such%5:00:01:specified:00
+scholarly scholarly%3:00:00::
+facts fact%1:10:01::
+are be%2:42:03::
+of
+little little%3:00:03::
+concern concern%1:12:01::
+to
+the
+man man%1:18:04::
+trying try%2:41:00::
+to
+make make%2:40:01::
+money money%1:21:00::
+or
+fan fan%2:30:00::
+patriotism patriotism%1:07:00::
+by
+means means%1:04:00::
+of
+folklore folklore%1:09:00::
+.
+That
+much much%1:23:00::
+of
+what
+he
+calls call%2:32:02::
+folklore folklore%1:09:00::
+is be%2:42:03::
+the
+result result%1:19:00::
+of
+beliefs belief%1:09:00::
+carefully carefully%4:02:00::
+sown sow%2:32:00::
+among
+the
+people people%1:14:01::
+with
+the
+conscious conscious%5:00:00:intended:00
+aim aim%1:09:00::
+of
+producing produce%2:36:02::
+a
+desired desired%5:00:00:wanted:00
+mass mass%5:00:00:general:00
+emotional emotional%3:00:02::
+reaction reaction%1:09:00::
+to
+a
+particular particular%5:00:00:individual:00
+situation situation%1:26:00::
+or
+set set%1:14:00::
+of
+situations situation%1:26:00::
+is be%2:42:03::
+irrelevant irrelevant%3:00:00::
+.
+As_long_as
+his
+material material%1:10:00::
+is be%2:42:03::
+Americana americana%1:06:00::
+,
+can
+in_some_way in_some_way%4:02:00::
+be
+ascribed ascribe%2:31:00::
+to
+the
+masses masses%1:14:00::
+and
+appears appear%2:39:00::
+``
+democratic democratic%3:01:00::
+''
+to
+his
+audience audience%1:14:01::
+,
+he
+remains remain%2:30:00::
+satisfied satisfied%5:00:00:contented:00
+.
+From
+all
+this
+we
+can
+now now%4:02:05::
+see see%2:31:01::
+that
+two two%5:00:00:cardinal:00
+streams stream%1:14:00::
+of
+development development%1:22:02::
+run run%2:38:01::
+through
+the
+history history%1:10:00::
+of
+twentieth twentieth%5:00:00:ordinal:00
+century century%1:28:00::
+American american%3:01:01::
+folklore folklore%1:09:00::
+.
+On
+the
+one one%5:00:00:cardinal:00
+side side%1:14:00::
+we
+have have%2:42:00::
+the
+university university%1:14:00::
+professors professor%1:18:00::
+and
+their
+students student%1:18:00::
+,
+trained train%2:31:00::
+in
+Teutonic teutonic%3:01:00::
+methods method%1:09:00::
+of
+research research%1:09:00::
+,
+who
+have
+sought_out seek_out%2:35:00::
+,
+collected collect%2:35:02::
+and
+studied study%2:31:02::
+the
+true true%5:00:02:faithful:00
+products product%1:06:00::
+of
+the
+oral oral%5:00:00:spoken:00
+traditions tradition%1:09:01::
+of
+the
+ethnic ethnic%3:01:00::
+,
+regional regional%5:00:00:territorial:00
+and
+occupational occupational%3:01:00::
+groups group%1:03:00::
+that
+make_up make_up%2:42:00::
+this
+nation nation%1:14:01::
+.
+On
+the
+other other%3:00:00::
+we
+have have%2:42:00::
+the
+flag_wavers flag-waver%1:18:00::
+and
+the
+national national%3:01:00::
+sentimentalists sentimentalist%1:18:00::
+who
+have
+been
+willing willing%3:00:00::
+to
+use use%2:34:01::
+any
+patriotic patriotic%3:00:00::
+,
+``
+frontier frontier%5:00:00:rural:00
+western western%1:10:00::
+''
+or
+colonial colonial%3:01:00::
+material material%1:10:00::
+willy-nilly willy-nilly%4:02:00::
+.
+Unfortunately unfortunately%4:02:00::
+,
+few few%3:00:00::
+of
+the
+artists artist%1:18:00::
+(
+writers writer%1:18:00::
+,
+movie movie%1:10:00::
+producers producer%1:18:02::
+,
+dramatists dramatist%1:18:00::
+and
+musicians musician%1:18:00::;1:18:01::
+)
+who
+have
+used use%2:34:01::
+American american%3:01:01::
+folklore folklore%1:09:00::
+since
+1900
+have
+known know%2:31:03::
+enough enough%1:23:00::
+to
+distinguish distinguish%2:31:00::
+between
+the
+two two%5:00:00:cardinal:00
+streams stream%1:14:00::
+even even%4:02:00::
+in
+the
+most most%4:02:00::
+general general%3:00:00::
+of
+ways way%1:07:01::
+.
+After_all after_all%4:02:00::
+,
+the
+field field%1:09:00::
+is be%2:42:03::
+large large%3:00:00::
+,
+difficult difficult%3:00:00::
+to
+define define%2:42:00::
+and
+seldom seldom%4:02:00::
+taught teach%2:32:00::
+properly properly%4:02:00::
+to
+American american%3:01:01::
+undergraduates undergraduate%1:18:00::
+.
+In_addition in_addition%4:02:00::
+,
+this
+country country%1:14:00::
+has
+been
+settled settle%2:30:03::
+by
+many many%3:00:00::
+peoples people%1:14:00::
+of
+many many%3:00:00::
+heritages heritage%1:09:00::
+and
+their
+lore lore%1:09:00::
+has
+become
+acculturated acculturate%2:30:00::
+slowly slowly%4:02:02::
+,
+in
+an
+age age%1:28:02::
+of
+print print%1:10:00::
+and
+easy easy%3:00:01::
+communication communication%1:10:01::
+,
+within
+an
+ever ever%4:02:00::
+expanding expanding%5:00:00:increasing:00
+and
+changing changing%5:00:00:dynamic:00
+society society%1:14:00::
+.
+The
+problems problem%1:26:00::
+confuse confuse%2:31:03::
+even even%4:02:00::
+the
+experts expert%1:18:00::
+.
+For_that_matter for_that_matter%4:02:00::
+,
+the
+experts expert%1:18:00::
+themselves
+are be%2:42:03::
+a
+mixed mixed%5:00:00:heterogeneous:00
+breed breed%1:14:01::
+.
+Anthropologists anthropologist%1:18:00::
+,
+housewives housewife%1:18:00::
+,
+historians historian%1:18:00::
+and
+such
+by
+profession profession%1:04:00::
+,
+they
+approach approach%2:41:00::
+their
+discipline discipline%1:09:00::
+as
+amateurs amateur%1:18:00::
+,
+collectors collector%1:18:01::
+,
+commercial commercial%3:00:00::
+propagandists propagandist%1:18:00::
+,
+analysts analyst%1:18:00::
+or
+some
+combination combination%1:14:00::
+of
+the
+four four%5:00:00:cardinal:00
+.
+They
+have have%2:42:00::
+widely widely%4:02:00::
+varying varying%5:00:00:varied:00
+backgrounds background%1:07:00::
+and
+aims aim%1:09:00::
+.
+They
+have have%2:42:00::
+little little%3:00:03::
+``
+esprit_de_corps esprit_de_corps%1:07:00::
+''
+.
+The
+outlook outlook%1:09:00::
+for
+the
+amateur amateur%1:18:00::
+,
+for_instance for_instance%4:02:00::
+,
+is be%2:42:03::
+usually usually%4:02:00::
+dependent_on dependent_on%5:00:00:conditional:00
+his
+fondness fondness%1:12:01::
+for
+local local%3:00:01::
+history history%1:10:00::
+or
+for
+the
+picturesque picturesque%5:00:00:beautiful:00
+.
+His
+love love%1:12:00::
+of
+folklore folklore%1:09:00::
+has have%2:42:00::
+romanticism romanticism%1:07:00::
+in
+it
+,
+and
+he
+does
+n't n't%4:02:00::
+care care%2:37:02::
+much much%4:02:04::
+about
+the
+dollar_sign dollar_sign%1:10:01::
+or
+the
+footnote footnote%1:10:00::
+.
+Folklore folklore%1:09:00::
+is be%2:42:06::
+his
+hobby hobby%1:04:00::
+,
+and
+he
+,
+all_too all_too%4:02:00::
+rightly rightly%4:02:00::
+,
+wishes wish%2:31:00::
+it
+to
+remain remain%2:30:00::
+as
+such
+.
+The
+amateur amateur%1:18:00::
+is be%2:42:03::
+closely closely%4:02:00::
+related related%5:00:00:similar:00
+to
+the
+collector collector%1:18:01::
+,
+who
+is be%2:42:03::
+actually actually%4:02:01::
+no no%4:02:02::
+more_than more_than%4:02:00::
+the
+amateur amateur%1:18:00::
+who
+has
+taken_to take_to%2:37:00::
+the
+field field%1:15:01::
+.
+The
+collector collector%1:18:01::
+enjoys enjoy%2:37:01::
+the
+contact contact%1:04:02::
+with
+rural rural%3:00:00::
+life life%1:26:01::
+;
+he
+hunts hunt%2:38:00::
+folklore folklore%1:09:00::
+for
+the
+very very%5:00:00:precise:00
+``
+field
+and
+stream
+''
+reasons reason%1:16:00::
+that
+many many%3:00:00::
+persons person%1:03:00::
+hunt hunt%2:33:00::
+game game%1:05:00::
+;
+and
+only only%4:02:01::
+rarely rarely%4:02:00::
+is be%2:42:03::
+he
+acutely acutely%4:02:01::
+concerned concerned%3:00:00::
+with
+the
+meaning meaning%1:10:00::
+of
+what
+he
+has
+located locate%2:40:00::
+.
+Fundamentally fundamentally%4:02:00::
+,
+both
+these
+types type%1:18:00::;1:09:00::
+,
+the
+amateur amateur%1:18:00::
+and
+the
+collector collector%1:18:01::
+,
+are be%2:42:03::
+uncritical uncritical%3:00:02::
+and
+many
+of
+them
+do
+n't n't%4:02:00::
+distinguish distinguish%2:39:00::
+well well%4:02:00::
+between
+real real%3:00:00::
+folklore folklore%1:09:00::
+and
+bogus bogus%5:00:00:counterfeit:00
+material material%1:10:00::
+.
+But
+there
+are
+also also%4:02:00::
+the
+commercial commercial%3:00:00::
+propagandists propagandist%1:18:00::
+and
+the
+analysts analyst%1:18:00::
+-
+one
+dominated_by dominated_by%5:00:00:controlled:00
+money money%1:21:00::
+,
+the
+other
+by
+nineteenth nineteenth%5:00:00:ordinal:00
+century century%1:28:00::
+German german%3:01:00::
+scholarship scholarship%1:09:00::
+.
+Both
+are be%2:42:03::
+primarily primarily%4:02:01::
+concerned concerned%3:00:00::
+with
+the
+uses use%1:07:00::
+that
+can
+be
+made make%2:41:00::
+of
+the
+material material%1:10:00::
+that
+the
+collector collector%1:18:01::
+has
+found find%2:40:01::
+.
+Both
+shudder shudder%2:29:00::
+at
+the
+thought thought%1:09:01::
+of
+proceeding proceed%2:38:00::
+too too%4:02:00::
+far far%4:02:04::
+beyond
+the
+sewage_system sewage_system%1:06:00::
+and
+the
+electric electric%3:01:00::
+light light%1:06:00::
+lines line%1:06:01::
+.
+The
+commercial commercial%3:00:00::
+propagandist propagandist%1:18:00::
+,
+who
+can
+n't n't%4:02:00::
+afford afford%2:34:00::
+to
+be be%2:42:03::
+critical critical%3:00:02::
+,
+gets_along get_along%2:41:00::
+well well%4:02:00::
+with
+the
+amateur amateur%1:18:00::
+,
+from
+whom
+he
+feeds feed%2:34:00::
+,
+but
+he
+frequently frequently%4:02:00::
+steps
+on
+the
+analyst analyst%1:18:00::
+'s
+toes
+by
+refusing refuse%2:32:00::
+to
+keep keep%2:42:00::
+his
+material material%1:10:00::
+genuine genuine%3:00:00::
+.
+His
+standards standard%1:09:00::
+are be%2:42:03::
+,
+of_course of_course%4:02:00::
+,
+completely completely%4:02:04::
+foreign foreign%5:00:00:extrinsic:00
+to
+those
+of
+the
+analyst analyst%1:18:00::
+.
+To
+both
+the
+amateur amateur%1:18:00::
+and
+the
+commercial commercial%3:00:00::
+progandist propagandist%1:18:00::
+the
+analyst analyst%1:18:00::
+lacks lack%2:42:00::
+a
+soul soul%1:12:00::
+,
+lacks lack%2:42:00::
+appreciation appreciation%1:09:01::
+with
+his
+endless endless%5:00:00:long:02
+probings probing%1:09:00::
+and
+classifications classification%1:04:00::
+.
+Dominated_by dominated_by%5:00:00:controlled:00
+the
+vicious_circle vicious_circle%1:22:00::
+of
+the
+university university%1:14:00::
+promotion_system promotion_system%1:09:00::
+,
+the
+analyst analyst%1:18:00::
+looks_down_on
+and
+gets_along get_along%2:41:00::
+poorly poorly%4:02:00::
+with
+the
+other other%3:00:00::
+three three%5:00:00:cardinal:00
+groups group%1:03:00::
+,
+although
+he
+cannot
+deny deny%2:32:01::
+his
+debt debt%1:26:00::
+to
+the
+collector collector%1:18:01::
+.
+The
+knowledge knowledge%1:03:00::
+that
+most most%3:00:02::
+Americans american%1:18:00::
+have have%2:40:00::
+of
+folklore folklore%1:09:00::
+comes come%2:42:04::
+through
+contact contact%1:04:02::
+with
+commercial commercial%3:00:00::
+propagandists propagandist%1:18:00::
+and
+a_few a_few%5:00:00:few:00
+energetic energetic%5:00:00:enterprising:00
+amateurs amateur%1:18:00::
+and
+collectors collector%1:18:01::
+.
+The
+work work%1:06:00::
+done do%2:41:01::
+by
+the
+analysts analyst%1:18:00::
+,
+the
+men man%1:18:04::
+who
+really really%4:02:03::
+know know%2:31:03::
+what
+folklore folklore%1:09:00::
+is be%2:42:03::
+all
+about
+,
+has have%2:42:00::
+no_more no_more%4:02:05::
+appeal appeal%1:07:00::
+than
+any
+other other%3:00:00::
+work work%1:06:00::
+of
+a
+truly truly%4:02:00::
+scientific scientific%3:00:00::
+sort sort%1:09:00::
+and
+reaches reach%2:32:00::
+a
+limited limited%3:00:00::
+,
+learned learned%5:00:00:scholarly:00
+audience audience%1:14:01::
+.
+Publishers publisher%1:14:00::
+want want%2:37:00::
+books book%1:10:00::
+that
+will
+sell sell%2:42:00::
+,
+recording_studios recording_studio%1:06:00::
+want want%2:37:00::
+discs disc%1:06:01::
+that
+will
+not not%4:02:00::
+seem seem%2:39:00::
+strange strange%3:00:00::
+to
+ears ear%1:09:00::
+used_to used_to%5:00:00:accustomed:00
+hillbilly hillbilly_music%1:10:00::
+and
+jazz jazz%1:04:00::
+music
+,
+grade grade_school%1:14:00::
+and
+high_schools high_school%1:14:00::
+want want%2:37:00::
+quaint quaint%5:00:00:strange:00
+,
+but
+moral moral%3:00:00::
+,
+material material%1:10:00::
+.
+The
+analyst analyst%1:18:00::
+is be%2:42:03::
+apt apt%5:00:00:inclined(p):02
+to
+be be%2:42:03::
+too too%4:02:00::
+honest honest%5:00:00:sincere:00
+to
+fit_in fit_in%2:42:00::
+.
+As
+a
+result result%1:11:00::
+,
+most most%3:00:02::
+people people%1:14:00::
+do
+n't n't%4:02:00::
+have have%2:39:06::
+more more%1:23:00::
+than
+a
+vague vague%5:00:00:unclear:00
+idea idea%1:09:00::
+what
+folklore folklore%1:09:00::
+actually actually%4:02:01::
+is be%2:42:03::
+;
+they
+see see%2:31:00::
+it
+as
+a
+potpourri potpourri%1:14:00::
+of
+charming charming%5:00:00:pleasing:00
+,
+moral moral%3:00:00::
+legends legend%1:10:01::
+and
+patriotic patriotic%3:00:00::
+anecdotes anecdote%1:10:00::
+,
+with
+a
+superstition superstition%1:09:00::
+or
+remedy remedy%1:06:00::
+thrown_in throw_in%2:40:00::
+here_and_there here_and_there%4:02:00::
+.
+And
+so so%4:02:02::
+well well%4:02:05::
+is
+such such%5:00:01:specified:00
+ignorance ignorance%1:09:00::
+preserved preserve%2:42:00::
+by
+the
+amateur amateur%1:18:00::
+and
+the
+money-maker moneymaker%1:18:00::
+that
+even even%4:02:00::
+at
+the
+college_level college_level%1:26:00::
+most_of
+the
+hundred hundred%5:00:00:cardinal:00
+odd odd%5:00:00:inexact:00
+folklore folklore%1:09:00::
+courses course%1:04:01::
+given give%2:36:02::
+in
+the
+United_States united_states%1:15:00::
+survive survive%2:42:00::
+on
+sentiment sentiment%1:12:00::
+and
+nationalism nationalism%1:07:00::
+alone alone%4:02:00::
+.
+If
+one
+wishes wish%2:37:02::
+to
+discuss discuss%2:32:01::
+a
+literary literary%3:01:00::
+figure figure%1:18:00::
+who
+uses use%2:34:01::
+folklore folklore%1:09:00::
+in
+his
+work work%1:06:00::
+,
+the
+first first%3:00:00::
+thing thing%1:09:00::
+he
+must
+realize realize%2:31:00::
+is be%2:42:06::
+that
+the
+literary literary%3:01:00::
+figure figure%1:18:00::
+is be%2:42:03::
+probably probably%4:02:00::
+part part%1:24:00::
+of
+this
+ignorant ignorant%5:00:02:uneducated:00
+American american%3:01:01::
+public public%1:14:00::
+.
+And
+while
+every every%5:00:00:all(a):00
+writer writer%1:18:00::
+must
+be
+dealt deal%2:32:08::
+with
+as
+a
+special special%5:00:01:specific:00
+case case%1:10:02::
+,
+the
+interested interested%3:00:00::
+student student%1:18:00::
+will
+want want%2:37:00::
+to
+ask ask%2:32:00::
+himself
+a
+number number%1:07:00::
+of
+questions question%1:10:00::
+about
+each
+.
+Does
+the
+writer writer%1:18:00::
+know know%2:31:01::
+the
+difference difference%1:07:00::
+between
+an
+``
+ersatz ersatz%5:00:00:artificial:00
+''
+ballad ballad%1:10:00::
+or
+tall_tale tall_tale%1:10:00::
+and
+a
+true true%3:00:00::
+product product%1:06:00::
+of
+the
+folk folk%1:14:00::
+?
+When
+the
+writer writer%1:18:00::
+uses use%2:34:01::
+material material%1:10:00::
+does
+he
+tamper tamper%2:35:12::
+with
+it
+to
+improve improve%2:30:01::
+its
+commercial commercial%3:00:00::
+effect effect%1:09:00::
+or
+does
+he
+leave leave%2:30:02::
+it
+pure pure%3:00:02::
+?
+Is be%2:42:03::
+the
+writer writer%1:18:00::
+propagandistic propagandistic%3:01:00::
+?
+Is
+he
+swept_away sweep_away%2:37:00::
+by
+sentiment sentiment%1:12:00::
+and
+nostalgia nostalgia%1:12:00::
+for
+an
+America america%1:15:00::
+that
+was be%2:42:00::
+?
+Or
+does
+he
+sincerely sincerely%4:02:00::
+want want%2:37:00::
+to
+tap tap%2:40:00::
+the
+real real%3:00:00::
+springs spring%1:15:00::
+of
+American american%3:01:01::
+attitude attitude%1:09:00::
+and
+culture culture%1:09:01::
+regardless regardless%4:02:00::
+of
+how
+unpopular unpopular%3:00:00::
+and
+embarrassing embarrassing%5:00:00:difficult:00
+they
+may
+be be%2:42:03::
+?
+When
+he
+gets get%2:30:03::
+the
+answers answer%1:10:01::
+to
+his
+questions question%1:10:00::
+he
+will
+be be%2:42:03::
+discouraged discouraged%5:00:00:pessimistic:00
+.
+In_the_first_place in_the_first_place%4:02:00::
+,
+a
+good good%5:00:00:ample:00
+many many%3:00:00::
+writers writer%1:18:00::
+who
+are
+said say%2:32:01::
+to
+use use%2:34:01::
+folklore folklore%1:09:00::
+,
+do
+not not%4:02:00::
+,
+unless
+one
+counts count%2:32:03::
+an
+occasional occasional%5:00:00:infrequent:00
+superstition superstition%1:09:00::
+or
+tale tale%1:10:00::
+.
+Robert_Frost person%1:03:00::
+,
+for_instance for_instance%4:02:00::
+,
+writes write%2:36:00::
+about
+rural rural%3:00:00::
+life life%1:26:01::
+in
+New_England new_england%1:15:00::
+,
+but
+he
+does
+not not%4:02:00::
+include include%2:30:00::
+any
+significant significant%5:00:00:considerable:00
+amount amount%1:07:00::
+of
+folklore folklore%1:09:00::
+in
+his
+poems poem%1:10:00::
+.
+This
+has
+not not%4:02:00::
+,
+however however%4:02:00::
+,
+prevented prevent%2:41:00::
+publishers publisher%1:14:00::
+from
+labeling label%2:32:01::
+him
+a
+``
+folk_poet folk_poet%1:18:00::
+''
+,
+simply simply%4:02:00::
+because
+he
+is be%2:42:03::
+a
+rural rural%3:00:00::
+one
+.
+In
+the
+second second%5:00:00:ordinal:00
+place place%1:09:00::
+,
+a
+large_number large_number%1:23:00::
+of
+writers writer%1:18:00::
+,
+making make%2:41:00::
+a
+more more%4:02:00::
+direct direct%3:00:00::
+claim claim%1:07:02::
+than
+Frost person%1:03:00::
+to
+being be%2:42:03::
+``
+folk_writers folk_writer%1:18:00::
+''
+of
+one one%5:00:00:cardinal:00
+sort sort%1:09:00::
+or
+another
+,
+clearly clearly%4:02:00::
+make make%2:31:00::
+no
+distinctions distinction%1:09:00::
+between
+genuine genuine%3:00:00::
+and
+bogus bogus%5:00:00:counterfeit:00
+material material%1:10:00::
+.
+Stephen_Vincent_Benet person%1:03:00::
+'s
+John_Brown's_Body
+comes come%2:30:01::
+immediately immediately%4:02:00::
+to
+mind mind%1:09:01::
+in
+this
+connection connection%1:24:00::
+,
+as
+does
+John_Steinbeck person%1:03:00::
+'s
+The_Grapes_of_Wrath
+and
+Carl_Sandburg person%1:03:00::
+'s
+The_People,_Yes
+.
+The
+last last%3:00:00::
+two two%5:00:00:cardinal:00
+writers writer%1:18:00::
+introduce introduce%2:35:00::
+strong strong%5:00:00:intense:00
+political political%3:01:01::
+bias bias%1:09:00::
+into
+their
+works work%1:06:00::
+,
+and
+not not%4:02:00::
+unlike
+the
+union union%1:14:01::
+leaders leaders%1:14:00::
+that
+we
+will
+discuss discuss%2:32:01::
+soon soon%4:02:00::
+,
+see see%2:31:00::
+folklore folklore%1:09:00::
+as
+a
+reservoir reservoir%1:23:00::
+of
+protest protest%1:10:00::
+by
+a
+downtrodden downtrodden%5:00:00:wronged:00
+and
+publically publicly%4:02:00::
+silenced silenced%3:00:00::
+mass mass%1:14:01::
+.
+Folklore folklore%1:09:00::
+,
+as
+used use%2:34:01::
+by
+such such%5:00:01:specified:00
+writers writer%1:18:00::
+,
+really really%4:02:04::
+reflects reflect%2:39:01::
+images image%1:09:00::
+engraved engrave%2:35:00::
+into
+it
+by
+the
+very very%5:00:00:same:02
+person person%1:03:00::
+using use%2:34:01::
+it
+.
+The
+folk folk%1:14:00::
+are be%2:42:03::
+simply simply%4:02:02::
+not not%4:02:00::
+homogeneous homogeneous%3:00:00::
+with_respect_to with_respect_to%5:00:00:related:02
+nation nation%1:14:01::
+or
+political political%3:01:01::
+attitude attitude%1:09:00::
+.
+In_fact in_fact%4:02:00::
+,
+there
+is
+much much%3:00:00::
+evidence evidence%1:09:00::
+to
+indicate indicate%2:32:02::
+they
+do
+n't n't%4:02:00::
+care care%2:37:02::
+a_bit a_bit%4:02:00::
+about
+anything
+beyond
+their
+particular particular%5:00:00:specific:00
+regional regional%5:00:00:territorial:00
+,
+ethnic ethnic%3:01:00::
+and
+occupational occupational%3:01:00::
+limits limit%1:07:00::
+.
+Nevertheless nevertheless%4:02:00::
+,
+with
+a
+reading reading%1:09:00::
+public public%1:14:01::
+that
+longs long%2:37:01::
+for
+``
+the_good_old_days the_good_old_days%1:28:00::
+''
+and
+with
+an
+awareness awareness%1:09:00::
+of
+our
+expanding expanding%5:00:00:increasing:00
+international international%3:00:00::
+interests interest%1:04:01::
+,
+it
+is
+easy easy%3:00:01::
+for
+the
+Benets person%1:03:00::
+to
+obtain obtain%2:40:00::
+a
+magnified magnified%5:00:00:increased:00
+position position%1:26:00::
+in
+literature literature%1:04:00::
+by
+use use%1:04:00::
+of
+all
+sorts sort%1:09:00::
+of
+Americana americana%1:06:00::
+,
+real real%3:00:00::
+or
+fake fake%5:00:00:counterfeit:00
+,
+and
+it
+is
+easy easy%3:00:01::
+for
+the
+Steinbecks person%1:03:00::
+and
+Sandburgs person%1:03:00::
+to
+support support%2:42:00::
+their
+messages message%1:10:00::
+of
+reform reform%1:04:00::
+by
+reading read%2:31:09::
+messages message%1:10:00::
+of
+reform reform%1:04:00::
+into
+the
+minds mind%1:09:00::
+of
+the
+folk folk%1:14:00::
+.

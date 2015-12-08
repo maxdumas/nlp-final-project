@@ -1,0 +1,2209 @@
+If
+you
+elect elect%2:31:00::
+to
+use use%2:34:01::
+the
+Standard standard%3:00:02::
+Deduction deduction%1:21:01::
+or
+the
+Tax tax%1:21:00::
+Table table%1:14:00::
+,
+and
+later later%4:02:02::
+find find%2:31:09::
+you
+should
+have
+itemized itemize%2:32:00::
+your
+deductions deduction%1:21:01::
+,
+you
+may
+do
+so so%4:02:05::
+by
+filing file%2:32:02::
+an
+amended_return amended_return%1:10:00::
+within
+the
+time time%1:28:05::
+prescribed prescribed%5:00:00:settled:02
+for
+filing file%2:32:02::
+a
+claim claim%1:04:00::
+for
+refund refund%1:21:00::
+.
+See see%4:02:00::
+You_May_Claim_a_Refund
+,
+Page page%1:10:00::
+135
+.
+The
+same same%3:00:02::
+is be%2:42:03::
+true true%3:00:00::
+if
+you
+have
+itemized itemize%2:32:00::
+your
+deductions deduction%1:21:01::
+and
+later later%4:02:02::
+decide decide%2:31:00::
+you
+should
+have
+used use%2:34:01::
+the
+Standard standard%3:00:02::
+Deduction deduction%1:21:01::
+or
+Tax tax%1:21:00::
+Table table%1:14:00::
+.
+The
+words word%1:10:00::
+amended_return amended_return%1:10:00::
+should
+be
+plainly plainly%4:02:00::
+written write%2:32:00::
+across
+the
+top top%1:15:01::
+of
+such such%5:00:01:specified:00
+return return%1:10:01::
+.
+April april%1:28:00::
+15
+is be%2:42:06::
+usually usually%4:02:00::
+the
+final final%5:00:00:closing:00
+date date%1:28:00::
+for
+filing file%2:32:02::
+income_tax_returns income_tax_return%1:10:00::
+for
+most most%3:00:02::
+people people%1:14:00::
+because
+they
+use use%2:34:01::
+the
+calendar_year calendar_year%1:28:00::
+ending end%2:42:00::
+on
+December december%1:28:00::
+31
+.
+If
+you
+use use%2:34:01::
+a
+fiscal_year fiscal_year%1:28:00::
+,
+a
+year year%1:28:02::
+ending end%2:42:00::
+on
+the
+last last%3:00:00::
+day day%1:28:00::
+of
+any
+month month%1:28:01::
+other_than other_than%5:00:00:other:00
+December december%1:28:00::
+,
+your
+return return%1:10:01::
+is_due be_due%2:42:00::
+on
+or
+before
+the
+15_th 15th%5:00:00:ordinal:00
+day day%1:28:00::
+of
+the
+4_th 4th%5:00:00:ordinal:00
+month month%1:28:01::
+after
+the
+close close%1:28:00::
+of
+your
+tax tax%1:21:00::
+year year%1:28:02::
+.
+If
+the
+last last%3:00:00::
+day day%1:28:00::
+(
+due_date due_date%1:28:00::
+)
+for
+performing perform%2:41:02::
+any
+act act%1:03:00::
+for
+tax tax%1:21:00::
+purposes purpose%1:09:00::
+,
+such_as such_as%5:00:00:specified:00
+filing filing%1:10:00::
+a
+return return%1:10:01::
+or
+making make%2:41:00::
+a
+tax tax%1:21:00::
+payment payment%1:21:00::
+,
+etc.
+,
+falls fall%2:30:00::
+on
+Saturday saturday%1:28:00::
+,
+Sunday sunday%1:28:00::
+,
+or
+a
+legal_holiday legal_holiday%1:28:00::
+,
+you
+may
+perform perform%2:41:02::
+that
+act act%1:03:00::
+on
+the
+next next%5:00:00:succeeding(a):00
+succeeding succeeding%3:00:00::
+day day%1:28:00::
+which
+is be%2:42:06::
+not not%4:02:00::
+a
+Saturday saturday%1:28:00::
+,
+Sunday sunday%1:28:00::
+,
+or
+legal_holiday legal_holiday%1:28:00::
+.
+Since
+April april%1:28:00::
+15
+,
+1962
+,
+is be%2:42:04::
+on
+Sunday sunday%1:28:00::
+your
+return return%1:10:01::
+for
+the
+calendar_year calendar_year%1:28:00::
+1961
+will
+be be%2:42:03::
+timely timely%4:02:00::
+filed file%2:32:02::
+if
+it
+is
+filed file%2:32:02::
+on
+or
+before
+Monday monday%1:28:00::
+,
+April april%1:28:00::
+16
+,
+1962
+.
+If
+you
+mail mail%2:35:00::
+a
+return return%1:10:01::
+or
+tax tax%1:21:00::
+payment payment%1:21:00::
+,
+you
+must
+place place%2:35:00::
+it
+in
+the
+mails mail%1:10:00::
+in
+ample ample%3:00:00::
+time time%1:28:05::
+to
+reach reach%2:38:01::
+the
+district district%1:15:00::
+director director%1:18:00::
+on
+or
+before
+the
+due_date due_date%1:28:00::
+.
+If
+you
+were
+required require%2:32:00::
+to
+file file%2:32:02::
+a
+declaration_of_estimated_tax declaration_of_estimated_tax%1:10:00::
+for
+the
+calendar_year calendar_year%1:28:00::
+1961
+,
+it
+is be%2:42:03::
+not not%4:02:00::
+necessary necessary%3:00:00::
+to
+pay pay%2:40:00::
+the
+fourth fourth%5:00:00:ordinal:00
+installment installment%1:21:00::
+otherwise
+due due%3:00:00::
+on
+January january%1:28:00::
+15
+,
+1962
+,
+if
+you
+file file%2:32:02::
+your
+income_tax_return income_tax_return%1:10:00::
+Form_1040
+,
+and
+pay pay%2:40:00::
+your
+tax tax%1:21:00::
+in_full in_full%4:02:00::
+for
+the
+calendar_year calendar_year%1:28:00::
+1961
+by
+January january%1:28:00::
+31
+,
+1962
+.
+The
+filing filing%1:10:00::
+of
+an
+original original%5:00:01:first:00
+or
+amended amended%3:00:00::
+declaration declaration%1:10:02::
+,
+otherwise
+due due%3:00:00::
+on
+January january%1:28:00::
+15
+,
+1962
+,
+is
+also also%4:02:00::
+waived waive%2:41:00::
+,
+if
+you
+file file%2:32:02::
+your
+Form_1040
+for
+1961
+and
+pay pay%2:40:00::
+the
+full full%5:00:01:whole:00
+tax tax%1:21:00::
+by
+January january%1:28:00::
+31
+,
+1962
+.
+Farmers farmer%1:18:00::
+,
+for
+these
+purposes purpose%1:09:00::
+,
+have have%2:40:01::
+until
+February february%1:28:00::
+15
+,
+1962
+,
+to
+file file%2:32:02::
+Form_1040
+and
+pay pay%2:40:00::
+the
+tax tax%1:21:00::
+in_full in_full%4:02:00::
+for
+the
+calendar_year calendar_year%1:28:00::
+1961
+.
+Fiscal_year fiscal_year%1:28:00::
+taxpayers taxpayer%1:18:00::
+have have%2:40:01::
+until
+the
+last last%3:00:00::
+day day%1:28:00::
+of
+the
+first first%3:00:00::
+month month%1:28:01::
+following follow%2:42:00::
+the
+close close%1:28:00::
+of
+the
+fiscal_year fiscal_year%1:28:00::
+(
+farmers farmer%1:18:00::
+until
+the
+15_th 15th%5:00:00:ordinal:00
+day day%1:28:00::
+of
+the
+2_d 2d%5:00:00:ordinal:00
+month month%1:28:01::
+)
+.
+See see%4:02:00::
+Chapter chapter%1:10:00::
+38
+.
+Nonresident nonresident%3:00:00::
+aliens alien%1:18:00::
+living live%2:42:08::
+in
+Canada canada%1:15:00::
+or
+Mexico mexico%1:15:00::
+who
+earn earn%2:40:01::
+wages wage%1:21:00::
+in
+the
+United_States united_states%1:15:00::
+may
+be be%2:42:03::
+subject subject%5:00:01:taxable:00
+to
+withholding withholding%1:04:00::
+of
+tax tax%1:21:00::
+on
+their
+wages wage%1:21:00::
+,
+the
+same same%4:02:00::
+as
+if
+they
+were be%2:42:06::
+citizens citizen%1:18:00::
+of
+the
+United_States united_states%1:15:00::
+.
+Their
+United_States united_states%1:15:00::
+tax_returns tax_return%1:10:00::
+are_due be_due%2:42:00::
+April april%1:28:00::
+16
+,
+1962
+.
+However however%4:02:00::
+,
+if
+their
+United_States united_states%1:15:00::
+income income%1:21:00::
+is be%2:42:03::
+not not%4:02:00::
+subject subject%5:00:01:taxable:00
+to
+the
+withholding withholding%1:04:00::
+of
+tax tax%1:21:00::
+on
+wages wage%1:21:00::
+,
+their
+returns return%1:10:01::
+are_due be_due%2:42:00::
+June june%1:28:00::
+15
+,
+1962
+,
+if
+they
+use use%2:34:01::
+a
+calendar_year calendar_year%1:28:00::
+,
+or
+the
+15_th 15th%5:00:00:ordinal:00
+day day%1:28:00::
+of
+the
+6_th 6th%5:00:00:ordinal:00
+month month%1:28:01::
+after
+the
+close close%1:28:00::
+of
+their
+fiscal_year fiscal_year%1:28:00::
+.
+If
+you
+are be%2:42:03::
+a
+nonresident nonresident%3:00:00::
+alien alien%1:18:00::
+and
+a
+resident resident%1:18:00::
+of
+Puerto_Rico puerto_rico%1:15:00::
+,
+your
+return return%1:10:01::
+is be_due%2:42:00::
+also also%4:02:00::
+due
+June june%1:28:00::
+15
+,
+1962
+,
+or
+the
+15_th 15th%5:00:00:ordinal:00
+day day%1:28:00::
+of
+the
+6_th 6th%5:00:00:ordinal:00
+month month%1:28:01::
+after
+the
+close close%1:28:00::
+of
+your
+fiscal_year fiscal_year%1:28:00::
+.
+If
+a
+taxpayer taxpayer%1:18:00::
+dies die%2:30:00::
+,
+the
+executor executor%1:18:00::
+,
+administrator administrator%1:18:01::
+,
+or
+legal legal%3:01:01::
+representative representative%1:18:00::
+must
+file file%2:32:02::
+the
+final final%5:00:00:closing:00
+return return%1:10:01::
+for
+the
+decedent decedent%1:18:00::
+on
+or
+before
+the
+15_th 15th%5:00:00:ordinal:00
+day day%1:28:00::
+of
+the
+4_th 4th%5:00:00:ordinal:00
+month month%1:28:01::
+following follow%2:42:00::
+the
+close close%1:28:00::
+of
+the
+deceased deceased%5:00:00:dead:01
+taxpayer taxpayer%1:18:00::
+'s
+normal normal%3:00:01::
+tax tax%1:21:00::
+year year%1:28:02::
+.
+Suppose suppose%2:32:00::
+John_Jones person%1:03:00::
+,
+who
+,
+for
+1960
+,
+filed file%2:32:02::
+on
+the
+basis basis%1:24:00::
+of
+a
+calendar_year calendar_year%1:28:00::
+,
+died die%2:30:00::
+June june%1:28:00::
+20
+,
+1961
+.
+His
+return return%1:10:01::
+for
+the
+period period%1:28:00::
+January january%1:28:00::
+1
+to
+June june%1:28:00::
+20
+,
+1961
+,
+is_due be_due%2:42:00::
+April april%1:28:00::
+16
+,
+1962
+.
+The
+return return%1:10:01::
+for
+a
+decedent decedent%1:18:00::
+may
+also also%4:02:00::
+serve serve%2:42:03::
+as
+a
+claim claim%1:04:00::
+for
+refund refund%1:04:00::
+of
+an
+overpayment overpayment%1:21:00::
+of
+tax tax%1:21:00::
+.
+In
+such such%5:00:01:specified:00
+a
+case case%1:26:00::
+,
+Form_1310
+should
+be
+completed complete%2:32:00::
+and
+attached attach%2:35:01::
+to
+the
+return return%1:10:01::
+.
+This
+form form%1:10:01::
+may
+be
+obtained obtain%2:40:00::
+from
+the
+local local%3:00:03::
+office office%1:14:01::
+of
+your
+district district%1:15:00::
+director director%1:18:00::
+.
+Returns return%1:10:01::
+of
+estates estate%1:21:02::
+or
+trusts trust%1:21:03::
+are_due be_due%2:42:00::
+on
+or
+before
+the
+15_th 15th%5:00:00:ordinal:00
+day day%1:28:00::
+of
+the
+4_th 4th%5:00:00:ordinal:00
+month month%1:28:01::
+after
+the
+close close%1:28:00::
+of
+the
+tax tax%1:21:00::
+year year%1:28:02::
+.
+Under
+unusual unusual%3:00:00::
+circumstances circumstance%1:26:01::
+a
+resident resident%3:00:00::
+individual individual%1:03:00::
+may
+be
+granted grant%2:40:01::
+an
+extension extension%1:28:00::
+of
+time time%1:28:05::
+to
+file file%2:32:02::
+a
+return return%1:10:01::
+.
+You
+may
+apply apply%2:32:00::
+for
+such such%5:00:01:specified:00
+an
+extension extension%1:28:00::
+by
+filing file%2:32:02::
+Form_2688
+,
+Application_For_Extension_Of_Time_To_File
+,
+with
+the
+District_Director_of_Internal_Revenue person%1:03:00::
+for
+your
+district district%1:15:00::
+,
+or
+you
+may
+make
+your
+application application%1:10:00::
+in
+a
+letter letter%1:10:00::
+.
+Your
+application application%1:10:00::
+must
+include include%2:42:00::
+the
+following following%5:00:01:succeeding(a):00
+information information%1:10:00::
+:
+(
+1
+)
+your
+reasons reason%1:16:00::
+for
+requesting request%2:32:01::
+an
+extension extension%1:28:00::
+,
+(
+2
+)
+whether
+you
+filed file%2:32:02::
+timely timely%5:00:01:punctual:00
+income_tax_returns income_tax_return%1:10:00::
+for
+the
+3 3%5:00:00:cardinal:00
+preceding preceding%3:00:00::
+years year%1:28:01::
+,
+and
+(
+3
+)
+whether
+you
+were
+required require%2:32:00::
+to
+file file%2:32:02::
+an
+estimated estimated%5:00:00:calculable:00
+return return%1:10:01::
+for
+the
+year year%1:28:01::
+,
+and
+if
+so so%5:00:00:true:00
+whether
+you
+did
+file file%2:32:02::
+and
+have
+paid pay%2:40:00::
+the
+estimated estimated%5:00:00:calculable:00
+tax tax%1:21:00::
+payments payment%1:21:00::
+on
+or
+before
+the
+due_dates due_date%1:28:00::
+.
+Any
+failure failure%1:04:00::
+to
+file file%2:32:02::
+timely timely%5:00:01:punctual:00
+returns return%1:10:01::
+or
+make make%2:41:00::
+estimated estimated%5:00:00:calculable:00
+tax tax%1:21:00::
+payments payment%1:21:00::
+when
+due due%3:00:00::
+must
+be
+fully fully%4:02:02::
+explained explain%2:32:00::
+.
+Extensions extension%1:28:00::
+are
+not not%4:02:00::
+granted grant%2:40:01::
+as
+a
+matter_of_course matter_of_course%1:11:00::
+,
+and
+the
+reasons reason%1:16:00::
+for
+your
+request request%1:10:01::
+must
+be be%2:42:03::
+substantial substantial%5:00:00:considerable:00
+.
+If
+you
+are be%2:42:03::
+unable unable%3:00:00::
+to
+sign sign%2:32:02::
+the
+request request%1:10:01::
+,
+because
+of
+illness illness%1:26:00::
+or
+other other%3:00:00::
+good good%3:00:01::
+cause cause%1:10:00::
+,
+another
+person person%1:03:00::
+who
+stands stand%2:42:03::
+in
+close close%3:00:02::
+personal personal%3:00:00::
+or
+business_relationship business_relationship%1:26:00::
+to
+you
+may
+sign sign%2:32:02::
+the
+request request%1:10:01::
+on
+your
+behalf behalf%1:04:00::
+,
+stating state%2:32:00::
+the
+reason reason%1:16:00::
+why
+you
+are be%2:42:03::
+unable unable%3:00:00::
+to
+sign sign%2:32:02::
+.
+You
+should
+make make%2:41:00::
+any
+request request%1:10:01::
+for
+an
+extension extension%1:28:00::
+early early%4:02:01::
+so so%4:02:06::
+that
+if
+it
+is
+refused refuse%2:40:00::
+,
+your
+return return%1:10:01::
+may
+still still%4:02:01::
+be be%2:42:03::
+on_time on_time%5:00:00:punctual:00
+.
+See_also see_also%4:02:00::
+Interest_on_Unpaid_Taxes
+,
+below below%4:02:00::
+.
+Citizens citizen%1:18:00::
+of
+the
+United_States united_states%1:15:00::
+who
+,
+on
+April april%1:28:00::
+15
+,
+are be%2:42:05::
+not not%4:02:00::
+in
+the
+United_States united_states%1:15:00::
+or
+Puerto_Rico puerto_rico%1:15:00::
+,
+are
+allowed allow%2:40:00::
+an
+extension extension%1:28:00::
+of
+time time%1:28:05::
+until
+June june%1:28:00::
+15
+for
+filing file%2:32:02::
+the
+return return%1:10:01::
+for
+the
+preceding preceding%3:00:00::
+calendar_year calendar_year%1:28:00::
+.
+An
+extension extension%1:28:00::
+of
+2 2%5:00:00:cardinal:00
+months month%1:28:01::
+beyond
+the
+regular regular%5:00:00:scheduled:00
+due_date due_date%1:28:00::
+for
+filing file%2:32:02::
+is be%2:42:03::
+also also%4:02:00::
+available available%3:00:00::
+to
+taxpayers taxpayer%1:18:00::
+making make%2:41:00::
+returns return%1:10:01::
+for
+a
+fiscal_year fiscal_year%1:28:00::
+.
+Taxpayers taxpayer%1:18:00::
+residing reside%2:42:00::
+or
+traveling travel%2:38:04::
+in
+Alaska alaska%1:15:00::
+are
+also also%4:02:00::
+allowed allow%2:40:00::
+this
+extension extension%1:28:00::
+of
+time time%1:28:05::
+for
+filing file%2:32:02::
+,
+but
+those
+residing reside%2:42:00::
+or
+traveling travel%2:38:04::
+in
+Hawaii hawaii%1:15:01::
+are
+not not%4:02:00::
+allowed allow%2:40:00::
+this
+automatic automatic%5:00:00:mechanical:00
+extension extension%1:28:00::
+.
+Military military%3:01:00::
+or
+Naval naval%3:01:00::
+Personnel personnel%1:14:00::
+on_duty on_duty%5:00:00:active:08
+in
+Alaska alaska%1:15:00::
+or
+outside
+the
+United_States united_states%1:15:00::
+and
+Puerto_Rico puerto_rico%1:15:00::
+are
+also also%4:02:00::
+allowed allow%2:40:00::
+this
+automatic automatic%5:00:00:mechanical:00
+extension extension%1:28:00::
+of
+time time%1:28:05::
+for
+filing file%2:32:02::
+their
+returns return%1:10:01::
+.
+You
+must
+attach attach%2:35:01::
+a
+statement statement%1:10:00::
+to
+your
+return return%1:10:01::
+,
+if
+you
+take_advantage take_advantage%2:40:00::
+of
+this
+automatic automatic%5:00:00:mechanical:00
+extension extension%1:28:00::
+,
+showing show%2:31:00::
+that
+you
+were be%2:42:05::
+in
+Alaska alaska%1:15:00::
+or
+were be%2:42:05::
+outside
+the
+United_States united_states%1:15:00::
+or
+Puerto_Rico puerto_rico%1:15:00::
+on
+April april%1:28:00::
+15
+or
+other other%3:00:00::
+due_date due_date%1:28:00::
+.
+Interest interest%1:21:00::
+at
+the
+rate rate%1:21:00::
+of
+6 6%5:00:00:cardinal:00
+%
+a
+year year%1:28:01::
+must
+be
+paid pay%2:40:00::
+on
+taxes tax%1:21:00::
+that
+are
+not not%4:02:00::
+paid pay%2:40:00::
+on
+or
+before
+their
+due_date due_date%1:28:00::
+.
+Such such%5:00:01:specified:00
+interest interest%1:21:00::
+must
+be
+paid pay%2:40:00::
+even even%4:02:03::
+though though%4:02:00::
+an
+extension extension%1:28:00::
+of
+time time%1:28:05::
+for
+filing file%2:32:02::
+is
+granted grant%2:40:01::
+.
+If
+your
+computation computation%1:09:00::
+on
+Form_1040
+or
+Form_1040_A
+shows show%2:39:04::
+you
+owe owe%2:40:00::
+additional additional%5:00:00:added:00
+tax tax%1:21:00::
+,
+it
+should
+be
+remitted remit%2:40:00::
+with
+your
+return return%1:10:01::
+unless
+you
+owe owe%2:40:01::
+less_than less_than%4:02:00::
+$
+1 1%5:00:00:cardinal:00
+,
+in
+which
+case case%1:26:00::
+it
+is
+forgiven forgive%2:41:00::
+.
+If
+payment payment%1:04:00::
+is be%2:42:03::
+by
+cash cash%1:21:00::
+,
+you
+should
+ask ask%2:32:01::
+for
+a
+receipt receipt%1:10:00::
+.
+If
+you
+file file%2:32:02::
+Form_1040_A
+and
+the
+District_Director person%1:03:00::
+computes compute%2:31:00::
+your
+tax tax%1:21:00::
+,
+you
+will
+be
+sent send%2:32:00::
+a
+bill bill%1:10:01::
+if
+additional additional%5:00:00:added:00
+tax tax%1:21:00::
+is_due be_due%2:42:00::
+.
+This
+bill bill%1:10:01::
+should
+be
+paid pay%2:40:00::
+within
+30 30%5:00:00:cardinal:00
+days day%1:28:00::
+.
+Whether
+the
+check check%1:21:00::
+is be%2:42:03::
+certified certify%2:40:02::
+or
+uncertified uncertified%3:00:00::
+,
+the
+tax tax%1:21:00::
+is
+not not%4:02:00::
+paid pay%2:40:04::
+until
+the
+check check%1:21:00::
+is
+paid pay%2:40:00::
+.
+If
+the
+check check%1:21:00::
+is be%2:42:03::
+not not%4:02:00::
+good good%3:00:01::
+and
+the
+April april%1:28:00::
+15
+or
+other other%3:00:00::
+due_date due_date%1:28:00::
+deadline deadline%1:28:00::
+elapses elapse%2:38:00::
+,
+additions addition%1:23:00::
+to
+the
+tax tax%1:21:00::
+may
+be
+incurred incur%2:42:00::
+.
+Furthermore furthermore%4:02:00::
+,
+a
+bad bad%3:00:00::
+check check%1:21:00::
+may
+subject subject%2:31:00::
+the
+maker maker%1:18:00::
+to
+certain certain%5:00:00:definite:00
+penalties penalty%1:21:00::;1:04:00::
+.
+All
+checks check%1:21:00::
+and
+money_orders money_order%1:21:00::
+should
+be
+made make%2:30:00::
+payable payable%5:00:00:due:00
+to
+Internal_Revenue_Service
+.
+An
+overpayment overpayment%1:21:00::
+of
+income income%1:21:00::
+and
+social_security social_security%1:04:00::
+taxes tax%1:21:00::
+entitles entitle%2:41:00::
+you
+to
+a
+refund refund%1:21:00::
+unless
+you
+indicate indicate%2:32:03::
+on
+the
+return return%1:10:01::
+that
+the
+overpayment overpayment%1:21:00::
+should
+be
+applied apply%2:34:00::
+to
+your
+succeeding succeeding%3:00:00::
+year year%1:28:01::
+'s
+estimated estimated%5:00:00:calculable:00
+tax tax%1:21:00::
+.
+If
+you
+file file%2:32:02::
+Form_1040_A
+and
+the
+District_Director person%1:03:00::
+computes compute%2:31:00::
+your
+tax tax%1:21:00::
+,
+any
+refund refund%1:21:00::
+to
+which
+you
+are be%2:42:03::
+entitled entitled%5:00:00:eligible:00
+will
+be
+mailed mail%2:35:00::
+to
+you
+.
+If
+you
+file file%2:32:02::
+a
+Form_1040
+,
+you
+should
+indicate indicate%2:32:03::
+in
+the
+place place%1:10:01::
+provided provide%2:40:00::
+that
+there
+is be%2:42:04::
+an
+overpayment overpayment%1:21:00::
+of
+tax tax%1:21:00::
+and
+the
+amount amount%1:07:00::
+you
+want want%2:37:00::
+refunded refund%2:40:00::
+and
+the
+amount amount%1:07:00::
+you
+want want%2:37:00::
+credited credit%2:40:00::
+against
+your
+estimated estimated%5:00:00:calculable:00
+tax tax%1:21:00::
+.
+Refunds refund%1:21:00::
+of
+less_than less_than%4:02:00::
+$
+1 1%5:00:00:cardinal:00
+will
+not not%4:02:00::
+be
+made make%2:30:00::
+unless
+you
+attach attach%2:35:01::
+a
+separate separate%3:00:00::
+application application%1:10:00::
+to
+your
+return return%1:10:01::
+requesting request%2:32:01::
+such such%5:00:01:specified:00
+a
+refund refund%1:21:00::
+.
+Send send%2:32:00::
+your
+return return%1:10:01::
+to
+the
+Director_of_Internal_Revenue person%1:03:00::
+for
+the
+district district%1:15:00::
+in
+which
+you
+have have%2:40:00::
+your
+legal legal%5:00:00:valid:00
+residence residence%1:15:00::
+or
+principal principal%5:00:00:important:00
+place_of_business place_of_business%1:06:00::
+.
+If
+you
+have have%2:40:00::
+neither
+a
+legal legal%5:00:00:valid:00
+residence residence%1:15:00::
+nor
+a
+principal principal%5:00:00:important:00
+place_of_business place_of_business%1:06:00::
+in
+any
+internal_revenue internal_revenue%1:21:00::
+district district%1:15:00::
+,
+your
+return return%1:10:01::
+should
+be
+filed file%2:32:02::
+with
+the
+District_Director_of_Internal_Revenue person%1:03:00::
+,
+Baltimore baltimore%1:15:00::
+2
+,
+Md. maryland%1:15:00::
+.
+If
+your
+principal principal%5:00:00:important:00
+place place%1:15:04::
+of
+abode abode%1:15:00::
+for
+the
+tax tax%1:21:00::
+year year%1:28:02::
+is be%2:42:05::
+outside
+the
+United_States united_states%1:15:00::
+(
+including include%2:42:00::
+Alaska alaska%1:15:00::
+and
+Hawaii hawaii%1:15:00::
+)
+,
+Puerto_Rico puerto_rico%1:15:00::
+,
+or
+the
+Virgin_Islands virgin_islands%1:15:00::
+and
+you
+have have%2:40:00::
+no
+legal legal%5:00:00:valid:00
+residence residence%1:15:00::
+or
+principal principal%5:00:00:important:00
+place_of_business place_of_business%1:06:00::
+in
+any
+internal_revenue internal_revenue%1:21:00::
+district district%1:15:00::
+in
+the
+United_States united_states%1:15:00::
+,
+you
+should
+file file%2:32:02::
+your
+return return%1:10:01::
+with
+the
+Office_of_International_Operations
+,
+Internal_Revenue_Service group%1:03:00::
+,
+Washington washington%1:15:01::
+25
+,
+D._C. dc%1:15:00::
+.
+The
+deductions deduction%1:21:01::
+allowed allow%2:32:00::
+in
+determining determine%2:32:00::
+Adjusted_Gross_Income
+put put%2:35:05::
+all
+taxpayers taxpayer%1:18:00::
+on
+a
+comparable comparable%3:00:00::
+basis basis%1:24:00::
+.
+It
+is be%2:42:06::
+the
+amount amount%1:21:00::
+you
+enter enter%2:32:04::
+on
+line line%1:15:00::
+9 9%5:00:00:cardinal:00
+,
+page page%1:10:00::
+1 1%5:00:00:cardinal:00
+of
+Form_1040
+.
+Some
+deductions deduction%1:21:01::
+are
+subtracted subtract%2:31:00::
+from
+Gross gross%3:00:00::
+Income income%1:21:00::
+to
+determine determine%2:32:00::
+Adjusted_Gross_Income
+.
+Other other%3:00:00::
+deductions deduction%1:21:01::
+are
+subtracted subtract%2:31:00::
+only only%4:02:01::
+from
+Adjusted_Gross_Income
+in
+arriving arrive%2:38:00::
+at
+Taxable_Income
+.
+To
+compute compute%2:31:00::
+your
+adjusted adjusted%3:00:00::
+gross gross%3:00:00::
+income income%1:21:00::
+you
+total total%2:32:00::
+all
+items item%1:10:00::
+of
+income income%1:21:00::
+.
+(
+See see%4:02:00::
+Chapter chapter%1:10:00::
+6 6%1:23:00::
+.
+)
+From
+this
+amount amount%1:21:00::
+deduct deduct%2:31:01::
+the
+items item%1:10:00::
+indicated indicate%2:32:00::
+below below%4:02:00::
+.
+Businessmen businessman%1:18:00::
+deduct deduct%2:31:01::
+all
+ordinary ordinary%3:00:00::
+and
+necessary necessary%3:00:00::
+expenses expense%1:21:00::
+attributable attributable%3:00:00::
+to
+a
+trade trade%1:04:00::
+or
+business business%1:14:00::
+.
+If
+you
+hold hold%2:40:04::;2:40:00::
+property property%1:21:00::
+for
+the
+production production%1:04:00::
+of
+rents rent%1:21:00::
+or
+royalties royalty%1:21:00::
+you
+subtract subtract%2:31:00::
+,
+in
+computing compute%2:31:00::
+Adjusted_Gross_Income
+,
+ordinary ordinary%3:00:00::
+and
+necessary necessary%3:00:00::
+expenses expense%1:21:00::
+and
+certain certain%5:00:00:definite:00
+other other%3:00:00::
+deductions deduction%1:21:01::
+attributable attributable%3:00:00::
+to
+the
+property property%1:21:00::
+.
+(
+See see%4:02:00::
+Chapter chapter%1:10:00::
+15 15%1:23:00::
+.
+)
+Outside outside%5:00:00:extramural:00
+salesmen salesman%1:18:00::
+deduct deduct%2:31:01::
+all
+expenses expense%1:21:00::
+attributable attributable%3:00:00::
+to
+earning earn%2:40:01::
+a
+salary salary%1:21:00::
+,
+commission commission%1:21:00::
+,
+or
+other other%3:00:00::
+compensation compensation%1:21:00::
+.
+(
+See see%4:02:00::
+Chapter chapter%1:10:00::
+10 10%1:23:00::
+.
+)
+Employees employee%1:18:00::
+deduct deduct%2:31:01::
+expenses expense%1:21:00::
+of
+travel travel%1:04:00::
+,
+meals meal%1:13:00::
+and
+lodging lodge%2:42:02::
+while
+away
+from
+home home%1:15:04::
+in_connection_with
+the
+performance performance%1:04:00::
+of
+their
+services services%1:04:00::
+as
+employees employee%1:18:00::
+.
+They
+also also%4:02:00::
+deduct deduct%2:31:01::
+transportation transportation%1:04:00::
+expenses expense%1:21:00::
+incurred incur%2:42:00::
+in_connection_with
+the
+performance performance%1:04:00::
+of
+services services%1:04:00::
+as
+employees employee%1:18:00::
+even even%4:02:03::
+though though%4:02:00::
+they
+are be%2:42:05::
+not not%4:02:00::
+away away%4:02:00::
+from
+home home%1:15:04::
+.
+(
+See see%4:02:00::
+Chapter chapter%1:10:00::
+12 12%1:23:00::
+.
+)
+If
+your
+employer employer%1:18:00::
+reimburses reimburse%2:40:00::
+you
+for
+expenses expense%1:21:00::
+incurred incur%2:42:00::
+,
+you
+deduct deduct%2:31:01::
+such such%5:00:01:specified:00
+expenses expense%1:21:00::
+if
+they
+otherwise otherwise%4:02:01::
+qualify qualify%2:42:00::
+.
+(
+See see%4:02:00::
+Chapter chapter%1:10:00::
+10 10%1:23:00::
+.
+)
+Sick_pay sick_pay%1:21:00::
+,
+if
+included include%2:42:00::
+in
+your
+Gross gross%3:00:00::
+Income income%1:21:00::
+,
+is
+deducted deduct%2:31:01::
+in
+arriving arrive%2:38:00::
+at
+Adjusted_Gross_Income
+.
+If
+your
+sick_pay sick_pay%1:21:00::
+is
+not not%4:02:00::
+included include%2:42:00::
+in
+your
+Gross gross%3:00:00::
+Income income%1:21:00::
+,
+you
+may_not
+deduct deduct%2:31:01::
+it
+.
+(
+See see%4:02:00::
+Chapter chapter%1:10:00::
+9 9%1:23:00::
+.
+)
+If
+you
+are be%2:42:06::
+a
+life_tenant life_tenant%1:18:00::
+,
+you
+deduct deduct%2:31:01::
+allowable allowable%5:00:00:deductible:00
+depreciation depreciation%1:04:00::
+and
+depletion depletion%1:04:00::
+.
+If
+you
+are be%2:42:06::
+an
+income income%1:21:00::
+beneficiary beneficiary%1:18:00::
+of
+property property%1:21:00::
+held hold%2:40:04::;2:42:00::
+in
+trust trust%1:21:03::
+or
+an
+heir heir%1:18:00::
+,
+legatee legatee%1:18:00::
+,
+or
+devisee devisee%1:18:00::
+,
+you
+may
+deduct deduct%2:31:01::
+allowable allowable%5:00:00:deductible:00
+depreciation depreciation%1:04:00::
+and
+depletion depletion%1:04:00::
+,
+if
+not not%4:02:00::
+deductible deductible%3:00:00::
+by
+the
+estate estate%1:21:02::
+or
+trust trust%1:21:03::
+.
+Deductible deductible%3:00:00::
+losses losses%1:21:00::
+on
+sales sale%1:04:02::
+or
+exchanges exchange%1:04:03::
+of
+property property%1:21:00::
+are be%2:42:03::
+allowable allowable%5:00:00:deductible:00
+in
+determining determine%2:32:00::
+your
+Adjusted_Gross_Income
+.
+(
+See see%4:02:00::
+Chapter chapter%1:10:00::
+20 20%1:23:00::
+.
+)
+You
+also also%4:02:00::
+deduct deduct%2:31:01::
+50 50%5:00:00:cardinal:00
+%
+of
+the
+excess excess%1:07:02::
+of
+net net%3:00:00::
+long-term long-term%5:00:00:long:02
+capital_gains capital_gain%1:21:00::
+over
+net net%3:00:00::
+short-term short-term%5:00:00:short:02
+capital_losses capital_loss%1:21:00::
+in
+determining determine%2:32:00::
+Adjusted_Gross_Income
+.
+(
+See see%4:02:00::
+Chapter chapter%1:10:00::
+24 24%1:23:00::
+.
+)
+Certain certain%5:00:00:definite:00
+other other%3:00:00::
+deductions deduction%1:21:01::
+are
+not not%4:02:00::
+allowed allow%2:32:00::
+in
+determining determine%2:32:00::
+Adjusted_Gross_Income
+.
+They
+may
+be
+claimed claim%2:32:02::
+only only%4:02:01::
+by
+itemizing itemize%2:32:00::
+them
+on
+page page%1:10:00::
+2 2%5:00:00:cardinal:00
+of
+Form_1040
+.
+These
+deductions deduction%1:21:01::
+may_not
+be
+claimed claim%2:32:02::
+if
+you
+elect elect%2:31:00::
+to
+use use%2:34:01::
+the
+Standard standard%3:00:02::
+Deduction deduction%1:21:01::
+or
+tax tax%1:21:00::
+Table table%1:14:00::
+.
+(
+See see%4:02:00::
+Chapters chapter%1:10:00::
+30 30%1:23:00::
+through
+37
+.
+)
+A
+minor minor%1:18:00::
+is be%2:42:03::
+subject subject%5:00:01:taxable:00
+to
+tax tax%1:21:00::
+on
+his
+own own%5:00:00:personal:00
+earnings earnings%1:21:00::
+even even%4:02:03::
+though though%4:02:00::
+his
+parent parent%1:18:00::
+may
+,
+under
+local local%3:00:03::
+law law%1:14:00::
+,
+have have%2:40:00::
+the
+right right%1:07:00::
+to
+them
+and
+might
+actually actually%4:02:01::
+have
+received receive%2:40:00::
+the
+money money%1:21:00::
+.
+His
+income income%1:21:00::
+is be%2:42:03::
+not not%4:02:00::
+required required%5:00:00:obligated(p):00
+to
+be
+included include%2:31:00::
+in
+the
+return return%1:10:01::
+of
+his
+parent parent%1:18:00::
+.
+A
+minor minor%3:00:03::
+child child%1:18:00::
+is
+allowed allow%2:31:01::
+a
+personal personal%3:00:00::
+exemption exemption%1:26:00::
+of
+$
+600
+on
+his
+own own%5:00:00:personal:00
+return return%1:10:01::
+regardless regardless%4:02:00::
+of
+how
+much much%3:00:00::
+money money%1:21:00::
+he
+may
+earn earn%2:40:01::
+.
+If
+your
+child child%1:18:01::
+is be%2:42:03::
+under
+19 19%5:00:00:cardinal:00
+or
+is be%2:42:06::
+a
+student student%1:18:00::
+you
+may
+also also%4:02:00::
+claim claim%2:32:02::
+an
+exemption exemption%1:26:00::
+for
+him
+if
+he
+qualifies qualify%2:42:00::
+as
+your
+dependent dependent%1:18:00::
+,
+even even%4:02:03::
+though though%4:02:00::
+he
+earns earn%2:40:01::
+$
+600
+or
+more more%1:23:00::
+.
+See see%4:02:00::
+Chapter chapter%1:10:00::
+5 5%1:23:00::
+.
+Your
+16 16%5:00:00:cardinal:00
+year year%1:28:01::
+old old%3:00:02::
+son son%1:18:00::
+earned earn%2:40:01::
+$
+720
+in
+1961
+.
+You
+spent spend%2:40:00::
+$
+800
+for
+his
+support support%1:21:00::
+.
+Since
+he
+had have%2:40:00::
+gross gross%3:00:00::
+income income%1:21:00::
+of
+$
+600
+or
+more more%1:23:00::
+,
+he
+must
+file file%2:32:02::
+a
+return return%1:10:01::
+in
+which
+he
+may
+claim claim%2:32:02::
+an
+exemption exemption%1:26:00::
+deduction deduction%1:21:01::
+of
+$
+600
+.
+Since
+you
+contributed contribute%2:40:00::
+more_than more_than%4:02:00::
+half half%1:23:00::
+of
+his
+support support%1:21:00::
+,
+you
+may
+also also%4:02:00::
+claim claim%2:32:02::
+an
+exemption exemption%1:26:00::
+for
+him
+on
+your
+return return%1:10:01::
+.
+A
+minor minor%1:18:00::
+who
+has have%2:40:00::
+gross gross%3:00:00::
+income income%1:21:00::
+of
+less_than less_than%4:02:00::
+$
+600
+is be%2:42:03::
+entitled entitled%5:00:00:eligible:00
+to
+a
+refund refund%1:21:00::
+if
+income_tax income_tax%1:21:00::
+was
+withheld withhold%2:40:01::
+from
+his
+wages wage%1:21:00::
+.
+Generally generally%4:02:02::
+,
+the
+refund refund%1:21:00::
+may
+be
+obtained obtain%2:40:00::
+by
+filing file%2:32:02::
+Form_1040_A
+accompanied accompany%2:42:00::
+by
+the
+withholding withholding%1:21:00::
+statement statement%1:10:00::
+(
+Form_W-2
+)
+.
+If
+he
+had have%2:40:00::
+income income%1:21:00::
+other_than other_than%5:00:00:other:00
+wages wage%1:21:00::
+subject subject%5:00:01:taxable:00
+to
+withholding withholding%1:04:00::
+,
+he
+may
+be
+required require%2:32:00::
+to
+file file%2:32:02::
+Form_1040
+.
+See see%4:02:00::
+Chapter chapter%1:10:00::
+1 1%1:23:00::
+.
+If
+your
+child child%1:18:01::
+works work%2:41:00::
+for
+you
+,
+you
+may
+deduct deduct%2:31:01::
+reasonable reasonable%5:00:00:moderate:00
+wages wage%1:21:00::
+you
+paid pay%2:40:00::
+to
+him
+for
+services services%1:04:00::
+he
+rendered render%2:40:02::
+in
+your
+business business%1:14:00::
+.
+You
+may
+deduct deduct%2:31:01::
+these
+payments payment%1:21:00::
+even even%4:02:03::
+though though%4:02:00::
+your
+child child%1:18:01::
+uses use%2:34:01::
+the
+money money%1:21:00::
+to
+purchase purchase%2:40:00::
+his
+own own%5:00:00:personal:00
+clothing clothing%1:06:00::
+or
+other other%3:00:00::
+necessities necessity%1:17:00::
+which
+you
+are be%2:42:03::
+normally normally%4:02:00::
+obligated obligated%3:00:00::
+to
+furnish furnish%2:40:00::
+him
+,
+and
+even even%4:02:03::
+though though%4:02:00::
+you
+may
+be be%2:42:03::
+entitled entitled%5:00:00:eligible:00
+to
+his
+services services%1:04:00::
+.

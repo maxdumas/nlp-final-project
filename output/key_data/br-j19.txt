@@ -1,0 +1,2230 @@
+Some some%5:00:00:unspecified:00
+experiments experiment%1:04:00::
+are be%2:42:03::
+composed composed%5:00:00:combined:00
+of
+repetitions repetition%1:11:00::
+of
+independent independent%3:00:00::
+trials trial%1:04:00::
+,
+each
+with
+two two%5:00:00:cardinal:00
+possible possible%3:00:00::
+outcomes outcome%1:19:00::
+.
+The
+binomial binomial_distribution%1:09:00::
+probability probability%1:07:01::
+distribution
+may
+describe describe%2:31:00::
+the
+variation variation%1:11:01::
+that
+occurs occur%2:30:00::
+from
+one one%5:00:00:cardinal:00
+set set%1:14:00::
+of
+trials trial%1:04:00::
+of
+such such%5:00:01:specified:00
+a
+binomial binomial%3:01:00::
+experiment experiment%1:04:00::
+to
+another
+.
+We
+devote devote%2:32:00::
+a
+chapter chapter%1:10:00::
+to
+the
+binomial_distribution binomial_distribution%1:09:00::
+not_only not_only%4:02:00::
+because
+it
+is be%2:42:06::
+a
+mathematical mathematical%3:01:00::
+model model%1:09:00::
+for
+an
+enormous enormous%5:00:00:large:00
+variety variety%1:14:01::
+of
+real_life real_life%1:09:00::
+phenomena phenomenon%1:03:00::
+,
+but
+also also%4:02:00::
+because
+it
+has have%2:42:00::
+important important%3:00:00::
+properties property%1:07:00::
+that
+recur recur%2:30:00::
+in
+many many%3:00:00::
+other other%3:00:00::
+probability probability%1:07:01::
+models model%1:09:00::
+.
+We
+begin begin%2:30:00::
+with
+a_few a_few%5:00:00:few:00
+examples example%1:09:00::
+of
+binomial binomial%3:01:00::
+experiments experiment%1:04:00::
+.
+A
+trained trained%3:00:00::
+marksman marksman%1:18:00::
+shooting shoot%2:33:00::
+five five%5:00:00:cardinal:00
+rounds round%1:06:01::
+at
+a
+target target%1:10:00::
+,
+all all%3:00:00::
+under
+practically practically%4:02:00::
+the
+same same%3:00:00::
+conditions condition%1:26:00::
+,
+may
+hit hit%2:35:01::
+the
+bull's-eye bull's_eye%1:15:00::
+from
+0 0%5:00:00:cardinal:00
+to
+5 5%5:00:00:cardinal:00
+times time%1:11:00::
+.
+In
+repeated repeat%2:30:00::
+sets set%1:14:00::
+of
+five five%5:00:00:cardinal:00
+shots shot%1:04:00::
+his
+numbers number%1:07:00::
+of
+bull's-eyes bull's_eye%1:04:00::
+vary vary%2:30:01::
+.
+What
+can
+we
+say say%2:32:01::
+of
+the
+probabilities probability%1:07:01::
+of
+the
+different different%5:00:00:other:00
+possible possible%3:00:04::
+numbers number%1:07:00::
+of
+bull's-eyes bull's_eye%1:04:00::
+?
+In
+litters litter%1:14:00::
+of
+eight eight%5:00:00:cardinal:00
+mice mouse%1:05:00::
+from
+similar similar%3:00:00::
+parents parent%1:18:00::
+,
+the
+number number%1:07:00::
+of
+mice mouse%1:05:00::
+with
+straight straight%3:00:03::
+instead instead%4:02:00::
+of
+wavy wavy%5:00:00:curly:00
+hair hair%1:08:00::
+is be%2:42:06::
+an
+integer integer%1:23:00::
+from
+0 0%1:23:00::
+to
+8 8%1:23:00::
+.
+What
+probabilities probability%1:07:01::
+should
+be
+attached attach%2:35:01::
+to
+these
+possible possible%3:00:04::
+outcomes outcome%1:11:00::
+?
+When
+three three%5:00:00:cardinal:00
+dice dice%1:06:00::
+are
+tossed toss%2:38:00::
+repeatedly repeatedly%4:02:00::
+,
+what
+is be%2:42:06::
+the
+probability probability%1:07:01::
+that
+the
+number number%1:07:00::
+of
+aces ace%1:23:00::
+is be%2:42:06::
+0 0%1:23:00::
+(
+or
+1 1%1:23:00::
+,
+or
+2 2%1:23:00::
+,
+or
+3 3%1:23:00::
+)
+?
+More more%3:00:01::
+generally generally%4:02:01::
+,
+suppose suppose%2:32:00::
+that
+an
+experiment experiment%1:04:00::
+consists_of consist_of%2:42:00::
+a
+number number%1:07:00::
+of
+independent independent%3:00:00::
+trials trial%1:04:00::
+,
+that
+each
+trial trial%1:04:00::
+results result%2:42:02::
+in
+either
+a
+``
+success success%1:11:00::
+''
+or
+a
+``
+non non%5:00:00:negative:02
+success success%1:11:00::
+''
+(
+``
+failure failure%1:11:00::
+''
+)
+,
+and
+that
+the
+probability probability%1:07:01::
+of
+success success%1:11:00::
+remains remain%2:30:00::
+constant constant%5:00:00:invariable:00
+from
+trial trial%1:04:00::
+to
+trial trial%1:04:00::
+.
+In
+the
+examples example%1:09:00::
+above above%4:02:00::
+,
+the
+occurrence occurrence%1:11:00::
+of
+a
+bull's-eye bull's_eye%1:04:00::
+,
+a
+straight straight%3:00:03::
+haired haired%5:00:00:hairy:00
+mouse mouse%1:05:00::
+,
+or
+an
+ace ace%1:23:00::
+could
+be
+called call%2:32:00::
+a
+``
+success success%1:11:00::
+''
+.
+In_general in_general%4:02:00::
+,
+any
+outcome outcome%1:11:00::
+we
+choose choose%2:31:00::
+may
+be
+labeled label%2:32:00::
+``
+success success%1:11:00::
+''
+.
+The
+major major%3:00:06::
+question question%1:10:01::
+in
+this
+chapter chapter%1:10:00::
+is be%2:42:06::
+:
+What
+is be%2:42:06::
+the
+probability probability%1:07:01::
+of
+exactly exactly%4:02:01::
+x
+successes success%1:11:00::
+in
+n
+trials trial%1:04:00::
+?
+In
+Chapters chapter%1:10:00::
+3 3%5:00:00:cardinal:00
+and
+4 4%5:00:00:cardinal:00
+we
+answered answer%2:31:03::
+questions question%1:10:03::
+like
+those
+in
+the
+examples example%1:09:00::
+,
+usually usually%4:02:00::
+by
+counting count%2:32:00::
+points point%1:09:00::
+in
+a
+sample sample%1:09:01::
+space space%1:15:00::
+.
+Fortunately fortunately%4:02:00::
+,
+a
+general general%3:00:00::
+formula formula%1:10:00::
+of
+wide wide%5:00:00:comprehensive:00
+applicability applicability%1:24:00::
+solves solve%2:31:01::
+all
+problems problem%1:10:00::
+of
+this
+kind kind%1:09:00::
+.
+Before
+deriving derive%2:31:00::
+this
+formula formula%1:10:00::
+,
+we
+explain explain%2:32:00::
+what
+we
+mean mean%2:32:01::
+by
+``
+problems problem%1:10:00::
+of
+this
+kind kind%1:09:00::
+''
+.
+Experiments experiment%1:04:00::
+are
+often often%4:02:00::
+composed compose%2:42:00::
+of
+several several%5:00:00:some(a):00
+identical identical%5:00:00:same:00
+trials trial%1:04:00::
+,
+and
+sometimes sometimes%4:02:01::
+experiments experiment%1:04:00::
+themselves
+are
+repeated repeat%2:41:00::
+.
+In
+the
+marksmanship marksmanship%1:09:00::
+example example%1:09:00::
+,
+a
+trial trial%1:04:00::
+consists_of consist_of%2:42:00::
+``
+one one%5:00:00:cardinal:00
+round round%1:06:01::
+shot shoot%2:33:00::
+at
+a
+target target%1:10:00::
+''
+with
+outcome outcome%1:11:00::
+either
+one one%5:00:00:cardinal:00
+bull's-eye bull's_eye%1:04:00::
+(
+success success%1:11:00::
+)
+or
+none
+(
+failure failure%1:11:00::
+)
+.
+Further further%4:02:03::
+,
+an
+experiment experiment%1:04:00::
+might
+consist_of consist_of%2:42:00::
+five five%5:00:00:cardinal:00
+rounds round%1:06:01::
+,
+and
+several several%5:00:00:some(a):00
+sets set%1:14:00::
+of
+five five%5:00:00:cardinal:00
+rounds round%1:06:01::
+might
+be
+regarded_as regard_as%2:31:00::
+a
+super super%5:00:00:comprehensive:00
+experiment experiment%1:04:00::
+composed compose%2:42:00::
+of
+several several%5:00:00:some(a):00
+repetitions repetition%1:11:00::
+of
+the
+five five%5:00:00:cardinal:00
+round round%1:06:01::
+experiment experiment%1:04:00::
+.
+If
+three three%5:00:00:cardinal:00
+dice dice%1:06:00::
+are
+tossed toss%2:38:00::
+,
+a
+trial trial%1:04:00::
+is be%2:42:06::
+one one%5:00:00:cardinal:00
+toss toss%1:04:01::
+of
+one one%5:00:00:cardinal:00
+die die%1:06:00::
+and
+the
+experiment experiment%1:04:00::
+is
+composed composed%5:00:00:combined:00
+of
+three three%5:00:00:cardinal:00
+trials trial%1:04:00::
+.
+Or
+,
+what
+amounts amount%2:42:00::
+to
+the
+same same%3:00:00::
+thing thing%1:26:00::
+,
+if
+one one%5:00:00:cardinal:00
+die die%1:06:00::
+is
+tossed toss%2:38:00::
+three three%5:00:00:cardinal:00
+times time%1:11:00::
+,
+each each%5:00:00:all(a):00
+toss toss%1:04:01::
+is be%2:42:06::
+a
+trial trial%1:04:00::
+,
+and
+the
+three three%5:00:00:cardinal:00
+tosses toss%1:04:01::
+form form%2:42:00::
+the
+experiment experiment%1:04:00::
+.
+Mathematically mathematically%4:02:00::
+,
+we
+shall
+not not%4:02:00::
+distinguish distinguish%2:31:00::
+the
+experiment experiment%1:04:00::
+of
+three three%5:00:00:cardinal:00
+dice dice%1:06:00::
+tossed toss%2:38:00::
+once once%4:02:00::
+from
+that
+of
+one one%5:00:00:cardinal:00
+die die%1:06:00::
+tossed toss%2:38:00::
+three three%5:00:00:cardinal:00
+times time%1:11:00::
+.
+These
+examples example%1:09:00::
+are be%2:42:03::
+illustrative illustrative%5:00:00:informative:00
+of
+the
+use use%1:04:00::
+of
+the
+words word%1:10:00::
+``
+trial trial%1:04:00::
+''
+and
+``
+experiment experiment%1:04:00::
+''
+as
+they
+are
+used use%2:34:01::
+in
+this
+chapter chapter%1:10:00::
+,
+but
+they
+are be%2:42:03::
+quite quite%4:02:02::
+flexible flexible%5:00:00:adaptable:00
+words word%1:10:00::
+and
+it
+is be%2:42:03::
+well well%5:00:00:advisable:00
+not not%4:02:00::
+to
+restrict restrict%2:30:01::
+them
+too too%4:02:00::
+narrowly narrowly%4:02:00::
+.
+Ten ten%5:00:00:cardinal:00
+students student%1:18:00::
+act_as act_as%2:42:00::
+managers manager%1:18:01::
+for
+a
+high-school high_school%1:14:00::
+football_team football_team%1:14:00::
+,
+and
+of
+these
+managers manager%1:18:01::
+a
+proportion proportion%1:24:00::
+p
+are be%2:42:03::
+licensed licensed%5:00:00:authorized:00
+drivers driver%1:18:00::
+.
+Each each%5:00:00:all(a):00
+Friday friday%1:28:00::
+one one%5:00:00:cardinal:00
+manager manager%1:18:01::
+is
+chosen choose%2:31:00::
+by
+lot lot%1:06:00::
+to
+stay stay%2:38:01::
+late late%4:02:00::
+and
+load load%2:35:03::
+the
+equipment equipment%1:06:00::
+on
+a
+truck truck%1:06:00::
+.
+On
+three three%5:00:00:cardinal:00
+Fridays friday%1:28:00::
+the
+coach coach%1:18:01::
+has
+needed need%2:34:00::
+a
+driver driver%1:18:00::
+.
+Considering consider%2:31:01::
+only only%4:02:01::
+these
+Fridays friday%1:28:00::
+,
+what
+is be%2:42:06::
+the
+probability probability%1:07:01::
+that
+the
+coach coach%1:18:01::
+had have%2:40:00::
+drivers driver%1:18:00::
+all all%3:00:00::
+3 3%5:00:00:cardinal:00
+times time%1:11:00::
+?
+Exactly exactly%4:02:01::
+2 2%5:00:00:cardinal:00
+times time%1:11:00::
+?
+1 1%5:00:00:cardinal:00
+time time%1:11:00::
+?
+0 0%5:00:00:cardinal:00
+time time%1:11:00::
+?
+Note note%2:39:02::
+that
+there
+are be%2:42:04::
+3 3%5:00:00:cardinal:00
+trials trial%1:04:00::
+of
+interest interest%1:09:00::
+.
+Each
+trial trial%1:04:00::
+consists_of consist_of%2:42:00::
+choosing choose%2:31:00::
+a
+student student%1:18:00::
+manager manager%1:18:01::
+at_random at_random%4:02:00::
+.
+The
+2 2%5:00:00:cardinal:00
+possible possible%3:00:04::
+outcomes outcome%1:11:00::
+on
+each each%5:00:00:all(a):00
+trial trial%1:04:00::
+are be%2:42:06::
+``
+driver driver%1:18:00::
+''
+or
+``
+nondriver nondriver%1:18:00::
+''
+.
+Since
+the
+choice choice%1:04:00::
+is be%2:42:04::
+by
+lot lot%1:06:00::
+each_week each_week%4:02:00::
+,
+the
+outcomes outcome%1:11:00::
+of
+different different%5:00:00:other:00
+trials trial%1:04:00::
+are be%2:42:03::
+independent independent%5:00:00:absolute:00
+.
+The
+managers manager%1:18:01::
+stay stay%2:30:00::
+the
+same same%5:00:00:unchanged:00
+,
+so
+that
+*
+*
+f
+is be%2:42:03::
+the
+same same%5:00:00:unchanged:00
+for
+all
+weeks week%1:28:00::
+.
+We
+now now%4:02:04::
+generalize generalize%2:32:01::
+these
+ideas idea%1:09:00::
+for
+general general%3:00:00::
+binomial binomial%3:01:00::
+experiments experiment%1:04:00::
+.
+For
+an
+experiment experiment%1:04:00::
+to
+qualify qualify%2:42:00::
+as
+a
+binomial binomial%3:01:00::
+experiment experiment%1:04:00::
+,
+it
+must
+have have%2:42:00::
+four four%5:00:00:cardinal:00
+properties property%1:07:00::
+:
+(
+1
+)
+there
+must
+be be%2:42:00::
+a
+fixed fixed%5:00:00:determinate:01
+number number%1:07:00::
+of
+trials trial%1:04:00::
+,
+(
+2
+)
+each each%5:00:00:all(a):00
+trial trial%1:04:00::
+must
+result result%2:42:02::
+in
+a
+``
+success success%1:11:00::
+''
+or
+a
+``
+failure failure%1:11:00::
+''
+(
+a
+binomial binomial%3:01:00::
+trial trial%1:04:00::
+)
+,
+(
+3
+)
+all
+trials trial%1:04:00::
+must
+have have%2:40:00::
+identical identical%5:00:00:same:00
+probabilities probability%1:07:01::
+of
+success success%1:11:00::
+,
+(
+4
+)
+the
+trials trial%1:04:00::
+must
+be be%2:42:03::
+independent independent%3:00:00::
+of
+each
+other
+.
+Below
+we
+use use%2:34:01::
+our
+earlier earlier%5:00:00:past:00
+examples example%1:09:00::
+to
+describe describe%2:32:00::
+and
+illustrate illustrate%2:32:00::
+these
+four four%5:00:00:cardinal:00
+properties property%1:07:00::
+.
+We
+also also%4:02:00::
+give give%2:40:07::
+,
+for
+each each%5:00:00:all(a):00
+property property%1:07:00::
+,
+an
+example example%1:09:00::
+where
+the
+property property%1:07:00::
+is be%2:42:05::
+absent absent%3:00:00::
+.
+The
+language language%1:10:00::
+and
+notation notation%1:10:00::
+introduced introduce%2:32:00::
+are be%2:42:03::
+standard standard%3:00:02::
+throughout
+the
+chapter chapter%1:10:00::
+.
+For
+the
+marksman marksman%1:18:00::
+,
+we
+study study%2:31:02::
+sets set%1:14:00::
+of
+five five%5:00:00:cardinal:00
+shots shot%1:04:00::
+(
+*
+*
+f
+)
+;
+for
+the
+mice mouse%1:05:00::
+,
+we
+restrict restrict%2:30:01::
+attention attention%1:09:00::
+to
+litters litter%1:14:00::
+of
+eight eight%5:00:00:cardinal:00
+(
+*
+*
+f
+)
+;
+and
+for
+the
+aces ace%1:23:00::
+,
+we
+toss toss%2:38:00::
+three three%5:00:00:cardinal:00
+dice dice%1:06:00::
+(
+*
+*
+f
+)
+.
+Toss toss%2:38:00::
+a
+die die%1:06:00::
+until
+an
+ace ace%1:23:00::
+appears appear%2:30:00::
+.
+Here here%4:02:02::
+the
+number number%1:07:00::
+of
+trials trial%1:04:00::
+is be%2:42:03::
+a
+random_variable random_variable%1:09:00::
+,
+not not%4:02:00::
+a
+fixed fixed%5:00:00:determinate:01
+number number%1:07:00::
+.
+Each each%5:00:00:all(a):00
+of
+the
+n
+trials trial%1:04:00::
+is be%2:42:06::
+either
+a
+success success%1:11:00::
+or
+a
+failure failure%1:11:00::
+.
+``
+Success success%1:11:00::
+''
+and
+``
+failure failure%1:11:00::
+''
+are be%2:42:03::
+just just%4:02:00::
+convenient convenient%3:00:00::
+labels label%1:10:01::
+for
+the
+two two%5:00:00:cardinal:00
+categories category%1:14:00::
+of
+outcomes outcome%1:11:00::
+when
+we
+talk_about talk_about%2:32:00::
+binomial binomial%3:01:00::
+trials trial%1:04:00::
+in_general in_general%4:02:00::
+.
+These
+words word%1:10:00::
+are be%2:42:03::
+more more%3:00:01::
+expressive expressive%5:00:00:communicative:00
+than
+labels label%1:10:01::
+like
+``
+A
+''
+and
+``
+not not%4:02:00::
+-
+A
+''
+.
+It
+is be%2:42:03::
+natural natural%3:00:01::
+from
+the
+marksman marksman%1:18:00::
+'s
+viewpoint viewpoint%1:09:00::
+to
+call call%2:32:00::
+a
+bull's-eye bull's_eye%1:04:00::
+a
+success success%1:11:00::
+,
+but
+in
+the
+mice mouse%1:05:00::
+example example%1:09:00::
+it
+is be%2:42:03::
+arbitrary arbitrary%3:00:00::
+which
+category category%1:14:00::
+corresponds correspond%2:42:00::
+to
+straight straight%3:00:03::
+hair hair%1:08:00::
+in
+a
+mouse mouse%1:05:00::
+.
+The
+word word%1:10:00::
+``
+binomial binomial%1:09:00::
+''
+means mean%2:32:03::
+``
+of
+two two%5:00:00:cardinal:00
+names name%1:10:00::
+''
+or
+``
+of
+two two%5:00:00:cardinal:00
+terms term%1:09:00::
+''
+,
+and
+both
+usages usage%1:04:00::
+apply apply%2:42:00::
+in
+our
+work work%1:06:00::
+:
+the
+first first%3:00:00::
+to
+the
+names name%1:10:00::
+of
+the
+two two%5:00:00:cardinal:00
+outcomes outcome%1:11:00::
+of
+a
+binomial binomial%3:01:00::
+trial trial%1:04:00::
+,
+and
+the
+second second%5:00:00:ordinal:00
+to
+the
+terms term%1:09:00::
+p
+and
+*
+*
+f
+that
+represent represent%2:32:02::
+the
+probabilities probability%1:07:01::
+of
+``
+success success%1:11:00::
+''
+and
+``
+failure failure%1:11:00::
+''
+.
+Sometimes sometimes%4:02:01::
+when
+there
+are be%2:42:04::
+many many%3:00:00::
+outcomes outcome%1:11:00::
+for
+a
+single single%3:00:00::
+trial trial%1:04:00::
+,
+we
+group group%2:31:00::
+these
+outcomes outcome%1:11:00::
+into
+two two%5:00:00:cardinal:00
+classes class%1:14:00::
+,
+as
+in
+the
+example example%1:09:00::
+of
+the
+die die%1:06:00::
+,
+where
+we
+have
+arbitrarily arbitrarily%4:02:00::
+constructed construct%2:36:01::
+the
+classes class%1:14:00::
+``
+ace ace%1:23:00::
+''
+and
+``
+not not%4:02:00::
+ace ace%1:23:00::
+''
+.
+We
+classify classify%2:31:00::
+mice mouse%1:05:00::
+as
+``
+straight straight%3:00:03::
+haired haired%5:00:00:hairy:00
+''
+or
+``
+wavy wavy%5:00:00:curly:00
+haired haired%5:00:00:hairy:00
+''
+,
+but
+a
+hairless hairless%3:00:00::
+mouse mouse%1:05:00::
+appears appear%2:30:00::
+.
+We
+can
+escape_from escape_from%2:38:00::
+such such%5:00:01:specified:00
+a
+difficulty difficulty%1:09:02::
+by
+ruling_out rule_out%2:42:00::
+the
+animal animal%1:03:00::
+as
+not not%4:02:00::
+constituting constitute%2:42:00::
+a
+trial trial%1:04:00::
+,
+but
+such such%5:00:01:specified:00
+a
+solution solution%1:10:00::
+is be%2:42:03::
+not not%4:02:00::
+always always%4:02:00::
+satisfactory satisfactory%5:00:00:good:01
+.
+Each each%5:00:00:all(a):00
+die die%1:06:00::
+has have%2:42:00::
+probability probability%1:07:01::
+*
+*
+f
+of
+producing produce%2:36:02::
+an
+ace ace%1:23:00::
+;
+the
+marksman marksman%1:18:00::
+has have%2:42:00::
+some some%3:00:00::
+probability probability%1:07:01::
+p
+,
+perhaps perhaps%4:02:00::
+0.1
+,
+of
+making make%2:40:02::
+a
+bull's-eye bull's_eye%1:04:00::
+.
+Note note%2:39:02::
+that
+we
+need
+not not%4:02:00::
+know know%2:31:01::
+the
+value value%1:09:00::
+of
+p
+,
+for
+the
+experiment experiment%1:04:00::
+to
+be be%2:42:03::
+binomial binomial%3:01:00::
+.
+During
+a
+round round%1:28:01::
+of
+target_practice target_practice%1:04:00::
+the
+sun sun%1:17:00::
+comes come%2:38:00::
+from
+behind
+a
+cloud cloud%1:17:00::
+and
+dazzles dazzle%2:39:00::
+the
+marksman marksman%1:18:00::
+,
+lowering lower%2:30:01::
+his
+chance chance%1:26:00::
+of
+a
+bull's-eye bull's_eye%1:04:00::
+.
+Strictly_speaking strictly_speaking%4:02:00::
+,
+this
+means mean%2:32:03::
+that
+the
+probability probability%1:07:01::
+for
+each each%5:00:00:all(a):00
+possible possible%3:00:04::
+outcome outcome%1:11:00::
+of
+the
+experiment experiment%1:04:00::
+can
+be
+computed compute%2:31:00::
+by
+multiplying multiply%2:31:00::
+together together%4:02:04::
+the
+probabilities probability%1:07:01::
+of
+the
+possible possible%3:00:04::
+outcomes outcome%1:11:00::
+of
+the
+single single%3:00:00::
+binomial binomial%3:01:00::
+trials trial%1:04:00::
+.
+Thus thus%4:02:00::
+in
+the
+three three%5:00:00:cardinal:00
+dice dice%1:06:00::
+example example%1:09:00::
+*
+*
+f
+,
+*
+*
+f
+,
+and
+the
+independence independence%1:26:00::
+assumption assumption%1:10:00::
+implies imply%2:32:01::
+that
+the
+probability probability%1:07:01::
+that
+the
+three three%5:00:00:cardinal:00
+dice dice%1:06:00::
+fall fall%2:30:00::
+ace ace%1:23:00::
+,
+not not%4:02:00::
+ace ace%1:23:00::
+,
+ace ace%1:23:00::
+in
+that
+order order%1:14:00::
+is be%2:42:06::
+(
+1
+6
+)
+(
+5
+6
+)
+(
+1
+6
+)
+.
+Experimentally experimentally%4:02:00::
+,
+we
+expect expect%2:31:00::
+independence independence%1:26:00::
+when
+the
+trials trial%1:04:00::
+have have%2:40:00::
+nothing nothing%1:23:00::
+to
+do do%2:42:00::
+with
+one
+another
+.
+A
+family family%1:14:02::
+of
+five five%5:00:00:cardinal:00
+plans plan%2:31:01::
+to
+go go%2:38:00::
+together together%4:02:10::
+either
+to
+the
+beach beach%1:17:00::
+or
+to
+the
+mountains mountain%1:17:00::
+,
+and
+a
+coin coin%1:21:02::
+is
+tossed toss%2:38:00::
+to
+decide decide%2:31:01::
+.
+We
+want want%2:37:00::
+to
+know know%2:31:01::
+the
+number number%1:07:00::
+of
+people people%1:14:00::
+going_to go_to%2:38:00::
+the
+mountains mountain%1:17:00::
+.
+When
+this
+experiment experiment%1:04:00::
+is
+viewed_as view_as%2:31:00::
+composed compose%2:42:00::
+of
+five five%5:00:00:cardinal:00
+binomial binomial%3:01:00::
+trials trial%1:04:00::
+,
+one one%5:00:00:cardinal:00
+for
+each
+member member%1:18:00::
+of
+the
+family family%1:14:02::
+,
+the
+outcomes outcome%1:11:00::
+of
+the
+trials trial%1:04:00::
+are be%2:42:03::
+obviously obviously%4:02:00::
+not not%4:02:00::
+independent independent%3:00:00::
+.
+Indeed indeed%4:02:03::
+,
+the
+experiment experiment%1:04:00::
+is
+better better%4:02:00::
+viewed_as view_as%2:31:00::
+consisting_of consist_of%2:42:00::
+one one%5:00:00:cardinal:00
+binomial binomial%3:01:00::
+trial trial%1:04:00::
+for
+the
+entire entire%5:00:01:whole:00
+family family%1:14:02::
+.
+The
+following following%5:00:01:succeeding(a):00
+is be%2:42:03::
+a
+less less%4:02:00::
+extreme extreme%5:00:00:immoderate:00
+example example%1:09:00::
+of
+dependence dependence%1:26:00::
+.
+Consider consider%2:31:01::
+couples couple%1:14:00::
+visiting visit%2:41:02::
+an
+art art%1:06:00::
+museum museum%1:06:00::
+.
+Each
+person person%1:03:00::
+votes vote%2:41:13::
+for
+one one%5:00:00:unspecified:00
+of
+a
+pair pair%1:14:01::
+of
+pictures picture%1:06:01::
+to
+receive receive%2:40:00::
+a
+popular popular%5:00:00:democratic:00
+prize prize%1:21:00::
+.
+Voting vote%2:41:13::
+for
+one one%5:00:00:cardinal:00
+picture picture%1:06:01::
+may
+be
+called call%2:32:00::
+``
+success success%1:11:00::
+''
+,
+for
+the
+other other%3:00:00::
+``
+failure failure%1:11:00::
+''
+.
+An
+experiment experiment%1:04:00::
+consists_of consist_of%2:42:00::
+the
+voting voting%1:04:00::
+of
+one one%5:00:00:cardinal:00
+couple couple%1:14:00::
+,
+or
+two two%5:00:00:cardinal:00
+trials trial%1:04:00::
+.
+In
+repetitions repetition%1:04:00::
+of
+the
+experiment experiment%1:04:00::
+from
+couple couple%1:14:00::
+to
+couple couple%1:14:00::
+,
+the
+votes vote%1:04:00::
+of
+the
+two two%5:00:00:cardinal:00
+persons person%1:03:00::
+in
+a
+couple couple%1:14:00::
+probably probably%4:02:00::
+agree agree%2:42:00::
+more more%4:02:00::
+often often%4:02:01::
+than
+independence independence%1:26:00::
+would
+imply imply%2:32:01::
+,
+because
+couples couple%1:14:00::
+who
+visit visit%2:41:02::
+the
+museum museum%1:06:00::
+together together%4:02:10::
+are be%2:42:03::
+more more%3:00:01::
+likely likely%3:00:00::
+to
+have have%2:40:04::
+similar similar%3:00:00::
+tastes taste%1:12:02::
+than
+are be%2:42:03::
+a
+random random%3:00:00::
+pair pair%1:14:00::
+of
+people people%1:14:00::
+drawn draw%2:33:01::
+from
+the
+entire entire%5:00:01:whole:00
+population population%1:09:00::
+of
+visitors visitor%1:18:00::
+.
+Table table%1:14:00::
+7
+-
+1
+illustrates illustrate%2:32:00::
+the
+point point%1:10:01::
+.
+The
+table table%1:14:00::
+shows show%2:39:02::
+that
+0.6
+of
+the
+boys boy%1:18:00::
+and
+0.6
+of
+the
+girls girl%1:18:02::
+vote vote%2:41:13::
+for
+picture picture%1:06:01::
+A
+.
+Therefore therefore%4:02:00::
+,
+under
+independent independent%3:00:00::
+voting voting%1:04:00::
+,
+*
+*
+f
+or
+0.36
+of
+the
+couples couple%1:14:00::
+would
+cast cast%2:40:13::
+two two%5:00:00:cardinal:00
+votes vote%1:04:00::
+for
+picture picture%1:06:01::
+A
+,
+and
+*
+*
+f
+or
+0.16
+would
+cast cast%2:40:13::
+two two%5:00:00:cardinal:00
+votes vote%1:04:00::
+for
+picture picture%1:06:01::
+B
+.
+Thus thus%4:02:00::
+in
+independent independent%3:00:00::
+voting voting%1:04:00::
+,
+*
+*
+f
+or
+0.52
+of
+the
+couples couple%1:14:00::
+would
+agree agree%2:32:00::
+.
+But
+Table table%1:14:00::
+7
+-
+1
+shows show%2:32:01::
+that
+*
+*
+f
+or
+0.70
+agree agree%2:32:00::
+,
+too too%4:02:00::
+many many%3:00:00::
+for
+independent independent%3:00:00::
+voting voting%1:04:00::
+.
+Each
+performance performance%1:04:00::
+of
+an
+n-trial
+binomial binomial%3:01:00::
+experiment experiment%1:04:00::
+results result%2:42:02::
+in
+some
+whole_number whole_number%1:23:00::
+from
+0 0%1:23:00::
+through
+n
+as
+the
+value value%1:09:00::
+of
+the
+random_variable random_variable%1:09:00::
+X
+,
+where
+*
+*
+f
+.
+We
+want want%2:37:00::
+to
+study study%2:31:02::
+the
+probability probability%1:07:01::
+function function%1:24:00::
+of
+this
+random_variable random_variable%1:09:00::
+.
+For_example for_example%4:02:00::
+,
+we
+are be%2:42:03::
+interested interested%3:00:00::
+in
+the
+number number%1:07:00::
+of
+bull's-eyes bull's_eye%1:04:00::
+,
+not not%4:02:00::
+which
+shots shot%1:04:00::
+were be%2:42:06::
+bull's-eyes bull's_eye%1:04:00::
+.
+A
+binomial binomial%3:01:00::
+experiment experiment%1:04:00::
+can
+produce produce%2:36:02::
+random_variables random_variable%1:09:00::
+other_than other_than%5:00:00:other:00
+the
+number number%1:07:00::
+of
+successes success%1:11:00::
+.
+For_example for_example%4:02:00::
+,
+the
+marksman marksman%1:18:00::
+gets get%2:40:01::
+5 5%5:00:00:cardinal:00
+shots shot%1:04:00::
+,
+but
+we
+take take%2:31:07::
+his
+score score%1:09:00::
+to
+be be%2:42:06::
+the
+number number%1:07:00::
+of
+shots shot%1:04:00::
+before
+his
+first first%3:00:00::
+bull's-eye bull's_eye%1:04:00::
+,
+that_is that_is%4:02:00::
+,
+0 0%1:23:00::
+,
+1 1%1:23:00::
+,
+2 2%1:23:00::
+,
+3 3%1:23:00::
+,
+4 4%1:23:00::
+(
+or
+5 5%1:23:00::
+,
+if
+he
+gets get%2:40:01::
+no
+bull's-eye bull's_eye%1:04:00::
+)
+.
+Thus thus%4:02:00::
+we
+do
+not not%4:02:00::
+score score%2:32:00::
+the
+number number%1:07:00::
+of
+bull's-eyes bull's_eye%1:04:00::
+,
+and
+the
+random_variable random_variable%1:09:00::
+is be%2:42:07::
+not not%4:02:00::
+the
+number number%1:07:00::
+of
+successes success%1:11:00::
+.
+The
+constancy constancy%1:07:00::
+of
+p
+and
+the
+independence independence%1:26:00::
+are be%2:42:06::
+the
+conditions condition%1:10:01::
+most most%4:02:01::
+likely likely%3:00:00::
+to
+give give%2:40:03::
+trouble trouble%1:09:00::
+in_practice in_practice%4:02:00::
+.
+Obviously obviously%4:02:00::
+,
+very very%4:02:00::
+slight slight%5:00:00:weak:00
+changes change%1:24:00::
+in
+p
+do
+not not%4:02:00::
+change change%2:30:02::
+the
+probabilities probability%1:07:01::
+much much%3:00:00::
+,
+and
+a
+slight slight%5:00:00:weak:00
+lack lack%1:26:00::
+of
+independence independence%1:26:00::
+may
+not not%4:02:00::
+make make%2:36:08::
+an
+appreciable appreciable%5:00:00:considerable:00
+difference difference%1:11:00::
+.
+(
+For_instance for_instance%4:02:00::
+,
+see see%4:02:00::
+Example example%1:09:02::
+2
+of
+Section section%1:10:00::
+5
+-
+5
+,
+on
+red red%5:00:01:chromatic:00
+cards card%1:06:00::
+in
+hands hand%1:14:00::
+of
+5
+.
+)
+On_the_other_hand on_the_other_hand%4:02:00::
+,
+even even%4:02:00::
+when
+the
+binomial binomial%3:01:00::
+model model%1:09:00::
+does
+not not%4:02:00::
+describe describe%2:32:00::
+well well%4:02:00::
+the
+physical_phenomenon physical_phenomenon%1:19:00::
+being
+studied study%2:31:02::
+,
+the
+binomial binomial%3:01:00::
+model model%1:09:00::
+may
+still still%4:02:01::
+be
+used use%2:34:01::
+as
+a
+baseline baseline%1:24:00::
+for
+comparative comparative%3:01:00::
+purposes purpose%1:07:00::
+;
+that_is that_is%4:02:00::
+,
+we
+may
+discuss discuss%2:32:01::
+the
+phenomenon phenomenon%1:03:00::
+in_terms_of in_terms_of%5:00:00:related:02
+its
+departures departure%1:11:01::
+from
+the
+binomial binomial%3:01:00::
+model model%1:09:00::
+.
+A
+binomial binomial%3:01:00::
+experiment experiment%1:04:00::
+consists_of consist_of%2:42:00::
+*
+*
+f
+independent independent%3:00:00::
+binomial binomial%3:01:00::
+trials trial%1:04:00::
+,
+all
+with
+the
+same same%3:00:04::
+probability probability%1:07:01::
+*
+*
+f
+of
+yielding yield%2:40:02::
+a
+success success%1:11:00::
+.
+The
+outcome outcome%1:11:00::
+of
+the
+experiment experiment%1:04:00::
+is be%2:42:07::
+X
+successes success%1:11:00::
+.
+The
+random_variable random_variable%1:09:00::
+X
+takes take%2:30:01::
+the
+values value%1:09:00::
+*
+*
+f
+with
+probabilities probability%1:07:01::
+*
+*
+f
+or
+,
+more more%3:00:01::
+briefly briefly%4:02:03::
+*
+*
+f
+.
+We
+shall
+find find%2:36:00::
+a
+formula formula%1:10:00::
+for
+the
+probability probability%1:07:01::
+of
+exactly exactly%4:02:01::
+x
+successes success%1:11:00::
+for
+given given%5:00:00:specified:00
+values value%1:09:00::
+of
+p
+and
+n
+.
+When
+each each%5:00:00:all(a):00
+number number%1:07:00::
+of
+successes success%1:11:00::
+x
+is
+paired pair%2:35:01::
+with
+its
+probability probability%1:07:01::
+of
+occurrence occurrence%1:11:00::
+*
+*
+f
+,
+the
+set set%1:14:02::
+of
+pairs pair%1:14:01::
+*
+*
+f
+,
+is be%2:42:06::
+a
+probability probability%1:07:01::
+function function%1:24:00::
+called called%5:00:00:titled:00
+a
+binomial_distribution binomial_distribution%1:09:00::
+.
+The
+choice choice%1:09:00::
+of
+p
+and
+n
+determines determine%2:32:03::
+the
+binomial_distribution binomial_distribution%1:09:00::
+uniquely uniquely%4:02:00::
+,
+and
+different different%5:00:00:other:00
+choices choice%1:09:00::
+always always%4:02:00::
+produce produce%2:36:02::
+different different%5:00:00:other:00
+distributions distribution%1:09:00::
+(
+except
+when
+*
+*
+f
+;
+then then%4:02:02::
+the
+number number%1:07:00::
+of
+successes success%1:11:00::
+is be%2:42:06::
+always always%4:02:00::
+0 0%1:23:00::
+)
+.
+The
+set set%1:14:00::
+of
+all all%3:00:00::
+binomial_distributions binomial_distribution%1:09:00::
+is
+called call%2:32:02::
+the
+family family%1:14:02::
+of
+binomial_distributions binomial_distribution%1:09:00::
+,
+but
+in
+general general%3:00:00::
+discussions discussion%1:10:02::
+this
+expression expression%1:10:03::
+is
+often often%4:02:00::
+shortened shorten%2:30:02::
+to
+``
+the
+binomial_distribution binomial_distribution%1:09:00::
+''
+,
+or
+even even%4:02:00::
+``
+the
+binomial binomial%3:01:00::
+''
+when
+the
+context context%1:10:00::
+is be%2:42:03::
+clear clear%3:00:00::
+.
+Binomial_distributions binomial_distribution%1:09:00::
+were
+treated treat%2:32:00::
+by
+James_Bernoulli person%1:03:00::
+about
+1700
+,
+and
+for
+this
+reason reason%1:16:00::
+binomial binomial%3:01:00::
+trials trial%1:04:00::
+are
+sometimes sometimes%4:02:01::
+called called%5:00:01:titled:00
+Bernoulli person%1:03:00::
+trials trial%1:04:00::
+.
+Each
+binomial binomial%3:01:00::
+trial trial%1:04:00::
+of
+a
+binomial binomial%3:01:00::
+experiment experiment%1:04:00::
+produces produce%2:36:02::
+either
+0 0%5:00:00:cardinal:00
+or
+1 1%5:00:00:cardinal:00
+success success%1:11:00::
+.
+Therefore therefore%4:02:00::
+each each%5:00:00:all(a):00
+binomial binomial%3:01:00::
+trial trial%1:04:00::
+can
+be
+thought_of think_of%2:31:01::
+as
+producing produce%2:36:02::
+a
+value value%1:09:00::
+of
+a
+random_variable random_variable%1:09:00::
+associated associate%2:31:00::
+with
+that
+trial trial%1:04:00::
+and
+taking take%2:30:01::
+the
+values value%1:09:00::
+0 0%1:23:00::
+and
+1 1%1:23:00::
+,
+with
+probabilities probability%1:07:01::
+q
+and
+p
+respectively respectively%4:02:00::
+.
+The
+several several%5:00:00:individual:00
+trials trial%1:04:00::
+of
+a
+binomial binomial%3:01:00::
+experiment experiment%1:04:00::
+produce produce%2:36:02::
+a
+new new%3:00:00::
+random_variable random_variable%1:09:00::
+X
+,
+the
+total total%5:00:00:whole:00
+number number%1:07:00::
+of
+successes success%1:11:00::
+,
+which
+is be%2:42:06::
+just just%4:02:00::
+the
+sum sum%1:09:01::
+of
+the
+random_variables random_variable%1:09:00::
+associated associate%2:31:00::
+with
+the
+single single%3:00:00::
+trials trial%1:04:00::
+.
+The
+marksman marksman%1:18:00::
+gets get%2:40:01::
+two two%5:00:00:cardinal:00
+bull's-eyes bull's_eye%1:04:00::
+,
+one one%5:00:00:cardinal:00
+on
+his
+third third%5:00:00:ordinal:00
+shot shot%1:04:00::
+and
+one one%5:00:00:cardinal:00
+on
+his
+fifth fifth%5:00:00:ordinal:00
+.
+The
+numbers number%1:07:00::
+of
+successes success%1:11:00::
+on
+the
+five five%5:00:00:cardinal:00
+individual individual%3:00:00::
+shots shot%1:04:00::
+are be%2:42:06::
+,
+then then%4:02:02::
+,
+0 0%1:23:00::
+,
+0 0%1:23:00::
+,
+1 1%1:23:00::
+,
+0 0%1:23:00::
+,
+1 1%1:23:00::
+.
+The
+number number%1:07:00::
+of
+successes success%1:11:00::
+on
+each each%5:00:00:all(a):00
+shot shot%1:04:00::
+is be%2:42:06::
+a
+value value%1:09:00::
+of
+a
+random_variable random_variable%1:09:00::
+that
+has have%2:42:00::
+values value%1:09:00::
+0 0%1:23:00::
+or
+1 1%1:23:00::
+,
+and
+there
+are be%2:42:04::
+5 5%5:00:00:cardinal:00
+such such%5:00:01:specified:00
+random_variables random_variable%1:09:00::
+here here%4:02:02::
+.
+Their
+sum sum%1:09:01::
+is be%2:42:07::
+X
+,
+the
+total total%5:00:00:whole:00
+number number%1:07:00::
+of
+successes success%1:11:00::
+,
+which
+in
+this
+experiment experiment%1:04:00::
+has have%2:42:00::
+the
+value value%1:09:00::
+*
+*
+f
+.

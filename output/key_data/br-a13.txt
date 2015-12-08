@@ -1,0 +1,2105 @@
+Rookie rookie%1:18:00::
+Ron_Nischwitz person%1:03:00::
+continued continue%2:42:00::
+his
+pinpoint pinpoint%5:00:00:precise:00
+pitching pitching%1:04:00::
+Monday monday%1:28:00::
+night night%1:28:00::
+as
+the
+Bears group%1:03:00::
+made_it make_it%2:42:00::
+two two%1:23:00::
+straight straight%5:00:00:continuous:01
+over
+Indianapolis indianapolis%1:15:00::
+,
+5
+-
+3
+.
+The
+husky husky%5:00:00:robust:00
+6 6%5:00:00:cardinal:00
+-
+3 3%5:00:00:cardinal:00
+,
+205
+-
+pound pound%1:23:09::
+lefthander left-hander%1:18:01::
+,
+was be%2:42:03::
+in
+command command%1:07:00::
+all_the_way all_the_way%4:02:09::
+before
+an
+on_the_scene on-the-scene%5:00:00:on-site:00
+audience audience%1:14:00::
+of
+only only%4:02:02::
+949
+and
+countless countless%5:00:00:incalculable:00
+of
+television television%1:10:00::
+viewers viewers%1:14:00::
+in
+the
+Denver denver%1:15:00::
+area area%1:15:01::
+.
+It
+was be%2:42:03::
+Nischwitz person%1:03:00::
+'
+third third%5:00:00:ordinal:00
+straight straight%5:00:00:continuous:01
+victory victory%1:11:00::
+of
+the
+new new%3:00:00::
+season season%1:28:02::
+and
+ran run%2:41:01::
+the
+Grizzlies group%1:03:00::
+'
+winning winning%1:04:00::
+streak streak%1:14:00::
+to
+four four%1:23:00::
+straight straight%5:00:00:continuous:01
+.
+They
+now now%4:02:00::
+lead lead%2:38:00::
+Louisville group%1:03:00::
+by
+a
+full full%5:00:01:whole:00
+game game%1:04:00::
+on
+top top%1:26:00::
+of
+the
+American_Association group%1:03:00::
+pack pack%1:14:03::
+.
+Nischwitz person%1:03:00::
+fanned fan%2:35:01::
+six six%5:00:00:cardinal:00
+and
+walked walk%2:33:00::
+only only%4:02:01::
+Charley_Hinton person%1:03:00::
+in
+the
+third third%5:00:00:ordinal:00
+inning inning%1:28:00::
+.
+He
+has
+given give%2:40:05::
+only only%4:02:02::
+the
+one one%5:00:00:cardinal:00
+pass pass%1:04:04::
+in
+his
+27 27%5:00:00:cardinal:00
+innings inning%1:28:00::
+,
+an
+unusual unusual%5:00:00:uncommon:00
+characteristic characteristic%1:09:00::
+for
+a
+southpaw southpaw%1:18:01::
+.
+The
+Bears group%1:03:00::
+took take%2:41:00::
+the
+lead lead%1:07:02::
+in
+the
+first first%5:00:00:ordinal:00
+inning inning%1:28:00::
+,
+as
+they
+did
+in
+Sunday sunday%1:28:00::
+'s
+opener opener%1:11:00::
+,
+and
+never never%4:02:00::
+lagged lag%2:38:00::
+.
+Dick_McAuliffe person%1:03:00::
+cracked crack%2:35:00::
+the
+first first%5:00:00:ordinal:00
+of
+his
+two two%5:00:00:cardinal:00
+doubles double%1:04:00::
+against
+Lefty lefty%1:18:00::
+Don_Rudolph person%1:03:00::
+to
+open open%2:41:00::
+the
+Bear group%1:03:00::
+'s
+attack attack%1:04:04::
+.
+After
+Al_Paschal person%1:03:00::
+grounded_out ground_out%2:35:00::
+,
+Jay_Cooke person%1:03:00::
+walked walk%2:33:00::
+and
+Jim_McDaniel person%1:03:00::
+singled single%2:35:00::
+home home%1:06:02::
+McAuliffe person%1:03:00::
+.
+Alusik person%1:03:00::
+then then%4:02:01::
+moved move%2:38:01::
+Cooke person%1:03:00::
+across
+with
+a
+line_drive line_drive%1:04:00::
+to
+left left%1:06:00::
+.
+Jay_Porter person%1:03:00::
+drew draw%2:36:01::
+a
+base_on_balls base_on_balls%1:04:00::
+to
+fill fill%2:30:01::
+the
+bases base%1:06:02::
+but
+Don_Wert person%1:03:00::
+'s
+smash smash%1:11:01::
+was
+knocked_down
+by
+Rudolph person%1:03:00::
+for
+the
+putout putout%1:04:00::
+.
+The
+Bears group%1:03:00::
+added add%2:30:00::
+two two%5:00:00:cardinal:00
+more more%3:00:02::
+in
+the
+fifth fifth%5:00:00:ordinal:00
+when
+McAuliffe person%1:03:00::
+dropped drop%2:35:00::
+a
+double double%1:04:00::
+into
+the
+leftfield leftfield%1:06:00::
+corner corner%1:15:02::
+,
+Paschal person%1:03:00::
+doubled double%2:35:00::
+down down%4:02:02::
+the
+rightfield rightfield%1:06:00::
+line line%1:15:01::
+and
+Cooke person%1:03:00::
+singled single%2:35:00::
+off
+Phil_Shartzer person%1:03:00::
+'s
+glove glove%1:06:01::
+.
+Nischwitz person%1:03:00::
+was
+working_on work_on%2:41:00::
+a
+3_hitter 3-hitter%1:04:00::
+when
+the
+Indians group%1:03:00::
+bunched bunch%2:38:00::
+three three%5:00:00:cardinal:00
+of
+their
+eight eight%5:00:00:cardinal:00
+hits hit%1:04:03::
+for
+two two%5:00:00:cardinal:00
+runs run%1:04:01::
+in
+the
+sixth sixth%5:00:00:ordinal:00
+.
+Chuck_Hinton person%1:03:00::
+tripled triple%2:35:00::
+to
+the
+rightfield rightfield%1:06:00::
+corner corner%1:15:02::
+,
+Cliff_Cook person%1:03:00::
+and
+Dan_Pavletich person%1:03:00::
+singled single%2:35:00::
+and
+Gaines person%1:03:00::
+'
+infielder infielder%1:18:00::
+roller roller%1:04:00::
+accounted_for account_for%2:42:00::
+the
+tallies tally%1:04:01::
+.
+The
+Bears group%1:03:00::
+added add%2:30:00::
+their
+last last%3:00:00::
+run run%1:04:01::
+in
+the
+sixth sixth%5:00:00:ordinal:00
+on
+Alusik person%1:03:00::
+'s
+double double%1:04:00::
+and
+outfield outfield%1:06:00::
+flies fly%1:04:00::
+by
+Porter person%1:03:00::
+and
+Wert person%1:03:00::
+.
+Gaines person%1:03:00::
+hammered hammer%2:35:00::
+the
+ball ball%1:06:01::
+over
+the
+left left%3:00:00::
+fence fence%1:06:00::
+for
+the
+third third%5:00:00:ordinal:00
+Indianapolis group%1:03:00::
+run run%1:04:01::
+in
+the
+ninth ninth%5:00:00:ordinal:00
+.
+Despite
+the
+45
+-
+degree degree%1:23:03::
+weather weather%1:19:00::
+the
+game game%1:04:00::
+was
+clicked_off click_off%2:30:00::
+in
+1
+:
+48
+,
+thanks thanks%1:10:00::
+to
+only only%4:02:02::
+three three%5:00:00:cardinal:00
+bases_on_balls base_on_balls%1:04:00::
+and
+some some%3:00:00::
+good good%3:00:01::
+infield infield%1:06:00::
+play play%1:04:04::
+.
+Chico_Ruiz person%1:03:00::
+made make%2:41:00::
+a
+spectacular spectacular%5:00:00:impressive:00
+play play%1:04:04::
+on
+Alusik person%1:03:00::
+'s
+grounder grounder%1:04:00::
+in
+the
+hole hole%1:25:00::
+in
+the
+fourth fourth%5:00:00:ordinal:00
+and
+Wert person%1:03:00::
+came_up come_up%2:36:03::
+with
+some some%3:00:00::
+good good%3:00:01::
+stops stop%1:04:00::
+and
+showed show%2:39:02::
+a
+strong strong%3:00:00::
+arm arm%1:08:00::
+at
+third_base third_base%1:06:00::
+.
+Cliff_Cook person%1:03:00::
+accounted_for account_for%2:42:00::
+three three%1:23:00::
+of
+the
+Tribe group%1:03:00::
+'s
+eight eight%5:00:00:cardinal:00
+hits hit%1:04:03::
+.
+It
+was be%2:42:03::
+the
+season season%1:28:02::
+'s
+first first%5:00:00:ordinal:00
+night_game night_game%1:04:00::
+and
+an
+obvious obvious%5:00:00:palpable:00
+refocusing refocusing%1:04:00::
+of
+the
+lights light%1:06:00::
+are be%2:42:03::
+in_order in_order%5:00:00:appropriate:00
+.
+The
+infield infield%1:06:00::
+was be%2:42:03::
+well well%4:02:05::
+flooded flooded%5:00:01:full:00
+but
+the
+expanded expanded%3:00:01::
+outfield outfield%1:06:00::
+was be%2:42:03::
+much much%4:02:00::
+too too%4:02:00::
+dark dark%3:00:01::
+.
+Mary_Dobbs_Tuttle person%1:03:00::
+was be%2:42:05::
+back back%4:02:05::
+at
+the
+organ organ%1:06:01::
+.
+Among
+the
+spectators spectator%1:18:00::
+was be%2:42:04::
+the
+noted noted%5:00:00:known:00
+exotic_dancer exotic_dancer%1:18:04::
+,
+Patti_Waggin person%1:03:00::
+who
+is be%2:42:06::
+Mrs._Don_Rudolph person%1:03:00::
+when
+off
+the
+stage stage%1:06:00::
+.
+Lefty lefty%1:18:00::
+Wyman_Carey person%1:03:00::
+,
+another
+Denver denver%1:15:00::
+rookie rookie%1:18:00::
+,
+will
+be be%2:42:05::
+on
+the
+mound mound%1:06:01::
+against
+veteran veteran%1:18:00::
+John_Tsitouris person%1:03:00::
+at
+8 8%5:00:00:cardinal:00
+o'clock o'clock%4:02:00::
+Tuesday tuesday%1:28:00::
+night night%1:28:00::
+.
+Ed_Donnelly person%1:03:00::
+is
+still still%4:02:01::
+bothered bother%2:41:01::
+by
+a
+side side%1:08:00::
+injury injury%1:26:00::
+and
+will
+miss miss%2:42:01::
+his
+starting starting%1:04:00::
+turn turn%1:04:06::
+.
+Kenny_Lane person%1:03:00::
+of
+Muskegon location%1:03:00::
+,
+Mich. location%1:03:00::
+,
+world world%1:14:00::
+'s
+seventh seventh%5:00:00:ordinal:00
+ranked ranked%5:00:00:hierarchical:00
+lightweight lightweight%1:18:00::
+,
+had have%2:39:06::
+little little%3:00:03::
+trouble trouble%1:26:01::
+in
+taking take%2:40:00::
+a
+unanimous unanimous%5:00:00:accordant:00
+decision decision%1:11:02::
+over
+Rip_Randall person%1:03:00::
+of
+Tyler location%1:03:00::
+,
+Tex. location%1:03:00::
+,
+here here%4:02:00::
+Monday monday%1:28:00::
+night night%1:28:00::
+.
+Billy_Gardner person%1:03:00::
+'s
+line_double line_double%1:04:00::
+,
+which
+just just%4:02:00::
+eluded elude%2:38:00::
+the
+diving dive%2:38:00::
+Minnie_Minoso person%1:03:00::
+in
+left_field leftfield%1:06:00::
+,
+drove_in drive_in%2:33:00::
+Jim_Lemon person%1:03:00::
+with
+the
+winning winning%5:00:02:successful:00
+run run%1:04:01::
+with
+two two%1:23:00::
+out out%3:00:02::
+in
+the
+last last%1:28:00::
+of
+the
+ninth ninth%5:00:00:ordinal:00
+to
+give give%2:36:03::
+the
+Minnesota_Twins group%1:03:00::
+a
+6
+-
+5
+victory victory%1:11:00::
+over
+the
+Chicago_White_Sox group%1:03:00::
+Monday monday%1:28:00::
+.
+Lemon person%1:03:00::
+was be%2:42:05::
+on
+with
+his
+fourth fourth%5:00:00:ordinal:00
+single single%1:04:00::
+of
+the
+game game%1:04:00::
+,
+a
+liner liner%1:04:00::
+to
+center center%1:06:02::
+.
+He
+came come%2:38:04::
+all_the_way all_the_way%4:02:09::
+around around%4:02:05::
+on
+Gardner person%1:03:00::
+'s
+hit hit%1:04:03::
+before
+5777
+fans fan%1:18:01::
+.
+It
+was be%2:42:06::
+Gardner person%1:03:00::
+'s
+second second%5:00:00:ordinal:00
+run_batted_in run_batted_in%1:04:00::
+of
+the
+game game%1:04:00::
+and
+his
+only only%5:00:00:single(a):00
+ones
+of
+the
+year year%1:28:01::
+.
+Turk_Lown person%1:03:00::
+was
+tagged tag%2:35:00::
+with
+the
+loss loss%1:04:00::
+,
+his
+second second%5:00:00:ordinal:00
+against
+no
+victories victory%1:11:00::
+,
+while
+Ray_Moore person%1:03:00::
+won win%2:33:00::
+his
+second second%5:00:00:ordinal:00
+game game%1:04:00::
+against
+a
+single single%3:00:00::
+loss loss%1:04:00::
+.
+The
+Twins group%1:03:00::
+tied tie%2:33:00::
+the
+score score%1:23:00::
+in
+the
+sixth sixth%5:00:00:ordinal:00
+inning inning%1:28:00::
+when
+Reno_Bertoia person%1:03:00::
+beat_out beat_out%2:33:00::
+a
+high high%3:00:01::
+chopper chopper%1:04:00::
+to
+third_base third_base%1:06:00::
+and
+scored score%2:33:00::
+on
+Lenny_Green person%1:03:00::
+'s
+double double%1:04:00::
+to
+left left%3:00:00::
+.
+The
+White_Sox group%1:03:00::
+had
+taken
+a
+5
+-
+4
+lead lead%1:07:02::
+in
+the
+top top%1:28:00::
+of
+the
+sixth sixth%5:00:00:ordinal:00
+on
+a
+pair pair%1:14:01::
+of
+pop_fly pop_fly%1:04:00::
+hits hit%1:04:03::
+-
+a
+triple triple%1:04:00::
+by
+Roy_Sievers person%1:03:00::
+and
+single single%1:04:00::
+by
+Camilo_Carreon person%1:03:00::
+-
+a
+walk walk%1:04:01::
+and
+a
+sacrifice_fly sacrifice_fly%1:04:00::
+.
+Jim_Landis person%1:03:00::
+'
+380
+-
+foot foot%1:23:00::
+home_run home_run%1:04:00::
+over
+left left%3:00:00::
+in
+the
+first first%5:00:00:ordinal:00
+inning inning%1:28:00::
+gave give%2:36:03::
+the
+Sox group%1:03:00::
+a
+1
+-
+0
+lead lead%1:07:02::
+,
+but
+Harmon_Killebrew person%1:03:00::
+came_back come_back%2:38:01::
+in
+the
+bottom bottom%1:28:00::
+of
+the
+first first%5:00:00:ordinal:00
+with
+his
+second second%5:00:00:ordinal:00
+homer homer%1:04:00::
+in
+two two%5:00:00:cardinal:00
+days day%1:28:00::
+with
+the
+walking walk%2:33:00::
+Bob_Allison person%1:03:00::
+aboard aboard%4:02:00::
+.
+Al_Smith person%1:03:00::
+'s
+340
+-
+blast blast%1:04:00::
+over
+left left%3:00:00::
+in
+the
+fourth fourth%5:00:00:ordinal:00
+-
+his
+fourth fourth%5:00:00:ordinal:00
+homer homer%1:04:00::
+of
+the
+campaign campaign%1:04:02::
+-
+tied tie%2:33:00::
+the
+score score%1:23:00::
+and
+Carreon person%1:03:00::
+'s
+first first%5:00:00:ordinal:00
+major_league major_league%1:14:00::
+home_run home_run%1:04:00::
+in
+the
+fifth fifth%5:00:00:ordinal:00
+put put%2:35:00::
+the
+Sox group%1:03:00::
+back back%4:02:05::
+in_front in_front%4:02:00::
+.
+A
+double double%1:04:00::
+by
+Green person%1:03:00::
+,
+Allison person%1:03:00::
+'s
+run run%1:04:01::
+scoring score%2:33:00::
+2_baser two-baser%1:04:00::
+,
+an
+infield infield%1:06:00::
+single single%1:04:00::
+by
+Lemon person%1:03:00::
+and
+Gardner person%1:03:00::
+'s
+solid solid%5:00:00:good:01
+single single%1:04:00::
+to
+center center%1:06:02::
+put put%2:35:00::
+the
+Twins group%1:03:00::
+back back%4:02:05::
+in_front in_front%4:02:00::
+in
+the
+last last%1:28:00::
+of
+the
+fifth fifth%5:00:00:ordinal:00
+.
+Boston_Red_Sox group%1:03:00::
+Outfielder outfielder%1:18:00::
+Jackie_Jensen person%1:03:00::
+said say%2:32:00::
+Monday monday%1:28:00::
+night night%1:28:00::
+he
+was be%2:42:03::
+through
+playing play%2:33:00::
+baseball baseball%1:04:00::
+.
+``
+I
+'ve
+had
+it
+''
+,
+he
+told tell%2:32:04::
+a
+newsman newsman%1:18:00::
+.
+``
+I
+know know%2:31:01::
+when
+my
+reflexes reflex%1:04:00::
+are be%2:42:03::
+gone gone%5:00:00:destroyed:00
+and
+I'm
+not not%4:02:00::
+going_to
+be be%2:42:03::
+any
+25th 25th%5:00:00:ordinal:00
+man man%1:18:00::
+on
+the
+ball_club ball_club%1:14:00::
+''
+.
+This
+was
+the
+first first%3:00:00::
+word word%1:10:03::
+from
+Jensen person%1:03:00::
+on
+his
+sudden sudden%3:00:00::
+walkout walkout%1:04:00::
+.
+Jensen person%1:03:00::
+got get%2:40:01::
+only only%4:02:02::
+six six%5:00:00:cardinal:00
+hits hit%1:04:03::
+in
+46
+at-bats at-bat%1:04:00::
+for
+a
+.130
+batting batting%1:04:00::
+average average%1:09:00::
+in
+the
+first first%3:00:00::
+12 12%5:00:00:cardinal:00
+games game%1:04:00::
+.
+He
+took take%2:38:02::
+a
+midnight midnight%1:28:00::
+train train%1:06:00::
+out
+of
+Cleveland cleveland%1:15:00::
+Saturday saturday%1:28:00::
+,
+without
+an
+official official%3:00:00::
+word word%1:10:03::
+to
+anybody
+,
+and
+has
+stayed stay%2:30:00::
+away away%4:02:03::
+from
+newsmen newsman%1:18:00::
+on
+his
+train train%1:06:00::
+trip trip%1:04:00::
+across_the_nation across_the_nation%4:02:00::
+to
+Reno location%1:03:00::
+,
+Nev. location%1:03:00::
+,
+where
+his
+wife wife%1:18:00::
+,
+former former%5:00:01:past:00
+Olympic olympic%3:01:00::
+Diving diving%1:11:00::
+Champion champion%1:18:01::
+Zoe_Ann_Olsen person%1:03:00::
+,
+awaited await%2:31:00::
+.
+She
+said say%2:32:00::
+,
+when
+she
+learned learn%2:31:01::
+Jackie person%1:03:00::
+was
+heading_home head_home%2:38:00::
+:
+``
+I'm
+just just%4:02:00::
+speculating speculate%2:31:01::
+,
+but
+I
+have_to
+think think%2:31:03::
+Jack person%1:03:00::
+feels feel%2:31:00::
+he
+'s
+hurting hurt%2:30:04::
+Boston group%1:03:00::
+'s
+chances chance%1:26:00::
+''
+.
+The
+Union_Pacific_Railroad group%1:03:00::
+streamliner streamliner%1:06:00::
+,
+City_of_San_Francisco
+,
+stopped stop%2:38:02::
+in
+Ogden location%1:03:00::
+,
+Utah location%1:03:00::
+,
+for
+a_few a_few%5:00:00:few:00
+minutes minute%1:28:00::
+.
+Sports_Writer sports_writer%1:18:00::
+Ensign_Ritchie person%1:03:00::
+of
+the
+Ogden_Standard_Examiner
+went_to go_to%2:38:00::
+his
+compartment compartment%1:06:00::
+to
+talk talk%2:32:01::
+with
+him
+.
+The
+conductor conductor%1:18:01::
+said say%2:32:00::
+to
+Ritchie person%1:03:00::
+:
+``
+I
+do
+n't n't%4:02:00::
+think think%2:31:03::
+you
+want want%2:37:00::
+to
+talk talk%2:32:01::
+to
+him
+.
+You
+'ll
+probably probably%4:02:00::
+get get%2:30:03::
+a
+ball ball%1:06:01::
+bat bat%2:35:01::
+on
+the
+head head%1:08:00::
+.
+He
+'s
+mad mad%5:00:00:angry:00
+at
+the
+world world%1:17:01::
+''
+.
+But
+Jackie person%1:03:00::
+had
+gone_into go_into%2:38:00::
+the
+station station%1:06:00::
+.
+Ritchie person%1:03:00::
+walked walk%2:38:00::
+up
+to
+him
+at
+the
+magazine magazine%1:10:00::
+stand stand%1:06:04::
+.
+``
+I
+told tell%2:32:00::
+him
+who
+I
+was be%2:42:06::
+and
+he
+was be%2:42:03::
+quite quite%4:02:02::
+cold cold%3:00:02::
+.
+But
+he
+warmed_up warm_up%2:30:01::
+after
+a
+while while%1:28:00::
+.
+I
+told tell%2:32:00::
+him
+what
+Liston person%1:03:00::
+had
+said say%2:32:00::
+and
+he
+said say%2:32:00::
+Liston person%1:03:00::
+was be%2:42:03::
+a
+double-crosser double-crosser%1:18:00::
+and
+said say%2:32:00::
+anything
+he
+(
+Liston person%1:03:00::
+)
+got get%2:40:00::
+was be%2:42:03::
+through
+a
+keyhole keyhole%1:06:00::
+.
+He
+said say%2:32:00::
+he
+had
+never never%4:02:00::
+talked talk%2:32:01::
+to
+Liston person%1:03:00::
+''
+.
+Liston person%1:03:00::
+is be%2:42:06::
+Bill_Liston person%1:03:00::
+,
+baseball baseball%1:04:00::
+writer writer%1:18:00::
+for
+the
+Boston_Traveler group%1:03:00::
+,
+who
+quoted quote%2:32:00::
+Jensen person%1:03:00::
+as
+saying say%2:32:00::
+:
+``
+I
+can't
+hit hit%2:35:03::
+anymore anymore%4:02:01::
+.
+I
+can't
+run run%2:38:00::
+.
+I
+can't
+throw throw%2:35:00::
+.
+Suddenly suddenly%4:02:00::
+my
+reflexes reflex%1:04:00::
+are be%2:42:03::
+gone gone%5:00:00:destroyed:00
+.
+Just just%4:02:01::
+when
+it
+seems seem%2:39:01::
+baseball baseball%1:04:00::
+might
+be
+losing lose%2:35:00::
+its
+grip grip%1:04:00::
+on
+the
+masses masses%1:14:00::
+up pop_up%2:39:00::
+pops pop%2:35:00::
+heroics heroics%1:04:00::
+to
+start start%2:30:01::
+millions millions%1:23:00::
+of
+tongues tongue%1:08:00::
+to
+wagging wag%2:38:00::
+.
+And
+so so%4:02:05::
+it
+was be%2:42:03::
+over
+the
+weekend weekend%1:28:00::
+what
+with
+40 40%5:00:00:cardinal:00
+-
+year year%1:28:01::
+old old%3:00:02::
+Warren_Spahn person%1:03:00::
+pitching pitch%2:35:00::
+his
+no-hit no-hit%5:00:00:successful:00
+masterpiece masterpiece%1:04:00::
+against
+the
+Giants group%1:03:00::
+and
+the
+Giants group%1:03:00::
+'
+Willie_Mays person%1:03:00::
+retaliating retaliate%2:33:01::
+with
+a
+record record%1:04:00::
+tying tie%2:33:00::
+4 4%5:00:00:cardinal:00
+-
+homer homer%1:04:00::
+spree spree%1:04:00::
+Sunday sunday%1:28:00::
+.
+Both
+,
+of_course of_course%4:02:00::
+,
+were be%2:42:03::
+remarkable remarkable%5:00:00:extraordinary:00
+feats feat%1:04:00::
+and
+further further%4:02:02::
+embossed emboss%2:35:00::
+the
+fact fact%1:09:01::
+that
+baseball baseball%1:04:00::
+rightfully rightfully%4:02:00::
+is be%2:42:03::
+the
+national national%3:01:00::
+pastime pastime%1:04:00::
+.
+Of
+the
+two two%5:00:00:cardinal:00
+cherished cherished%5:00:00:loved:00
+achievements achievement%1:04:00::
+the
+elderly elderly%5:00:00:old:02
+Spahn person%1:03:00::
+'s
+hitless hitless%5:00:00:unsuccessful:00
+pitching pitching%1:04:00::
+probably probably%4:02:00::
+reached reach%2:32:00::
+the
+most most%3:00:02::
+hearts heart%1:09:00::
+.
+It
+was be%2:42:03::
+a
+real real%3:00:00::
+stimulant stimulant%1:09:00::
+to
+a_lot
+of
+guys guy%1:18:00::
+I
+know know%2:31:00::
+who
+have
+moved move%2:38:00::
+past
+the
+2 2%5:00:00:cardinal:00
+-
+score score%1:14:00::
+year year%1:28:01::
+milestone milestone%1:10:01::
+.
+And
+one
+of
+the
+Milwaukee group%1:03:00::
+rookies rookie%1:18:00::
+sighed sigh%2:29:00::
+and
+remarked remark%2:32:00::
+,
+``
+Wish wish%2:37:00::
+I
+was be%2:42:03::
+40 40%5:00:00:cardinal:00
+,
+and
+a
+top top%3:00:00::
+grade grade%1:26:00::
+big_leaguer big_leaguer%1:18:00::
+.
+THE
+MODEST modest%3:00:02::
+AND
+HAPPY
+Spahn person%1:03:00::
+waved_off wave_off%2:30:00::
+his
+new new%3:00:00::
+laurels laurels%1:10:00::
+as
+one
+of
+those
+good good%3:00:01::
+days day%1:28:03::
+.
+But
+there
+surely surely%4:02:00::
+can
+be be%2:42:00::
+no_doubt no_doubt%4:02:00::
+about
+the
+slender slender%5:00:00:thin:03
+southpaw southpaw%1:18:01::
+belonging belong%2:42:00::
+with
+the
+all_time all-time%5:00:00:incomparable:00
+great great%5:00:01:important:00
+lefthanders left-hander%1:18:01::
+in
+the
+game game%1:04:00::
+'s
+history history%1:28:00::
+.
+Yes
+,
+with
+Bob_Grove person%1:03:00::
+,
+Carl_Hubbell person%1:03:00::
+,
+Herb_Pennock person%1:03:00::
+,
+Art_Nehf person%1:03:00::
+,
+Vernon_Gomez person%1:03:00::
+,
+et_al
+.
+Spahn person%1:03:00::
+not_only not_only%4:02:00::
+is be%2:42:03::
+a
+superior superior%3:00:02::
+pitcher pitcher%1:18:00::
+but
+a
+gentlemanly gentlemanly%5:00:00:refined:01
+fine fine%5:00:00:superior:02
+fellow fellow%1:18:00::
+,
+a
+ball_player ballplayer%1:18:00::
+'s
+ball_player ballplayer%1:18:00::
+,
+as
+they
+say say%2:32:00::
+in
+the
+trade trade%1:14:00::
+.
+I
+remember remember%2:31:00::
+his
+beardown beardown%5:00:00:strong:00
+performance performance%1:04:00::
+in
+a
+meaningless meaningless%3:00:00::
+exhibition_game exhibition_game%1:04:00::
+at
+Bears_Stadium location%1:03:00::
+Oct. oct%1:28:00::
+14
+,
+1951
+,
+before
+a
+new new%3:00:00::
+record record%5:00:00:best:00
+crowd crowd%1:14:00::
+for
+the
+period period%1:28:00::
+of
+18792
+.
+``
+Spahnie person%1:03:00::
+does
+n't n't%4:02:00::
+know know%2:31:03::
+how
+to
+merely merely%4:02:00::
+go_through_the_motions
+''
+,
+remarked remark%2:32:00::
+Enos_Slaughter person%1:03:00::
+,
+another
+all-out all-out%5:00:00:complete:00
+guy guy%1:18:00::
+,
+who
+played play%2:33:00::
+rightfield rightfield%1:06:00::
+that
+day day%1:28:01::
+and
+popped pop%2:35:00::
+one
+over
+the
+clubhouse clubhouse%1:06:00::
+.
+The
+spectacular spectacular%5:00:00:impressive:00
+Mays person%1:03:00::
+,
+who
+reaches reach%2:38:00::
+a
+decade decade%1:28:00::
+in
+the
+big_leagues big_league%1:14:00::
+come
+May may%1:28:00::
+25
+,
+joined join%2:41:01::
+six six%5:00:00:cardinal:00
+other other%3:00:00::
+sluggers slugger%1:18:00::
+who
+walloped wallop%2:35:00::
+four four%5:00:00:cardinal:00
+home_runs home_run%1:04:00::
+in
+a
+span span%1:28:00::
+of
+nine nine%5:00:00:cardinal:00
+innings inning%1:28:00::
+.
+Incidentally incidentally%4:02:00::
+,
+only only%4:02:02::
+two two%5:00:00:cardinal:00
+did
+it
+before
+a
+home home%3:00:00::
+audience audience%1:14:00::
+.
+Bobby_Lowe person%1:03:00::
+of
+Boston boston%1:15:00::
+was
+the
+first first%3:00:00::
+to
+hit hit%2:35:03::
+four four%5:00:00:cardinal:00
+at
+home home%1:06:02::
+and
+Gil_Hodges person%1:03:00::
+turned_the_trick
+in
+Brooklyn brooklyn%1:15:00::
+'s
+Ebbetts_Field location%1:03:00::
+.
+Ed_Delahanty person%1:03:00::
+and
+Chuck_Klein person%1:03:00::
+of
+the
+Phillies group%1:03:00::
+,
+the
+Braves group%1:03:00::
+'
+Joe_Adcock person%1:03:00::
+,
+Lou_Gehrig person%1:03:00::
+of
+the
+Yankees group%1:03:00::
+,
+Pat_Seerey person%1:03:00::
+of
+the
+White_Sox group%1:03:00::
+and
+Rocky_Colavito person%1:03:00::
+,
+then then%4:02:01::
+with
+Cleveland group%1:03:00::
+,
+made make%2:36:00::
+their
+history history%1:28:00::
+on_the_road on_the_road%1:04:00::
+.
+Willie person%1:03:00::
+'s
+big big%5:00:00:important:00
+day day%1:28:01::
+revived revive%2:29:01::
+the
+running running%5:00:00:continual:00
+argument argument%1:10:01::
+about
+the
+relative relative%3:00:00::
+merits merit%1:07:02::
+of
+Mays person%1:03:00::
+and
+Mickey_Mantle person%1:03:00::
+.
+This
+is be%2:42:03::
+an
+issue issue%1:09:01::
+which
+boils_down boil_down%2:30:03::
+to
+a
+matter matter%1:09:01::
+of
+opinion opinion%1:09:00::
+,
+depending_on depending_on%5:00:00:conditional:00
+whether
+you
+'re
+an
+American group%1:03:00::
+or
+National group%1:03:00::
+fan fan%1:18:01::
+and
+anti anti%3:00:00::
+or
+pro pro%3:00:00::
+Yankee group%1:03:00::
+.
+The
+record_books recordbook%1:10:00::
+,
+however however%4:02:00::
+,
+would
+favor favor%2:41:00::
+the
+Giants group%1:03:00::
+'
+ace ace%1:18:00::
+.
+In
+four four%5:00:00:cardinal:00
+of
+his
+nine nine%5:00:00:cardinal:00
+previous previous%5:00:00:past:00
+seasons season%1:28:02::
+Mays person%1:03:00::
+hit hit%2:35:03::
+as_many_as
+25 25%5:00:00:cardinal:00
+home_runs home_run%1:04:00::
+and
+stole steal%2:33:00::
+as_many_as
+25 25%5:00:00:cardinal:00
+bases base%1:06:02::
+.
+Once once%4:02:00::
+the
+figure figure%1:23:00::
+was be%2:42:06::
+30
+-
+30
+.
+Willie person%1:03:00::
+'s
+lifetime lifetime%1:28:00::
+batting batting%1:04:00::
+average average%1:09:00::
+of
+.318
+is be%2:42:03::
+11
+points point%1:23:01::
+beyond
+Mickey's person%1:03:00::
+.
+The
+Giants group%1:03:00::
+who
+had
+been be%2:42:03::
+anemic anemic%5:00:00:weak:00
+with
+the
+bat bat%1:06:01::
+in
+their
+windy windy%5:00:00:stormy:00
+Candlestick_Park location%1:03:00::
+suddenly suddenly%4:02:00::
+found find%2:36:00::
+the
+formula formula%1:10:01::
+in
+Milwaukee milwaukee%1:15:00::
+'s
+park park%1:06:00::
+.
+It
+will
+forever forever%4:02:00::
+be be%2:42:03::
+a
+baseball baseball%1:04:00::
+mystery mystery%1:09:00::
+how
+a
+team team%1:14:00::
+will
+suddenly suddenly%4:02:00::
+start start%2:30:00::
+hitting hit%1:04:03::
+after
+a
+distressing distressing%5:00:00:heavy:02
+slump slump%1:22:00::
+.
+THE
+DENVER-AREA
+TV_audience tv_audience%1:14:00::
+was be%2:42:03::
+privileged privileged%3:00:00::
+to
+see see%2:39:03::;2:39:00::
+Mays person%1:03:00::
+'
+four four%5:00:00:cardinal:00
+home_runs home_run%1:04:00::
+,
+thanks thank%2:32:00::
+to
+a
+new new%3:00:00::
+arrangement arrangement%1:09:01::
+made make%2:41:00::
+by
+Bob_Howsam person%1:03:00::
+that
+the
+games game%1:04:00::
+are
+not not%4:02:00::
+to
+be be%2:42:03::
+blacked_out black_out%2:30:00::
+when
+his
+Bears group%1:03:00::
+are
+playing play%2:33:00::
+at_home at_home%4:02:01::
+.
+This
+rule rule%1:09:00::
+providing_for provide_for%2:42:01::
+a
+blackout blackout%1:28:00::
+of
+televised televise%2:32:00::
+baseball baseball%1:04:00::
+30_minutes 30_minutes%1:28:00::
+before
+the
+start start%1:28:00::
+of
+a
+major major_league%1:14:00::
+or
+minor_league minor_league%1:14:00::
+game game%1:04:00::
+in
+any
+area area%1:15:01::
+comes come%2:42:04::
+from
+the
+game game%1:04:00::
+'s
+top top%5:00:00:important:00
+rulers ruler%1:18:00::
+.
+The
+last last%5:00:00:past:00
+couple couple%1:23:00::
+of
+years year%1:28:01::
+the
+Bears group%1:03:00::
+management management%1:14:00::
+got_the_business
+from
+the
+``
+Living_Room_Athletic_Club group%1:03:00::
+''
+when
+games game%1:04:00::
+were
+cut_off cut_off%2:32:00::
+.
+Actually actually%4:02:00::
+they
+were be%2:42:03::
+helpless helpless%5:00:01:powerless:00
+to
+do
+anything
+about
+the
+nationwide nationwide%5:00:00:wide:00
+policy policy%1:09:00::
+.
+This
+year year%1:28:01::
+,
+I
+am
+told tell%2:32:00::
+,
+the
+CBS group%1:03:00::
+network network%1:14:00::
+will
+continue continue%2:42:01::
+to
+abide_by abide_by%2:41:00::
+the
+rule rule%1:09:00::
+but but%4:02:01::
+NBC group%1:03:00::
+will
+play play%2:33:00::
+to
+a
+conclusion conclusion%1:09:00::
+here here%4:02:00::
+.
+There
+are be%2:42:00::
+two two%5:00:00:cardinal:00
+more more%3:00:02::
+Sunday sunday%1:28:00::
+afternoons afternoon%1:28:00::
+when
+the
+situation situation%1:26:00::
+will
+arise arise%2:30:00::
+.
+It
+is be%2:42:03::
+an
+irritable irritable%5:00:00:ill-natured:00
+rule rule%1:09:00::
+that
+does
+baseball baseball%1:04:00::
+more more%3:00:01::
+harm harm%1:11:01::
+than
+good good%1:07:01::
+,
+especially especially%4:02:00::
+at
+the
+minor_league minor_league%1:14:00::
+level level%1:26:00::
+.
+You
+would
+be be%2:42:03::
+surprised surprised%3:00:00::
+how
+many many%3:00:00::
+fans fan%1:18:01::
+purposely purposely%4:02:00::
+stayed stay%2:38:00::
+away away%4:02:00::
+from
+Bears_Stadium location%1:03:00::
+last last%5:00:00:past:00
+year year%1:28:01::
+because
+of
+the
+television television%1:10:00::
+policy policy%1:09:00::
+.
+This
+dissatisfaction dissatisfaction%1:12:00::
+led lead%2:32:00::
+to
+Howsam person%1:03:00::
+'s
+request request%1:10:01::
+that
+the
+video video%1:06:00::
+not not%4:02:00::
+be
+terminated terminate%2:30:01::
+before
+the
+end end%1:11:00::
+of
+the
+game game%1:04:00::
+.
+The
+powerful powerful%3:00:00::
+New_York new_york%1:15:01::
+Yankees group%1:03:00::
+won win%2:33:00::
+their
+19th 19th%5:00:00:ordinal:00
+world_series world_series%1:11:00::
+in
+a
+5 5%5:00:00:cardinal:00
+-
+game game%1:04:00::
+romp romp%1:11:00::
+over
+outclassed outclassed%5:00:00:inferior:01
+Cincinnati group%1:03:00::
+,
+crushing crush%2:33:00::
+the
+Reds group%1:03:00::
+in
+a
+humiliating humiliating%5:00:00:undignified:00
+13
+-
+5
+barrage barrage%1:04:00::
+Monday monday%1:28:00::
+in
+the
+loosely loosely%4:02:00::
+played played%3:44:00::
+finale finale%1:11:00::
+.
+With
+Mickey_Mantle person%1:03:00::
+and
+Yogi_Berra person%1:03:00::
+both
+out_of_action out_of_action%5:00:00:injured:00
+due_to due_to%5:00:00:attributable:00
+injuries injury%1:26:00::
+,
+the
+American_League group%1:03:00::
+champs champ%1:18:00::
+still still%4:02:04::
+mounted mount%2:36:00::
+a
+15 15%5:00:00:cardinal:00
+-
+hit hit%1:04:03::
+attack attack%1:04:04::
+against
+a
+parade parade%1:14:02::
+of
+eight eight%5:00:00:cardinal:00
+Cincinnati group%1:03:00::
+pitchers pitcher%1:18:00::
+,
+the
+most most%3:00:01::
+ever ever%4:02:04::
+used use%2:34:01::
+by
+one one%5:00:00:cardinal:00
+team team%1:14:00::
+in
+a
+series series%1:11:00::
+game game%1:04:00::
+.
+Johnny_Blanchard person%1:03:00::
+,
+Mantle person%1:03:00::
+'s
+replacement replacement%1:18:02::
+,
+slammed slam%2:35:00::
+a
+2 2%5:00:00:cardinal:00
+-
+run run%1:04:01::
+homer homer%1:04:00::
+as
+the
+Yankees group%1:03:00::
+routed rout%2:33:00::
+loser loser%1:18:01::
+Joey_Jay person%1:03:00::
+in
+a
+5 5%5:00:00:cardinal:00
+-
+run run%1:04:01::
+first first%3:00:00::
+inning inning%1:28:00::
+.
+Hector_Lopez person%1:03:00::
+,
+subbing sub%2:40:00::
+for
+Berra person%1:03:00::
+,
+smashed smash%2:35:00::
+a
+3 3%5:00:00:cardinal:00
+-
+run run%1:04:01::
+homer homer%1:04:00::
+off
+Bill_Henry person%1:03:00::
+during
+another
+5 5%5:00:00:cardinal:00
+-
+run run%1:04:01::
+explosion explosion%1:04:00::
+in
+the
+fourth fourth%5:00:00:ordinal:00
+.
+The
+Yanks group%1:03:00::
+also also%4:02:00::
+took take%2:41:04::
+advantage advantage%1:07:00::
+of
+three three%5:00:00:cardinal:00
+Cincinnati group%1:03:00::
+errors error%1:04:03::
+.
+The
+crowd crowd%1:14:00::
+of
+32589
+had have%2:40:04::
+only only%5:00:00:single(a):00
+two two%5:00:00:cardinal:00
+chances chance%1:26:00::
+to
+applaud applaud%2:32:01::
+.
+In
+the
+third third%5:00:00:ordinal:00
+Frank_Robinson person%1:03:00::
+hammered hammer%2:35:00::
+a
+long long%3:00:01::
+home_run home_run%1:04:00::
+deep deep%5:00:00:distant:01
+into
+the
+corner corner%1:15:02::
+of
+the
+bleachers bleachers%1:06:00::
+in
+right right%1:06:00::
+center center%1:06:02::
+,
+about
+400
+feet foot%1:23:00::
+away away%5:00:00:distant:01
+,
+with
+two two%5:00:00:cardinal:00
+men man%1:18:00::
+on
+.
+Momentarily momentarily%4:02:00::
+the
+Reds group%1:03:00::
+were be%2:42:05::
+back back%4:02:05::
+in
+the
+ball_game ball_game%1:04:00::
+,
+trailing trail%2:38:02::
+only only%4:02:02::
+6
+-
+3
+,
+but
+the
+drive drive%1:04:02::
+fizzled fizzle%2:42:00::
+when
+John_Edwards person%1:03:00::
+fouled_out foul_out%2:35:00::
+with
+men man%1:18:00::
+on
+second second%5:00:00:ordinal:00
+and
+third third%5:00:00:ordinal:00
+and
+two two%5:00:00:cardinal:00
+out out%3:00:02::
+.
+In
+the
+fifth fifth%5:00:00:ordinal:00
+,
+Wally_Post person%1:03:00::
+slashed slash%2:35:01::
+a
+2 2%5:00:00:cardinal:00
+-
+run run%1:04:01::
+homer homer%1:04:00::
+off
+Bud_Daley person%1:03:00::
+,
+but
+by
+that
+time time%1:11:00::
+the
+score score%1:23:00::
+was be%2:42:06::
+11
+-
+5
+and
+it
+really really%4:02:03::
+did
+n't n't%4:02:00::
+matter matter%2:42:00::
+.
+The
+Yankee group%1:03:00::
+triumph triumph%1:11:00::
+made make%2:30:00::
+Ralph_Houk person%1:03:00::
+only only%5:00:00:single(a):00
+the
+third third%5:00:00:ordinal:00
+man man%1:18:00::
+to
+lead lead%2:36:00::
+a
+team team%1:14:00::
+to
+both
+a
+pennant pennant%1:10:01::
+and
+a
+World_Series world_series%1:11:00::
+victory victory%1:11:00::
+in
+his
+first first%3:00:00::
+year year%1:28:01::
+as
+a
+manager manager%1:18:01::
+.
+Only only%4:02:01::
+Bucky_Harris person%1:03:00::
+,
+the
+``
+boy boy%1:18:00::
+manager manager%1:18:01::
+''
+of
+Washington group%1:03:00::
+in
+1924
+,
+and
+Eddie_Dyer person%1:03:00::
+of
+the
+St._Louis st._louis%1:15:00::
+Cardinals group%1:03:00::
+in
+1946
+had
+accomplished accomplish%2:36:00::
+the
+feat feat%1:04:00::
+.

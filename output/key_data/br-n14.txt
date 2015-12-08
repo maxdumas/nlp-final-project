@@ -1,0 +1,2330 @@
+While
+no no%4:02:02::
+larger larger%5:00:00:large:00
+than
+Dutch_Springs location%1:03:00::
+,
+this
+mining mining%1:04:00::
+supply supply%1:22:00::
+town town%1:15:00::
+had have%2:42:00::
+the
+appearance appearance%1:07:00::
+of
+being be%2:42:03::
+far far%4:02:02::
+busier busy%3:00:00::
+and
+more more%4:02:00::
+prosperous prosperous%5:00:00:successful:00
+.
+Men man%1:18:00::
+crowded crowd%2:42:00::
+the
+streets street%1:06:00::
+and
+freight freight%1:06:00::
+rigs rig%1:06:00::
+and
+teams team%1:14:01::
+were
+moving move%2:38:03::
+about about%4:02:04::
+.
+Although
+they
+were
+forced force%2:41:00::
+to
+maintain maintain%2:42:00::
+a
+sharper sharp%5:00:00:perceptive:00
+watch watch%1:04:00::
+,
+this
+activity activity%1:04:00::
+enabled enable%2:30:00::
+them
+to
+ride ride%2:38:01::
+in in%4:02:01::
+and
+rack rack%2:38:00::
+their
+broncs bronc%1:05:00::
+without
+any
+particular particular%5:00:00:uncommon:00
+attention attention%1:09:00::
+being
+paid pay%2:32:00::
+them
+.
+``
+Gyp person%1:03:00::
+'ll
+be be%2:42:03::
+holdin_'_forth
+in
+some
+bar bar%1:06:04::
+if
+he
+'s
+here here%4:02:00::
+at_all at_all%4:02:00::
+''
+,
+Cobb person%1:03:00::
+declared declare%2:32:00::
+,
+glancing glance%2:39:00::
+along
+the
+street street%1:06:00::
+as
+they
+stretched stretch%2:29:01::
+their
+legs leg%1:08:01::
+.
+There
+were be%2:42:03::
+no no%4:02:02::
+less less%4:02:01::
+than
+six six%5:00:00:cardinal:00
+or
+seven seven%5:00:00:cardinal:00
+saloons saloon%1:06:01::
+in
+Ganado location%1:03:00::
+,
+not not%4:02:00::
+counting count%2:31:00::
+the
+lower_class lower_class%1:14:00::
+dives dive%1:06:01::
+,
+all
+vying vie%2:33:00::
+for
+the
+trade trade%1:04:01::
+of
+celebrating celebrate%2:41:00::
+miners miner%1:18:00::
+and
+teamsters teamster%1:18:02::
+.
+Pat person%1:03:00::
+only only%4:02:02::
+nodded nod%2:32:01::
+.
+``
+Take take%2:31:01::
+one one%5:00:01:single(a):00
+side side%1:15:02::
+of
+the
+street street%1:06:00::
+,
+and
+I
+'ll
+take take%2:31:01::
+the
+other other%3:00:00::
+''
+,
+he
+proposed propose%2:32:00::
+.
+``
+If
+you
+spot spot%2:39:00::
+Carmer person%1:03:00::
+give give%2:41:00::
+a
+yell yell%1:10:00::
+before
+you
+move_in move_in%2:38:02::
+''
+.
+Cobb person%1:03:00::
+'s
+assent assent%1:10:00::
+was be%2:42:03::
+tight tight%5:00:00:stingy:00
+.
+``
+You
+do do%2:41:01::
+the
+same same%4:02:00::
+.
+It
+'s
+all
+I
+ask ask%2:32:01::
+,
+Stevens person%1:03:00::
+''
+.
+Separating separate%2:38:00::
+,
+they
+took take%2:31:01::
+different different%3:00:00::
+sides side%1:15:02::
+of
+the
+main_drag main_drag%1:06:00::
+and
+systematically systematically%4:02:00::
+combed comb%2:35:00::
+the
+bars bar%1:06:04::
+.
+Russ person%1:03:00::
+visited visit%2:38:01::
+two two%5:00:00:cardinal:00
+places place%1:15:04::
+without
+result result%1:11:00::
+and
+his
+blood_pressure blood_pressure%1:19:00::
+was be%2:42:03::
+down down%5:00:00:falling:00
+to
+zero zero%5:00:02:ordinal:00
+.
+Suddenly suddenly%4:02:02::
+it
+seemed seem%2:39:00::
+to
+him
+insane insane%5:00:00:foolish:00
+that
+they
+might
+hope hope%2:31:00::
+to
+locate locate%2:40:00::
+Gyp_Carmer person%1:03:00::
+so so%4:02:02::
+casually casually%4:02:01::
+,
+even even%4:02:00::
+were
+he
+to
+prove prove%2:31:00::
+the
+thief thief%1:18:00::
+.
+He
+tramped tramp%2:38:00::
+out
+of
+the
+Miners_Rest location%1:03:00::
+with
+his
+hopes hope%1:09:00::
+plummeting plummet%2:38:00::
+,
+and
+headed head%2:38:00::
+doggedly doggedly%4:02:00::
+for
+the
+Palace_Saloon location%1:03:00::
+,
+the
+last last%5:00:00:ultimate:00
+place place%1:15:04::
+of
+any
+consequence consequence%1:07:00::
+on
+this
+side side%1:15:02::
+of
+the
+street street%1:06:00::
+.
+The
+Palace location%1:03:00::
+was be%2:42:03::
+an
+elaborate elaborate%5:00:00:fancy:00
+establishment establishment%1:06:00::
+,
+built build%2:36:00::
+practically practically%4:02:00::
+on
+stilts stilt%1:06:01::
+in_front in_front%4:02:00::
+,
+with
+long long%5:00:00:tall:00
+flights flight%1:06:00::
+of
+wooden wooden%5:00:00:woody:00
+steps steps%1:06:00::
+running run%2:42:00::
+up
+to
+the
+porch porch%1:06:00::
+.
+Behind
+its
+ornate ornate%5:00:00:adorned:00
+facade facade%1:06:00::
+the
+notorious notorious%5:00:00:disreputable:00
+dive dive%1:06:01::
+clung cling%2:35:00::
+like
+a
+bird bird%1:05:00::
+'s
+nest nest%1:17:00::
+to
+the
+rocky rocky%5:00:00:rough:00
+ribs rib%1:06:00::
+of
+the
+canyonside canyonside%1:17:00::
+.
+Russ person%1:03:00::
+ran run%2:38:00::
+up
+the
+steps steps%1:06:00::
+quickly quickly%4:02:00::
+to
+the
+plank plank%1:27:00::
+porch porch%1:06:00::
+.
+The
+front front%1:15:00::
+windows window%1:06:00::
+of
+the
+place place%1:15:04::
+were be%2:42:03::
+long long%3:00:01::
+and
+narrow narrow%3:00:00::
+,
+reaching reach%2:42:00::
+nearly nearly%4:02:00::
+to
+the
+floor floor%1:06:00::
+and
+affording afford%2:40:00::
+an
+unusually unusually%4:02:00::
+good good%5:00:00:ample:00
+view view%1:04:00::
+of
+the
+interior interior%1:15:01::
+.
+Heading head%2:38:00::
+for
+the
+batwings batwing%1:06:00::
+,
+Cobb person%1:03:00::
+glanced glance%2:39:00::
+perfunctorily perfunctorily%4:02:00::
+through
+the
+nearest near%3:00:00::
+window window%1:06:00::
+,
+and
+suddenly suddenly%4:02:00::
+dodged dodge%2:38:00::
+aside aside%4:02:00::
+.
+Nerves nerve%1:08:00::
+tight tight%5:00:00:tense:01
+as
+a
+bowstring bowstring%1:06:00::
+,
+he
+paused pause%2:42:00::
+to
+gather gather%2:35:00::
+his
+wits wit%1:09:00::
+.
+Against
+all
+expectation expectation%1:09:00::
+,
+Carmer person%1:03:00::
+was be%2:42:05::
+inside inside%4:02:00::
+,
+clearly clearly%4:02:00::
+enjoying enjoy%2:37:00::
+himself
+to_the_hilt to_the_hilt%4:02:00::
+and
+already already%4:02:00::
+so so%4:02:02::
+tipsy tipsy%5:00:00:intoxicated:00
+that
+it
+seemed seem%2:39:00::
+unlikely unlikely%3:00:04::
+he
+was
+bothering bother%2:41:00::
+to
+note note%2:39:00::
+anything
+or
+anyone
+about
+him
+.
+Fierce fierce%5:00:00:intense:00
+anger anger%1:12:00::
+surged surge%2:38:00::
+through
+Russ person%1:03:00::
+.
+He
+fought_down fight_down%2:33:00::
+the
+impulse impulse%1:12:01::
+to
+rush rush%2:38:00::
+in in%4:02:00::
+and
+collar collar%2:35:00::
+the
+vicious vicious%5:00:00:wicked:00
+puncher puncher%1:18:00::
+on_the_spot on_the_spot%4:02:00::
+.
+Reaching reach%2:38:01::
+the
+porch porch%1:06:00::
+rail rail%1:06:02::
+beyond
+view view%1:04:00::
+of
+the
+bar bar%1:06:04::
+windows window%1:06:00::
+,
+he
+feverishly feverishly%4:02:00::
+scanned scan%2:39:00::
+the
+busy busy%5:00:01:active:06
+street street%1:06:00::
+below below%4:02:06::
+.
+Stevens person%1:03:00::
+was be%2:42:03::
+nowhere nowhere%4:02:00::
+in_sight in_sight%5:00:00:visible:00
+.
+Muffling muffle%2:35:00::
+an
+exclamation exclamation%1:10:00::
+,
+Russ person%1:03:00::
+sprang spring%2:38:01::
+to
+the
+nearest near%3:00:00::
+steps steps%1:06:00::
+and
+ran_down run_down%2:38:02::
+.
+As
+luck luck%1:19:00::
+had have%2:32:00::
+it
+,
+he
+had
+not not%4:02:00::
+gone go%2:38:00::
+twenty twenty%5:00:00:cardinal:00
+feet foot%1:23:00::
+in
+the
+street street%1:06:00::
+before
+Pat person%1:03:00::
+appeared appear%2:30:00::
+.
+``
+What
+luck luck%1:26:00::
+,
+Cobb person%1:03:00::
+''
+?
+he
+said say%2:32:00::
+swiftly swiftly%4:02:00::
+.
+Russ person%1:03:00::
+pointed point%2:32:00::
+upward upward%4:02:00::
+.
+``
+He
+'s be%2:42:05::
+there
+''
+,
+he
+got_out get_out%2:32:01::
+tersely tersely%4:02:00::
+,
+curbing curb%2:30:01::
+his
+rising rising%5:00:00:increasing:00
+excitement excitement%1:26:01::
+.
+Hitching hitch%2:38:02::
+his
+cartridge_belt cartridge_belt%1:06:00::
+around around%4:02:06::
+,
+Pat person%1:03:00::
+glanced glance%2:39:00::
+upward upward%4:02:00::
+briefly briefly%4:02:00::
+at
+the
+Palace location%1:03:00::
+and
+started start%2:38:02::
+that
+way way%1:15:00::
+with
+Cobb person%1:03:00::
+at
+his
+side side%1:15:02::
+.
+Climbing climb%2:38:00::
+the
+steps steps%1:06:00::
+steadily steadily%4:02:01::
+,
+they
+reached reach%2:38:01::
+the
+top top%1:15:02::
+and
+headed head%2:38:00::
+for
+the
+door door%1:06:01::
+.
+Pat person%1:03:00::
+pushed_through push_through%2:30:00::
+first first%3:00:00::
+.
+Forced force%2:35:00::
+behind
+him
+momentarily momentarily%4:02:02::
+,
+Russ person%1:03:00::
+followed follow%2:38:00::
+at_once at_once%4:02:00::
+and
+halted halt%2:38:01::
+two two%5:00:00:cardinal:00
+steps step%1:23:00::
+inside inside%4:02:00::
+.
+His
+eyes eye%1:08:00::
+widened widen%2:30:05::
+.
+While
+five five%5:00:00:cardinal:00
+minutes minute%1:28:00::
+ago ago%4:02:00::
+the
+place place%1:15:04::
+had
+presented present%2:39:00::
+a
+scene scene%1:11:00::
+of
+easy easy%5:00:00:unhurried:00
+revelry revelry%1:04:00::
+,
+with
+Gyp_Carmer person%1:03:00::
+a
+prominent prominent%5:00:00:conspicuous:00
+figure figure%1:18:00::
+,
+it
+was be%2:42:03::
+now now%4:02:05::
+as
+somnolent somnolent%5:00:00:asleep(p):00
+and
+dull dull%3:00:03::
+as
+the
+day day%1:28:00::
+before
+payday payday%1:28:00::
+.
+Carmer person%1:03:00::
+himself
+was be%2:42:05::
+nowhere nowhere%4:02:00::
+to
+be
+seen see%2:39:00::
+.
+A
+man man%1:18:00::
+knocked knock_about%2:35:00::
+the
+roulette_ball roulette_ball%1:06:00::
+about
+idly idly%4:02:00::
+in
+its
+track track%1:17:00::
+,
+and
+another
+dozed doze%2:29:00::
+at
+one one%5:00:00:unspecified:00
+of
+the
+card_tables card_table%1:06:01::
+.
+Two two%5:00:00:cardinal:00
+men man%1:18:00::
+murmured murmur%2:32:00::
+with
+their
+heads head%1:08:00::
+together together%4:02:02::
+at
+the
+end end%1:15:00::
+of
+the
+bar bar%1:06:05::
+,
+while
+the
+sleek sleek%5:00:00:smooth:00
+headed headed%3:00:01::
+bartender bartender%1:18:00::
+absently absently%4:02:00::
+polished polish%2:35:00::
+a
+glass glass%1:06:00::
+.
+Looking look%2:39:00::
+the
+setup setup%1:07:00::
+over
+,
+Stevens person%1:03:00::
+started start%2:38:02::
+coolly coolly%4:02:00::
+for
+the
+rear rear%1:15:01::
+of
+the
+place place%1:15:04::
+.
+``
+Where
+yuh
+goin go%2:38:00::
+''
+'
+?
+It
+was be%2:42:06::
+the
+barkeep barkeep%1:18:00::
+.
+Halting halt%2:38:01::
+,
+Pat person%1:03:00::
+turned turn%2:38:00::
+to
+survey survey%2:39:00::
+him
+deliberately deliberately%4:02:01::
+.
+He
+did
+not not%4:02:00::
+reply reply%2:32:00::
+,
+going_on go_on%2:38:00::
+toward
+the
+back back%1:15:02::
+.
+Less less%4:02:00::
+assured assured%5:00:00:confident:00
+than
+the
+tall tall%3:00:00::
+,
+wide wide%3:00:00::
+shouldered shouldered%3:01:00::
+man man%1:18:00::
+in_the_lead in_the_lead%4:02:00::
+,
+Cobb person%1:03:00::
+followed follow%2:38:00::
+alertly alertly%4:02:00::
+,
+a
+hand hand%1:08:00::
+on
+his
+gun gun%1:06:00::
+butt butt%1:06:00::
+.
+The
+bartender bartender%1:18:00::
+measured measure%2:31:01::
+this
+situation situation%1:26:00::
+with
+heavy heavy%3:00:02::
+eyes eye%1:08:00::
+and
+decided decide%2:31:00::
+he
+wanted want%2:37:00::
+no
+part part%1:09:02::
+of
+it
+.
+He
+said say%2:32:02::
+no no%3:00:00::
+more more%1:23:00::
+.
+A
+hall hall%1:06:03::
+opened open%2:35:06::
+in
+back back%4:02:00::
+of
+the
+bar bar%1:06:05::
+,
+running run%2:42:00::
+toward
+an
+ell ell%1:06:00::
+.
+Pat person%1:03:00::
+moved_into move_into%2:38:00::
+it
+.
+Small small%3:00:00::
+rooms room%1:06:00::
+,
+probably probably%4:02:00::
+for
+cards cards%1:04:00::
+,
+opened open%2:42:00::
+off
+on
+either
+side side%1:15:02::
+.
+All
+the
+doors door%1:06:00::
+were be%2:42:03::
+open open%3:00:01::
+at
+this
+hour hour%1:28:01::
+except
+one one%5:00:00:unspecified:00
+,
+and
+it
+was
+toward
+this
+that
+Stevens person%1:03:00::
+made make%2:38:02::
+his
+way way%1:15:00::
+with
+Russ person%1:03:00::
+close close%4:02:01::
+at
+his
+shoulder shoulder%1:08:00::
+.
+The
+door door%1:06:00::
+was be%2:42:03::
+locked locked%5:00:00:fastened:00
+.
+A
+single single%3:00:00::
+kick kick%1:04:00::
+made make%2:30:00::
+it
+spring spring%2:38:00::
+open open%3:00:01::
+,
+shuddering shudder%2:38:00::
+.
+Pat person%1:03:00::
+saw see%2:39:00::
+Gyp_Carmer person%1:03:00::
+staggering stagger%2:38:00::
+forward forward%4:02:00::
+,
+a
+half half%5:00:00:fractional:00
+filled filled%5:00:01:full:00
+bottle bottle%1:06:00::
+upraised upraised%5:00:00:raised:00
+as
+if
+to
+strike strike%2:35:00::
+.
+Russ person%1:03:00::
+sprang spring%2:38:01::
+through
+to
+bat bat%2:35:01::
+it
+nimbly nimbly%4:02:00::
+aside aside%4:02:00::
+.
+With
+a
+bellow bellow%1:10:00::
+Carmer person%1:03:00::
+lunged lunge%2:38:00::
+at
+him
+.
+But
+he
+was be%2:42:03::
+more_than more_than%4:02:00::
+half half%5:00:00:fractional:00
+drunk drunk%3:00:00::
+,
+and
+his
+faculties faculty%1:09:00::
+were be%2:42:03::
+dulled dulled%5:00:00:uninterested:00
+.
+Cobb person%1:03:00::
+unleashed unleash%2:35:00::
+a
+single single%3:00:00::
+powerful powerful%5:00:02:strong:00
+jab jab%1:04:00::
+that
+sent send%2:38:01::
+Gyp person%1:03:00::
+reeling reel%2:38:03::
+wildly wildly%4:02:00::
+and
+crashing crash%2:38:02::
+down down%4:02:00::
+with
+a
+whining whining%5:00:00:noisy:00
+groan groan%1:10:00::
+.
+He
+started start%2:30:00::
+to
+struggle struggle%2:38:00::
+up up%4:02:00::
+,
+heaving heave%2:35:00::
+desperately desperately%4:02:01::
+.
+Russ person%1:03:00::
+gave give%2:40:03::
+him
+a
+brutal brutal%5:00:01:inhumane:00
+thrust thrust%1:04:01::
+that
+tumbled tumble%2:38:06::
+him
+over
+flat flat%4:02:01::
+on
+his
+stomach stomach%1:08:01::
+.
+Kneeling kneel%2:35:00::
+,
+Cobb person%1:03:00::
+planted plant%2:35:01::
+a
+sturdy sturdy%5:00:00:robust:00
+knee knee%1:08:00::
+in
+the
+small small%1:08:00::
+of
+his
+back back%1:08:00::
+,
+holding hold%2:35:03::
+him
+pinned pin%2:35:00::
+.
+``
+Okay
+,
+Stevens person%1:03:00::
+.
+I
+'ve
+drawn draw%2:38:07::
+his
+fangs
+''
+,
+he
+snapped snap%2:32:00::
+.
+``
+Go go%2:41:00::
+through through%4:02:00::
+his
+pockets pocket%1:06:00::
+,
+will
+you
+?
+If
+we
+have
+to
+we
+'ll
+take take_apart%2:35:00::
+him
+apart
+and
+see see%2:31:01::
+what
+he
+'s
+made make%2:42:00::
+of
+''
+!
+Complying comply%2:41:00::
+methodically methodically%4:02:00::
+,
+Pat person%1:03:00::
+pulled pull%2:38:03::
+pocket pocket%1:06:00::
+after
+pocket pocket%1:06:00::
+inside_out inside_out%4:02:00::
+without
+finding find%2:39:02::
+a
+thing thing%1:06:01::
+.
+Cobb person%1:03:00::
+watched watch%2:41:00::;2:39:00::
+this
+with
+hunted hunted%5:00:00:afraid(p):00
+eyes eye%1:08:00::
+,
+his
+desperate desperate%5:00:00:hopeless:00
+hope hope%1:12:01::
+waning wane%2:30:00::
+by
+the
+moment moment%1:28:01::
+.
+Stevens person%1:03:00::
+was
+grunting grunt%2:32:00::
+over
+the
+last last%3:00:00::
+empty empty%3:00:00::
+pocket pocket%1:06:00::
+when
+Russ person%1:03:00::
+abruptly abruptly%4:02:00::
+rose rise%2:38:01::
+and
+lunged lunge%2:38:00::
+toward
+Carmer person%1:03:00::
+'s
+hat hat%1:06:00::
+,
+which
+had
+tumbled tumble%2:38:04::
+half-a-dozen half_a_dozen%1:23:00::
+feet foot%1:23:00::
+away away%4:02:01::
+when
+he
+first first%4:02:02::
+fell fell%2:35:00::
+.
+Cobb person%1:03:00::
+got get%2:40:00::
+it
+.
+Straightening_up straighten_up%2:38:01::
+,
+his
+eyes eye%1:08:00::
+ablaze ablaze%5:00:00:passionate:00
+,
+he
+held_out hold_out%2:29:00::
+the
+battered battered%5:00:00:worn:00
+Stetson stetson%1:06:00::
+.
+``
+Look look%2:39:00::
+at
+this
+''
+!
+Inside
+the
+crown crown%1:06:00::
+,
+stuffed stuff%2:38:00::
+behind
+the
+stained stained%3:00:00::
+sweatband sweatband%1:06:01::
+,
+could
+be
+seen see%2:39:00::
+thin thin%3:00:01::
+,
+crumpled crumpled%5:00:00:wrinkled:00
+wads wads%1:23:00::
+of
+currency currency%1:21:00::
+.
+Carmer person%1:03:00::
+'s
+ingenious ingenious%5:00:00:creative:00
+cache cache%1:06:00::
+for
+his
+loot loot%1:21:00::
+had
+been
+found find%2:39:02::
+.
+``
+By
+golly
+,
+Stevens person%1:03:00::
+!
+You
+were be%2:42:03::
+right right%3:00:02::
+''
+,
+Russ person%1:03:00::
+exclaimed exclaim%2:32:01::
+,
+tearing tear%2:35:06::
+the
+loose loose%5:00:02:free:00
+bills bill%1:21:00::
+out
+of
+Carmer person%1:03:00::
+'s
+hat hat%1:06:00::
+.
+``
+That_is that_is%4:02:00::
+,
+if
+we
+can
+be be%2:42:03::
+sure sure%3:00:00::
+this
+is be%2:42:06::
+Colcord person%1:03:00::
+'s
+money money%1:21:00::
+''
+-
+Pat person%1:03:00::
+grunted grunt%2:32:00::
+.
+``
+Where
+else else%4:02:01::
+would
+he
+get get%2:40:00::
+it
+?
+Count count%2:32:00::
+what
+you
+'ve
+got get%2:40:00::
+there
+,
+Cobb person%1:03:00::
+.
+We
+can
+soon soon%4:02:00::
+tell tell%2:31:00::
+''
+.
+Russ person%1:03:00::
+ran_through run_through%2:34:01::
+the
+bills bill%1:21:00::
+and
+named name%2:32:07::
+an
+amount amount%1:21:00::
+it
+was be%2:42:03::
+highly highly%4:02:02::
+unlikely unlikely%3:00:04::
+any
+cowpuncher cowpuncher%1:18:00::
+would
+come_by come_by%2:40:00::
+honestly honestly%4:02:01::
+.
+Pat person%1:03:00::
+nodded nod%2:32:00::
+.
+``
+It
+'s be%2:42:03::
+within
+a_hundred a_hundred%5:00:00:cardinal:00
+of
+what
+Crip person%1:03:00::
+had have%2:40:00::
+''
+,
+he
+declared declare%2:32:02::
+.
+``
+We
+know know%2:31:01::
+Penny person%1:03:00::
+spent spend%2:40:00::
+some
+-
+and
+Carmer person%1:03:00::
+must
+have
+dropped drop%2:40:00::
+a_few a_few%5:00:00:few:00
+dollars dollar%1:21:00::
+getting get%2:40:00::
+that
+load load%1:23:01::
+on on%4:02:02::
+''
+.
+Handing hand%2:40:00::
+the
+money money%1:21:00::
+over
+,
+Russ person%1:03:00::
+wiped wipe%2:35:00::
+his
+hands hand%1:08:00::
+on
+his
+pants-legs pant_leg%1:06:00::
+as
+if
+ridding rid%2:40:00::
+himself
+of
+something
+unclean unclean%3:00:04::
+.
+His
+glance glance%1:04:00::
+at
+Gyp_Carmer person%1:03:00::
+was be%2:42:03::
+disdainful disdainful%5:00:00:disrespectful:00
+.
+``
+Shall
+we
+get_out get_out%2:38:01::
+of
+here here%4:02:00::
+''
+?
+Leaving leave%2:38:00::
+the
+card_room cardroom%1:06:00::
+,
+they
+moved_back move_back%2:38:00::
+through
+the
+Palace location%1:03:00::
+the
+way way%1:15:00::
+they
+had
+come come%2:38:00::
+.
+Glowering glowering%5:00:00:ill-natured:00
+looks look%1:07:01::
+met meet%2:42:00::
+them
+in
+the
+bar bar%1:06:04::
+,
+but
+there
+was be%2:42:04::
+no
+attempt attempt%1:04:00::
+to
+halt halt%2:38:05::
+them
+.
+Pausing pause%2:42:00::
+in
+the
+outside_door outside_door%1:06:00::
+to
+glance glance%2:39:00::
+behind
+him
+,
+Pat person%1:03:00::
+looked look%2:32:00::
+his
+unspoken unspoken%5:00:00:inarticulate:00
+warning warning%1:10:01::
+and
+stepped_out step_out%2:38:00::
+.
+He
+and
+Cobb person%1:03:00::
+clattered clatter%2:39:00::
+down
+the
+high high%3:00:01::
+steps steps%1:06:00::
+to
+the
+street street%1:06:00::
+.
+Neither
+spoke speak%2:32:00::
+till
+they
+reached reach%2:38:01::
+their
+horses horse%1:05:00::
+.
+Pat person%1:03:00::
+paused pause%2:42:00::
+there
+,
+looking_across look_across%2:42:00::
+at
+the
+young young%3:00:00::
+fellow fellow%1:18:00::
+.
+It
+'ll
+be be%2:42:03::
+a
+pleasure pleasure%1:12:00::
+for
+you
+to
+return return%2:40:08::
+this
+money money%1:21:00::
+to
+Colcord person%1:03:00::
+and
+tell tell%2:32:01::
+him
+about
+it
+,
+Russ person%1:03:00::
+``
+.
+He
+started start%2:30:00::
+to
+return return%2:40:08::
+it
+.
+To
+his
+faint faint%5:00:00:weak:00
+surprise surprise%1:12:00::
+Russ person%1:03:00::
+held_up hold_up%2:35:00::
+his
+hand hand%1:08:00::
+.
+``
+Not not%4:02:00::
+me
+''
+,
+he
+ruled rule%2:31:00::
+decidedly decidedly%4:02:00::
+.
+I
+'ve
+had have%2:39:06::
+enough enough%4:02:00::
+.
+It
+was be%2:42:06::
+you
+that
+tracked track_down%2:33:00::
+it
+down
+anyway anyway%4:02:00::
+,
+Stevens person%1:03:00::
+``
+,
+he
+pursued pursue%2:41:00::
+strictly strictly%4:02:02::
+.
+''
+I
+'ll
+shove_along shove_along%2:38:00::
+home home%1:15:04::
+``
+.
+``
+Whatever
+you
+say say%2:32:00::
+''
+.
+Pat person%1:03:00::
+swung swing%2:38:02::
+into
+the
+saddle saddle%1:06:00::
+,
+yet
+still still%4:02:04::
+he
+delayed delay%2:42:00::
+,
+his
+brows brow%1:08:01::
+puckered pucker%2:35:00::
+.
+``
+You
+owe owe%2:42:00::
+it
+to
+Penny person%1:03:00::
+to
+give give%2:40:03::
+her
+a
+chance chance%1:26:00::
+to
+explain explain%2:32:00::
+that
+she
+was
+defending defend%2:32:00::
+you
+,
+really really%4:02:04::
+''
+,
+he
+observed observe%2:32:00::
+mildly mildly%4:02:00::
+.
+``
+Old_Crip person%1:03:00::
+was
+n't n't%4:02:00::
+''
+,
+retorted retort%2:32:00::
+Cobb person%1:03:00::
+tartly tartly%4:02:00::
+.
+``
+He
+'ll
+know know%2:31:01::
+when
+you
+tell tell%2:32:00::
+him
+.
+But
+I
+want want%2:37:00::
+this
+to
+sink_in sink_in%2:31:00::
+awhile awhile%4:02:00::
+.
+Then then%4:02:00::
+maybe maybe%4:02:00::
+next next%5:00:00:succeeding(a):00
+time time%1:11:00::
+he
+won
+n't n't%4:02:00::
+be be%2:42:03::
+so so%4:02:02::
+quick quick%5:00:00:fast:01
+on
+the
+trigger trigger%1:06:00::
+''
+.
+``
+Pat person%1:03:00::
+had
+never never%4:02:00::
+pretended pretend%2:36:00::
+to
+give give%2:40:09::
+advice advice%1:10:00::
+in
+such such%5:00:01:specified:00
+affairs affairs%1:09:00::
+.
+''
+You
+'re be%2:42:06::
+the
+doctor
+``
+,
+he
+returned return%2:32:01::
+with
+a
+smile smile%1:10:00::
+.
+''
+But
+I
+still still%4:02:04::
+think think%2:31:01::
+Penny person%1:03:00::
+'s
+an
+awful awful%4:02:00::
+nice nice%5:00:00:respectable:00
+girl girl%1:18:00::
+,
+Russ person%1:03:00::
+``
+-
+``
+You
+do
+n't n't%4:02:00::
+have have%2:42:05::
+to
+tell tell%2:32:04::
+me
+''
+,
+flashed flash%2:32:00::
+Cobb person%1:03:00::
+.
+Giving give%2:32:00::
+the
+other
+a
+dark dark%5:00:00:cheerless:00
+look look%1:07:01::
+,
+he
+hauled haul%2:35:01::
+his
+bronc bronc%1:05:00::
+around around%4:02:06::
+and
+trotted trot%2:38:01::
+down down%4:02:02::
+off
+the
+street street%1:06:00::
+.
+Pat person%1:03:00::
+let let%2:41:00::
+him
+go go%2:38:01::
+,
+following follow%2:38:00::
+more more%4:02:00::
+leisurely leisurely%4:02:00::
+.
+At
+the
+first first%3:00:00::
+restaurant restaurant%1:06:00::
+he
+sensibly sensibly%4:02:00::
+pulled_up pull_up%2:38:02::
+to
+go_in go_in%2:38:00::
+for
+his
+dinner dinner%1:13:00::
+,
+and
+as
+a
+consequence consequence%1:19:00::
+did
+not not%4:02:00::
+see see%2:39:02::
+Cobb person%1:03:00::
+strike strike%2:41:02::
+the
+open open%5:00:00:unprotected:00
+range range%1:15:02::
+at
+the
+mouth mouth%1:17:01::
+of
+the
+canyon canyon%1:17:00::
+and
+head head%2:38:00::
+straight straight%4:02:05::
+across
+the
+swells swell%1:17:00::
+for
+Antler location%1:03:00::
+.
+The
+truth truth%1:26:00::
+was be%2:42:03::
+,
+the
+puncher puncher%1:18:00::
+was be%2:42:03::
+both
+bewildered bewildered%5:00:00:perplexed:00
+and
+dismayed dismayed%5:00:00:afraid(p):00
+by
+his
+own own%5:00:00:personal:00
+mixed mixed%5:00:00:heterogeneous:00
+luck luck%1:26:00::
+.
+``
+Penny person%1:03:00::
+'s
+always always%4:02:00::
+glad glad%3:00:00::
+to
+see see%2:39:02::
+me
+over
+there
+''
+,
+he
+mused muse%2:31:00::
+bleakly bleakly%4:02:00::
+.
+Yet
+had
+he
+not not%4:02:00::
+visited visit%2:41:00::
+the
+girl girl%1:18:00::
+at
+Saw_Buck location%1:03:00::
+he
+would
+never never%4:02:00::
+have
+been be%2:42:03::
+involved involve%2:42:04::
+in
+this
+latest latest%5:00:00:modern:00
+tangle tangle%1:09:00::
+.
+Over
+and
+above
+that
+,
+however however%4:02:00::
+,
+was be%2:42:03::
+his
+growing growing%5:00:00:increasing:00
+suspicion suspicion%1:09:01::
+of
+Chuck_Stober person%1:03:00::
+'s
+part part%1:04:01::
+in
+recent recent%5:00:00:new:00
+events event%1:26:00::
+.
+``
+Gyp_Carmer person%1:03:00::
+could
+n't n't%4:02:00::
+have
+known know%2:31:01::
+about
+Colcord person%1:03:00::
+'s
+money money%1:21:00::
+unless
+he
+was
+told tell%2:32:00::
+-
+and
+who
+else else%5:00:00:other:00
+would
+have
+told tell%2:32:00::
+him
+''
+?
+he
+asked ask%2:32:02::
+himself
+.
+``
+It
+'s be%2:42:02::
+the
+second second%5:00:00:intermediate:00
+time time%1:11:00::
+War_Ax
+hands hands%1:14:00::
+made make%2:41:00::
+a
+play play%1:04:03::
+for
+that
+money money%1:21:00::
+.
+How
+much much%3:00:00::
+of
+an
+accident accident%1:11:00::
+could
+that
+be be%2:42:03::
+``
+?
+Nearing near%2:38:00::
+home home%1:15:04::
+,
+he
+jerked jerk%2:29:00::
+to
+attention attention%1:09:01::
+at
+the
+distant distant%3:00:01::
+crack crack%2:39:01::
+of
+a
+gun gun%1:06:00::
+.
+In
+town town%1:15:00::
+no
+one
+paid pay%2:31:00::
+much much%4:02:00::
+attention attention%1:09:02::;1:09:00::
+to
+an
+occasional occasional%5:00:00:infrequent:00
+shot shot%1:04:00::
+;
+but
+on
+the
+range range%1:15:02::
+gunfire gunfire%1:04:00::
+had have%2:40:00::
+a
+meaning meaning%1:10:00::
+.
+Hauling_up haul_up%2:38:00::
+,
+Russ person%1:03:00::
+listened listen%2:39:00::
+carefully carefully%4:02:00::
+.
+Two two%5:00:00:cardinal:00
+minutes minute%1:28:00::
+later later%4:02:01::
+it
+came come%2:30:01::
+again again%4:02:00::
+-
+a
+double double%5:00:03:multiple:00
+explosion explosion%1:11:00::
+,
+followed follow%2:42:00::
+by
+a
+third third%5:00:00:ordinal:00
+,
+sounding sound%2:39:03::
+more more%4:02:00::
+distant distant%3:00:01::
+.
+As_near_as
+Cobb person%1:03:00::
+could
+determine determine%2:32:00::
+the
+shots shot%1:04:00::
+came come%2:38:00::
+from
+the
+direction direction%1:15:00::
+of
+the
+Antler location%1:03:00::
+ranch_house ranch_house%1:06:00::
+.
+He
+tightened_up tighten_up%2:30:00::
+in
+a
+twinkling twinkling%1:28:00::
+.
+So_far_as
+he
+knew know%2:31:01::
+,
+only only%4:02:01::
+his
+father father%1:18:00::
+could
+be be%2:42:05::
+there
+.
+What
+did
+it
+mean mean%2:42:00::
+?
+Clapping clap%2:38:04::
+spurs spur%1:06:00::
+to
+the
+bronc bronc%1:05:00::
+he
+set_off set_off%2:38:00::
+at
+a
+sharp sharp%4:02:00::
+canter canter%1:04:00::
+,
+with
+growing growing%5:00:00:increasing:00
+alarm alarm%1:12:00::
+.
+His
+first first%3:00:00::
+glimpse glimpse%1:04:00::
+of
+the
+ranch_house ranch_house%1:06:00::
+across
+the
+brushy brushy%5:00:00:wooded:00
+swells swell%1:17:00::
+told tell%2:32:03::
+him
+nothing nothing%1:23:00::
+.
+Still still%4:02:04::
+a
+quarter-mile quarter_mile%1:23:00::
+away away%5:00:00:distant:01
+,
+the
+fresh fresh%5:00:00:new:00
+clap clap%1:11:00::
+of
+guns gun%1:06:00::
+only only%4:02:02::
+served serve%2:42:01::
+to
+increase increase%2:30:02::
+his
+speed speed%1:04:00::
+.
+Setting set%2:31:04::
+a
+course course%1:17:00::
+straight straight%4:02:05::
+for
+the
+house house%1:06:00::
+,
+he
+was
+covering cover%2:38:00::
+ground ground%1:17:00::
+fast fast%4:02:01::
+when
+an
+angry angry%3:00:00::
+bee bee%1:05:00::
+buzzed buzz%2:38:00::;2:39:00::
+past past%4:02:00::
+close close%4:02:01::
+to
+his
+face face%1:08:00::
+.
+When
+it
+was
+followed follow%2:38:00::
+by
+a
+second second%5:00:00:intermediate:00
+,
+whining whine%2:38:00::
+even even%4:02:01::
+closer closer%5:00:00:close:01
+,
+Cobb person%1:03:00::
+swerved swerve%2:38:00::
+sharply sharply%4:02:02::
+aside aside%4:02:00::
+into
+a
+depression depression%1:17:00::
+.
+He
+knew know%2:31:01::
+now now%4:02:05::
+what
+he
+was be%2:42:05::
+up
+against
+.
+Whoever
+was be%2:42:05::
+out
+there there%4:02:00::
+hiding hide%2:39:00::
+in
+the
+brushy brushy%5:00:00:wooded:00
+cover cover%1:06:02::
+was
+besieging besiege%2:33:00::
+the
+Antler location%1:03:00::
+house house%1:06:00::
+and
+,
+having
+spotted spot%2:39:00::
+his
+approach approach%1:04:00::
+,
+was be%2:42:03::
+determined determined%5:00:00:resolute:00
+to
+drive drive%2:35:00::
+him
+off
+before
+he
+could
+get_into get_into%2:42:00::
+the
+fight fight%1:04:02::
+.
+Cursing curse%2:32:02::
+himself
+for
+having
+ridden ride%2:38:01::
+out out%4:02:01::
+the
+last last%5:00:00:past:00
+few few%3:00:00::
+days day%1:28:00::
+without
+a
+rifle rifle%1:06:00::
+in
+his
+saddle saddle%1:06:00::
+boot boot%1:06:01::
+,
+Russ person%1:03:00::
+drew draw%2:38:01::
+his
+Colt colt%1:06:00::
+and
+examined examine%2:39:00::
+it
+briefly briefly%4:02:00::
+.
+If
+he
+wondered wonder%2:32:01::
+whether
+the
+attackers attacker%1:18:00::
+would
+allow allow%2:41:00::
+him
+to
+pull pull%2:35:02::
+away away%4:02:00::
+unmolested unmolested%5:00:00:untroubled:00
+,
+he
+had have%2:40:03::
+his
+answer answer%1:10:01::
+a
+moment moment%1:28:00::
+later later%4:02:01::
+.
+``
+Over
+this
+way way%1:15:00::
+!
+He
+ai
+n't n't%4:02:00::
+gone go%2:38:00::
+far far%4:02:00::
+''
+!
+a
+harsh harsh%5:00:03:unpleasant:00
+cry cry%1:10:00::
+floated float%2:38:00::
+to
+him
+across
+the
+brush brush%1:14:00::
+.
+A
+carbine carbine%1:06:00::
+cracked crack%2:39:01::
+more more%4:02:00::
+loudly loudly%4:02:00::
+,
+and
+a
+slug slug%1:06:00::
+clipped clip%2:35:03::
+fragments fragment%1:17:01::
+from
+the
+brush brush%1:14:00::
+off
+at
+one one%5:00:00:unspecified:00
+side side%1:15:02::
+.
+The
+would-be would-be%5:00:00:hopeful:00
+assassin assassin%1:18:00::
+had
+his
+position position%1:15:00::
+figured figure%2:31:01::
+pretty pretty%4:02:00::
+close close%4:02:02::
+.
+Dismounting dismount%2:38:00::
+,
+Russ person%1:03:00::
+looked look%2:39:00::
+about about%4:02:06::
+hastily hastily%4:02:00::
+.
+Toward
+the
+west west%4:02:00::
+this
+depression depression%1:17:00::
+led lead%2:42:03::
+toward
+a
+draw draw%1:17:00::
+.
+Leading lead%2:38:01::
+his
+pony pony%1:05:02::
+,
+he
+hurried hurry%2:38:00::
+that
+way way%1:15:00::
+,
+not not%4:02:00::
+remounting remount%2:38:00::
+till
+he
+was be%2:42:03::
+well well%4:02:15::
+below
+the
+level level%1:07:01::
+of
+the
+surrounding surrounding%5:00:00:close:01
+range range%1:15:02::
+.
+Swinging swing%2:38:02::
+up
+then then%4:02:00::
+,
+and
+bending bend%2:38:00::
+forward forward%4:02:00::
+over
+the
+horn horn%1:06:04::
+,
+he
+urged urge%2:32:00::
+his
+mount mount%1:05:00::
+down
+the
+meandering meandering%5:00:00:indirect:00
+draw draw%1:17:00::
+.
+He
+had
+not not%4:02:00::
+covered cover%2:38:00::
+a_hundred a_hundred%5:00:00:cardinal:00
+yards yard%1:23:00::
+before
+a
+gun gun%1:06:00::
+crashed crash%2:38:01::
+from
+somewhere somewhere%4:02:00::
+behind behind%4:02:00::
+.
+He
+had
+been
+sighted sight%2:39:00::
+,
+and
+his
+attacker attacker%1:18:00::
+pumping pump%2:33:00::
+shot shot%1:06:00::
+after
+shot shot%1:06:00::
+.
+A
+shot shot%1:06:00::
+or
+two two%5:00:00:cardinal:00
+went go%2:38:00::
+wild wild%5:00:01:uncontrolled:00
+before
+Cobb person%1:03:00::
+felt feel%2:39:00::
+something
+tug tug%2:35:00::
+at
+his
+foot foot%1:08:01::
+.
+A
+slug slug%1:06:00::
+had
+torn tear%2:35:00::
+half half%1:23:00::
+of
+his
+stirrup stirrup%1:06:00::
+guard guard%1:06:00::
+away away%4:02:01::
+.
+A
+second second%5:00:00:ordinal:00
+twitched twitch%2:38:01::
+his
+shirtsleeve shirtsleeve%1:06:00::
+,
+and
+he
+felt feel%2:39:00::
+a
+brief brief%5:00:00:short:02
+burn burn%1:26:00::
+on
+his
+upper upper%5:00:00:high:01
+arm arm%1:08:00::
+.
+Another
+snarled snarl%2:32:00::
+close close%4:02:01::
+overhead overhead%4:02:00::
+.
+``
+Jumping_Jerusalem
+!
+Let let%2:41:00::
+'s
+get_out get_out%2:38:00::
+of
+here here%4:02:00::
+''
+!
+At
+the
+first first%5:00:00:ordinal:00
+shot shot%1:04:00::
+Russ person%1:03:00::
+had
+hurled hurl%2:38:00::
+his
+mount mount%1:05:00::
+to
+the
+left left%3:00:00::
+toward
+the
+side side%1:15:02::
+of
+the
+winding winding%5:00:00:indirect:00
+draw draw%1:17:00::
+.
+The
+long long%3:00:02::
+minute minute%1:28:02::
+before
+he
+reached reach%2:38:01::
+effective effective%5:00:00:efficacious:00
+cover cover%1:04:00::
+seemed seem%2:39:00::
+endless endless%5:00:00:long:02
+.
+Sweeping sweeping%5:00:00:wide:00
+a
+look look%1:04:00::
+around around%4:02:05::
+,
+he
+saw see%2:39:00::
+that
+he
+was be%2:42:03::
+safe safe%3:00:01::
+for_the_moment for_the_moment%4:02:00::
+.
+He
+heard hear%2:39:00::
+cries cry%1:10:00::
+from
+behind
+him
+,
+but
+he
+could
+make_out make_out%2:39:00::
+no
+words words%1:10:03::
+.
+He
+dashed dash%2:38:00::
+madly madly%4:02:02::
+for
+the
+next next%5:00:00:close:01
+elbow elbow%1:06:01::
+turn turn%1:25:00::
+in
+the
+draw draw%1:17:00::
+,
+and
+made_it make_it%2:42:00::
+.
+Recklessly recklessly%4:02:00::
+hurling hurl%2:38:00::
+the
+bronc bronc%1:05:00::
+sidewise sidewise%4:02:03::
+into
+an
+intersecting intersecting%5:00:00:crossed:01
+draw draw%1:17:00::
+,
+he
+plunged plunge%2:38:05::
+forward forward%3:00:01::
+with
+undiminished undiminished%5:00:00:unmitigated:00
+speed speed%1:04:00::
+.
+Gradually gradually%4:02:00::
+the
+wash wash%1:17:00::
+climbed climb%2:38:00::
+upward upward%5:00:00:up:00
+,
+forcing force%2:38:00::
+him
+toward
+open open%5:00:00:unprotected:00
+range range%1:15:02::
+.
+Yet
+he
+must
+chance chance%2:41:00::
+it
+.
+He
+clambered clamber%2:38:00::
+out
+of
+the
+dwindling dwindling%5:00:00:decreasing:00
+wash wash%1:17:00::
+,
+the
+loose loose%3:00:02::
+dirt dirt%1:27:01::
+flying fly%2:38:00::
+behind
+him
+,
+and
+flashed flash%2:38:00::
+a
+look look%1:04:00::
+about
+.

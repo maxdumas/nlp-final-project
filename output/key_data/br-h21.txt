@@ -1,0 +1,2215 @@
+Strategy strategy%1:09:00::
+and
+tactics tactics%1:09:01::
+of
+the
+U._S. u.s.%1:14:00::
+military_forces military_force%1:14:00::
+are
+now now%4:02:05::
+undergoing undergo%2:39:02::
+one one%5:00:00:cardinal:00
+of
+the
+greatest greatest%5:00:00:large:00
+transitions transition%1:11:00::
+in
+history history%1:28:00::
+.
+The
+change change%1:24:00::
+of
+emphasis emphasis%1:26:00::
+from
+conventional conventional%3:00:02::
+type type%1:09:00::
+to
+missile missile%1:06:01::
+type type%1:09:00::
+warfare warfare%1:04:00::
+must
+be
+made make%2:30:00::
+with
+care care%1:09:00::
+,
+mindful mindful%3:00:00::
+that
+the
+one one%5:00:02:single(a):00
+type type%1:09:00::
+of
+warfare warfare%1:04:00::
+cannot
+be
+safely safely%4:02:00::
+neglected neglect%2:31:00::
+in
+favor favor%1:09:00::
+of
+the
+other other%3:00:00::
+.
+Our
+military_forces military_force%1:14:00::
+must
+be be%2:42:03::
+capable capable%5:00:00:adequate:00
+of
+contending contend%2:32:00::
+successfully successfully%4:02:00::
+with
+any
+contingency contingency%1:11:00::
+which
+may
+be
+forced force%2:41:00::
+upon
+us
+,
+from
+limited limited%3:00:00::
+emergencies emergency%1:11:00::
+to
+all-out all-out%5:00:00:complete:00
+nuclear nuclear%3:00:00::
+general general%3:00:00::
+war war%1:04:00::
+.
+-
+This
+budget budget%1:21:02::
+will
+provide provide_for%2:42:01::
+in
+the
+fiscal_year fiscal_year%1:28:00::
+1961
+for
+the
+continued continued%3:00:00::
+support support%1:04:00::
+of
+our
+forces force%1:14:00::
+at
+approximately approximately%4:02:00::
+the
+present present%3:00:01::
+level level%1:07:00::
+-
+a
+year-end year-end%1:28:00::
+strength strength%1:07:01::
+of
+2489000
+men man%1:18:00::
+and
+women woman%1:18:00::
+in
+the
+active active%5:00:00:operational:00
+forces force%1:14:00::
+.
+The
+forces force%1:14:00::
+to
+be
+supported support%2:41:00::
+include include%2:42:00::
+an
+Army army%1:14:00::
+of
+14 14%5:00:00:cardinal:00
+divisions division%1:14:00::
+and
+870000
+men men%1:14:00::
+;
+a
+Navy navy%1:14:00::
+of
+817
+active active%5:00:00:operational:00
+ships ship%1:06:00::
+and
+619000
+men men%1:14:00::
+;
+a
+Marine_Corps marine_corps%1:14:00::
+of
+3 3%5:00:00:cardinal:00
+divisions division%1:14:00::
+and
+3 3%5:00:00:cardinal:00
+air air%3:00:00::
+wings wing%1:14:00::
+with
+175000
+men men%1:14:00::
+;
+and
+an
+Air_Force air_force%1:14:00::
+of
+91
+combat combat%1:04:00::
+wings wing%1:14:00::
+and
+825000
+men men%1:14:00::
+.
+If
+the
+reserve reserve%5:00:00:nonoperational:00
+components component%1:09:00::
+are
+to
+serve serve%2:33:00::
+effectively effectively%4:02:01::
+in
+time time%1:28:00::
+of
+war war%1:04:00::
+,
+their
+basic basic%3:00:00::
+organization organization%1:09:00::
+and
+objectives objective%1:09:00::
+must
+conform_to conform_to%2:42:01::
+the
+changing changing%5:00:00:dynamic:00
+character character%1:09:00::
+and
+missions mission%1:04:00::
+of
+the
+active active%5:00:00:operational:00
+forces force%1:14:00::
+.
+Quality quality%1:07:02::
+and
+combat combat%1:04:00::
+readiness readiness%1:26:00::
+must
+take take%2:30:01::
+precedence precedence%1:26:00::
+over
+mere mere%5:00:00:specified:00
+numbers number%1:07:00::
+.
+Under
+modern modern%3:00:00::
+conditions condition%1:26:00::
+,
+this
+is be%2:42:03::
+especially especially%4:02:00::
+true true%3:00:00::
+of
+the
+ready ready%3:00:00::
+reserve reserves%1:14:00::
+.
+I
+have
+requested request%2:32:02::
+the
+Secretary secretary%1:18:01::
+of
+Defense defense%1:04:00::
+to
+reexamine reexamine%2:31:00::
+the
+roles role%1:04:00::
+and
+missions mission%1:04:01::
+of
+the
+reserve reserve%5:00:00:nonoperational:00
+components component%1:09:00::
+in_relation_to in_relation_to%5:00:00:related:02
+those
+of
+the
+active active%5:00:00:operational:00
+forces force%1:14:00::
+and
+in
+the
+light light%1:09:01::
+of
+the
+changing changing%5:00:00:dynamic:00
+requirements requirement%1:09:01::
+of
+modern modern%5:00:00:progressive:01
+warfare warfare%1:04:00::
+.
+Last last%5:00:00:past:00
+year year%1:28:01::
+the
+Congress congress%1:14:01::
+discontinued discontinue%2:42:01::
+its
+previously previously%4:02:00::
+imposed impose%2:41:00::
+minimum minimum%3:00:00::
+personnel personnel%1:14:00::
+strength strength%1:07:05::
+limitations limitation%1:09:00::
+on
+the
+Army_Reserve group%1:03:00::
+.
+Similar similar%3:00:00::
+restrictions restriction%1:09:00::
+on
+the
+strength strength%1:07:00::
+of
+the
+Army army%1:14:00::
+National_Guard national_guard%1:14:00::
+contained contain%2:42:00::
+in
+the
+1960
+Department_of_Defense department_of_defense%1:14:00::
+Appropriation_Act
+should
+likewise likewise%4:02:00::
+be
+dropped drop%2:41:01::
+.
+I
+strongly strongly%4:02:00::
+recommend recommend%2:32:01::
+to
+the
+Congress congress%1:14:01::
+the
+avoidance avoidance%1:04:00::
+of
+mandatory mandatory%5:00:00:obligatory:00
+floors floor%1:10:00::
+on
+the
+size size%1:07:00::
+of
+the
+reserve reserve%5:00:00:nonoperational:00
+components component%1:09:00::
+so so%4:02:06::
+that
+we
+may
+have have%2:40:00::
+the
+flexibility flexibility%1:07:01::
+to
+make make%2:41:00::
+adjustments adjustment%1:04:00::
+in
+keeping keep%2:42:00::
+with
+military military%3:00:02::
+necessity necessity%1:17:00::
+.
+I
+again again%4:02:00::
+proposed propose%2:32:00::
+a
+reduction reduction%1:04:00::
+in
+the
+Army army%1:14:00::
+National_Guard national_guard%1:14:00::
+and
+Army_Reserve group%1:03:00::
+-
+from
+their
+present present%3:00:01::
+strengths strength%1:07:05::
+of
+400000
+and
+300000
+,
+respectively respectively%4:02:00::
+,
+to
+360000
+and
+270000
+by
+the
+end end%1:28:00::
+of
+the
+fiscal_year fiscal_year%1:28:00::
+1961
+.
+These
+strengths strength%1:07:05::
+are
+considered consider%2:31:00::
+adequate adequate%3:00:00::
+to
+meet meet%2:34:00::
+the
+essential essential%5:00:00:necessary:00
+roles role%1:07:00::
+and
+missions mission%1:04:01::
+of
+the
+reserves reserves%1:14:00::
+in
+support support%1:04:00::
+of
+our
+national national%3:01:00::
+security security%1:26:00::
+objectives objective%1:09:00::
+.
+-
+About
+30 30%5:00:00:cardinal:00
+%
+of
+the
+expenditures expenditure%1:21:00::
+for
+the
+Department_of_Defense department_of_defense%1:14:00::
+in
+1961
+are be%2:42:06::
+for
+military_personnel military_personnel%1:14:00::
+costs cost%1:21:00::
+,
+including include%2:42:00::
+pay pay%1:21:01::
+for
+active active%5:00:00:operational:00
+,
+reserve reserve%5:00:00:nonoperational:00
+,
+and
+retired retired%5:00:00:inactive:08
+military_personnel military_personnel%1:14:00::
+.
+These
+expenditures expenditure%1:21:00::
+are
+estimated estimate%2:31:00::
+to
+be be%2:42:07::
+$
+12.1
+billion billion%1:23:01::
+,
+an
+increase increase%1:23:00::
+of
+$
+187
+million million%1:23:00::
+over
+1960
+,
+reflecting reflect%2:39:01::
+additional additional%5:00:00:added:00
+longevity longevity%1:07:00::
+pay pay%1:21:01::
+of
+career career%1:04:00::
+personnel personnel%1:14:00::
+,
+more more%3:00:02::
+dependents dependent%1:18:00::
+,
+an
+increased increased%3:00:00::
+number number%1:07:00::
+of
+men men%1:14:00::
+drawing draw%2:40:00::
+proficiency proficiency%1:07:00::
+pay pay%1:21:01::
+,
+and
+social_security social_security%1:04:00::
+tax tax%1:21:00::
+increases increase%1:11:00::
+(
+effective effective%5:00:00:operative:00
+for
+the
+full full%5:00:01:whole:00
+year year%1:28:01::
+in
+1961
+compared compare%2:31:01::
+with
+only only%4:02:02::
+6 6%5:00:00:cardinal:00
+months month%1:28:00::
+in
+1960
+)
+.
+Retired retired%5:00:00:inactive:08
+pay pay%1:21:01::
+costs cost%1:21:00::
+are
+increased increase%2:30:00::
+by
+$
+94
+million million%5:00:00:cardinal:00
+in
+1961
+over
+1960
+,
+partly partly%4:02:00::
+because
+of
+a
+substantial substantial%5:00:00:considerable:00
+increase increase%1:11:00::
+in
+the
+number number%1:07:00::
+of
+retired retired%5:00:00:inactive:08
+personnel personnel%1:14:00::
+.
+These
+increased increased%3:00:00::
+costs cost%1:21:00::
+are
+partially partially%4:02:00::
+offset offset%2:42:01::
+by
+a
+decrease decrease%1:11:00::
+of
+$
+56
+million million%5:00:00:cardinal:00
+in
+expenditures expenditure%1:21:00::
+for
+the
+reserve reserve%5:00:00:nonoperational:00
+forces force%1:14:00::
+,
+largely largely%4:02:00::
+because
+of
+the
+planned planned%3:00:00::
+reduction reduction%1:04:00::
+in
+strength strength%1:07:05::
+of
+the
+Army_Reserve group%1:03:00::
+components component%1:24:00::
+during
+1961
+.
+Traditionally traditionally%4:02:00::
+,
+rates_of_pay rate_of_pay%1:21:00::
+for
+retired retired%5:00:00:inactive:08
+military_personnel military_personnel%1:18:00::
+have
+been be%2:42:03::
+proportionate proportionate%3:00:00::
+to
+current current%3:00:00::
+rates_of_pay rate_of_pay%1:21:00::
+for
+active active%5:00:00:operational:00
+personnel personnel%1:14:00::
+.
+The
+1958
+military military%3:01:00::
+pay pay%1:21:01::
+act act%1:10:01::
+departed depart%2:42:00::
+from
+this
+established established%3:00:00::
+formula formula%1:10:01::
+by
+providing_for provide_for%2:42:01::
+a
+6 6%5:00:00:cardinal:00
+%
+increase increase%1:11:00::
+rather rather%4:02:02::
+than
+a
+proportionate proportionate%3:00:00::
+increase increase%1:11:00::
+for
+everyone
+retired retired%5:00:00:inactive:08
+prior prior%5:00:00:antecedent:00
+to
+its
+effective effective%5:00:00:operative:00
+date date%1:28:00::
+of
+June june%1:28:00::
+1 1%5:00:00:cardinal:00
+,
+1958
+.
+I
+endorse endorse%2:41:00::
+pending pending%5:00:00:unfinished:01
+legislation legislation%1:10:00::
+that
+will
+restore restore%2:41:01::
+the
+traditional traditional%3:00:00::
+relationship relationship%1:24:00::
+between
+retired retired%5:00:00:inactive:08
+and
+active active%5:00:00:operational:00
+duty duty%1:04:02::
+pay_rates pay_rate%1:21:00::
+.
+-
+Expenditures expenditure%1:21:00::
+for
+operating operate%2:35:00::
+and
+maintaining maintain%2:42:00::
+the
+stations station%1:06:00::
+and
+equipment equipment%1:06:00::
+of
+the
+Armed_Forces armed_forces%1:14:00::
+are
+estimated estimate%2:31:00::
+to
+be be%2:42:07::
+$
+10.3
+billion billion%5:00:00:cardinal:00
+in
+1961
+,
+which
+is be%2:42:03::
+$
+184
+million million%5:00:00:cardinal:00
+more more%3:00:01::
+than
+in
+1960
+.
+The
+increase increase%1:11:00::
+stems stem%2:42:00::
+largely largely%4:02:00::
+from
+the
+growing grow%2:30:00::
+complexity complexity%1:07:00::
+of
+and
+higher higher%5:00:02:high:02
+degree degree%1:07:00::
+of
+maintenance maintenance%1:04:00::
+required required%5:00:00:necessary:00
+for
+newer new%3:00:00::
+weapons weapon%1:06:00::
+and
+equipment equipment%1:06:00::
+.
+A
+substantial substantial%5:00:00:considerable:00
+increase increase%1:11:00::
+is
+estimated estimate%2:31:00::
+in
+the
+cost cost%1:21:00::
+of
+operating operate%2:41:00::
+additional additional%5:00:00:added:00
+communications_systems communication_system%1:06:01::
+in
+the
+air air%3:00:00::
+defense_program defense_program%1:09:00::
+,
+as_well as_well%4:02:01::
+as
+in
+all all%3:00:00::
+programs program%1:09:00::
+where
+speed speed%1:28:00::
+and
+security security%1:26:00::
+of
+communications communication%1:03:00::
+are be%2:42:03::
+essential essential%5:00:00:important:00
+.
+Also also%4:02:00::
+,
+the
+program program%1:09:00::
+for
+fleet fleet%1:14:03::
+modernization modernization%1:04:00::
+will
+be
+stepped_up step_up%2:30:01::
+in
+1961
+causing cause%2:32:00::
+an
+increase increase%1:11:00::
+in
+expenditures expenditure%1:21:00::
+.
+Further further%5:00:00:added:00
+increases increase%1:11:00::
+arise arise%2:42:00::
+from
+the
+civilian civilian%3:00:00::
+employee employee%1:18:00::
+health health%1:26:00::
+program program%1:09:00::
+enacted enact%2:41:00::
+by
+the
+Congress congress%1:14:01::
+last last%5:00:00:past:00
+year year%1:28:01::
+.
+Other other%3:00:00::
+factors factor%1:11:00::
+increasing increase%2:30:00::
+operating_costs operating_cost%1:21:00::
+include include%2:42:00::
+the
+higher higher%5:00:02:high:02
+unit_cost unit_cost%1:21:00::
+of
+each
+flying flying%5:00:00:air(a):00
+hour hour%1:28:00::
+,
+up
+11 11%5:00:00:cardinal:00
+%
+in
+two two%5:00:00:cardinal:00
+years year%1:28:01::
+,
+and
+of
+each
+steaming steam%2:38:02::
+hour hour%1:28:00::
+,
+up
+15 15%5:00:00:cardinal:00
+%
+.
+In
+total total%5:00:00:whole:00
+,
+these
+increases increase%1:11:00::
+in
+operating_costs operating_cost%1:21:00::
+outweigh outweigh%2:42:00::
+the
+savings savings%1:21:00::
+that
+result result%2:42:00::
+from
+declining declining%5:00:00:regressive:01
+programs program%1:09:00::
+and
+from
+economy economy%1:14:00::
+measures measure%1:04:01::
+,
+such_as such_as%5:00:00:specified:00
+reduced reduced%3:00:04::
+numbers number%1:23:00::
+of
+units unit%1:24:00::
+and
+installations installation%1:06:00::
+,
+smaller smaller%5:00:00:small:00
+inventories inventory%1:06:00::
+of
+major major%3:00:06::
+equipment equipment%1:06:00::
+,
+and
+improvements improvement%1:04:00::
+in
+the
+supply supply%1:04:00::
+and
+distribution distribution%1:04:00::
+systems system%1:06:00::
+of
+the
+Armed_Forces armed_forces%1:14:00::
+.
+In
+the
+budget budget%1:21:03::
+message message%1:10:00::
+for
+1959
+,
+and
+again again%4:02:00::
+for
+1960
+,
+I
+recommended recommend%2:32:01::
+immediate immediate%3:00:00::
+repeal repeal%1:04:00::
+of
+section section%1:10:00::
+601
+of
+the
+Act act%1:10:01::
+of
+September september%1:28:00::
+28 28%5:00:00:cardinal:00
+,
+1951
+(
+65
+Stat.
+365
+)
+.
+This
+section section%1:10:00::
+prevents prevent%2:41:00::
+the
+military military%3:00:02::
+departments department%1:14:00::
+and
+the
+Office office%1:14:01::
+of
+Civil civil%5:00:00:civilian:00
+and
+Defense defense%1:04:00::
+Mobilization mobilization%1:04:01::
+from
+carrying_out carry_out%2:36:00::
+certain certain%5:00:00:definite:00
+transactions transaction%1:04:00::
+involving involve%2:42:01::
+real_property real_property%1:21:00::
+unless
+they
+come come%2:42:01::
+into
+agreement agreement%1:26:01::
+with
+the
+Committees_on_Armed_Services group%1:03:00::
+of
+the
+Senate senate%1:14:01::
+and
+the
+House_of_Representatives house_of_representatives%1:14:00::
+.
+As
+I
+have
+stated state%2:32:00::
+previously previously%4:02:00::
+,
+the
+Attorney_General attorney_general%1:18:00::
+has
+advised advise%2:32:01::
+me
+that
+this
+section section%1:10:00::
+violates violate%2:41:00::
+fundamental fundamental%5:00:00:basic:00
+constitutional constitutional%3:01:01::
+principles principle%1:09:00::
+.
+Accordingly accordingly%4:02:00::
+,
+if
+it
+is
+not not%4:02:00::
+repealed repeal%2:32:00::
+by
+the
+Congress congress%1:14:01::
+at
+its
+present present%3:00:01::
+session session%1:10:00::
+,
+I
+shall
+have have%2:40:01::
+no
+alternative alternative%1:09:00::
+thereafter thereafter%4:02:00::
+but
+to
+direct direct%2:32:00::
+the
+Secretary secretary%1:18:01::
+of
+Defense defense%1:04:00::
+to
+disregard disregard%2:32:02::
+the
+section section%1:10:00::
+unless
+a
+court court%1:14:00::
+of
+competent competent%3:00:00::
+jurisdiction jurisdiction%1:07:02::
+determines determine%2:32:00::
+otherwise otherwise%4:02:03::
+.
+Basic basic%3:00:00::
+long long%3:00:01::
+line line%1:06:01::
+communications communication%1:10:01::
+in
+Alaska alaska%1:15:00::
+are
+now now%4:02:00::
+provided provide%2:40:00::
+through
+Federal federal%5:00:00:national:01
+facilities facility%1:06:00::
+operated operate%2:41:00::
+by
+the
+Army army%1:14:00::
+,
+Air_Force air_force%1:14:00::
+,
+and
+Federal_Aviation_Agency group%1:03:00::
+.
+The
+growing grow%2:30:00::
+communications communication%1:10:01::
+needs need%1:26:00::
+of
+this
+new new%3:00:00::
+State state%1:15:01::
+can
+best best%4:02:01::
+be
+met meet%2:41:02::
+,
+as
+they
+have
+in
+other other%3:00:00::
+States state%1:15:01::
+,
+through
+the
+operation operation%1:04:04::
+and
+development development%1:04:01::
+of
+such such%5:00:01:specified:00
+facilities facility%1:06:00::
+by
+private private%3:00:00::
+enterprise enterprise%1:14:00::
+.
+Legislation legislation%1:10:00::
+has
+already already%4:02:00::
+been
+proposed propose%2:31:00::
+to
+authorize authorize%2:32:00::
+the
+sale sale%1:04:00::
+of
+these
+Government government%1:14:00::
+owned owned%3:00:00::
+systems system%1:06:00::
+in
+Alaska alaska%1:15:00::
+,
+and
+its
+early early%3:00:00::
+enactment enactment%1:04:01::
+is be%2:42:03::
+desirable desirable%3:00:00::
+.
+-
+Approximately approximately%4:02:00::
+45
+%
+of
+the
+expenditures expenditure%1:21:00::
+for
+the
+Department_of_Defense department_of_defense%1:14:00::
+are be%2:42:03::
+for
+procurement procurement%1:04:00::
+,
+research research%1:04:00::
+,
+development development%1:04:01::
+,
+and
+construction construction%1:04:00::
+programs program%1:09:00::
+.
+In
+1961
+,
+these
+expenditures expenditure%1:21:00::
+are
+estimated estimate%2:31:00::
+at
+$
+18.9
+billion billion%5:00:00:cardinal:00
+,
+compared compare%2:31:00::
+to
+$
+19.3
+billion billion%5:00:00:cardinal:00
+in
+1960
+.
+The
+decreases decrease%1:11:00::
+,
+which
+are be%2:42:05::
+largely largely%4:02:00::
+in
+construction construction%1:04:00::
+and
+in
+aircraft aircraft%1:06:00::
+procurement procurement%1:04:00::
+,
+are
+offset offset%2:42:01::
+in
+part part%4:02:00::
+by
+increases increase%1:23:00::
+for
+research research%1:04:00::
+and
+development development%1:04:01::
+and
+for
+procurement procurement%1:04:00::
+of
+other other%3:00:00::
+military military%3:00:02::
+equipment equipment%1:06:00::
+such_as such_as%5:00:00:specified:00
+tanks tank%1:06:01::
+,
+vehicles vehicle%1:06:00::
+,
+guns gun%1:06:00::
+,
+and
+electronic_devices electronic_device%1:06:00::
+.
+Expenditures expenditure%1:21:00::
+for
+shipbuilding shipbuilding%1:04:00::
+are
+estimated estimate%2:31:00::
+at
+about about%4:02:00::
+the
+same same%3:00:00::
+level level%1:07:00::
+as
+in
+1960
+.
+New new%3:00:00::
+obligational obligational%3:01:00::
+authority authority%1:07:00::
+for
+1961
+recommended recommend%2:32:01::
+in
+this
+budget budget%1:21:03::
+for
+aircraft aircraft%1:06:00::
+procurement procurement%1:04:00::
+(
+excluding exclude%2:31:01::
+amounts amount%1:21:00::
+for
+related related%3:00:02::
+research research%1:04:00::
+and
+construction construction%1:04:00::
+)
+totals total%2:42:00::
+$
+4753
+million million%5:00:00:cardinal:00
+,
+which
+is be%2:42:03::
+$
+1390
+million million%5:00:00:cardinal:00
+below
+that
+enacted enact%2:41:00::
+for
+1960
+.
+On_the_other_hand on_the_other_hand%4:02:00::
+,
+the
+new new%3:00:00::
+authority authority%1:07:00::
+of
+$
+3825
+million million%5:00:00:cardinal:00
+proposed propose%2:32:00::
+for
+missile missile%1:06:01::
+procurement procurement%1:04:00::
+(
+excluding exclude%2:31:01::
+research research%1:04:00::
+and
+construction construction%1:04:00::
+)
+in
+1961
+is be%2:42:03::
+$
+581
+million million%5:00:00:cardinal:00
+higher high%3:00:02::
+than
+for
+1960
+.
+These
+contrasting contrast%2:42:00::
+trends trend%1:15:02::
+in
+procurement procurement%1:04:00::
+reflect reflect%2:39:01::
+the
+anticipated anticipated%5:00:00:expected:00
+changes change%1:11:00::
+in
+the
+composition composition%1:07:01::
+and
+missions mission%1:04:01::
+of
+our
+Armed_Forces armed_forces%1:14:00::
+in
+the
+years year%1:28:01::
+ahead ahead%4:02:06::
+.
+The
+Department_of_Defense department_of_defense%1:14:00::
+appropriation appropriation%1:21:00::
+acts act%1:10:01::
+for
+the
+past past%3:00:00::
+several several%5:00:00:some(a):00
+years year%1:28:01::
+have
+contained contain%2:42:00::
+a
+rider rider%1:10:00::
+which
+limits limit%2:30:01::
+competitive competitive%3:00:00::
+bidding bid%2:40:00::
+by
+firms firm%1:14:00::
+in
+other other%3:00:00::
+countries country%1:14:00::
+on
+certain certain%5:00:00:definite:00
+military military%3:00:02::
+supply supply%1:23:00::
+items item%1:06:00::
+.
+As
+I
+have
+repeatedly repeatedly%4:02:00::
+stated state%2:32:00::
+,
+this
+provision provision%1:10:00::
+is be%2:42:03::
+much much%4:02:00::
+more more%4:02:00::
+restrictive restrictive%5:00:00:protective:00
+than
+the
+general general%3:00:00::
+law law%1:14:00::
+,
+popularly popularly%4:02:00::
+known_as known_as%5:00:00:titled:00
+the
+Buy buy%2:40:00::
+American american%3:01:01::
+Act act%1:10:01::
+.
+I
+urge urge%2:32:03::
+once_again once_again%4:02:00::
+that
+the
+Congress congress%1:14:01::
+not not%4:02:00::
+reenact reenact%2:41:00::
+this
+rider rider%1:10:00::
+.
+The
+task task%1:04:01::
+of
+providing provide%2:34:00::
+a
+reasonable reasonable%3:00:00::
+level level%1:07:00::
+of
+military military%3:01:00::
+strength strength%1:07:00::
+,
+without
+endangering endanger%2:32:00::
+other other%3:00:00::
+vital vital%5:00:00:indispensable:00
+aspects aspect%1:09:00::
+of
+our
+security security%1:26:00::
+,
+is
+greatly greatly%4:02:00::
+complicated complicate%2:30:00::
+by
+the
+swift swift%5:00:00:fast:01
+pace pace%1:07:01::
+of
+scientific scientific%3:01:00::
+progress progress%1:04:01::
+.
+The
+last last%5:00:00:past:00
+few few%3:00:00::
+years year%1:28:01::
+have
+witnessed witness%2:39:00::
+what
+have
+been be%2:42:03::
+perhaps perhaps%4:02:00::
+the
+most most%4:02:00::
+rapid rapid%5:00:00:fast:01
+advances advance%1:11:01::
+in
+military military%3:00:02::
+technology technology%1:04:00::
+in
+history history%1:28:02::
+.
+Some
+weapons_systems weapons_system%1:06:00::
+have
+become become%2:30:00::
+obsolescent obsolescent%5:00:00:noncurrent:00
+while
+still still%4:02:01::
+in
+production production%1:04:00::
+,
+and
+some
+while
+still still%4:02:01::
+under
+development development%1:04:01::
+.
+Furthermore furthermore%4:02:00::
+,
+unexpectedly unexpectedly%4:02:00::
+rapid rapid%5:00:00:fast:01
+progress progress%1:04:01::
+or
+a
+technological technological%3:01:00::
+break-through breakthrough%1:04:02::
+on
+any
+one one%5:00:01:single(a):00
+weapon_system weapon_system%1:06:00::
+,
+in
+itself
+,
+often often%4:02:00::
+diminishes diminish%2:30:00::
+the
+relative relative%3:00:00::
+importance importance%1:07:00::
+of
+other other%3:00:00::
+competitive competitive%3:00:00::
+systems system%1:06:00::
+.
+This
+has
+necessitated necessitate%2:42:00::
+a
+continuous continuous%3:00:01::
+review review%1:09:00::
+and
+reevaluation reevaluation%1:09:00::
+of
+the
+defense_program defense_program%1:09:00::
+in_order
+to
+redirect redirect%2:38:00::
+resources resource%1:21:00::
+to
+the
+newer new%3:00:00::
+and
+more more%4:02:00::
+important important%3:00:00::
+weapons_systems weapons_system%1:06:00::
+and
+to
+eliminate eliminate%2:30:01::
+or
+reduce reduce%2:30:00::
+effort effort%1:04:01::
+on
+weapons_systems weapons_system%1:06:00::
+which
+have
+been
+overtaken overtake%2:38:00::
+by
+events event%1:03:00::
+.
+Thus thus%4:02:01::
+,
+in
+the
+last last%5:00:00:past:00
+few few%3:00:00::
+years year%1:28:01::
+,
+a
+number number%1:07:00::
+of
+programs program%1:09:00::
+which
+looked look%2:39:01::
+very very%4:02:00::
+promising promising%5:00:00:likely:00
+at
+the
+time time%1:28:06::
+their
+development development%1:04:01::
+was
+commenced commence%2:36:00::
+have
+since
+been
+completely completely%4:02:04::
+eliminated eliminate%2:30:01::
+.
+For_example for_example%4:02:00::
+,
+the
+importance importance%1:07:00::
+of
+the
+Regulus_2
+,
+,
+a
+very very%4:02:00::
+promising promising%5:00:00:likely:00
+aerodynamic aerodynamic%3:01:00::
+ship ship%1:06:00::
+to
+surface surface%1:17:00::
+missile missile%1:06:01::
+designed design%2:31:00::
+to
+be
+launched launch%2:35:00::
+by
+surfaced surface%2:38:00::
+submarines submarine%1:06:00::
+,
+was
+greatly greatly%4:02:00::
+diminished diminish%2:30:00::
+by
+the
+successful successful%3:00:00::
+acceleration acceleration%1:04:00::
+of
+the
+much much%4:02:00::
+more more%4:02:00::
+advanced advanced%5:00:00:progressive:01
+Polaris
+ballistic_missile ballistic_missile%1:06:00::
+launched launch%2:35:00::
+by
+submerged submerge%2:38:00::
+submarines submarine%1:06:00::
+.
+Another
+example example%1:09:00::
+is be%2:42:06::
+the
+recent recent%5:00:00:past:00
+cancellation cancellation%1:04:00::
+of
+the
+F-108
+,
+a
+long long%3:00:01::
+range range%1:15:01::
+interceptor interceptor%1:06:00::
+with
+a
+speed speed%1:28:00::
+three_times three_times%4:02:01::
+as
+great great%5:00:01:large:00
+as
+the
+speed speed%1:28:00::
+of
+sound sound%1:19:00::
+,
+which
+was
+designed design%2:31:00::
+for
+use use%1:04:00::
+against
+manned manned%3:00:00::
+bombers bomber%1:06:00::
+in
+the
+period period%1:28:00::
+of
+the
+mid mid%5:00:00:middle:00
+1960
+'s
+.
+The
+substantial substantial%5:00:00:considerable:00
+progress progress%1:04:01::
+being
+made make%2:41:00::
+in
+ballistic_missile ballistic_missile%1:06:00::
+technology technology%1:04:00::
+is
+rapidly rapidly%4:02:00::
+shifting shift%2:30:00::
+the
+main main%5:00:00:important:00
+threat threat%1:26:00::
+from
+manned manned%3:00:00::
+bombers bomber%1:06:00::
+to
+missiles missile%1:06:01::
+.
+Considering
+the
+high high%3:00:02::
+cost cost%1:21:00::
+of
+the
+F-108
+system system%1:06:00::
+-
+over
+$
+4 4%5:00:00:cardinal:00
+billion billion%5:00:00:cardinal:00
+for
+the
+force force%1:07:00::
+that
+had
+been
+planned plan%2:31:00::
+-
+and
+the
+time_period time_period%1:28:00::
+in
+which
+it
+would
+become become%2:30:00::
+operational operational%5:00:00:serviceable:00
+,
+it
+was
+decided decide%2:31:00::
+to
+stop stop%2:42:00::
+further further%5:00:00:added:00
+work work%1:04:00::
+on
+the
+project project%1:04:00::
+.
+Meanwhile meanwhile%4:02:01::
+,
+other other%3:00:00::
+air_defense air_defense%1:04:00::
+forces force%1:14:00::
+are
+being
+made make%2:30:00::
+effective effective%5:00:00:competent:00
+,
+as
+described describe%2:32:01::
+later later%4:02:01::
+in
+this
+message message%1:10:01::
+.
+The
+size size%1:07:00::
+and
+scope scope%1:07:00::
+of
+other other%3:00:00::
+important important%3:00:00::
+programs program%1:09:00::
+have
+been
+reduced reduce%2:30:00::
+from
+earlier early%3:00:00::
+plans plan%1:09:00::
+.
+Notable notable%5:00:00:worthy:00
+in
+this
+category category%1:14:00::
+are be%2:42:03::
+the
+Jupiter
+and
+Thor
+intermediate intermediate%3:00:00::
+range range%1:15:01::
+ballistic_missiles ballistic_missile%1:06:00::
+,
+which
+have
+been
+successfully successfully%4:02:00::
+developed develop%2:36:01::
+,
+produced produce%2:36:00::
+,
+and
+deployed deploy%2:33:00::
+,
+but
+the
+relative relative%3:00:00::
+importance importance%1:07:00::
+of
+which
+has
+diminished diminish%2:30:00::
+with
+the
+increasing increase%2:30:00::
+availability availability%1:07:00::
+of
+the
+Atlas
+intercontinental_ballistic_missile intercontinental_ballistic_missile%1:06:00::
+.
+The
+impact impact%1:19:00::
+of
+technological technological%3:01:00::
+factors factor%1:11:00::
+is
+also also%4:02:00::
+illustrated illustrate%2:32:00::
+by
+the
+history history%1:10:00::
+of
+the
+high high%3:00:02::
+energy energy%1:19:00::
+fuel fuel%1:27:00::
+program program%1:09:00::
+.
+This
+project project%1:04:00::
+was
+started start%2:36:01::
+at
+a
+time time%1:28:00::
+when
+there
+was be%2:42:00::
+a
+critical critical%3:00:03::
+need need%1:26:00::
+for
+a
+high high%3:00:02::
+energy energy%1:19:00::
+fuel fuel%1:27:00::
+to
+provide provide%2:34:00::
+an
+extra extra%5:00:00:added:00
+margin margin%1:07:00::
+of
+range range%1:15:01::
+for
+high high%3:00:02::
+performance performance%1:04:02::
+aircraft aircraft%1:06:00::
+,
+particularly particularly%4:02:00::
+our
+heavy heavy%3:00:01::
+bombers bomber%1:06:00::
+.
+Continuing continuing%5:00:00:continued:00
+technical technical%3:01:00::
+problems problem%1:26:00::
+involved involve%2:42:00::
+in
+the
+use use%1:04:00::
+of
+this
+fuel fuel%1:27:00::
+,
+coupled couple%2:35:02::
+with
+significant significant%5:00:00:considerable:00
+improvements improvement%1:11:00::
+in
+aircraft aircraft%1:06:00::
+range range%1:15:01::
+through
+other other%3:00:00::
+means means%1:04:00::
+,
+have
+now now%4:02:00::
+raised raise%2:32:00::
+serious serious%3:00:00::
+questions question%1:10:00::
+about
+the
+value value%1:07:00::
+of
+the
+high high%3:00:02::
+energy energy%1:19:00::
+fuel fuel%1:27:00::
+program program%1:09:00::
+.
+As
+a
+result result%1:19:00::
+,
+the
+scope scope%1:07:00::
+of
+this
+project project%1:04:00::
+has
+been
+sharply sharply%4:02:00::
+curtailed curtail%2:30:00::
+.
+These
+examples example%1:09:00::
+underscore underscore%2:32:00::
+the
+importance importance%1:07:00::
+of
+even even%4:02:00::
+more more%4:02:00::
+searching searching%5:00:00:inquiring:00
+evaluations evaluation%1:09:00::
+of
+new new%3:00:00::
+major major%3:00:01::
+development development%1:04:01::
+programs program%1:09:00::
+and
+even even%4:02:00::
+more more%4:02:00::
+penetrating penetrating%5:00:00:perceptive:00
+and
+far far%4:02:02::
+ranging ranging%3:44:00::
+analyses analysis%1:04:00::
+of
+the
+potentialities potentiality%1:09:00::
+of
+future future%3:00:00::
+technology technology%1:04:00::
+.
+The
+cost cost%1:21:00::
+of
+developing develop%2:36:01::
+a
+major major%3:00:01::
+weapon_system weapon_system%1:06:00::
+is be%2:42:03::
+now now%4:02:00::
+so so%4:02:02::
+enormous enormous%5:00:00:large:00
+that
+the
+greatest greatest%5:00:00:maximal:00
+care care%1:09:00::
+must
+be
+exercised exercise%2:34:00::
+in
+selecting select%2:31:00::
+new new%3:00:00::
+systems system%1:06:00::
+for
+development development%1:04:01::
+,
+in
+determining determine%2:32:00::
+the
+most most%4:02:00::
+satisfactory satisfactory%3:00:00::
+rate rate%1:28:00::
+of
+development development%1:04:01::
+,
+and
+in
+deciding decide%2:31:00::
+the
+proper proper%3:00:00::
+time time%1:28:06::
+at
+which
+either
+to
+place place%2:35:00::
+a
+system system%1:06:00::
+into
+production production%1:04:00::
+or
+to
+abandon abandon%2:40:01::
+it
+.
+-
+The
+deterrent deterrent%1:09:00::
+power power%1:07:00::
+of
+our
+Armed_Forces armed_forces%1:14:00::
+comes come%2:42:04::
+from
+both
+their
+nuclear nuclear%3:00:00::
+retaliatory retaliatory%5:00:00:reciprocal:00
+capability capability%1:07:00::
+and
+their
+capability capability%1:07:00::
+to
+conduct conduct%2:41:00::
+other other%3:00:00::
+essential essential%5:00:00:necessary:00
+operations operation%1:04:02::
+in
+any
+form form%1:09:01::
+of
+war war%1:04:00::
+.
+The
+first first%3:00:00::
+capability capability%1:07:00::
+is
+represented represent%2:42:01::
+by
+a
+combination combination%1:14:00::
+of
+manned manned%3:00:00::
+bombers bomber%1:06:00::
+,
+carrier carrier%1:06:01::
+based based%5:00:00:settled:01
+aircraft aircraft%1:06:00::
+,
+and
+intercontinental intercontinental%3:00:00::
+and
+intermediate intermediate%3:00:00::
+range range%1:15:01::
+missiles missile%1:06:01::
+.
+The
+second second%5:00:00:intermediate:00
+capability capability%1:07:00::
+is
+represented represent%2:42:01::
+by
+our
+deployed deploy%2:33:00::
+ground ground%1:17:00::
+,
+naval naval%3:01:00::
+,
+and
+air air%1:15:00::
+forces force%1:14:01::
+in
+essential essential%5:00:00:important:00
+forward forward%3:00:01::
+areas area%1:15:01::
+,
+together together%4:02:04::
+with
+ready ready%5:00:01:available:00
+reserves reserves%1:14:00::
+capable capable%5:00:00:adequate:00
+of
+effecting effect%2:36:00::
+early early%3:00:00::
+emergency emergency%1:11:00::
+reinforcement reinforcement%1:04:01::
+.
+The
+Strategic_Air_Command group%1:03:00::
+is be%2:42:06::
+the
+principal principal%5:00:00:important:00
+element element%1:09:00::
+of
+our
+long_range long-range%5:00:00:long:01
+nuclear nuclear%3:00:00::
+capability capability%1:07:00::
+.
+One one%5:00:00:cardinal:00
+of
+the
+important important%3:00:00::
+and
+difficult difficult%3:00:00::
+decisions decision%1:04:00::
+which
+had
+to
+be
+made
+in
+this
+budget budget%1:21:03::
+concerned concern%2:42:00::
+the
+role role%1:07:00::
+of
+the
+B-70
+,
+a
+long long%3:00:01::
+range range%1:15:01::
+supersonic supersonic%3:00:00::
+bomber bomber%1:06:00::
+.
+This
+aircraft aircraft%1:06:00::
+,
+which
+was
+planned plan%2:31:00::
+for
+initial initial%5:00:00:first:00
+operational operational%3:00:00::
+use use%1:04:00::
+about
+1965
+,
+would
+be be%2:42:03::
+complementary complementary%5:00:00:inessential:00
+to
+but
+likewise likewise%4:02:01::
+competitive competitive%3:00:00::
+with
+the
+four four%5:00:00:cardinal:00
+strategic strategic%3:01:00::
+ballistic_missile ballistic_missile%1:06:00::
+systems system%1:06:00::
+,
+all_of all_of%3:00:00::
+which
+are
+scheduled schedule%2:31:00::
+to
+become become%2:30:00::
+available available%3:00:00::
+earlier earlier%4:02:02::
+.
+The
+first first%3:00:00::
+Atlas
+ICBM icbm%1:06:00::
+'s
+are be%2:42:03::
+now now%4:02:00::
+operational operational%5:00:00:serviceable:00
+,
+the
+first first%3:00:00::
+two two%5:00:00:cardinal:00
+Polaris
+submarines submarine%1:06:00::
+are
+expected expect%2:31:00::
+to
+be be%2:42:03::
+operational operational%5:00:00:serviceable:00
+this
+calendar_year calendar_year%1:28:00::
+,
+and
+the
+first first%3:00:00::
+Titan
+ICBM icbm%1:06:00::
+'s
+next next%5:00:00:succeeding(a):00
+year year%1:28:01::
+.
+The
+Minuteman
+solid solid%3:00:01::
+fueled fueled%3:00:00::
+ICBM icbm%1:06:00::
+is
+planned plan%2:36:01::
+to
+be
+operational operational%5:00:00:serviceable:00
+about
+mid mid%5:00:00:middle:00
+1963
+.
+By
+1965
+,
+several several%5:00:00:some(a):00
+or
+all_of all_of%3:00:00::
+these
+systems system%1:06:00::
+will
+have
+been
+fully fully%4:02:02::
+tested test%2:41:00::
+and
+their
+reliability reliability%1:07:00::
+established establish%2:31:00::
+.
+Thus thus%4:02:00::
+,
+the
+need need%1:26:00::
+for
+the
+B-70
+as
+a
+strategic strategic%3:01:00::
+weapon_system weapon_system%1:06:00::
+is be%2:42:03::
+doubtful doubtful%5:00:00:questionable:00
+.
+However however%4:02:00::
+,
+I
+am
+recommending recommend%2:32:01::
+that
+development development%1:04:01::
+work work%1:04:00::
+on
+the
+B-70
+air-frame airframe%1:06:00::
+and
+engines engine%1:06:00::
+be
+continued continue%2:32:00::
+.
+It
+is
+expected expect%2:31:00::
+that
+in
+1963
+two two%5:00:00:cardinal:00
+prototype prototype%1:09:00::
+aircraft aircraft%1:06:00::
+will
+be be%2:42:03::
+available available%3:00:00::
+for
+flight flight%1:04:00::
+testing testing%1:04:00::
+.
+By
+that
+time time%1:28:06::
+we
+should
+be be%2:42:05::
+in
+a
+much much%4:02:00::
+better better%3:00:00::
+position position%1:26:00::
+to
+determine determine%2:32:00::
+the
+value value%1:07:00::
+of
+that
+aircraft aircraft%1:06:00::
+as
+a
+weapon_system weapon_system%1:06:00::
+.
+I
+am
+recommending recommend%2:32:01::
+additional additional%5:00:00:added:00
+acquisitions acquisition%1:04:00::
+of
+the
+improved improved%5:00:00:better:00
+version version%1:09:01::
+of
+the
+B-52 b-52%1:06:00::
+(
+the
+B-52_H
+with
+the
+new new%3:00:00::
+turbofan_engine turbofan_engine%1:06:00::
+)
+and
+procurement procurement%1:04:00::
+of
+the
+B-58
+supersonic supersonic%3:00:00::
+medium medium%5:00:00:moderate:00
+bomber bomber%1:06:00::
+,
+together together%4:02:04::
+with
+the
+supporting support%2:41:00::
+refueling refueling%1:04:00::
+tankers tanker%1:06:00::
+in
+each
+case case%1:11:00::
+.
+These
+additional additional%5:00:00:added:00
+modern modern%5:00:00:fashionable:00
+bombers bomber%1:06:00::
+will
+replace replace%2:41:00::
+some
+of
+the
+older old%3:00:01::
+B-47
+medium medium%5:00:00:moderate:00
+bombers bomber%1:06:00::
+;
+one one%5:00:00:same:00
+B-52 b-52%1:06:00::
+can
+do do%2:41:04::
+the
+work work%1:04:01::
+of
+several several%5:00:00:some(a):00
+B-47
+'s
+which
+it
+will
+replace replace%2:41:00::
+.
+Funds funds%1:21:00::
+are
+also also%4:02:00::
+included include%2:31:00::
+in
+this
+budget budget%1:21:02::
+to
+continue continue%2:32:00::
+the
+equipping equipping%1:04:00::
+of
+the
+B-52 b-52%1:06:00::
+wings wing%1:06:00::
+with
+the
+Hound_Dog
+air-to-surface_missile air-to-surface_missile%1:06:00::
+.
+In
+the
+coming coming%5:00:01:future:00
+fiscal_year fiscal_year%1:28:00::
+additional additional%5:00:00:added:00
+quantities quantity%1:07:00::
+of
+Atlas
+,
+Titan
+,
+and
+Polaris
+missiles missile%1:06:01::
+also also%4:02:00::
+will
+be
+procured procure%2:40:00::
+.

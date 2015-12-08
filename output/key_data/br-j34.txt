@@ -1,0 +1,2111 @@
+It
+is be%2:42:03::
+obvious obvious%3:00:00::
+enough enough%4:02:00::
+that
+linguists linguist%1:18:01::
+in_general in_general%4:02:00::
+have
+been be%2:42:03::
+less less%4:02:00::
+successful successful%3:00:00::
+in
+coping_with cope_with%2:41:00::
+tone_systems tone_system%1:10:00::
+than
+with
+consonants consonant%1:10:00::
+or
+vowels vowel%1:10:00::
+.
+No
+single single%3:00:00::
+explanation explanation%1:10:00::
+is be%2:42:03::
+adequate_to adequate_to%5:00:00:adequate:00
+account_for account_for%2:42:00::
+this
+.
+Improvement improvement%1:11:00::
+,
+however however%4:02:00::
+,
+is be%2:42:06::
+urgent urgent%5:00:00:imperative:00
+,
+and
+at_least at_least%4:02:00::
+three three%5:00:00:cardinal:00
+things thing%1:06:01::
+will
+be be%2:42:03::
+needed needed%5:00:00:necessary:00
+.
+The
+first first%1:24:00::
+is be%2:42:06::
+a
+wide-ranging wide-ranging%5:00:00:large:00
+sample sample%1:09:01::
+of
+successful successful%3:00:00::
+tonal tonal%3:01:00::
+analyses analysis%1:04:00::
+.
+Even even%4:02:00::
+beginning beginning%5:00:00:early:02
+students student%1:18:00::
+in
+linguistics linguistics%1:09:00::
+are
+made make%2:30:00::
+familiar familiar%5:00:00:informed:00
+with
+an
+appreciable appreciable%5:00:00:considerable:00
+variety variety%1:14:01::
+of
+consonant_systems consonant_system%1:10:00::
+,
+both
+in
+their
+general general%3:00:00::
+outlines outline%1:10:00::
+and
+in
+many many%3:00:00::
+specific specific%3:00:00::
+details detail%1:24:00::
+.
+An
+advanced advanced%5:00:02:high:02
+student student%1:18:00::
+has
+read read%2:31:00::
+a
+considerable considerable%3:00:00::
+number number%1:07:00::
+of
+descriptions description%1:10:01::
+of
+consonantal_systems consonantal_system%1:10:00::
+,
+including include%2:42:00::
+some
+of
+the
+more more%4:02:00::
+unusual unusual%3:00:00::
+types type%1:09:00::
+.
+By
+contrast contrast%1:04:00::
+,
+even even%4:02:00::
+experienced experienced%3:00:00::
+linguists linguist%1:18:01::
+commonly commonly%4:02:00::
+know know%2:31:03::
+no_more no_more%4:02:05::
+of
+the
+range range%1:07:00::
+of
+possibilities possibility%1:26:00::
+in
+tone_systems tone_system%1:10:00::
+than
+the
+over-simple oversimplified%5:00:00:simple:02
+distinction distinction%1:09:00::
+between
+register register_language%1:10:00::
+and
+contour_languages contour_language%1:10:00::
+.
+This
+limited limited%3:00:00::
+familiarity familiarity%1:09:00::
+with
+the
+possible possible%3:00:04::
+phenomena phenomenon%1:03:00::
+has
+severely severely%4:02:01::
+hampered hamper%2:30:00::
+work work%1:04:00::
+with
+tone tone%1:07:02::;1:07:01::
+.
+Tone tone%1:07:02::
+analysis analysis%1:04:00::
+will
+continue continue%2:42:01::
+to
+be be%2:42:03::
+difficult difficult%3:00:00::
+and
+unsatisfactory unsatisfactory%3:00:00::
+until
+a
+more more%3:00:01::
+representative representative%5:00:00:typical:00
+selection selection%1:14:00::
+of
+systems system%1:14:00::
+is be%2:42:03::
+familar familiar%3:00:00::
+to
+every
+practicing practicing%5:00:00:active:08
+field field%1:15:01::
+linguist linguist%1:18:01::
+.
+Papers papers%1:10:00::
+like
+these
+four four%1:23:00::
+,
+if
+widely widely%4:02:00::
+read read%3:00:00::
+,
+will
+contribute contribute%2:40:00::
+importantly importantly%4:02:01::
+to
+improvement improvement%1:11:00::
+of
+our
+analytic analytic%3:00:03::
+work work%1:04:00::
+.
+The
+second second%5:00:00:ordinal:00
+need need%1:17:00::
+is be%2:42:06::
+better better%3:00:02::
+field field%1:15:01::
+techniques technique%1:09:00::
+.
+The
+great great%5:00:01:large:00
+majority majority%1:07:00::
+of
+present-day present-day%5:00:00:current:00
+linguists linguist%1:18:01::
+fall_into fall_into%2:42:00::
+one one%1:23:00::
+or
+more more%1:23:00::
+of
+a
+number number%1:07:00::
+of
+overlapping overlapping%5:00:00:related:02
+types type%1:09:00::
+:
+those
+who
+are be%2:42:03::
+convinced convinced%5:00:00:certain(p):02
+that
+tone tone%1:07:02::;1:07:01::
+cannot
+be
+analysed analyse%2:31:00::
+,
+those
+who
+are be%2:42:03::
+personally personally%4:02:01::
+scared scared%5:00:00:afraid(p):00
+of
+tone tone%1:07:02::;1:07:01::
+and
+tone_languages tone_language%1:10:00::
+generally generally%4:02:01::
+,
+those
+who
+are be%2:42:03::
+convinced convinced%5:00:00:certain(p):02
+that
+tone tone%1:07:02::;1:07:01::
+is be%2:42:03::
+merely merely%4:02:00::
+an
+unnecessary unnecessary%3:00:00::
+marginal marginal%5:00:00:peripheral:00
+feature feature%1:09:00::
+in
+those
+languages language%1:10:00::
+where
+it
+occurs occur%2:30:00::
+,
+those
+who
+have have%2:40:00::
+no
+idea idea%1:09:00::
+how
+to
+proceed proceed%2:41:00::
+with
+tone tone%1:07:02::
+analysis analysis%1:04:00::
+,
+those
+who
+take
+a
+simplistic simplistic%5:00:00:simple:02
+view view%1:09:02::
+of
+the
+whole whole%3:00:00::
+matter matter%1:09:00::
+.
+The
+result result%1:19:00::
+has
+been be%2:42:07::
+neglect neglect%1:09:00::
+,
+fumbling fumbling%5:00:00:unskilled:00
+efforts effort%1:04:00::
+,
+or
+superficial superficial%3:00:00::
+treatment treatment%1:04:01::
+.
+As
+these
+maladies malady%1:26:01::
+overlap overlap%2:30:02::;2:42:03::
+,
+so
+must
+the
+cure cure%1:06:00::
+.
+Analyses analysis%1:04:00::
+such_as such_as%5:00:00:specified:00
+these
+four four%1:23:00::
+will
+simultaneously simultaneously%4:02:00::
+combat combat%2:33:00::
+the
+assumptions assumption%1:09:00::
+that
+tone tone%1:07:02::;1:07:01::
+is be%2:42:03::
+impossible impossible%3:00:00::
+and
+that
+it
+is be%2:42:03::
+simple simple%3:00:02::
+.
+They
+will
+give give%2:40:05::
+suggestions suggestion%1:09:00::
+that
+can
+be
+worked_up work_up%2:30:00::
+into
+field field%1:15:01::
+procedures procedure%1:04:02::
+.
+Good good%3:00:01::
+field field%1:15:01::
+techniques technique%1:09:00::
+will
+not_only not_only%4:02:00::
+equip equip%2:30:00::
+linguists linguist%1:18:01::
+for
+better better%3:00:00::
+work work%1:04:00::
+,
+but
+also also%4:02:00::
+help help%2:41:00::
+them
+overcome overcome%2:33:01::
+negative negative%3:00:02::
+attitudes attitude%1:09:00::
+.
+Actually actually%4:02:01::
+,
+none
+of
+these
+papers papers%1:10:00::
+says say%2:32:00::
+much much%1:23:00::
+directly directly%4:02:05::
+about
+field field%1:15:01::
+techniques technique%1:09:00::
+.
+But
+it
+is be%2:42:03::
+worth worth%5:00:00:worthy:00
+pondering ponder%2:31:00::
+that
+very very%4:02:00::
+little little%1:23:00::
+has
+been
+published publish%2:32:00::;2:36:01::
+on
+any
+phase phase%1:28:00::
+of
+field field%1:15:01::
+techniques technique%1:09:00::
+in
+linguistics linguistics%1:09:00::
+.
+These
+things thing%1:06:00::
+have
+been
+disseminated disseminate%2:32:00::
+by
+other other%3:00:00::
+means means%1:06:00::
+,
+but
+always always%4:02:00::
+in
+the
+wake wake%1:19:00::
+of
+extensive extensive%5:00:00:large:00
+publication publication%1:04:01::
+of
+analytic analytic%3:00:03::
+results result%1:19:00::
+.
+The
+third third%5:00:00:ordinal:00
+need need%1:17:00::
+is be%2:42:06::
+for
+better better%3:00:02::
+theory theory%1:09:00::
+.
+We
+should
+expect expect%2:31:00::
+that
+general general%3:00:00::
+phonologic phonologic%3:01:00::
+theory theory%1:09:00::
+should
+be be%2:42:03::
+as
+adequate adequate%3:00:00::
+for
+tone tone%1:07:02::;1:07:01::
+as
+for
+consonants consonant%1:10:00::
+and
+vowels vowel%1:10:00::
+,
+but
+it
+has
+not not%4:02:00::
+been be%2:42:03::
+.
+This
+can
+only only%4:02:01::
+be be%2:42:00::
+for
+one one%5:00:00:cardinal:00
+of
+two two%1:23:00::
+reasons reason%1:16:00::
+:
+either
+the
+two
+are be%2:42:03::
+quite quite%4:02:02::
+different different%3:00:00::
+and
+will
+require require%2:42:00::
+totally totally%4:02:00::
+different different%5:00:00:other:00
+theory theory%1:09:00::
+(
+and
+hence hence%4:02:00::
+techniques technique%1:09:00::
+)
+,
+or
+our
+existing existing%5:00:00:present(a):01
+theories theory%1:09:00::
+are be%2:42:03::
+insufficiently insufficiently%4:02:00::
+general general%3:00:00::
+.
+If
+,
+as
+I
+suspect suspect%2:31:02::
+,
+the
+problem problem%1:26:00::
+is be%2:42:03::
+largely largely%4:02:00::
+of
+the
+second second%5:00:00:ordinal:00
+sort sort%1:09:00::
+,
+then then%4:02:02::
+development development%1:04:01::
+of
+a
+theory theory%1:09:00::
+better better%4:02:00::
+able able%3:00:00::
+to
+handle handle%2:41:00::
+tone tone%1:07:02::;1:07:01::
+will
+result result%2:42:00::
+automatically automatically%4:02:00::
+in
+better better%3:00:02::
+theory theory%1:09:00::
+for
+all
+phonologic phonologic%3:01:00::
+subsystems subsystem%1:14:00::
+.
+One one%5:00:00:cardinal:00
+issue issue%1:09:01::
+that
+must
+be
+faced face%2:32:00::
+is be%2:42:06::
+the
+relative relative%3:00:00::
+difficulty difficulty%1:04:00::
+of
+analysis analysis%1:04:00::
+of
+different different%3:00:00::
+phonologic phonologic%3:01:00::
+subsystems subsystem%1:14:00::
+.
+Since
+tone_systems tone_system%1:10:00::
+typically typically%4:02:00::
+comprise comprise%2:42:01::
+fewer fewer%3:00:00::
+units unit%1:24:00::
+than
+either
+consonant consonant_system%1:10:00::
+or
+vowel_systems vowel_system%1:10:00::
+,
+we
+might
+expect expect%2:31:00::
+that
+they
+would
+be be%2:42:06::
+the
+easiest easy%3:00:01::
+part part%1:24:00::
+of
+a
+phonologic phonologic%3:01:00::
+analysis analysis%1:04:00::
+.
+Actual actual%3:00:00::
+practice practice%1:04:00::
+does
+not not%4:02:00::
+often often%4:02:00::
+work_out work_out%2:42:00::
+this
+way way%1:07:01::
+.
+Tone_systems tone_system%1:10:00::
+are be%2:42:03::
+certainly certainly%4:02:00::
+more more%4:02:00::
+complex complex%3:00:00::
+than
+the
+number number%1:07:00::
+of
+units unit%1:24:00::
+would
+suggest suggest%2:32:02::
+,
+and
+often often%4:02:00::
+analytically analytically%4:02:00::
+more more%4:02:00::
+difficult difficult%3:00:00::
+than
+much much%4:02:00::
+larger larger%5:00:00:large:00
+consonantal_systems consonantal_system%1:10:00::
+.
+Welmers person%1:03:00::
+has
+suggested suggest%2:32:00::
+one one%5:00:00:unspecified:00
+explanation explanation%1:09:00::
+.
+Tone_languages tone_language%1:10:00::
+use use%2:34:01::
+for
+linguistic linguistic%3:01:00::
+contrasts contrast%1:09:01::
+speech speech%1:10:00::
+parameters parameter%1:11:00::
+which
+also also%4:02:00::
+function function%2:35:00::
+heavily heavily%4:02:00::
+in
+nonlinguistic nonlinguistic%3:01:00::
+use use%1:04:00::
+.
+This
+may
+both
+divert divert%2:38:01::
+the
+attention attention%1:09:00::
+of
+the
+uninitiate uninitiate%1:14:00::
+and
+cause cause%2:36:00::
+confusion confusion%1:09:00::
+for
+the
+more more%3:00:01::
+knowledgeable knowledgeable%5:00:00:educated:00
+.
+The
+problem problem%1:26:00::
+is be%2:42:06::
+to
+disentangle disentangle%2:35:02::
+the
+linguistic linguistic%3:01:01::
+features feature%1:09:00::
+of
+pitch pitch%1:07:00::
+from
+the
+co-occurring cooccurring%5:00:00:synchronous:00
+nonlinguistic nonlinguistic%3:01:00::
+features feature%1:09:00::
+.
+Of_course of_course%4:02:00::
+,
+something
+of
+the
+same same%3:00:00::
+sort sort%1:09:00::
+occurs occur%2:30:00::
+with
+other other%3:00:00::
+sectors sector%1:09:00::
+of
+the
+phonology phonology%1:09:00::
+:
+consonantal consonantal%3:00:02::
+articulations articulation%1:10:00::
+have have%2:42:00::
+both
+a
+linguistic linguistic%3:01:00::
+and
+an
+individual individual%3:00:00::
+component component%1:09:00::
+.
+But
+in_general in_general%4:02:00::
+the
+individual individual%3:00:00::
+variation variation%1:11:01::
+is be%2:42:06::
+a
+small small%3:00:00::
+thing thing%1:07:00::
+added add%2:30:00::
+onto
+basic basic%5:00:00:standard:01
+linguistic linguistic%3:01:01::
+features feature%1:09:00::
+of
+greater greater%3:00:00::
+magnitude magnitude%1:07:01::
+.
+With
+tone tone%1:07:02::
+,
+individual individual%3:00:00::
+differences difference%1:11:00::
+may
+be be%2:42:03::
+greater greater%3:00:00::
+than
+the
+linguistic linguistic%3:01:00::
+contrasts contrast%1:24:00::
+which
+are
+superimposed superimpose%2:35:00::
+on
+them
+.
+Pitch pitch%1:07:00::
+differences difference%1:11:00::
+from
+one one%5:00:00:cardinal:00
+speaker speaker%1:18:00::
+to
+another
+,
+or
+from
+one one%5:00:00:cardinal:00
+emotional_state emotional_state%1:26:00::
+to
+another
+,
+may
+far far%4:02:02::
+exceed exceed%2:42:01::
+the
+small small%3:00:00::
+differences difference%1:11:00::;1:07:00::
+between
+tones tone%1:07:02::
+.
+However however%4:02:00::
+,
+any
+such such%5:00:01:specified:00
+suggestion suggestion%1:09:00::
+accounts_for account_for%2:42:00::
+only only%4:02:02::
+some
+of
+the
+difficulties difficulty%1:04:00::
+in
+hearing hear%2:39:00::
+tone tone%1:07:02::
+,
+or
+in
+developing develop%2:36:00::
+a
+realistic realistic%3:00:00::
+attitude attitude%1:09:00::
+about
+tone tone%1:07:02::
+,
+but
+not not%4:02:00::
+for
+the
+analytic analytic%3:00:03::
+difficulties difficulty%1:04:00::
+that
+occur occur%2:30:00::
+even even%4:02:00::
+when
+tone tone%1:07:02::
+is
+meticulously meticulously%4:02:00::
+recorded record%2:32:03::
+.
+A
+second second%5:00:00:intermediate:00
+explanation explanation%1:09:00::
+is
+suggested suggest%2:32:02::
+by
+the
+material material%1:10:00::
+described describe%2:32:00::
+in
+Rowlands person%1:03:00::
+'
+paper paper%1:10:01::
+.
+Tone tone%1:07:02::
+and
+intonation intonation%1:10:00::
+often often%4:02:00::
+become become%2:30:00::
+seriously seriously%4:02:00::
+intermeshed intermeshed%5:00:00:tangled:00
+.
+Neither
+can
+be
+adequately adequately%4:02:00::
+systematized systematize%2:30:00::
+until
+we
+are be%2:42:03::
+able able%3:00:00::
+to
+separate separate%2:31:00::;2:31:01::
+the
+two
+and
+assign assign%2:31:02::
+the
+observed observed%5:00:00:determined:00
+phenomena phenomenon%1:03:00::
+individually individually%4:02:00::
+to
+one
+or
+the
+other other%5:00:00:added:00
+.
+Other other%3:00:00::
+pairs pair%1:14:01::
+of
+phonologic phonologic%3:01:00::
+subsystems subsystem%1:14:00::
+also also%4:02:00::
+interact interact%2:41:00::
+or
+overlap overlap%2:42:03::
+in
+this
+way way%1:07:01::
+;
+for_example for_example%4:02:00::
+,
+duration duration%1:28:02::
+sometimes sometimes%4:02:01::
+figures figure%2:42:00::
+in
+both
+the
+vowel_system vowel_system%1:10:00::
+and
+the
+intonation intonation%1:10:00::
+.
+Some
+phonetic phonetic%3:01:01::
+features feature%1:09:00::
+,
+for_example for_example%4:02:00::
+glottal_catch glottal_catch%1:10:00::
+or
+murmur murmur%1:10:01::
+,
+are
+sometimes sometimes%4:02:01::
+to
+be
+assigned assign%2:31:00::
+to
+segmental segmental%5:00:02:divided:00
+phonemics phonemics%1:09:00::
+and
+sometimes sometimes%4:02:01::
+to
+accentual_systems accentual_system%1:10:00::
+.
+But
+no
+other other%3:00:00::
+two two%5:00:00:cardinal:00
+phonologic_systems phonologic_system%1:10:00::
+are be%2:42:03::
+as
+difficult difficult%3:00:00::
+to
+disentangle disentangle%2:35:00::
+as
+are
+tone tone%1:07:02::
+and
+intonation intonation%1:10:00::
+in
+some
+languages language%1:10:01::
+.
+This
+explanation explanation%1:10:00::
+of
+tone tone%1:07:02::
+difficulties difficulty%1:09:02::
+,
+however however%4:02:00::
+,
+does
+not not%4:02:00::
+apply apply%2:42:00::
+in
+all all%3:00:00::
+languages language%1:10:01::
+.
+In
+some
+(
+the
+Ewe
+type type%1:09:00::
+mentioned mention%2:32:02::
+above
+)
+interaction interaction%1:04:00::
+of
+tone tone%1:07:02::
+and
+intonation intonation%1:10:00::
+is be%2:42:03::
+restricted restricted%3:00:00::
+to
+the
+ends end%1:09:00::
+of
+intonation intonation%1:10:00::
+spans span%1:28:00::
+.
+In
+many many%3:00:00::
+of
+the
+syllables syllable%1:10:00::
+,
+intonation intonation%1:10:00::
+can
+be
+safely safely%4:02:00::
+ignored ignore%2:32:00::
+,
+and
+much much%3:00:00::
+of
+the
+tonal tonal%3:01:00::
+analysis analysis%1:04:00::
+can
+be
+done do%2:36:01::
+without
+any
+study study%1:04:00::
+of
+intonation intonation%1:10:00::
+.
+Still still%4:02:04::
+,
+even even%4:02:00::
+in
+such such%5:00:01:specified:00
+languages language%1:10:01::
+tone tone%1:07:02::
+analysis analysis%1:04:00::
+has
+not not%4:02:00::
+been be%2:42:03::
+as
+simple simple%3:00:02::
+as
+one
+might
+expect expect%2:31:00::
+.
+A
+third third%5:00:00:ordinal:00
+explanation explanation%1:10:00::
+is
+suggested suggest%2:32:02::
+by
+Richardson person%1:03:00::
+'s
+analysis analysis%1:04:00::
+of
+Sukuma
+tone tone%1:07:02::
+.
+There
+we
+see see%2:39:02::
+a
+basically basically%4:02:00::
+simple simple%3:00:02::
+phonemic_system phonemic_system%1:10:00::
+enmeshed enmesh%2:35:00::
+in
+a
+very very%4:02:00::
+complex complex%3:00:00::
+and
+puzzling puzzling%5:00:00:unclear:00
+morphophonemic_system morphophonemic_system%1:10:00::
+.
+While
+the
+phonemes phoneme%1:10:00::
+can
+be
+very very%4:02:00::
+easily easily%4:02:01::
+stated state%2:32:00::
+,
+no
+one
+is be%2:42:03::
+likely likely%3:00:00::
+to
+be be%2:42:03::
+satisfied satisfied%5:00:00:contented:00
+with
+the
+statement statement%1:10:02::
+until
+phonemic phonemic%3:01:00::
+occurrences occurrence%1:11:00::
+can
+be
+related relate%2:31:00::
+in_some_way in_some_way%4:02:00::
+to
+morphemic morphemic%3:01:00::
+units unit%1:24:00::
+,
+i._e. i.e.%4:02:00::
+until
+the
+morphophonemics morphophonemics%1:09:00::
+is
+worked_out work_out%2:30:01::
+,
+or
+at_least at_least%4:02:00::
+far far%4:02:04::
+enough enough%4:02:00::
+that
+it
+seems seem%2:39:00::
+reasonable reasonable%3:00:00::
+to
+expect expect%2:31:00::
+success success%1:11:00::
+.
+In
+the
+``
+typical typical%3:00:00::
+tone_language tone_language%1:10:00::
+''
+,
+tonal tonal%3:01:00::
+morphophonemics morphophonemics%1:09:00::
+is be%2:42:03::
+of
+the
+same same%3:00:00::
+order order%1:07:01::
+of
+complexity complexity%1:07:00::
+as
+consonantal consonantal%3:00:02::
+morphophonemics morphophonemics%1:09:00::
+.
+The
+phonemic_systems phonemic_system%1:10:00::
+which
+must
+support support%2:35:00::
+these
+morphophonemic_systems morphophonemic_system%1:10:00::
+,
+however however%4:02:00::
+,
+are be%2:42:03::
+very very%4:02:00::
+different different%3:00:00::
+.
+The
+inventory inventory%1:09:00::
+of
+tones tone%1:07:02::
+is be%2:42:03::
+much much%4:02:00::
+smaller smaller%5:00:00:small:00
+,
+and
+commonly commonly%4:02:00::
+the
+contrasts contrast%1:24:00::
+range range%2:42:01::
+along
+one one%5:00:00:cardinal:00
+single single%3:00:00::
+dimension dimension%1:09:00::
+,
+pitch pitch%1:07:00::
+level level%1:07:00::
+.
+Consonantal_systems consonantal_system%1:10:00::
+are be%2:42:03::
+not not%4:02:00::
+merely merely%4:02:00::
+larger larger%5:00:00:large:00
+,
+they
+are be%2:42:03::
+multidimensional multidimensional%3:00:00::
+.
+Morphophonemic morphophonemic%3:01:00::
+rules rule%1:10:01::;1:09:01::
+may
+be
+thought_of think_of%2:31:01::
+as
+joining join%2:35:01::
+certain certain%5:00:00:definite:00
+points point%1:10:03::;1:26:00::
+in
+the
+system system%1:14:00::
+.
+The
+possibilities possibility%1:09:03::
+in
+the
+consonantal_system consonantal_system%1:10:00::
+are be%2:42:03::
+very very%4:02:00::
+numerous numerous%5:00:00:many:00
+,
+and
+only only%4:02:02::
+a
+small small%3:00:00::
+portion portion%1:24:00::
+of
+them
+are
+actually actually%4:02:01::
+used use%2:34:01::
+.
+Phonemes phoneme%1:10:00::
+connected connected%5:00:02:related:02
+by
+a
+morphophonemic morphophonemic%3:01:00::
+rule rule%1:10:01::;1:09:01::
+commonly commonly%4:02:00::
+show show%2:39:04::;2:39:03::
+a
+good good%5:00:00:ample:00
+bit bit%1:11:00::
+of
+phonetic phonetic%3:01:01::
+similarity similarity%1:07:00::
+,
+possible possible%3:00:00::
+because
+of
+the
+several several%5:00:00:individual:00
+dimensions dimension%1:09:00::
+of
+contrast contrast%1:24:00::
+in
+the
+system system%1:14:00::
+.
+Tonal tonal%3:01:00::
+morphophonemics morphophonemics%1:09:00::
+,
+in
+a
+common common%5:00:00:informal:02
+case case%1:11:00::
+,
+can
+do do%2:41:04::
+nothing nothing%1:23:00::
+but
+either
+raise raise%2:38:02::;2:38:00::
+or
+lower lower%2:38:00::
+the
+tone tone%1:07:02::
+.
+The
+possibilities possibility%1:09:03::
+are be%2:42:03::
+few few%3:00:00::
+,
+and
+the
+total total%5:00:00:whole:00
+number number%1:07:00::
+of
+rules rule%1:10:01::;1:09:01::
+may
+be be%2:42:03::
+considerably considerably%4:02:01::
+greater greater%3:00:00::
+.
+Often often%4:02:00::
+,
+therefore therefore%4:02:00::
+,
+there
+are be%2:42:00::
+a
+number number%1:07:00::
+of
+rules rule%1:10:01::;1:09:01::
+having have%2:32:00::
+the
+same same%3:00:00::
+effect effect%1:19:00::
+,
+and
+commonly commonly%4:02:00::
+other other%3:00:00::
+sets set%1:14:00::
+of
+rules rule%1:10:01::;1:09:01::
+as_well as_well%4:02:01::
+,
+having have%2:32:00::
+the
+opposite opposite%5:00:02:different:00
+effect effect%1:19:00::
+.
+Tonal tonal%3:01:00::
+morphophonemics morphophonemics%1:09:00::
+is be%2:42:03::
+much much%4:02:00::
+more more%4:02:00::
+confusing confusing%5:00:00:unclear:00
+to
+the
+beginning beginning%5:00:00:early:02
+analyst analyst%1:18:00::
+than
+consonantal consonantal%3:00:02::
+morphophonemics morphophonemics%1:09:00::
+,
+even even%4:02:00::
+when
+the
+total total%5:00:00:whole:00
+number number%1:07:00::
+of
+rules rule%1:10:01::;1:09:01::
+is be%2:42:03::
+no
+greater greater%3:00:00::
+.
+The
+difficulty difficulty%1:07:00::
+of
+analysis analysis%1:04:00::
+of
+any
+subsystem subsystem%1:14:00::
+in
+the
+phonology phonology%1:09:00::
+is be%2:42:06::
+an
+inverse_function inverse_function%1:24:00::
+of
+the
+size size%1:07:00::
+-
+smaller smaller%5:00:00:small:00
+systems system%1:14:00::
+are be%2:42:03::
+more more%4:02:00::
+troublesome troublesome%5:00:00:difficult:00
+-
+for
+any
+given given%5:00:00:specified:00
+degree degree%1:07:00::
+of
+morphophonemic morphophonemic%3:01:00::
+complexity complexity%1:07:00::
+.
+This
+hypothesis hypothesis%1:09:00::
+will
+account_for account_for%2:32:00::
+a
+large large%3:00:00::
+part part%1:24:00::
+of
+the
+difficulties difficulty%1:26:00::
+of
+tonal tonal%3:01:00::
+analysis analysis%1:04:00::
+,
+as
+well
+as
+the
+fact fact%1:09:01::
+that
+vowel_systems vowel_system%1:10:00::
+are be%2:42:03::
+often often%4:02:00::
+more more%4:02:00::
+puzzling puzzling%5:00:00:unclear:00
+than
+consonantal_systems consonantal_system%1:10:00::
+.
+The
+statement statement%1:10:02::
+of
+the
+system system%1:14:00::
+is be%2:42:03::
+a
+different different%5:00:00:other:00
+matter matter%1:09:00::
+.
+Smaller smaller%5:00:00:small:00
+systems system%1:14:00::
+can
+of_course of_course%4:02:00::
+be
+stated state%2:32:00::
+much much%4:02:00::
+more more%4:02:00::
+succinctly succinctly%4:02:01::
+.
+A
+phonemic_system phonemic_system%1:10:00::
+can
+be
+stated state%2:32:00::
+without
+reference_to reference_to%1:24:00::
+morphophonemics morphophonemics%1:09:00::
+,
+but
+it
+cannot
+always always%4:02:00::
+be
+found find%2:39:02::
+without
+morphophonemics morphophonemics%1:09:00::
+.
+And
+the
+more more%4:02:00::
+complex complex%3:00:00::
+the
+morphophonemic_system morphophonemic_system%1:10:00::
+is be%2:42:03::
+in_relation_to in_relation_to%5:00:00:related:02
+the
+phonemic phonemic%3:01:00::
+base base%1:09:00::
+,
+the
+less less%4:02:00::
+easily easily%4:02:01::
+a
+phonemic_system phonemic_system%1:10:00::
+will
+be
+analysed analyse%2:31:00::
+without
+close close%5:00:00:careful:00
+attention attention%1:09:00::
+to
+the
+morphophonemics morphophonemics%1:09:00::
+-
+at_least at_least%4:02:01::
+,
+the
+less less%4:02:00::
+satisfying satisfying%5:00:00:rewarding:00
+will
+a
+phonemic phonemic%3:01:00::
+statement statement%1:10:02::
+be be%2:42:03::
+if
+it
+cannot
+be
+related relate%2:31:00::
+through
+morphophonemic morphophonemic%3:01:00::
+rules rule%1:10:01::;1:09:01::
+to
+grammatically grammatically%4:02:00::
+meaningful meaningful%3:00:00::
+structures structure%1:06:00::
+.
+The
+design design%1:09:01::
+of
+orthographies orthography%1:10:00::
+has
+received receive%2:40:00::
+much much%4:02:00::
+less less%3:00:00::
+attention attention%1:09:02::
+from
+linguists linguist%1:18:01::
+than
+the
+problem problem%1:10:00::
+deserves deserve%2:42:00::
+.
+There
+has
+been be%2:42:00::
+a
+tendency tendency%1:09:00::
+on
+the
+part part%1:09:02::
+of
+many many%3:00:00::
+American american%1:18:00::
+linguists linguist%1:18:01::
+to
+assume assume%2:31:00::
+that
+a
+phonemic phonemic%3:01:00::
+transcription transcription%1:10:00::
+will
+automatically automatically%4:02:00::
+be be%2:42:03::
+the
+best best%3:00:00::
+possible possible%3:00:00::
+orthography orthography%1:10:00::
+and
+that
+the
+only only%5:00:00:single(a):00
+real real%3:00:02::
+problem problem%1:26:00::
+will
+then then%4:02:00::
+be be%2:42:06::
+the
+social social%3:01:00::
+one
+of
+securing secure%2:40:00::
+acceptance acceptance%1:09:00::
+.
+This
+seems seem%2:39:00::
+naive naive%3:00:00::
+.
+Most most%3:00:01::
+others
+have
+been be%2:42:03::
+content content%3:00:04::
+to
+give give%2:40:03::
+only only%4:02:02::
+the
+most most%4:02:01::
+general general%3:00:00::
+attention attention%1:09:00::
+to
+the
+broadest broad%5:00:00:comprehensive:00
+and
+most most%4:02:01::
+obvious obvious%5:00:00:palpable:00;3:00:00::
+features feature%1:09:00::
+of
+the
+phonology phonology%1:09:00::
+when
+designing design%2:36:00::
+orthographies orthography%1:10:00::
+.
+Apparently apparently%4:02:00::
+the
+feeling feeling%1:09:03::
+is be%2:42:06::
+that
+anything
+more more%1:23:00::
+would
+be be%2:42:06::
+involvement involvement%1:04:00::
+in
+technical technical%3:00:00::
+abstrusenesses abstruseness%1:07:00::
+of
+possible possible%3:00:04::
+pedantic pedantic%5:00:00:scholarly:00
+interest interest%1:09:00::
+but
+of
+no
+visible visible%5:00:00:overt:00
+significance significance%1:07:00::
+in
+practical practical%3:00:00::
+affairs affair%1:09:00::
+.
+The
+result result%1:19:00::
+of
+this
+attitude attitude%1:09:00::
+has
+been be%2:42:06::
+the
+domination domination%1:04:00::
+of
+many many%3:00:00::
+orthography orthography%1:10:00::
+conferences conference%1:14:00::
+by
+such such%5:00:01:specified:00
+considerations consideration%1:10:00::
+as
+typographic typographic%3:01:00::
+'
+esthetics esthetic%1:09:00::
+'
+,
+which
+usually usually%4:02:00::
+turns_out turn_out%2:42:00::
+to
+be be%2:42:03::
+nothing
+more
+than
+certain certain%5:00:00:definite:00
+prejudices prejudice%1:09:01::
+carried_over carry_over%2:30:00::
+from
+European european%3:01:00::
+languages language%1:10:00::
+.
+Many_of
+the
+suggested suggested%5:00:00:advisable:00
+systems system%1:14:00::
+seem seem%2:39:00::
+to
+have have%2:42:00::
+only only%4:02:02::
+the
+most most%4:02:01::
+tenuous tenuous%5:00:00:weak:00
+relationship relationship%1:24:00::
+to
+the
+language language%1:10:00::
+structures structure%1:06:00::
+that
+they
+purport purport%2:32:00::
+to
+represent represent%2:42:02::
+.
+Linguists linguist%1:18:01::
+have
+not not%4:02:00::
+always always%4:02:00::
+been be%2:42:03::
+more more%4:02:00::
+enlightened enlightened%5:00:00:educated:00
+than
+``
+practical practical%5:00:01:realistic:00
+people people%1:14:03::
+''
+and
+sometimes sometimes%4:02:01::
+have
+insisted insist%2:32:00::
+on
+incredibly incredibly%4:02:00::
+trivial trivial%5:00:00:unimportant:00
+points point%1:10:03::;1:09:01::
+while
+neglecting neglect%2:31:05::
+things thing%1:09:02::
+of
+much much%4:02:00::
+greater greater%3:00:00::
+significance significance%1:07:00::
+.
+As
+a
+result result%1:19:00::
+,
+many many%3:00:00::
+people people%1:14:00::
+have
+been
+confirmed confirm%2:30:00::
+in
+their
+conviction conviction%1:09:00::
+that
+orthography orthography%1:10:00::
+design design%1:04:00::
+is be%2:42:03::
+not not%4:02:00::
+an
+activity activity%1:04:00::
+to
+which
+experts expert%1:18:00::
+can
+contribute contribute%2:40:01::
+anything
+but
+confusion confusion%1:26:01::
+.
+A._E._Sharp person%1:03:00::
+,
+in
+Vowel-Length_and_Syllabicity_in_Kikuyu
+,
+examines examine%2:31:00::
+one one%5:00:00:cardinal:00
+set set%1:14:00::
+of
+related related%3:00:02::
+orthographic orthographic%3:01:00::
+questions question%1:10:00::
+and
+its
+phonologic phonologic%3:01:00::
+background background%1:09:01::
+in_detail in_detail%4:02:00::
+.
+His
+objective objective%1:09:00::
+is be%2:42:06::
+merely merely%4:02:00::
+to
+determine determine%2:32:00::
+``
+what
+distinctions distinction%1:09:00::
+of
+length length%1:07:01::
+and
+syllabicity syllabicity%1:10:00::
+it
+may
+be be%2:42:03::
+desirable desirable%3:00:00::
+to
+make make%2:36:00::
+explicit explicit%3:00:00::
+in
+a
+Kikuyu
+orthography orthography%1:10:00::
+''
+(
+59
+)
+.
+To
+do do%2:41:04::
+so so%4:02:05::
+,
+he
+finds find%2:31:10::
+it
+necessary necessary%5:00:00:inevitable:00
+to
+examine examine%2:31:00::
+the
+relevant relevant%3:00:00::
+parts part%1:24:00::
+of
+the
+phonology phonology%1:09:00::
+thoroughly thoroughly%4:02:00::
+and
+in_detail in_detail%4:02:00::
+.
+In
+the
+process process%1:04:00::
+,
+he
+develops develop%2:36:00::
+some
+very very%4:02:00::
+significant significant%5:00:00:considerable:00;3:00:00::
+observations observation%1:09:02::
+about
+problems problem%1:10:00::;1:26:00::
+of
+a
+sort sort%1:09:00::
+that
+are be%2:42:03::
+often often%4:02:00::
+difficult difficult%3:00:00::
+.
+A_few a_few%5:00:00:few:00
+of
+his
+examples example%1:09:00::
+are be%2:42:03::
+of
+very very%4:02:00::
+great great%5:00:01:extraordinary:00
+interest interest%1:07:02::
+,
+and
+the
+whole whole%3:00:00::
+discussion discussion%1:10:02::
+of
+some
+importance importance%1:07:00::
+for
+theory theory%1:09:00::
+.
+His
+orthographic orthographic%3:01:00::
+recommendations recommendation%1:10:00::
+are be%2:42:03::
+no
+simplistic simplistic%5:00:00:simple:02
+acceptance acceptance%1:04:00::
+of
+phonemics phonemics%1:09:00::
+on_the_one_hand on_the_one_hand%4:02:00::
+or
+of
+superficiality superficiality%1:07:01::
+on
+the
+other other%3:00:00::
+.
+Rather rather%4:02:02::
+he
+weighs weigh%2:32:00::
+each
+phonologic phonologic%3:01:00::
+fact fact%1:09:01::
+in
+the
+light light%1:09:01::
+of
+its
+orthographic orthographic%3:01:00::
+usefulness usefulness%1:07:00::
+.
+He
+concludes conclude%2:31:00::
+that
+some
+changes change%1:11:00::
+can
+made make%2:41:00::
+in
+the
+current current%3:00:00::
+orthography orthography%1:10:00::
+which
+will
+appreciably appreciably%4:02:01::
+improve improve%2:30:01::
+its
+usefulness usefulness%1:07:00::
+,
+but
+hesitates hesitate%2:42:00::
+to
+suggest suggest%2:32:00::
+precise precise%3:00:00::
+graphic graphic%5:00:00:written:00
+devices device%1:06:00::
+to
+effect effect%2:36:00::
+these
+changes change%1:11:00::
+.
+I
+hope hope%2:37:00::
+his
+suggestions suggestion%1:09:00::
+are
+given give%2:40:05::;2:40:03::
+the
+consideration consideration%1:09:00::
+they
+deserve deserve%2:42:00::
+in
+Kikuyu
+circles circle%1:14:00::
+.
+This
+,
+however however%4:02:00::
+,
+will
+not not%4:02:00::
+exhaust exhaust%2:34:00::
+their
+practical practical%3:00:00::
+usefulness usefulness%1:07:00::
+,
+as
+they
+rather rather%4:02:04::
+clearly clearly%4:02:00::
+indicate indicate%2:32:03::
+what
+thorough thorough%5:00:00:careful:00
+phonologic phonologic%3:01:00::
+investigation investigation%1:04:00::
+can
+contribute contribute%2:40:01::
+to
+orthography orthography%1:10:00::
+design design%1:09:01::
+.
+We
+need need%2:34:00::
+many_more many_more%5:00:00:more(a):02
+studies study%1:04:00::
+of
+this
+sort sort%1:09:00::
+if
+the
+design design%1:09:01::
+of
+written_languages written_language%1:10:00::
+is
+to
+be
+put put%2:35:05::
+on
+a
+sound sound%3:00:01::
+basis basis%1:09:00::
+.
+One one%5:00:00:cardinal:00
+other other%3:00:00::
+paper paper%1:10:01::
+deals deal%2:31:10::;2:32:08::
+with
+a
+phonologic phonologic%3:01:00::
+problem problem%1:10:00::;1:26:00::
+:
+Vowel_Harmony_in_Igbo
+,
+by
+J._Carnochan person%1:03:00::
+.
+This
+restates restate%2:32:00::
+the
+already already%4:02:00::
+widely widely%4:02:00::
+known known%3:00:00::
+facts fact%1:09:01::
+in_terms_of in_terms_of%5:00:00:related:02
+prosodies prosody%1:10:00::
+.
+As
+a
+restatement restatement%1:10:00::
+it
+makes make%2:36:00::
+only only%4:02:02::
+a
+small small%3:00:00::
+contribution contribution%1:04:02::
+to
+knowledge knowledge%1:03:00::
+of
+Igbo
+.
+But
+it
+would
+seem seem%2:39:00::
+more more%4:02:00::
+intended intended%3:00:00::
+as
+a
+tract tract%1:10:00::
+advocating advocate%2:32:00::
+the
+prosodic prosodic%3:01:00::
+theory theory%1:09:00::
+than
+a
+paper paper%1:10:01::
+directed direct%2:33:01::
+to
+the
+specific specific%3:00:00::
+problems problem%1:10:00::;1:26:00::
+of
+Igbo
+phonology phonology%1:09:00::
+.
+The
+paper paper%1:10:01::
+has have%2:40:00::
+a
+certain certain%5:00:00:definite:00
+value value%1:07:00::
+as
+a
+comparatively comparatively%4:02:00::
+easy easy%3:00:01::
+introduction introduction%1:10:02::
+to
+this
+approach approach%1:04:02::
+,
+particularly particularly%4:02:00::
+since
+it
+treats treat%2:30:01::
+a
+fairly fairly%4:02:02::
+simple simple%3:00:02::
+and
+straightforward straightforward%5:00:00:direct:02
+phenomenon phenomenon%1:03:00::
+where
+it
+is be%2:42:03::
+possible possible%3:00:00::
+to
+compare compare%2:31:00::
+it
+with
+a
+more more%3:00:01::
+traditional traditional%3:00:00::
+(
+though
+not not%4:02:00::
+structural structural%5:00:00:constructive:00
+)
+statement statement%1:10:02::
+.
+It
+does
+show show%2:39:04::
+one one%5:00:00:cardinal:00
+feature feature%1:09:00::
+of
+the
+system system%1:14:00::
+that
+has
+not not%4:02:00::
+been
+previously previously%4:02:00::
+described describe%2:32:00::
+.
+But
+it
+does
+not not%4:02:00::
+,
+as
+it
+claims claim%2:32:00::
+,
+demonstrate demonstrate%2:31:00::
+that
+this
+could
+not not%4:02:00::
+be
+treated treat%2:30:01::
+by
+traditional traditional%3:00:00::
+methods method%1:09:00::
+.
+It
+seems seem%2:39:01::
+to
+me
+that
+it
+rather rather%4:02:04::
+easily easily%4:02:01::
+can
+.
+Five five%5:00:00:cardinal:00
+of
+the
+papers papers%1:10:00::
+deal deal%2:31:10::;2:32:08::
+with
+grammatical grammatical%3:01:00::
+problems problem%1:10:00::;1:26:00::
+.
+On_the_whole on_the_whole%4:02:00::
+they
+maintain maintain%2:42:00::
+much much%4:02:01::
+the
+same same%3:00:00::
+high high%5:00:00:superior:01
+standard standard%1:10:00::
+,
+but
+they
+are be%2:42:03::
+much much%4:02:00::
+more more%4:02:00::
+difficult difficult%3:00:00::
+to
+discuss discuss%2:32:01::
+in_detail in_detail%4:02:00::
+because
+of
+their
+wider wide%5:00:00:comprehensive:00
+variety variety%1:07:00::
+of
+subject_matter subject_matter%1:10:00::
+.
+My
+comments comment%1:10:01::
+must
+be be%2:42:03::
+briefer brief%5:00:00:short:02
+than
+the
+papers papers%1:10:00::
+deserve deserve%2:42:00::
+.
+W._H._Whiteley person%1:03:00::
+writes_on write_on%2:36:00::
+The_Verbal_Radical_in_Iraqw
+.
+This
+must
+be
+considered consider%2:31:00::
+primarily primarily%4:02:01::
+an
+amendment amendment%1:04:00::
+and
+supplement supplement%1:10:00::
+to
+his
+early early%3:00:01::
+A_short_Description_of_Item-Categories_in_Iraqw
+.
+It
+exhibits exhibit%2:42:00::
+much much%4:02:01::
+the
+same same%3:00:00::
+descriptive descriptive%3:00:02::
+technique technique%1:09:00::
+and
+is be%2:42:03::
+open open%5:00:00:vulnerable:00
+to
+much much%4:02:00::
+the
+same same%3:00:00::
+criticisms criticism%1:09:00::
+.
+The
+treatment treatment%1:04:01::
+seems seem%2:39:00::
+unnecessarily unnecessarily%4:02:00::
+loose_jointed loose-jointed%5:00:00:lax:01
+and
+complex complex%3:00:00::
+,
+largely largely%4:02:00::
+because
+the
+method method%1:09:00::
+is be%2:42:03::
+lax lax%5:00:00:negligent:00
+and
+the
+analysis analysis%1:04:00::
+seems seem%2:39:00::
+never never%4:02:00::
+to
+be
+pushed push%2:32:01::
+to
+a
+satisfactory satisfactory%5:00:00:good:01
+or
+even even%4:02:00::
+a
+consistent consistent%5:00:00:coherent:00
+stopping-point stopping_point%1:28:00::
+.

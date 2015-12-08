@@ -1,0 +1,2222 @@
+The
+letters letter%1:10:00::
+of
+the
+common_soldiers common_soldier%1:18:00::
+are be%2:42:03::
+rich_in rich_in%5:00:00:full:00
+humor humor%1:07:01::;1:10:00::
+.
+Indeed indeed%4:02:03::
+,
+no
+richer rich%3:00:02::
+humor humor%1:07:01::;1:10:00::
+is
+to
+be
+found find%2:40:02::
+in
+the
+whole whole%1:06:00::
+of
+American american%3:01:01::
+literature literature%1:10:00::
+than
+in
+the
+letters letter%1:10:00::
+of
+the
+semi-literate semiliterate%5:00:01:illiterate:00;5:00:00:educated:00
+men man%1:18:00::
+who
+wore wear%2:29:00::
+the
+blue blue%1:14:00::
+and
+the
+gray gray%1:14:00::
+.
+Some
+of
+their
+figures_of_speech figure_of_speech%1:10:00::
+were be%2:42:03::
+colorful colorful%3:00:03::
+and
+expressive expressive%5:00:00:communicative:00
+.
+A
+Confederate confederate%1:18:02::
+observed observe%2:32:00::
+that
+the
+Yankees yankee%1:18:02::
+were be%2:42:03::
+:
+``
+thicker thick%5:00:00:concentrated:00
+than
+lise louse%1:05:01::
+on
+a
+hen hen%1:05:01::
+and
+a
+dam
+site
+ornraier
+''
+.
+Another
+reported report%2:32:00::
+that
+his
+comrades comrade%1:18:00::
+were be%2:42:03::
+``
+in
+fine fine%5:00:00:superior:02
+spirits spirit%1:26:01::
+pitching pitch%2:38:03::
+around
+like
+a
+blind blind%3:00:00::
+dog dog%1:05:00::
+in
+a
+meat_house meat_house%1:06:00::;1:06:01::
+''
+.
+A
+third third%5:00:00:ordinal:00
+wrote write%2:32:00::
+that
+it
+was
+``
+raining rain%2:43:00::
+like
+poring pour%2:38:03::
+peas pea%1:13:00::
+on
+a
+rawhide rawhide%1:27:00::
+''
+.
+Yanks yank%1:18:02::
+were be%2:42:03::
+equally equally%4:02:01::
+adept adept%5:00:00:skilled:00
+at
+figurative figurative%3:00:00::
+expression expression%1:10:04::
+.
+One one%5:00:00:cardinal:00
+wrote write%2:32:00::
+:
+``
+[
+I
+am be%2:42:03::
+so so%4:02:02::
+hungry hungry%3:00:00::
+]
+I
+could
+eat eat%2:34:00::
+a
+rider rider%1:18:00::
+off
+his
+horse horse%1:05:00::
++
+snap_at snap_at%2:35:00::
+the
+stirups stirrup%1:06:00::
+''
+.
+A
+second second%5:00:00:ordinal:00
+reported report%2:32:00::
+that
+the
+dilapidated dilapidated%5:00:00:damaged:00
+houses house%1:06:00::
+in
+Virginia virginia%1:15:00::
+``
+look_like look_like%2:42:00::
+the
+latter latter%5:00:00:late:00
+end end%1:09:00::
+of
+original_sin original_sin%1:04:00::
+and
+hard_times hard_times%1:28:00::
+''
+.
+A
+third third%5:00:00:ordinal:00
+remarked remark%2:32:00::
+of
+slowness slowness%1:09:02::
+of
+Southerners southerner%1:18:00::
+:
+``
+They
+moved move%2:38:03::
+about
+from
+corner corner%1:15:02::
+to
+corner corner%1:15:02::
+,
+as
+uneasy uneasy%3:00:00::
+as
+a
+litter litter%1:14:00::
+of
+hungry hungry%3:00:00::
+leaches leech%1:05:00::
+on
+the
+neck neck%1:08:00::
+of
+a
+wooden wooden%5:00:00:woody:00
+god god%1:18:01::
+''
+.
+Still still%4:02:00::
+another
+,
+annoyed annoyed%5:00:00:displeased:00
+by
+the
+brevity brevity%1:07:00::
+of
+a
+recently recently%4:02:00::
+received receive%2:40:00::
+missive missive%1:10:00::
+,
+wrote write%2:32:00::
+:
+``
+Yore
+letter letter%1:10:00::
+was be%2:42:03::
+short_and_sweet short_and_sweet%5:00:00:short:02
+,
+jist
+like
+a
+roasted roasted%5:00:00:cooked:00
+maget maggot%1:05:00::
+''
+.
+A
+Yankee yankee%1:18:02::
+sergeant sergeant%1:18:01::
+gave give%2:40:05::
+the
+following following%5:00:01:succeeding(a):00
+description description%1:10:01::
+of
+his
+sweetheart sweetheart%1:18:00::
+:
+``
+My
+girl girl%1:18:01::
+is be%2:42:03::
+none
+of
+your
+one-horse one-horse%5:00:00:provincial:00
+girls girl%1:18:00::
+.
+She
+is be%2:42:03::
+a
+regular regular%5:00:00:typical:00
+stub_and_twister
+,
+double_geered
+.
+She
+is be%2:42:03::
+well-educated well-educated%5:00:00:educated:00
+and
+refined refined%3:00:01::
+,
+all
+wildcat wildcat%1:05:00::
+and
+fur fur%1:27:00::
+,
+and
+Union union%1:15:00::
+from
+the
+muzzle muzzle%1:05:00::
+to
+the
+crupper crupper%1:06:00::
+''
+.
+Humor humor%1:10:00::
+found find%2:30:00::
+many many%3:00:00::
+modes mode%1:07:00::
+of
+expression expression%1:10:04::
+.
+A
+Texan texan%1:18:00::
+wrote write%2:32:00::
+to
+a
+male male%3:00:00::
+companion companion%1:18:00::
+at
+home home%1:15:02::
+:
+``
+What
+has
+become become%2:30:00::
+of
+Halda person%1:03:00::
+and
+Laura person%1:03:00::
+?
+When
+you
+see see%2:39:00::
+them
+again again%4:02:00::
+give give%2:32:01::;2:40:03::
+them
+my
+love love%1:12:00::
+-
+not not%4:02:00::
+best best%3:00:00::
+respects respects%1:10:00::
+now now%4:02:02::
+,
+but
+love love%1:12:00::
+by
+God
+''
+.
+William_R._Stillwell person%1:03:00::
+,
+an
+admirable admirable%5:00:00:estimable:00
+Georgian georgian%1:18:00::
+whose
+delightful delightful%5:00:00:pleasing:00
+correspondence correspondence%1:10:00::
+is
+preserved preserve%2:40:00::
+in
+the
+Georgia_Department_of_Archives_and_History group%1:03:00::
+,
+liked like%2:37:05::
+to
+tease tease%2:32:00::
+his
+wife wife%1:18:00::
+in
+his
+letters letter%1:10:00::
+.
+After
+he
+had
+been be%2:42:05::
+away away%4:02:00::
+from
+home home%4:02:01::
+about
+a
+year year%1:28:01::
+he
+wrote write%2:32:00::
+:
+``
+[
+Dear
+Wife wife%1:18:00::
+]
+If
+I
+did
+not not%4:02:00::
+write write%2:32:00::
+and
+receive receive%2:40:00::
+letters letter%1:10:00::
+from
+you
+I
+believe believe%2:31:03::
+that
+I
+would
+forgit forget%2:31:00::
+that
+I
+was be%2:42:03::
+married married%3:00:00::
+I
+do
+n't n't%4:02:00::
+feel feel%2:37:00::
+much much%4:02:00::
+like
+a
+maryed married%3:00:00::
+man man%1:18:00::
+but
+I
+never never%4:02:00::
+forgit forget%2:31:00::
+it
+sofar_as
+to
+court court%2:41:00::
+enny
+other other%3:00:00::
+lady lady%1:18:02::
+but
+if
+I
+should
+you
+must
+forgive forgive%2:32:00::
+me
+as
+I
+am be%2:42:03::
+so so%4:02:02::
+forgitful forgetful%3:00:01::
+''
+.
+A
+Yank yank%1:18:02::
+,
+disturbed disturb%2:37:00::
+by
+his
+increasing increasing%3:00:00::
+corpulence corpulence%1:07:00::
+,
+wrote write%2:32:00::
+:
+``
+I
+am
+growing grow%2:30:00::
+so so%4:02:02::
+fat fat%3:00:01::
+I
+am be%2:42:03::
+a
+burden burden%1:06:01::
+2
+myself
+''
+.
+Another
+Yank yank%1:18:02::
+parodied parody%2:36:00::
+the
+familiar familiar%3:00:00::
+bedtime bedtime%1:28:00::
+prayer prayer%1:10:01::
+:
+``
+Now now%4:02:05::
+I
+lay lie_down%2:38:00::
+me
+down
+to
+sleep sleep%2:29:00::
+,
+The
+gray-backs grayback%1:18:00::
+o
+'
+er
+my
+body body%1:08:00::
+creep creep%2:38:00::
+;
+If
+they
+should
+bite bite%2:35:00::
+before
+I
+wake wake%2:29:01::
+,
+I
+pray pray%2:32:01::;2:32:00::
+the
+Lord lord%1:18:02::
+their
+jaws jaw%1:08:00::
+to
+break break%2:35:01::
+''
+``
+.
+Charles_Thiot person%1:03:00::
+,
+a
+splendid splendid%5:00:00:beautiful:00
+Georgia georgia%1:15:00::
+soldier soldier%1:18:00::
+,
+differed differ%2:42:00::
+from
+most_of
+his
+comrades comrade%1:18:00::
+in
+the
+ranks rank%1:14:01::
+in
+that
+he
+was be%2:42:06::
+the
+owner owner%1:18:02::
+of
+a
+large large%3:00:00::
+plantation plantation%1:21:00::
+,
+well-educated well-educated%5:00:00:educated:00
+,
+and
+nearly nearly%4:02:00::
+fifty fifty%5:00:00:cardinal:00
+years year%1:28:01::
+of_age of_age%5:00:00:old:02
+.
+But
+he
+was be%2:42:03::
+very_much_like very_much_like%4:02:00::
+his
+associates associate%1:18:00::
+in
+his
+hatred hatred%1:12:00::
+of
+camp camp%1:06:00::
+routine routine%1:04:00::
+.
+Near
+the
+end end%1:28:00::
+of
+his
+service service%1:14:00::
+he
+wrote write%2:36:00::
+that
+when
+the
+war war%1:26:00::
+was be%2:42:03::
+over over%5:00:01:finished:01
+he
+was
+going
+to
+buy buy%2:40:00::
+two two%5:00:00:cardinal:00
+pups pup%1:05:00::
+,
+name name%2:32:03::
+one
+of
+them
+``
+fall-in
+''
+and
+the
+other
+``
+close-up
+''
+,
+and_then and_then%4:02:00::
+shoot shoot%2:41:00::
+them
+both
+,
+``
+and
+that
+will
+be be%2:42:06::
+the
+end end%1:26:00::
+of
+'
+fall-in
+'
+and
+'
+close-up
+''
+'
+.
+The
+soldiers soldier%1:18:00::
+who
+comprised comprise%2:42:03::
+the
+rank_and_file rank_and_file%1:14:00::
+of
+the
+Civil_War civil_war%1:04:00::
+armies army%1:14:00::
+were be%2:42:03::
+an
+earthy earthy%5:00:00:indecent:00
+people people%1:14:00::
+.
+They
+talked talk%2:32:01::
+and
+wrote write%2:32:00::
+much much%4:02:04::
+about
+the
+elemental elemental%5:00:00:natural:01
+functions bodily_function%1:22:00::
+of
+the
+body
+.
+One
+of
+the
+most most%4:02:00::
+common common%3:00:01::
+of
+camp camp%1:06:00::
+maladies malady%1:26:00::
+was be%2:42:06::
+diarrhoea diarrhoea%1:26:00::
+.
+Men man%1:18:00::
+of
+more more%3:00:01::
+delicate delicate%3:00:00::
+sensibilities sensibility%1:12:00::
+referred refer%2:32:00::
+to
+this
+condition condition%1:26:00::
+as
+``
+looseness_of_the_bowels looseness_of_the_bowels%1:26:00::
+''
+;
+but
+a
+much much%4:02:00::
+more more%4:02:00::
+common common%3:00:01::
+designation designation%1:10:00::
+was be%2:42:06::
+``
+the_sh-ts the_shits%1:26:00::
+''
+.
+A
+Michigan michigan%1:15:00::
+soldier soldier%1:18:00::
+stationed station%2:33:00::
+in
+Georgia georgia%1:15:00::
+wrote write%2:32:00::
+in
+1864
+:
+``
+I
+expect expect%2:31:00::
+to
+be be%2:42:03::
+tough tough%3:00:02::
+as
+a
+knott knot%1:27:00::
+as_soon_as
+I
+get_over get_over%2:30:00::
+the
+Georgia georgia%1:15:00::
+Shitts the_shits%1:26:00::
+''
+.
+Johnny_Rebs johnny_reb%1:18:00::
+from
+the
+deep_South deep_south%1:15:00::
+who
+were
+plagued plague%2:43:00::
+with
+diarrhoea diarrhoea%1:26:00::
+after
+transfer transfer%1:04:00::
+to
+the
+Virginia virginia%1:15:00::
+front front%1:15:01::
+often often%4:02:00::
+informed inform%2:32:00::
+their
+families family%1:14:00::
+that
+they
+were
+suffering suffer%2:39:01::
+from
+the
+``
+the
+Virginia virginia%1:15:00::
+quickstep
+''
+.
+A
+Georgia georgia%1:15:00::
+soldier soldier%1:18:00::
+gave give%2:40:05::
+his
+wife wife%1:18:00::
+the
+following following%5:00:01:succeeding(a):00
+description description%1:10:01::
+of
+the
+cause cause%1:11:00::
+and
+consequence consequence%1:11:00::
+of
+diarrhoea diarrhoea%1:26:00::
+:
+``
+I
+have
+bin be%2:42:03::
+a_little a_little%4:02:00::
+sick sick%3:00:01::
+with
+diorah diarrhea%1:26:00::
+two two%5:00:00:cardinal:00
+or
+three three%5:00:00:cardinal:00
+days day%1:28:00::
+.
+I
+eat eat%2:34:00::
+too_much too_much%4:02:00::
+eggs eggs%1:13:00::
+and
+poark pork%1:13:00::
+it
+sowered sour%2:30:01::
+[
+on
+]
+my
+stomack stomach%1:08:00::
+and
+turn turn%2:42:00::
+loose loose%5:00:00:unconstipated:00
+on
+me
+''
+.
+A
+Michigan michigan%1:15:00::
+soldier soldier%1:18:00::
+wrote write%2:32:00::
+his
+brother brother%1:18:00::
+:
+``
+I
+am be%2:42:03::
+well well%3:00:01::
+at_present at_present%4:02:00::
+with
+the
+exception exception%1:09:00::
+I
+have
+got get%2:29:00::
+the
+Dyerear diarrhea%1:26:00::
+and
+I
+hope hope%2:37:01::
+thease
+few few%3:00:00::
+lines line%1:10:02::
+find find%2:40:02::
+you
+the
+same same%3:00:00::
+''
+.
+The
+letters letter%1:10:00::
+which
+poured pour%2:38:00::
+forth forth%4:02:00::
+from
+camps camp%1:06:00::
+were
+usually usually%4:02:00::
+written write%2:32:00::
+under
+adverse adverse%5:00:00:unfavorable:02
+circumstances circumstance%1:26:01::
+.
+Save
+for
+brief brief%5:00:00:short:02
+periods period%1:28:00::
+in
+garrison garrison%1:06:00::
+or
+winter winter%1:28:00::
+quarters quarters%1:06:00::
+,
+soldiers soldier%1:18:00::
+rarely rarely%4:02:00::
+enjoyed enjoy%2:34:01::
+the
+luxury luxury%1:07:00::
+of
+a
+writing_desk writing_desk%1:06:01::
+or
+table table%1:06:01::
+.
+Most_of
+the
+letters letter%1:10:00::
+were
+written write%2:32:00::
+in
+the
+hubbub hubbub%1:11:00::
+of
+camp camp%1:06:00::
+,
+on
+stumps stump%1:20:00::
+,
+pieces piece%1:17:00::
+of
+bark bark%1:20:00::
+,
+drum_heads drumhead%1:06:00::
+,
+or
+the
+knee knee%1:08:00::
+.
+In
+the
+South south%1:15:01::
+,
+after
+the
+first first%3:00:00::
+year year%1:28:01::
+of
+the
+war war%1:26:00::
+,
+paper paper%1:27:00::
+and
+ink ink%1:27:01::
+were be%2:42:03::
+very very%4:02:00::
+poor poor%5:00:00:inferior:02
+.
+Scarcity scarcity%1:07:00::
+of
+paper paper%1:27:00::
+caused cause%2:32:00::
+many many%3:00:00::
+Southerners southerner%1:18:00::
+to
+adopt adopt%2:40:00::
+the
+practice practice%1:09:00::;1:04:00::
+of
+cross cross%5:00:00:crosswise:00
+writing writing%1:10:01::
+,
+i._e. i.e.%4:02:00::
+,
+after
+writing write%2:36:00::
+from
+left left%1:15:00::
+to
+right right%1:15:00::
+of
+the
+page page%1:10:00::
+in
+the
+usual usual%3:00:00::
+manner manner%1:07:02::
+,
+they
+gave give%2:41:00::
+the
+sheet sheet%1:10:00::
+a
+half half%5:00:00:incomplete:00
+turn turn%1:04:07::
+and
+wrote write%2:36:00::
+from
+end end%1:15:00::
+to
+end end%1:15:00::
+across across%4:02:00::
+the
+lines line%1:10:02::
+previously previously%4:02:00::
+written written%3:00:00::
+.
+Sometimes sometimes%4:02:01::
+soldiers soldier%1:18:00::
+wrote write%2:32:00::
+letters letter%1:10:00::
+while
+bullets bullet%1:06:00::
+were
+whizzing whiz%2:39:00::
+about
+their
+heads head%1:08:00::
+.
+A
+Yank yank%1:18:02::
+writing write%2:32:00::
+from
+Vicksburg location%1:03:00::
+,
+May may%1:28:00::
+28 twenty-eighth%5:00:00:ordinal:00
+,
+1863
+,
+stated state%2:32:00::
+``
+Not not%4:02:00::
+less_than less_than%4:02:00::
+50 50%5:00:00:cardinal:00
+balls ball%1:06:03::
+have
+passed_over pass_over%2:38:03::
+me
+since
+I
+commenced commence%2:30:00::
+writing write%2:32:00::
+.
+I
+could
+tell tell%2:32:01::
+you
+of
+plenty plenty%1:07:00::
+narrow_escapes narrow_escape%1:04:00::
+,
+but
+we
+take take%2:41:04::
+no
+notice notice%1:09:00::
+of
+them
+now now%4:02:00::
+''
+.
+A
+Reb reb%1:18:00::
+stationed station%2:33:00::
+near
+Petersburg location%1:03:00::
+informed inform%2:32:00::
+his
+mother mother%1:18:00::
+:
+``
+I
+need
+not not%4:02:00::
+tell tell%2:32:04::
+you
+that
+I
+dodge dodge%2:38:00::
+pretty pretty%4:02:00::
+often often%4:02:00::
+,
+for
+you
+can
+see see%2:39:00::
+that
+very very%4:02:00::
+plainly plainly%4:02:00::
+by
+the
+blots blot%1:07:00::
+in
+this
+letter letter%1:10:00::
+.
+Just just%4:02:00::
+count count%2:42:00::
+each
+blot blot%1:07:00::
+a
+dodge dodge%1:04:00::
+and
+add add%2:30:00::
+in
+a_few a_few%5:00:00:few:00
+for
+I
+do
+n't n't%4:02:00::
+dodge dodge%2:38:00::
+every
+time time%1:11:00::
+''
+.
+Another
+Reb reb%1:18:00::
+writing write%2:32:00::
+under
+similar similar%3:00:00::
+circumstances circumstance%1:26:01::
+before
+Atlanta atlanta%1:04:00::
+reported report%2:32:00::
+:
+``
+The
+Yankees yankee%1:18:02::
+keep keep%2:42:07::
+Shooting shoot%2:33:00::
+so
+I
+am be%2:42:03::
+afraid afraid%3:00:00::
+they
+will
+knock_over knock_over%2:38:00::
+my
+ink ink%1:27:01::
+,
+so
+I
+will
+close close%2:42:00::
+''
+.
+The
+most most%4:02:00::
+common common%5:00:00:familiar:02
+type type%1:09:00::
+of
+letter letter%1:10:00::
+was be%2:42:06::
+that
+of
+soldier soldier%1:18:00::
+husbands husband%1:18:00::
+to
+their
+wives wife%1:18:00::
+.
+But
+fathers father%1:18:00::
+often often%4:02:00::
+addressed address%2:33:00::
+communications communication%1:03:00::
+to
+their
+small small%5:00:00:young:00
+children child%1:18:01::
+;
+and
+these
+,
+full full%3:00:00::
+of
+homely homely%5:00:00:plain:01
+advice advice%1:10:00::
+,
+are be%2:42:03::
+among
+the
+most most%4:02:00::
+human human%3:01:00::
+and
+revealing revealing%5:00:00:informative:00
+of
+Civil_War civil_war%1:04:00::
+letters letter%1:10:00::
+.
+Rebs reb%1:18:00::
+who
+owned own%2:40:00::
+slaves slave%1:18:00::
+occasionally occasionally%4:02:00::
+would
+include include%2:30:00::
+in
+their
+letters letter%1:10:00::
+admonitions admonition%1:10:01::
+or
+greetings greeting%1:10:00::
+to
+members member%1:18:00::
+of
+the
+Negro negro%1:18:00::
+community community%1:14:03::
+.
+Occasionally occasionally%4:02:00::
+they
+would
+write write%2:32:00::
+to
+the
+slaves slave%1:18:00::
+.
+Early early%4:02:01::
+in
+the
+war war%1:26:00::
+it
+was be%2:42:03::
+not not%4:02:00::
+uncommon uncommon%3:00:00::
+for
+planters planter%1:18:00::
+'
+sons son%1:18:00::
+to
+retain retain%2:41:01::
+in
+camp camp%1:06:00::
+Negro negro%1:18:00::
+``
+body_servants body_servant%1:18:00::
+''
+to
+perform perform%2:36:00::
+the
+menial menial%5:00:00:unskilled:00
+chores chore%1:04:00::
+such_as such_as%5:00:00:specified:00
+cooking cooking%1:13:00::
+,
+foraging foraging%1:04:00::
+,
+cleaning cleaning%1:04:00::
+the
+quarters quarters%1:06:00::
+,
+shining shining%1:04:00::
+shoes shoe%1:06:00::
+,
+and
+laundering laundering%1:04:00::
+clothes clothes%1:06:00::
+.
+Sometimes sometimes%4:02:01::
+these
+servants servant%1:18:00::
+wrote write%2:32:00::
+or
+dictated dictate%2:31:00::
+for
+enclosure enclosure%1:04:00::
+with
+the
+letters letter%1:10:00::
+of
+their
+soldier soldier%1:18:00::
+masters master%1:18:04::
+messages message%1:10:01::
+to
+their
+relatives relative%1:18:00::
+and
+to
+members member%1:18:00::
+of
+their
+owners owner%1:18:02::
+'
+families family%1:14:00::
+.
+Unmarried unmarried%3:00:00::
+soldiers soldier%1:18:00::
+carried_on carry_on%2:41:00::
+correspondence correspondence%1:10:00::
+with
+sweethearts sweetheart%1:18:00::
+at
+home home%4:02:01::
+.
+Owing
+to
+the
+restrained restrained%5:00:00:undemonstrative:00
+usages usage%1:04:01::
+characteristic characteristic%3:00:00::
+of
+19_th 19th%5:00:00:ordinal:00
+century century%1:28:00::
+America america%1:15:00::
+,
+these
+letters letter%1:10:00::
+usually usually%4:02:00::
+were be%2:42:03::
+stereotyped stereotyped%5:00:00:conventional:01
+and
+revealed reveal%2:39:00::
+little little%3:00:03::
+depth depth%1:07:01::
+of
+feeling feeling%1:03:00::
+.
+Occasionally occasionally%4:02:00::
+gay gay%5:00:00:indulgent:00
+young young%3:00:00::
+blades blade%1:18:00::
+would
+write write%2:32:00::
+vividly vividly%4:02:00::
+to
+boon boon%5:00:00:close:02
+companions companion%1:18:00::
+at
+home home%4:02:01::
+about
+their
+amorous amorous%5:00:01:loving:00
+exploits exploit%1:04:00::
+in
+Richmond richmond%1:15:00::
+,
+Petersburg location%1:03:00::
+,
+Washington washington%1:15:01::
+,
+or
+Nashville nashville%1:15:00::
+.
+But
+these
+comments comment%1:10:00::
+are be%2:42:03::
+hardly hardly%4:02:00::
+printable printable%3:00:00::
+.
+An
+Alabama alabama%1:15:00::
+soldier soldier%1:18:00::
+whose
+feminine feminine%3:00:01::
+associations association%1:04:00::
+were be%2:42:03::
+of
+the
+more more%4:02:00::
+admirable admirable%5:00:00:pleasing:00;5:00:00:estimable:00
+type type%1:09:00::
+wrote write%2:32:00::
+boastfully boastfully%4:02:00::
+of
+his
+achievements achievement%1:04:00::
+among
+the
+Virginia virginia%1:15:00::
+belles belle%1:18:00::
+:
+``
+They
+thout think%2:31:01::
+I
+was be%2:42:06::
+a
+saint saint%1:18:01::
+.
+I
+told tell%2:32:01::;2:32:04::
+them
+some
+sweet sweet%5:00:01:pleasing:00
+lies lie%1:10:00::
+and
+they
+believed believe%2:31:00::
+it
+all
+.
+I
+would
+tell tell%2:32:01::;2:32:04::
+them
+I
+got get%2:40:00::
+a
+letter letter%1:10:00::
+from
+home home%1:15:02::
+stating state%2:32:00::
+that
+five five%1:23:00::
+of
+my
+Negroes negro%1:18:00::
+had
+run_away run_away%2:38:00::
+and
+ten ten%1:23:00::
+of
+Pappies papa%1:18:00::
+But
+I
+wold
+say say%2:32:00::
+I
+recond reckon%2:31:02::
+he
+did
+not not%4:02:00::
+mind mind%2:31:02::
+it
+for
+he
+had have%2:40:04::
+a
+plenty plenty%4:02:00::
+more more%1:23:00::
+left left%5:00:00:unexhausted:00
+and_then and_then%4:02:00::
+they
+would
+lean lean%2:42:00::
+to
+me
+like
+a
+sore_eyd sore-eyed%5:00:00:unhealthy:00
+kitten kitten%1:05:00::
+to
+a
+basin basin%1:06:00::
+of
+milk milk%1:13:01::
+''
+.
+Some
+of
+the
+letters letter%1:10:00::
+were be%2:42:03::
+pungently pungently%4:02:01::
+expressive expressive%5:00:00:communicative:00
+.
+An
+Ohio ohio%1:15:00::
+soldier soldier%1:18:00::
+who
+,
+from
+a
+comrade comrade%1:18:00::
+just just%4:02:01::
+returned return%2:38:00::
+from
+leave leave%1:28:00::
+,
+received receive%2:39:00::
+an
+unfavorable unfavorable%3:00:02::
+comment comment%1:10:00::
+on
+the
+conduct conduct%1:04:00::
+of
+his
+sister sister%1:18:00::
+,
+took take%2:35:00::
+pen pen%1:06:00::
+in
+hand hand%1:08:00::
+and
+delivered
+himself
+thus thus%4:02:01::
+:
+``
+[
+Dear
+Sis sis%1:18:00::
+]
+Alf person%1:03:00::
+sed say%2:32:00::
+he
+heard hear%2:31:00::
+that
+you
+and
+hardy person%1:03:00::
+was
+a
+runing
+together together%4:02:10::
+all_the_time all_the_time%4:02:01::
+and
+he
+though think%2:31:03::
+he
+wod
+gust
+quit quit%2:42:04::
+having have%2:41:00::
+any
+thing
+mor
+to
+doo
+with
+you
+for
+he
+thought think%2:31:03::
+it
+was be%2:42:03::
+no_more no_more%4:02:01::
+yuse use%1:07:00::
+.
+I
+think think%2:31:01::
+you
+made make%2:41:00::
+a
+dam damn%5:00:00:cursed:00
+good good%3:00:01::
+chouise choice%1:09:00::
+to
+turn_off turn_off%2:37:00::
+as
+nise nice%3:00:00::
+a
+feler fellow%1:18:00::
+as
+Alf_dyer person%1:03:00::
+and
+let let%2:41:00::
+that
+orney ornery%5:00:00:ill-natured:00
+thefin thieving%5:00:00:dishonest:00
+,
+drunkard drunkard%1:18:00::
+,
+damed damned%5:00:00:lost:02
+card_playing card-playing%5:00:00:indulgent:00
+Sun_of_a_bich son_of_a_bitch%1:18:00::
+com come%2:38:00::
+to
+Sea see%2:41:00::
+you
+,
+the
+god_damed goddamned%5:00:02:cursed:00
+theaf thief%1:18:00::
+and
+lop_yeard lop-eared%5:00:00:eared:00
+pigen_tode pigeon-toed%3:00:00::
+helion hellion%1:18:00::
+,
+he
+is be%2:42:03::
+too too%4:02:00::
+orney ornery%5:00:00:ill-natured:00
+for
+hel hell%1:15:00::;1:15:01::
+.
+i
+will
+Shute shoot%2:41:00::
+him
+as_shore_as
+i
+Sea see%2:39:00::
+him
+''
+.
+Initiation initiation%1:11:00::
+into
+combat combat%1:04:00::
+sometimes sometimes%4:02:01::
+elicited elicit%2:37:00::
+from
+soldier soldier%1:18:00::
+correspondents correspondent%1:18:00::
+choice choice%5:00:00:superior:02
+comments comment%1:10:00::
+about
+their
+experiences experience%1:09:01::
+and
+reactions reaction%1:09:00::
+.
+A
+Federal federal%5:00:00:northern:02
+infantryman infantryman%1:18:00::
+wrote write%2:32:00::
+to
+his
+father father%1:18:00::
+shortly shortly%4:02:01::
+after
+his
+first first%3:00:00::
+skirmish skirmish%1:04:00::
+in
+Virginia virginia%1:15:00::
+:
+``
+Dear
+Pa pa%1:18:00::
+.
+Went_out go_out%2:38:02::
+a
+Skouting scouting%1:04:00::
+yesterday yesterday%1:28:01::
+.
+We
+got get%2:38:00::
+to
+one one%5:00:00:cardinal:00
+house house%1:06:00::
+where
+there
+were be%2:42:05::
+five five%5:00:00:cardinal:00
+secessionist secessionist%1:18:00::
+they
+brok break%2:38:02::
++
+run run%2:38:04::;2:38:00::
+and
+Arch person%1:03:00::
+holored_out holler_out%2:32:00::
+to
+shoot shoot%2:41:00::
+the
+ornery ornery%5:00:00:ill-natured:00
+suns_of_biches son_of_a_bitch%1:18:00::
+and
+we
+all
+let_go
+at
+them
+.
+Thay
+may
+say say%2:32:01::
+what
+they
+please please%2:37:01::
+but
+godamit
+Pa pa%1:18:00::
+it
+is be%2:42:03::
+fun fun%5:00:00:entertaining:00
+''
+.
+Some
+of
+the
+choicest choice%5:00:00:superior:02
+remarks remark%1:10:00::
+made make%2:36:01::
+by
+soldiers soldier%1:18:00::
+in
+their
+letters letter%1:10:00::
+were be%2:42:03::
+in
+disparagement disparagement%1:10:00::
+of
+unpopular unpopular%3:00:00::
+officers officer%1:18:03::
+.
+A
+Mississippi mississippi%1:15:00::
+soldier soldier%1:18:00::
+wrote write%2:32:00::
+:
+``
+Our
+General_Reub_Davis person%1:03:00::
+is be%2:42:03::
+a
+vain vain%5:00:00:proud:00
+,
+stuck-up stuck-up%5:00:00:proud:00
+,
+illiterate illiterate%5:00:00:uneducated:00
+ass ass%1:18:00::
+''
+.
+An
+Alabamian alabamian%1:18:00::
+wrote write%2:32:00::
+:
+``
+Col._Henry person%1:03:00::
+is be%2:42:03::
+[
+an
+ignoramus ignoramus%1:18:00::
+]
+fit fit%3:00:02::
+for
+nothing
+higher higher%5:00:02:high:02
+than
+the
+cultivation cultivation%1:04:00::
+of
+corn corn%1:20:00::
+''
+.
+A
+Floridian floridian%1:18:00::
+stated state%2:32:00::
+that
+his
+officers officer%1:18:03::
+were be%2:42:03::
+``
+not not%4:02:00::
+fit fit%3:00:02::
+to
+tote_guts_to_a_bear
+''
+.
+On
+December december%1:28:00::
+9 ninth%1:24:00::
+,
+1862
+,
+Sergeant_Edwin_H._Fay person%1:03:00::
+,
+an
+unusual unusual%3:00:00::
+Louisianan louisianan%1:18:00::
+who
+held hold%2:40:00::
+A._B. ab%1:10:00::
+and
+M._A. ma%1:10:00::
+degrees degree%1:10:00::
+from
+Harvard_University harvard_university%1:06:00::
+and
+who
+before
+the
+war war%1:26:00::
+was be%2:42:06::
+headmaster headmaster%1:18:00::
+of
+a
+private_school private_school%1:14:00::
+for
+boys boy%1:18:00::
+in
+Louisiana louisiana%1:15:00::
+,
+wrote write%2:32:00::
+his
+wife wife%1:18:00::
+:
+``
+I
+saw see%2:39:00::
+Pemberton person%1:03:00::
+and
+he
+is be%2:42:03::
+the
+most most%4:02:00::
+insignificant insignificant%5:00:00:unnoticeable:00
+puke puke%1:18:00::
+I
+ever ever%4:02:04::
+saw see%2:39:00::
+.
+His
+head head%1:08:00::
+cannot
+contain contain%2:42:13::
+enough enough%5:00:00:sufficient:00
+sense sense%1:09:04::
+to
+command command%2:32:01::
+a
+regiment regiment%1:14:00::
+,
+much much%4:02:00::
+less less%4:02:00::
+a
+corps corps%1:14:00::
+.
+Jackson person%1:03:00::
+runs run%2:38:00::
+first first%4:02:03::
+and
+his
+Cavalry cavalry%1:14:01::
+are be%2:42:03::
+well well%4:02:05::
+drilled drilled%5:00:00:trained:00
+to
+follow follow%2:41:00::
+their
+leader leader%1:18:00::
+.
+He
+is be%2:42:03::
+not not%4:02:00::
+worth worth%5:00:00:valuable:00
+shucks shucks%1:07:00::
+.
+But
+he
+is be%2:42:06::
+a
+West_Point group%1:03:00::
+graduate graduate%1:18:00::
+and
+therefore therefore%4:02:00::
+must
+be be%2:42:03::
+born born%5:00:00:natural:01
+to
+command command%2:32:01::
+''
+.
+Similar similar%3:00:00::
+comments comment%1:10:00::
+about
+officers officer%1:18:03::
+are
+to
+be
+found find%2:40:02::
+in
+the
+letters letter%1:10:00::
+of
+Northern northern%3:00:02::
+soldiers soldier%1:18:00::
+.
+A
+Massachusetts massachusetts%1:15:00::
+soldier soldier%1:18:00::
+,
+who
+seems seem%2:39:00::
+to
+have
+been be%2:42:03::
+a
+Civil_War civil_war%1:04:00::
+version version%1:09:01::
+of
+Bill_Mauldin person%1:03:00::
+,
+wrote write%2:32:00::
+:
+``
+The
+officers officer%1:18:03::
+consider consider%2:31:00::
+themselves
+as
+made make%2:36:00::
+of
+a
+different different%3:00:00::
+material material%1:27:00::
+from
+the
+low lowly%5:00:00:junior:00
+fellows fellow%1:18:00::
+in
+the
+ranks rank%1:14:01::
+.
+They
+get get%2:40:00::
+all
+the
+glory glory%1:26:00::
+and
+most_of
+the
+pay pay%1:21:01::
+and
+do
+n't n't%4:02:00::
+earn earn%2:40:03::
+ten ten%5:00:00:cardinal:00
+cents cent%1:23:00::
+apiece apiece%4:02:00::
+on_the_average on_the_average%4:02:00::
+,
+the
+drunken drunken%5:00:02:intoxicated:00
+rascals rascal%1:18:02::
+''
+.
+Private private%1:18:00::
+George_Gray_Hunter person%1:03:00::
+of
+Pennsylvania pennsylvania%1:15:00::
+wrote write%2:32:00::
+:
+``
+I
+am be%2:42:03::
+well well%4:02:05::
+convinced convinced%3:00:00::
+in
+My
+own own%5:00:00:personal:00
+Mind mind%1:09:04::
+that
+had
+it
+not not%4:02:00::
+been
+for
+officers officer%1:18:03::
+this
+war war%1:26:00::
+would
+have
+ended end%2:42:00::
+long long%3:00:02::
+ago ago%4:02:00::
+''
+.
+Another
+Yankee yankee%1:18:02::
+became become%2:30:00::
+so so%4:02:02::
+disgusted disgust%2:39:00::
+as
+to
+state state%2:32:00::
+:
+``
+I
+wish wish%2:32:02::
+to
+God god%1:18:00::
+one_half one-half%1:23:00::
+of
+our
+officers officer%1:18:03::
+were
+knocked knock%2:35:04::
+in
+the
+head head%1:08:00::
+by
+slinging slinging%1:04:00::
+them
+against
+[
+the
+other other%3:00:00::
+half half%1:23:00::
+]
+''
+.
+No
+group group%1:03:00::
+of
+officers officer%1:18:03::
+came_in_for come_in_for%2:42:00::
+more more%4:02:00::
+spirited spirited%3:00:00::
+denunciation denunciation%1:10:00::
+than
+the
+doctors doctor%1:18:00::
+.
+One one%5:00:00:cardinal:00
+Federal_soldier federal_soldier%1:18:00::
+wrote write%2:32:00::
+:
+``
+The
+docters doctor%1:18:00::
+is be%2:42:03::
+no_a_conte no-account%5:00:00:worthless:00
+.
+hell hell%1:15:00::
+will
+be
+filde fill%2:30:00::
+with
+do_[_c_]_ters doctor%1:18:00::
+and
+offersey officer%1:18:03::
+when
+this
+war war%1:26:00::
+is be%2:42:03::
+over over%5:00:01:finished:01
+''
+.
+Shortly shortly%4:02:01::
+after
+the
+beginning beginning%1:11:00::
+of
+Sherman person%1:03:00::
+'s
+Georgia georgia%1:15:00::
+campaign campaign%1:04:00::
+,
+an
+ailing ailing%5:00:00:ill:01
+Yank yank%1:18:02::
+wrote write%2:32:00::
+his
+homefolk homefolk%1:14:00::
+:
+``
+The
+surgeon surgeon%1:18:00::
+insisted insist%2:32:00::
+on
+Sending sending%1:04:00::
+me
+to
+the
+hospital hospital%1:06:00::
+for
+treatment treatment%1:04:00::
+.
+I
+insisted insist%2:32:00::
+on
+takeing_the_field take_the_field%2:33:01::
+and
+prevailed prevail%2:33:00::
+-
+thinking think%2:31:03::
+that
+I
+had_better
+die die%2:30:00::
+by
+rebel rebel%5:00:00:southern:02
+bullets bullet%1:06:00::
+than
+[
+by
+]
+Union union%1:15:00::
+quackery quackery%1:04:00::
+''
+.
+The
+attitudes attitude%1:09:00::
+which
+the
+Rebs reb%1:18:00::
+and
+Yanks yank%1:18:02::
+took take%2:30:01::
+toward
+each
+other
+were be%2:42:03::
+very_much very_much%4:02:01::
+the
+same same%3:00:00::
+and
+ranged range%2:42:01::
+over over%4:02:02::
+the
+same same%3:00:02::
+gamut gamut%1:07:00::
+of
+feeling feeling%1:03:00::
+,
+from
+friendliness friendliness%1:12:00::
+to
+extreme extreme%5:00:00:intense:00
+hatred hatred%1:12:00::
+.
+The
+Rebs reb%1:18:00::
+were be%2:42:03::
+,
+to
+a
+Massachusetts massachusetts%1:15:00::
+corporal corporal%1:18:00::
+,
+``
+fighting fighting%5:00:00:unpeaceful:00
+madmen madman%1:18:00::
+or
+not not%4:02:00::
+men man%1:18:04::
+at_all at_all%4:02:00::
+but
+whiskey whiskey%1:13:00::
++
+gunpowder gunpowder%1:27:00::
+put put%2:35:00::
+into
+a
+human human%3:01:01::
+frame frame%1:08:01::
+''
+.
+A
+Pennsylvania pennsylvania%1:15:00::
+soldier soldier%1:18:00::
+wrote write%2:32:00::
+that
+``
+they
+were be%2:42:03::
+the
+hardest hard%3:00:02::
+looking looking%5:00:00:superficial:00
+set set%1:14:01::
+of
+men man%1:18:00::
+that
+Ever ever%4:02:04::
+i
+saw see%2:39:00::
+they
+Looked look%2:39:01::
+as
+if
+they
+had
+been
+fed feed%2:34:01::
+on
+vinegar vinegar%1:13:00::
+and
+shavings shaving%1:17:00::
+''
+.
+Private private%1:18:00::
+Jenkins_Lloyd_Jones person%1:03:00::
+of
+the
+Wisconsin_Light_Artillery group%1:03:00::
+wrote write%2:32:00::
+in
+his
+diary diary%1:10:00::
+:
+``
+I
+strolled stroll%2:38:01::
+among
+the
+Alabamans alabaman%1:18:00::
+on
+the
+right right%1:15:00::
+,
+found find%2:40:02::
+some
+of
+the
+greenest green%5:00:00:inexperienced:00
+specimens specimen%1:09:00::
+of
+humanity humanity%1:14:00::
+I
+think think%2:31:03::
+in
+the
+universe universe%1:17:00::
+their
+ignorance ignorance%1:09:00::
+being be%2:42:03::
+little little%4:02:00::
+less_than less_than%4:02:00::
+the
+slave slave%1:18:00::
+they
+despise despise%2:37:00::
+with
+as
+imperfect imperfect%3:00:00::
+a
+dialect dialect%1:10:00::
+'
+They
+Recooned reckon%2:31:02::
+as
+how
+you
+'
+uns
+all
+would
+be be%2:42:03::
+a
+heap heap%1:23:00::
+wus worse%3:00:00::
+to
+we
+'
+uns
+all
+''
+'
+.
+In
+a
+similar similar%3:00:04::
+vein vein%1:10:00::
+,
+but
+writing write%2:32:00::
+from
+the
+opposite opposite%3:00:00::
+side side%1:14:00::
+,
+Thomas_Taylor person%1:03:00::
+,
+a
+private private%1:18:00::
+in
+the
+6_th 6th%5:00:00:ordinal:00
+Alabama_Volunteers group%1:03:00::
+,
+in
+a
+letter letter%1:10:00::
+to
+his
+wife wife%1:18:00::
+,
+stated state%2:32:00::
+:
+``
+You
+know know%2:31:01::
+that
+my
+heart heart%1:09:00::
+is be%2:42:05::
+with
+you
+but
+I
+never never%4:02:00::
+could
+have
+been be%2:42:03::
+satisfied satisfied%5:00:00:contented:00
+to
+have
+staid stay%2:38:01::
+at
+home home%4:02:01::
+when
+my
+country country%1:15:00::
+is
+invaded invade%2:33:00::
+by
+a
+thievin thieving%5:00:00:dishonest:00
+foe foe%1:18:00::
+By
+a
+set set%1:14:01::
+of
+cowardly cowardly%3:00:00::
+Skunks skunk%1:18:00::
+whose
+Motto motto%1:10:00::
+is be%2:42:06::
+Booty booty%1:21:00::
+.

@@ -1,0 +1,2320 @@
+The
+expense expense%1:21:00::
+and
+time time%1:28:05::
+involved involved%3:00:00::
+are be%2:42:03::
+astronomical astronomical%5:00:00:large:00
+.
+However however%4:02:00::
+,
+we
+sent send%2:35:00::
+a
+third third%5:00:00:ordinal:00
+vessel vessel%1:06:00::
+out out%4:02:01::
+,
+a
+much much%4:02:00::
+smaller smaller%5:00:00:small:00
+and
+faster fast%3:00:01::
+one
+than
+the
+first first%3:00:00::
+two two%1:23:00::
+.
+We
+have
+learned learn%2:31:00::
+much much%1:23:00::
+about
+interstellar interstellar%3:01:00::
+drives drive%1:04:04::
+since
+a_hundred a_hundred%5:00:00:cardinal:00
+years year%1:28:01::
+ago ago%4:02:00::
+;
+that
+is
+all
+I
+can
+tell tell%2:32:00::
+you
+about
+them
+.
+``
+But
+the
+third third%5:00:00:ordinal:00
+ship ship%1:06:00::
+came_back come_back%2:38:00::
+several several%5:00:00:some(a):00
+years year%1:28:01::
+ago ago%4:02:00::
+and
+reported report%2:32:00::
+&
+&
+&
+''
+.
+``
+That
+it
+had
+found find%2:40:02::
+a
+planet planet%1:17:00::
+on
+which
+human_beings human_being%1:05:00::
+could
+live live%2:42:08::
+and
+which
+was
+already already%4:02:00::
+inhabited inhabit%2:42:00::
+by
+sentient sentient%3:00:00::
+beings being%1:03:00::
+''
+!
+said say%2:32:00::
+Hal person%1:03:00::
+,
+forgetting forget%2:31:01::
+in
+his
+enthusiasm enthusiasm%1:07:00::
+that
+he
+had
+not not%4:02:00::
+been
+asked ask%2:32:01::
+to
+speak speak%2:32:00::
+.
+Macneff person%1:03:00::
+stopped stop%2:42:00::
+pacing pace%2:38:00::
+to
+stare stare%2:39:00::
+at
+Hal person%1:03:00::
+with
+his
+pale pale%5:00:00:light:05
+blue blue%5:00:00:chromatic:00
+eyes eye%1:08:00::
+.
+``
+How
+did
+you
+know know%2:31:01::
+''
+?
+he
+said say%2:32:00::
+sharply sharply%4:02:00::
+.
+``
+Forgive forgive%2:32:00::
+me
+,
+Sandalphon person%1:03:00::
+''
+,
+said say%2:32:00::
+Hal person%1:03:00::
+.
+``
+But
+it
+was be%2:42:03::
+inevitable inevitable%3:00:00::
+!
+Did
+not not%4:02:00::
+the
+Forerunner person%1:03:00::
+predict predict%2:32:00::
+in
+his
+Time time%1:28:00::
+and
+the
+World_Line location%1:03:00::
+that
+such such%5:00:01:specified:00
+a
+planet planet%1:17:00::
+would
+be
+found find%2:40:02::
+?
+I
+believe believe%2:31:03::
+it
+was be%2:42:05::
+on
+page page%1:10:00::
+573
+''
+!
+Macneff person%1:03:00::
+smiled smile%2:29:00::
+and
+said say%2:32:00::
+,
+``
+I
+am be%2:42:03::
+glad glad%3:00:00::
+that
+your
+scriptural scriptural%3:01:00::
+lessons lesson%1:04:00::
+have
+left leave%2:42:02::
+such such%4:02:00::
+an
+impression impression%1:09:00::
+''
+.
+How
+could
+they
+not not%4:02:00::
+?
+thought think%2:31:00::
+Hal person%1:03:00::
+.
+Besides besides%4:02:01::
+,
+they
+were be%2:42:03::
+not not%4:02:00::
+the
+only only%5:00:00:single(a):00
+impressions impression%1:09:00::
+.
+I
+still still%4:02:01::
+bear bear%2:29:02::
+scars scar%1:26:00::
+on
+my
+back back%1:08:00::
+where
+Pornsen person%1:03:00::
+,
+my
+gapt
+,
+whipped whip%2:35:00::
+me
+because
+I
+had
+not not%4:02:00::
+learned learn%2:31:03::
+my
+lessons lesson%1:04:00::
+well well%4:02:00::
+enough enough%4:02:00::
+.
+He
+was be%2:42:03::
+a
+good good%3:00:01::
+impresser
+,
+that
+Pornsen person%1:03:00::
+.
+Was
+?
+Is
+!
+As
+I
+grew grow%2:30:03::
+older old%3:00:02::
+and
+was
+promoted promote%2:41:00::
+,
+so so%4:02:08::
+was
+he
+,
+always always%4:02:00::
+where
+I
+was be%2:42:05::
+.
+He
+was be%2:41:00::
+my
+gapt
+in
+the
+creche creche%1:06:00::
+.
+He
+was be%2:41:00::
+the
+dormitory dormitory%1:06:00::
+gapt
+when
+I
+went_to go_to%2:42:00::
+college college%1:14:00::
+and
+thought think%2:31:03::
+I
+was
+getting_away get_away%2:32:00::
+from
+him
+.
+He
+is be%2:41:00::
+now now%4:02:05::
+my
+block block%1:06:06::
+gapt
+.
+He
+is be%2:42:06::
+the
+one
+responsible_for responsible_for%5:00:00:causative:00
+my
+getting get%2:40:00::
+such such%4:02:00::
+low low%3:00:02::
+M.R.
+'s
+.
+Swiftly swiftly%4:02:00::
+,
+came come%2:30:01::
+the
+revulsion revulsion%1:12:00::
+,
+the
+protest protest%1:10:00::
+.
+No
+,
+not not%4:02:00::
+he
+,
+for
+I
+,
+and
+I
+alone alone%4:02:00::
+,
+am be%2:42:03::
+responsible_for responsible_for%5:00:00:causative:00
+whatever
+happens happen%2:30:00::
+to
+me
+.
+If
+I
+get get%2:40:00::
+a
+low low%3:00:02::
+M._R.
+,
+I
+do
+so
+because
+I
+want want%2:37:00::
+it
+that
+way way%1:26:00::
+or
+my
+dark dark%5:00:00:evil:00
+self self%1:09:00::
+does
+.
+If
+I
+die die%2:30:00::
+,
+I
+die die%2:30:00::
+because
+I
+willed
+it
+so
+.
+So
+,
+forgive forgive%2:32:00::
+me
+,
+Sigmen person%1:03:00::
+,
+for
+the
+contrary contrary%5:00:00:different:00
+to
+reality reality%1:26:01::
+thoughts thought%1:09:01::
+!
+``
+Please
+pardon pardon%2:32:01::
+me
+again again%4:02:00::
+,
+Sandalphon person%1:03:00::
+''
+,
+said say%2:32:00::
+Hal person%1:03:00::
+.
+``
+But
+did
+the
+expedition expedition%1:14:00::
+find find%2:40:02::
+any
+records record%1:10:03::
+of
+the
+Forerunner person%1:03:00::
+having
+been be%2:42:05::
+on
+this
+planet planet%1:17:00::
+?
+Perhaps perhaps%4:02:00::
+,
+even even%4:02:00::
+,
+though
+this
+is be%2:42:03::
+too_much too_much%4:02:00::
+to
+wish wish%2:37:00::
+,
+find find%2:40:00::
+the
+Forerunner person%1:03:00::
+himself
+''
+?
+``
+No no%1:10:00::
+''
+,
+said say%2:32:00::
+Macneff person%1:03:00::
+.
+``
+Though
+that
+does
+not not%4:02:00::
+mean mean%2:32:03::
+that
+there
+may
+not not%4:02:00::
+be be%2:42:04::
+such such%5:00:01:specified:00
+records record%1:10:03::
+there there%4:02:00::
+.
+The
+expedition expedition%1:04:01::
+was be%2:42:03::
+under
+orders order%1:10:03::
+to
+make make%2:41:00::
+a
+swift swift%5:00:00:fast:01
+survey survey%1:04:01::
+of
+conditions condition%1:26:00::
+and_then and_then%4:02:00::
+to
+return return%2:38:00::
+to
+Earth earth%1:17:00::
+.
+I
+can
+n't n't%4:02:00::
+tell tell%2:32:00::
+you
+now now%4:02:05::
+the
+distance distance%1:07:01::
+in
+light_years light_year%1:23:00::
+or
+what
+star star%1:17:00::
+this
+was be%2:42:06::
+,
+though
+you
+can
+see see%2:39:00::
+it
+with
+the
+naked naked%5:00:00:unassisted:00
+eye eye%1:08:00::
+at
+night night%1:28:00::
+in
+this
+hemisphere hemisphere%1:15:00::
+.
+If
+you
+volunteer volunteer%2:41:00::
+,
+you
+will
+be
+told tell%2:32:00::
+where
+you
+'re
+going go%2:38:00::
+after
+the
+ship ship%1:06:00::
+leaves leave%2:38:01::
+.
+And
+it
+leaves leave%2:38:01::
+very very%4:02:00::
+soon soon%4:02:00::
+''
+.
+``
+You
+need need%2:34:00::
+a
+linguist linguist%1:18:01::
+''
+?
+said say%2:32:00::
+Hal person%1:03:00::
+.
+``
+The
+ship ship%1:06:00::
+is be%2:42:03::
+huge huge%5:00:01:large:00
+''
+,
+said say%2:32:00::
+Macneff person%1:03:00::
+,
+``
+but
+the
+number number%1:23:00::
+of
+military_men military_man%1:18:00::
+and
+specialists specialist%1:18:00::
+we
+are
+taking take%2:38:10::
+limits limit%2:30:01::
+the
+linguists linguist%1:18:01::
+to
+one one%5:00:00:cardinal:00
+.
+We
+have
+considered consider%2:39:00::
+several several%5:00:00:some(a):00
+of
+your
+professionals professional%1:18:00::
+because
+they
+were be%2:42:06::
+lamechians
+and
+above
+suspicion suspicion%1:09:00::
+.
+Unfortunately unfortunately%4:02:00::
+&
+&
+&
+''
+.
+Hal person%1:03:00::
+waited wait%2:42:01::
+:
+Macneff person%1:03:00::
+paced pace%2:38:00::
+some
+more more%3:00:01::
+,
+frowning frown%2:29:00::
+.
+Then then%4:02:00::
+,
+he
+said say%2:32:00::
+,
+``
+Unfortunately unfortunately%4:02:00::
+,
+only only%4:02:01::
+one one%5:00:00:cardinal:00
+lamechian
+linguist linguist%1:18:01::
+exists exist%2:42:01::
+,
+and
+he
+is be%2:42:03::
+too too%4:02:00::
+old old%3:00:02::
+for
+this
+expedition expedition%1:04:01::
+.
+Therefore therefore%4:02:00::
+&
+&
+&
+''
+.
+``
+A_thousand a_thousand%5:00:00:cardinal:00
+pardons pardon%1:04:00::
+''
+,
+said say%2:32:00::
+Hal person%1:03:00::
+.
+``
+But
+I
+have
+just just%4:02:01::
+thought_of think_of%2:31:00::
+one one%5:00:00:cardinal:00
+thing thing%1:09:02::
+.
+I
+am be%2:42:03::
+married married%3:00:00::
+''
+.
+``
+No
+problem problem%1:26:00::
+at_all at_all%4:02:00::
+''
+,
+said say%2:32:00::
+Macneff person%1:03:00::
+.
+``
+There
+will
+be be%2:42:04::
+no
+women woman%1:18:00::
+aboard aboard%4:02:01::
+the
+Gabriel
+.
+And
+,
+if
+a
+man man%1:18:00::
+is be%2:42:03::
+married married%3:00:00::
+,
+he
+will
+automatically automatically%4:02:00::
+be
+given give%2:40:11::
+a
+divorce divorce%1:04:00::
+''
+.
+Hal person%1:03:00::
+gasped gasp%2:29:00::
+,
+and
+he
+said say%2:32:00::
+,
+``
+A
+divorce divorce%1:04:00::
+''
+?
+Macneff person%1:03:00::
+raised raise%2:36:02::
+his
+hands hand%1:08:00::
+apologetically apologetically%4:02:00::
+and
+said say%2:32:00::
+,
+``
+You
+are be%2:42:03::
+horrified horrified%5:00:00:afraid(p):00
+,
+of_course of_course%4:02:00::
+.
+But
+,
+from
+our
+reading reading%1:09:01::
+of
+the
+Western_Talmud
+,
+we
+Urielites
+believe believe%2:31:00::
+that
+the
+Forerunner person%1:03:00::
+,
+knowing know%2:31:01::
+this
+situation situation%1:26:00::
+would
+arise arise%2:42:00::
+,
+made make%2:41:00::
+reference reference%1:10:02::
+to
+and
+provision provision%1:09:00::
+for
+divorce divorce%1:04:00::
+.
+It
+'s
+inevitable inevitable%3:00:00::
+in_this
+case case%1:26:00::
+,
+for
+the
+couple couple%1:14:01::
+will
+be
+separated separate%2:35:01::
+for
+,
+at_the_least at_the_least%4:02:00::
+,
+forty forty%5:00:00:cardinal:00
+years year%1:28:01::
+.
+Naturally naturally%4:02:00::
+,
+he
+couched couch%2:32:00::
+the
+provision provision%1:10:00::
+in
+obscure obscure%5:00:00:incomprehensible:00
+language language%1:10:00::
+.
+In
+his
+great great%5:00:01:extraordinary:00
+and
+glorious glorious%3:00:00::
+wisdom wisdom%1:07:00::
+,
+he
+knew know%2:31:01::
+that
+our
+enemies enemy%1:14:01::
+the
+Israelites
+must
+not not%4:02:00::
+be be%2:42:03::
+able able%3:00:00::
+to
+read read%2:31:02::
+therein therein%4:02:00::
+what
+we
+planned plan%2:31:01::
+''
+.
+``
+I
+volunteer volunteer%2:41:01::
+''
+,
+said say%2:32:00::
+Hal person%1:03:00::
+.
+``
+Tell tell%2:32:01::
+me
+more more%3:00:01::
+,
+Sandalphon person%1:03:00::
+''
+.
+Six six%5:00:00:cardinal:00
+months month%1:28:00::
+later later%4:02:01::
+,
+Hal_Yarrow person%1:03:00::
+stood stand%2:35:00::
+in
+the
+observation_dome observation_dome%1:06:00::
+of
+the
+Gabriel
+and
+watched watch%2:39:00::
+the
+ball ball%1:25:00::
+of
+Earth location%1:03:00::
+dwindle dwindle%2:30:00::
+above
+him
+.
+It
+was be%2:42:06::
+night night%1:28:00::
+on
+this
+hemisphere hemisphere%1:15:00::
+,
+but
+the
+light light%1:19:00::
+blazed blaze%2:43:01::
+from
+the
+megalopolises megalopolis%1:15:00::
+of
+Australia australia%1:15:00::
+,
+Japan japan%1:15:00::
+,
+China china%1:15:00::
+,
+Southeast_Asia location%1:03:00::
+,
+India india%1:15:00::
+,
+Siberia siberia%1:15:00::
+.
+Hal person%1:03:00::
+,
+the
+linguist linguist%1:18:01::
+,
+saw see%2:31:00::
+the
+glittering glittering%5:00:00:bright:00
+discs disc%1:25:00::
+and
+necklaces necklace%1:06:00::
+in_terms_of in_terms_of%5:00:00:related:02
+the
+languages language%1:10:00::
+spoken speak%2:32:02::
+therein therein%4:02:00::
+.
+Australia australia%1:15:00::
+,
+the
+Philippine_Islands philippine_islands%1:15:00::
+,
+Japan japan%1:15:00::
+,
+and
+northern northern%5:00:02:north:00
+China china%1:15:00::
+were
+inhabited inhabit%2:42:00::
+by
+those
+members member%1:18:00::
+of
+the
+Haijac_Union group%1:03:00::
+that
+spoke speak%2:32:02::
+American american%1:10:00::
+.
+Southern_China location%1:03:00::
+,
+all_of all_of%3:00:00::
+southeast southeast%1:24:00::
+Asia asia%1:17:00::
+,
+southern southern%5:00:02:south:00
+India india%1:15:00::
+and
+Ceylon ceylon%1:15:00::
+,
+these
+states state%1:15:01::
+of
+the
+Malay_Federation group%1:03:00::
+spoke speak%2:32:02::
+Bazaar
+.
+Siberia siberia%1:15:00::
+spoke speak%2:32:02::
+Icelandic icelandic%1:10:00::
+.
+His
+mind mind%1:09:00::
+turned turn%2:38:00::
+the
+globe globe%1:17:00::
+swiftly swiftly%4:02:00::
+for
+him
+,
+and
+he
+visualized visualize%2:36:00::
+Africa africa%1:17:00::
+,
+which
+used use%2:34:02::
+Swahili swahili%1:10:00::
+south south%3:00:00::
+of
+the
+Sahara_Sea location%1:03:00::
+.
+All_around
+the
+Mediterranean_Sea location%1:03:00::
+,
+Asia_Minor asia_minor%1:15:00::
+,
+northern northern%5:00:02:north:00
+India india%1:15:00::
+,
+and
+Tibet tibet%1:15:00::
+,
+Hebrew hebrew%1:10:00::
+was be%2:42:06::
+the
+native native%3:00:02::
+tongue tongue%1:10:00::
+.
+In
+southern southern%5:00:02:south:00
+Europe europe%1:17:00::
+,
+between
+the
+Israeli israeli%1:18:00::
+Republics republic%1:14:00::
+and
+the
+Icelandic_speaking icelandic-speaking%5:00:00:communicative:00
+peoples people%1:14:00::
+of
+northern northern%5:00:02:north:00
+Europe europe%1:17:00::
+,
+was be%2:42:00::
+a
+thin thin%5:00:00:narrow:00
+but
+long long%3:00:01::
+stretch stretch%1:06:00::
+of
+territory territory%1:15:00::
+called called%5:00:00:titled:00
+March location%1:03:00::
+.
+This
+was be%2:42:06::
+no_man's_land no_man's_land%1:15:00::
+,
+disputed dispute%2:32:00::
+by
+the
+Haijac_Union group%1:03:00::
+and
+the
+Israeli_Republic group%1:03:00::
+,
+a
+potential potential%3:00:00::
+source source%1:15:00::
+of
+war war%1:26:00::
+for
+the
+last last%5:00:00:past:00
+two two%5:00:00:cardinal:00
+hundred hundred%5:00:00:cardinal:00
+years year%1:28:01::
+.
+Neither
+nation nation%1:14:00::
+would
+give_up give_up%2:40:03::
+their
+claim claim%1:07:01::
+on
+it
+,
+yet
+neither neither%4:02:00::
+wished wish%2:31:00::
+to
+make make%2:41:00::
+any
+move move%1:04:00::
+that
+might
+lead lead%2:42:04::
+to
+a
+second second%5:00:00:ordinal:00
+Apocalyptic_War
+.
+So
+,
+for
+all
+practical practical%3:00:00::
+purposes purpose%1:07:00::
+,
+it
+was be%2:42:03::
+an
+independent independent%5:00:00:free:00
+nation nation%1:14:00::
+and
+by
+now now%4:02:05::
+had have%2:42:00::
+its
+own own%5:00:00:personal:00
+organized organized%3:00:02::
+government government%1:14:00::
+(
+unrecognized unrecognized%5:00:00:unacknowledged:00
+outside outside%4:02:01::
+its
+own own%5:00:00:personal:00
+borders border%1:15:00::
+)
+.
+Its
+citizens citizen%1:18:00::
+spoke speak%2:32:02::
+all_of all_of%3:00:00::
+the
+world world%1:17:00::
+'s
+surviving surviving%5:00:00:extant:00
+tongues tongue%1:10:00::
+,
+plus
+a
+new new%3:00:00::
+one
+called called%5:00:00:titled:00
+Lingo
+,
+a
+pidgin pidgin%1:10:00::
+whose
+vocabulary vocabulary%1:10:00::
+was
+derived derive%2:30:01::
+from
+the
+other other%3:00:00::
+six six%1:23:00::
+and
+whose
+syntax syntax%1:09:01::
+was be%2:42:03::
+so so%4:02:02::
+simple simple%3:00:02::
+it
+could
+be
+contained contain%2:42:00::
+on
+half half%5:00:00:fractional:00
+a
+sheet_of_paper sheet_of_paper%1:10:00::
+.
+Hal person%1:03:00::
+saw see%2:36:00::
+in
+his
+mind mind%1:09:00::
+the
+rest rest%1:24:00::
+of
+Earth earth%1:17:00::
+:
+Iceland iceland%1:15:00::
+,
+Greenland greenland%1:15:00::
+,
+the
+Caribbean_Islands caribbean_island%1:15:00::
+,
+and
+the
+eastern eastern%5:00:00:east:00
+half half%1:23:00::
+of
+South_America south_america%1:17:00::
+.
+Here here%4:02:00::
+the
+peoples people%1:14:00::
+spoke speak%2:32:02::
+the
+tongue tongue%1:10:00::
+of
+Iceland iceland%1:15:00::
+because
+that
+island island%1:17:00::
+had
+gotten_the_jump_on
+the
+Hawaiian hawaiian%1:10:00::
+Americans american%1:18:00::
+who
+were be%2:42:03::
+busy busy%3:00:00::
+resettling resettle%2:30:00::
+North_America north_america%1:17:00::
+and
+the
+western western%5:00:02:west:00
+half half%1:23:00::
+of
+South_America south_america%1:17:00::
+after
+the
+Apocalyptic_War
+.
+Then then%4:02:00::
+there
+was be%2:42:00::
+North_America north_america%1:17:00::
+,
+where
+American american%1:10:00::
+was be%2:42:06::
+the
+native native%3:00:01::
+speech speech%1:10:00::
+of
+all
+except
+the
+twenty twenty%5:00:00:cardinal:00
+descendants descendant%1:18:00::
+of
+French-Canadians french_canadian%1:18:00::
+living live%2:42:08::
+on
+the
+Hudson_Bay_Preserve location%1:03:00::
+.
+Hal person%1:03:00::
+knew know%2:31:01::
+that
+when
+that
+side side%1:15:02::
+of
+Earth earth%1:17:00::
+rotated rotate%2:38:01::
+into
+the
+night night%1:28:00::
+zone zone%1:15:00::
+,
+Sigmen_City location%1:03:00::
+would
+blaze_out blaze_out%2:38:00::
+into
+space space%1:03:00::
+.
+And
+,
+somewhere somewhere%4:02:00::
+in_that
+enormous enormous%5:00:00:large:00
+light light%1:15:00::
+,
+was be%2:42:04::
+his
+apartment apartment%1:06:00::
+.
+But
+Mary person%1:03:00::
+would
+soon soon%4:02:00::
+no_longer no_longer%4:02:00::
+be
+living live%2:42:08::
+there there%4:02:00::
+,
+for
+she
+would
+be
+notified notify%2:32:00::
+in
+a_few a_few%5:00:00:few:00
+days day%1:28:00::
+that
+her
+husband husband%1:18:00::
+had
+died die%2:30:00::
+in
+an
+accident accident%1:11:01::
+while
+on
+a
+flight flight%1:04:00::
+to
+Tahiti location%1:03:00::
+.
+She
+would
+weep weep%2:29:00::
+in_private in_private%4:02:00::
+,
+he
+was be%2:42:03::
+sure sure%3:00:00::
+,
+for
+she
+loved love%2:37:01::
+him
+in
+her
+frigid frigid%5:00:00:unloving:00
+way way%1:07:01::
+,
+though
+in_public in_public%4:02:00::
+she
+would
+be be%2:42:03::
+dry_eyed dry-eyed%3:00:00::
+.
+Her
+friends friend%1:18:00::
+and
+professional professional%1:18:01::
+associates associate%1:18:00::
+would
+sympathize_with sympathize_with%2:37:00::
+her
+,
+not not%4:02:00::
+because
+she
+had
+lost lose%2:40:02::
+a
+beloved beloved%5:00:00:loved:00
+husband husband%1:18:00::
+,
+but
+because
+she
+had
+been be%2:42:03::
+married married%3:00:00::
+to
+a
+man man%1:18:00::
+who
+thought think%2:31:00::
+unrealistically unrealistically%4:02:00::
+.
+If
+Hal_Yarrow person%1:03:00::
+had
+been
+killed kill%2:35:00::
+in
+a
+crash crash%1:11:00::
+,
+he
+must
+have
+wanted want%2:37:00::
+it
+that
+way way%1:26:00::
+.
+There
+was be%2:42:00::
+no
+such such%5:00:01:specified:00
+thing thing%1:11:00::
+as
+an
+``
+accident accident%1:11:01::
+''
+.
+Somehow somehow%4:02:00::
+,
+all all%3:00:00::
+the
+other other%3:00:00::
+passengers passenger%1:18:00::
+(
+also also%4:02:00::
+supposed supposed%5:00:00:expected:00
+to
+have
+died die%2:30:00::
+in_this
+web web%1:05:01::
+of
+elaborate elaborate%5:00:00:fancy:00
+frauds fraud%1:04:01::
+to
+cover_up cover_up%2:32:00::
+the
+disappearance disappearance%1:04:00::
+of
+the
+personnel personnel%1:14:00::
+of
+the
+Gabriel
+)
+had
+simultaneously simultaneously%4:02:00::
+``
+agreed agree%2:32:00::
+''
+to
+die die%2:30:00::
+.
+And
+,
+therefore therefore%4:02:00::
+,
+being be%2:42:03::
+in
+disgrace disgrace%1:26:00::
+,
+they
+would
+not not%4:02:00::
+be
+cremated cremate%2:30:00::
+and
+their
+ashes ash%1:27:01::
+flung fling%2:35:00::
+to
+the
+winds wind%1:19:00::
+in
+public public%3:00:00::
+ceremony ceremony%1:11:00::
+.
+No
+,
+the
+fish fish%1:05:00::
+could
+eat eat%2:34:00::
+their
+bodies body%1:08:00::
+for
+all
+the
+Sturch group%1:03:00::
+cared care%2:37:02::
+.
+Hal person%1:03:00::
+felt feel%2:37:00::
+sorry_for sorry_for%5:00:00:compassionate:00
+Mary person%1:03:00::
+;
+he
+had_a_time
+keeping keep%2:41:01::
+the
+tears tears%1:04:00::
+from
+welling well%2:38:00::
+to
+his
+own own%5:00:00:personal:00
+eyes eye%1:08:00::
+as
+he
+stood stand%2:35:00::
+in
+the
+crowd crowd%1:14:00::
+in
+the
+observation_dome observation_dome%1:06:00::
+.
+Yet
+,
+he
+told tell%2:32:04::
+himself
+,
+this
+was be%2:42:03::
+the
+best best%3:00:00::
+way way%1:26:00::
+.
+He
+and
+Mary person%1:03:00::
+would
+no_longer no_longer%4:02:00::
+have
+to
+tear tear%2:35:00::
+and
+rend rend%2:35:00::
+at
+each
+other other%3:00:00::
+;
+their
+mutual mutual%5:00:00:reciprocal:00
+torture torture%1:12:02::
+would
+be be%2:42:03::
+over over%5:00:01:finished:01
+.
+Mary person%1:03:00::
+was be%2:42:03::
+free free%3:00:00::
+to
+marry marry%2:41:00::
+again again%4:02:00::
+,
+not not%4:02:00::
+knowing know%2:31:01::
+that
+the
+Sturch group%1:03:00::
+had
+secretly secretly%4:02:00::
+given give%2:40:11::
+her
+a
+divorce divorce%1:04:00::
+,
+thinking think%2:31:03::
+that
+death death%1:26:00::
+had
+dissolved dissolve%2:30:02::
+her
+marriage marriage%1:26:00::
+.
+She
+would
+have have%2:40:01::
+a
+year year%1:28:01::
+in
+which
+to
+make_up make_up_one's_mind%2:31:00::
+her
+mind
+,
+to
+choose choose%2:31:00::
+a
+mate mate%1:18:00::
+from
+a
+list list%1:10:00::
+selected select%2:31:00::
+by
+her
+gapt
+.
+Perhaps perhaps%4:02:00::
+,
+the
+psychological psychological%5:00:00:mental:00
+barriers barrier%1:09:00::
+that
+had
+prevented prevent%2:41:00::
+her
+from
+conceiving conceive%2:29:00::
+Hal person%1:03:00::
+'s
+child child%1:18:01::
+would
+no_longer no_longer%4:02:00::
+be be%2:42:05::
+present present%3:00:02::
+.
+Perhaps perhaps%4:02:00::
+.
+Hal person%1:03:00::
+doubted doubt%2:31:00::
+if
+this
+happy happy%3:00:00::
+event event%1:03:00::
+would
+occur occur%2:30:00::
+.
+Mary person%1:03:00::
+was be%2:42:03::
+as
+frozen
+below
+the
+navel navel%1:08:00::
+as
+he
+.
+No_matter no_matter%4:02:00::
+who
+the
+candidate candidate%1:18:00::
+for
+marriage marriage%1:26:00::
+selected select%2:31:00::
+by
+the
+gapt
+.
+The
+gapt
+.
+Pornsen person%1:03:00::
+.
+He
+would
+no_longer no_longer%4:02:00::
+have
+to
+see see%2:39:00::
+that
+fat fat%3:00:01::
+face face%1:08:00::
+,
+hear hear%2:39:00::
+that
+whining whining%5:00:00:complaining(a):00
+voice voice%1:07:00::
+.
+``
+Hal_Yarrow person%1:03:00::
+''
+!
+said say%2:32:00::
+the
+whining whining%5:00:00:complaining(a):00
+voice voice%1:07:00::
+.
+And
+,
+slowly slowly%4:02:02::
+,
+feeling feel%2:39:00::
+himself
+icy icy%5:00:00:cold:02
+yet
+burning burning%5:00:01:hot:01
+,
+Hal person%1:03:00::
+turned turn%2:38:00::
+.
+There
+was be%2:42:04::
+the
+squat squat%5:00:00:short:03
+loose_jowled loose-jowled%5:00:00:fat:01
+man man%1:18:00::
+,
+smiling smile%2:29:00::
+lopsidedly lopsidedly%4:02:00::
+up
+at
+him
+.
+``
+My
+beloved beloved%5:00:00:loved:00
+ward ward%1:18:00::
+,
+my
+perennial perennial%3:00:00::
+gadfly gadfly%1:18:00::
+''
+,
+said say%2:32:00::
+the
+whining whining%5:00:00:complaining(a):00
+voice voice%1:07:00::
+.
+``
+I
+had have%2:39:06::
+no no%3:00:00::
+idea idea%1:09:00::
+that
+you
+,
+too too%4:02:01::
+,
+would
+be be%2:42:05::
+on
+this
+glorious glorious%3:00:00::
+voyage voyage%1:04:00::
+.
+But
+I
+might
+have
+known know%2:31:01::
+!
+We
+seem seem%2:39:00::
+to
+be be%2:42:03::
+bound bound%3:00:01::
+by
+love love%1:12:00::
+;
+Sigmen person%1:03:00::
+himself
+must
+have
+foreseen foresee%2:31:00::
+it
+.
+Love love%1:12:00::
+to
+you
+,
+my
+ward ward%1:18:00::
+''
+.
+``
+Sigmen person%1:03:00::
+love love%1:12:00::
+you
+,
+too too%4:02:01::
+,
+my
+guardian guardian%1:18:00::
+''
+,
+said say%2:32:00::
+Hal person%1:03:00::
+,
+choking choke%2:29:00::
+.
+``
+How
+wonderful wonderful%5:00:00:extraordinary:00
+to
+see see%2:38:00::
+your
+cherished cherished%5:00:00:loved:00
+self self%1:18:00::
+.
+I
+had
+thought think%2:31:03::
+we
+would
+never never%4:02:00::
+again again%4:02:00::
+speak_to speak_to%2:32:00::
+each
+other
+''
+.
+The
+Gabriel
+pointed point%2:38:05::
+towards
+her
+destination destination%1:15:00::
+and
+,
+under
+one one%5:00:00:cardinal:00
+gee gee%1:23:00::
+acceleration acceleration%1:07:00::
+,
+began begin%2:30:00::
+to
+build_up build_up%2:30:00::
+towards
+her
+ultimate ultimate%3:00:00::
+velocity velocity%1:28:00::
+,
+99.1
+percent percent%1:24:00::
+of
+the
+speed_of_light speed_of_light%1:28:00::
+.
+Meanwhile meanwhile%4:02:01::
+,
+all all%3:00:00::
+the
+personnel personnel%1:14:00::
+except
+those
+few few%3:00:00::
+needed needed%5:00:00:necessary:00
+to
+carry_out carry_out%2:30:00::
+the
+performance performance%1:04:02::
+of
+the
+ship ship%1:06:00::
+,
+went_into go_into%2:38:00::
+the
+suspensor
+.
+Here here%4:02:00::
+they
+would
+lie lie%2:42:03::
+in
+suspended_animation suspended_animation%1:26:00::
+for
+many many%3:00:00::
+years year%1:28:01::
+.
+Some
+time time%1:28:05::
+later later%4:02:01::
+,
+after
+a
+check check%1:04:03::
+had
+been
+made make%2:41:00::
+of
+all
+automatic automatic%3:00:00::
+equipment equipment%1:06:00::
+,
+the
+crew crew%1:14:01::
+would
+join join%2:35:01::
+the
+others
+.
+They
+would
+sleep sleep%2:29:00::
+while
+the
+Gabriel
+'s
+drive drive%1:04:04::
+would
+increase increase%2:30:00::
+the
+acceleration acceleration%1:07:00::
+to
+a
+point point%1:26:00::
+which
+the
+unfrozen unfrozen%3:00:00::
+bodies body%1:08:00::
+of
+the
+personnel personnel%1:14:00::
+could
+not not%4:02:00::
+have
+endured endure%2:42:04::
+.
+Upon
+reaching reach%2:38:01::
+the
+desired desired%5:00:00:desirable:00
+speed speed%1:28:00::
+,
+the
+automatic automatic%3:00:00::
+equipment equipment%1:06:00::
+would
+cut_off cut_off%2:32:00::
+the
+drive drive%1:04:04::
+,
+and
+the
+silent silent%5:00:00:quiet:01
+but
+not not%4:02:00::
+empty empty%3:00:00::
+vessel vessel%1:06:00::
+would
+hurl hurl%2:38:00::
+towards
+the
+star star%1:17:00::
+which
+was be%2:42:06::
+its
+journey journey%1:04:00::
+'s
+end end%1:09:02::
+.
+Many many%3:00:00::
+years year%1:28:01::
+later later%4:02:01::
+,
+the
+photon photon%1:17:00::
+counting counting%1:04:00::
+apparatus apparatus%1:06:00::
+in
+the
+nose nose%1:06:00::
+of
+the
+ship ship%1:06:00::
+would
+determine determine%2:32:00::
+that
+the
+star star%1:17:00::
+was be%2:42:03::
+close close%3:00:01::
+enough enough%4:02:00::
+to
+actuate actuate%2:36:00::
+deceleration deceleration%1:07:00::
+.
+Again again%4:02:00::
+,
+a
+force force%1:19:00::
+too too%4:02:00::
+strong strong%3:00:00::
+for
+unfrozen unfrozen%3:00:00::
+bodies body%1:08:00::
+to
+endure endure%2:42:04::
+would
+be
+applied apply%2:34:00::
+.
+Then then%4:02:00::
+,
+after
+slowing slow%2:30:00::
+the
+vessel vessel%1:06:00::
+considerably considerably%4:02:01::
+,
+the
+drive drive%1:04:04::
+would
+adjust adjust%2:30:01::
+to
+a
+one one%5:00:00:cardinal:00
+gee gee%1:23:00::
+deceleration deceleration%1:07:00::
+.
+And
+the
+crew crew%1:14:01::
+would
+be
+automatically automatically%4:02:00::
+brought_out bring_out%2:35:00::
+of
+their
+suspended_animation suspended_animation%1:26:00::
+.
+These
+members member%1:18:00::
+would
+then then%4:02:00::
+unthaw unthaw%2:30:00::
+the
+rest rest%1:24:00::
+of
+the
+personnel personnel%1:14:00::
+.
+And
+,
+in
+the
+half half%1:23:00::
+year year%1:28:01::
+left left%5:00:00:unexhausted:00
+before
+reaching reach%2:38:01::
+their
+destination destination%1:15:00::
+,
+the
+men men%1:14:00::
+would
+carry_out carry_out%2:30:00::
+whatever
+preparations preparation%1:04:02::
+were be%2:42:03::
+needed needed%5:00:00:necessary:00
+.
+Hal_Yarrow person%1:03:00::
+was be%2:42:03::
+among
+the
+last last%3:00:00::
+to
+go_into go_into%2:38:00::
+the
+suspensor
+and
+among
+the
+first first%3:00:00::
+to
+come_out come_out%2:30:00::
+.
+He
+had
+to
+study study%2:31:02::
+the
+recordings recording%1:06:00::
+of
+the
+language language%1:10:00::
+of
+the
+chief chief%5:00:02:important:00
+nation nation%1:14:00::
+of
+Ozagen
+,
+Siddo
+.
+And
+,
+from
+the
+first first%1:28:00::
+,
+he
+faced face%2:33:00::
+a
+difficult difficult%3:00:00::
+task task%1:04:00::
+.
+The
+expedition expedition%1:04:01::
+that
+had
+discovered discover%2:40:00::
+Ozagen
+had
+succeeded succeed%2:41:00::
+in
+correlating correlate%2:42:00::
+two two%5:00:00:cardinal:00
+thousand thousand%1:23:00::
+Siddo
+words word%1:10:00::
+with
+an
+equal equal%3:00:00::
+number number%1:23:00::
+of
+American american%3:01:00::
+words word%1:10:00::
+.
+The
+description description%1:10:01::
+of
+the
+Siddo
+syntax syntax%1:09:01::
+was be%2:42:03::
+very very%4:02:00::
+restricted restricted%5:00:00:modified:00
+.
+And
+,
+as
+Hal person%1:03:00::
+found_out find_out%2:31:00::
+,
+obviously obviously%4:02:00::
+mistaken mistaken%5:00:00:wrong:01
+in
+many many%3:00:00::
+cases case%1:11:00::
+.
+This
+discovery discovery%1:09:00::
+caused cause%2:36:00::
+Hal person%1:03:00::
+anxiety anxiety%1:12:00::
+.
+His
+duty duty%1:04:00::
+was be%2:42:06::
+to
+write write%2:36:00::
+a
+school_text school_text%1:10:00::
+and
+to
+teach teach%2:32:00::
+the
+entire entire%5:00:01:whole:00
+personnel personnel%1:14:00::
+of
+the
+Gabriel
+how
+to
+speak speak%2:32:02::
+Ozagen
+.
+Yet
+,
+if
+he
+used use%2:34:01::
+all_of all_of%3:00:00::
+the
+little little%3:00:01::
+means means%1:04:00::
+at
+his
+disposal disposal%1:07:00::
+,
+he
+would
+be
+instructing instruct%2:32:00::
+his
+students student%1:18:00::
+wrongly wrongly%4:02:00::
+.
+Moreover moreover%4:02:00::
+,
+even even%4:02:00::
+getting get_across%2:31:00::
+this
+across
+would
+be be%2:42:03::
+difficult difficult%3:00:00::
+.
+For_one_thing for_one_thing%4:02:00::
+,
+the
+organs organ%1:08:00::
+of
+speech speech%1:10:00::
+of
+the
+Ozagen
+natives native%1:18:00::
+differed differ%2:42:00::
+somewhat somewhat%4:02:01::
+from
+Earthmen earthman%1:18:00::
+'s
+;
+the
+sounds sound%1:19:00::
+made make%2:36:00::
+by
+these
+organs organ%1:08:00::
+were be%2:42:03::
+,
+therefore therefore%4:02:00::
+,
+dissimilar dissimilar%3:00:00::
+.
+It
+was
+true true%3:00:00::
+that
+they
+could
+be
+approximated approximate%2:42:00::
+,
+but
+would
+the
+Ozagenians
+understand understand%2:31:00::
+these
+approximations approximation%1:07:00::
+?
+Another
+obstacle obstacle%1:09:00::
+was be%2:42:06::
+the
+grammatical grammatical%3:01:00::
+construction construction%1:10:01::
+of
+Siddo
+.
+Consider consider%2:31:00::
+the
+tense_system tense_system%1:10:00::
+.
+Instead instead%4:02:00::
+of
+inflecting inflect%2:32:01::
+a
+verb verb%1:10:01::
+or
+using use%2:34:01::
+an
+unattached unattached%5:00:00:unconnected:00
+particle particle%1:10:00::
+to
+indicate indicate%2:32:03::
+the
+past past%1:10:00::
+or
+future future%1:10:00::
+,
+Siddo
+used use%2:34:01::
+an
+entirely entirely%4:02:00::
+different different%5:00:00:other:00
+word word%1:10:00::
+.
+Thus thus%4:02:00::
+,
+the
+masculine masculine%3:00:02::
+animate animate%3:00:02::
+infinitive infinitive%1:10:00::
+dabhumaksanigalu'ahai
+,
+meaning mean%2:32:03::
+to
+live
+,
+was be%2:42:06::
+,
+in
+the
+perfect_tense perfect_tense%1:24:00::
+,
+ksu'u'peli'afo
+,
+and
+,
+in
+the
+future future%1:10:00::
+,
+mai'teipa
+.
+The
+same same%3:00:00::
+use use%2:34:01::
+of
+an
+entirely entirely%4:02:00::
+different different%5:00:00:other:00
+word word%1:10:00::
+applied apply%2:42:00::
+for
+all all%3:00:00::
+the
+other other%3:00:00::
+tenses tense%1:10:00::
+.
+Plus
+the
+fact fact%1:09:01::
+that
+Siddo
+not_only not_only%4:02:00::
+had have%2:42:00::
+the
+normal normal%3:00:01::
+(
+to
+Earthmen earthman%1:18:00::
+)
+three three%5:00:00:cardinal:00
+genders gender%1:10:00::
+of
+masculine masculine%3:00:02::
+,
+feminine feminine%3:00:02::
+,
+and
+neuter neuter%1:10:00::
+,
+but
+the
+two two%5:00:00:cardinal:00
+extra extra%5:00:00:added:00
+of
+inanimate inanimate%3:00:02::
+and
+spiritual spiritual%5:00:00:sacred:00
+.
+Fortunately fortunately%4:02:00::
+,
+gender gender%1:10:00::
+was be%2:42:03::
+inflected inflected%5:00:00:finite:02
+,
+though
+the
+expression expression%1:10:00::
+of
+it
+would
+be be%2:42:03::
+difficult difficult%3:00:00::
+for
+anybody
+not not%4:02:00::
+born bear%2:29:01::
+in
+Siddo
+.
+The
+system system%1:09:00::
+of
+indicating indicate%2:32:01::
+gender gender%1:10:00::
+varied vary%2:42:00::
+according
+to
+tense tense%1:10:00::
+.
+All all%3:00:00::
+the
+other other%3:00:00::
+parts_of_speech part_of_speech%1:10:00::
+:
+nouns noun%1:10:01::
+,
+pronouns pronoun%1:10:00::
+,
+adjectives adjective%1:10:01::
+,
+adverbs adverb%1:10:01::
+,
+and
+conjunctions conjunction%1:10:00::
+operated operate%2:35:03::
+under
+the
+same same%3:00:00::
+system system%1:09:00::
+as
+the
+verbs verb%1:10:01::
+.

@@ -1,0 +1,2201 @@
+Wage wage%1:21:00::
+price price%1:07:00::
+policies policy%1:09:00::
+of
+industry industry%1:14:00::
+are be%2:42:03::
+the
+result result%1:19:00::
+of
+a
+complex complex%1:09:00::
+of
+forces force%1:07:01::
+-
+no
+single single%3:00:00::
+explanation explanation%1:09:00::
+has
+been
+found find%2:40:02::
+which
+applies apply%2:42:00::
+to
+all all%3:00:00::
+cases case%1:11:00::
+.
+The
+purpose purpose%1:09:00::
+of
+this
+paper paper%1:10:01::
+is be%2:42:06::
+to
+analyze analyze%2:31:00::
+one one%5:00:01:single(a):00
+possible possible%3:00:04::
+force force%1:07:01::
+which
+has
+not not%4:02:00::
+been
+treated treat%2:32:00::
+in
+the
+literature literature%1:10:01::
+,
+but
+which
+we
+believe believe%2:31:04::
+makes make%2:36:00::
+a
+significant significant%5:00:00:considerable:00
+contribution contribution%1:04:02::
+to
+explaining explain%2:32:00::
+the
+wage wage%1:21:00::
+price price%1:07:00::
+behavior behavior%1:04:00::
+of
+a_few a_few%5:00:00:few:00
+very very%4:02:00::
+important important%3:00:00::
+industries industry%1:14:00::
+.
+While
+there
+may
+be be%2:42:00::
+several several%5:00:00:some(a):00
+such such%5:00:01:specified:00
+industries industry%1:14:00::
+to
+which
+the
+model model%1:09:00::
+of
+this
+paper paper%1:10:01::
+is be%2:42:03::
+applicable applicable%5:00:00:relevant:00
+,
+the
+authors author%1:18:00::
+make make%2:41:00::
+particular particular%5:00:00:specific:00
+claim claim%1:10:02::
+of
+relevance relevance%1:24:00::
+to
+the
+explanation explanation%1:09:00::
+of
+the
+course course%1:14:00::
+of
+wages wage%1:21:00::
+and
+prices price%1:07:00::
+in
+the
+steel steel%1:27:00::
+industry industry%1:14:00::
+of
+the
+United_States united_states%1:15:00::
+since
+World_War_2 world_war_ii%1:04:00::
+,
+.
+Indeed indeed%4:02:03::
+,
+the
+apparent apparent%5:00:00:obvious:00
+stiffening stiffening%1:04:00::
+of
+the
+industry industry%1:14:00::
+'s
+attitude attitude%1:09:00::
+in
+the
+recent recent%5:00:00:new:00
+steel steel%1:27:00::
+strike strike%1:04:00::
+has have%2:40:00::
+a
+direct direct%3:00:00::
+explanation explanation%1:09:00::
+in_terms_of in_terms_of%5:00:00:related:02
+the
+model model%1:09:00::
+here here%4:02:02::
+presented present%2:32:00::
+.
+The
+model model%1:09:00::
+of
+this
+paper paper%1:10:01::
+considers consider%2:39:00::
+an
+industry industry%1:14:00::
+which
+is
+not not%4:02:00::
+characterized characterize%2:42:01::
+by
+vigorous vigorous%5:00:00:energetic:00
+price_competition price_competition%1:24:00::
+,
+but
+which
+is be%2:42:03::
+so so%4:02:02::
+basic basic%5:00:00:essential:00
+that
+its
+wage wage%1:21:00::
+price price%1:07:00::
+policies policy%1:09:00::
+are be%2:42:03::
+held hold%2:42:00::
+in_check in_check%4:02:00::
+by
+continuous continuous%3:00:01::
+critical critical%3:00:01::
+public public%3:00:00::
+scrutiny scrutiny%1:04:00::
+.
+Where
+the
+industry industry%1:14:00::
+'s
+product product%1:06:01::
+price price%1:07:00::
+has
+been
+kept keep%2:42:00::
+below
+the
+``
+profit_maximizing profit-maximizing%5:00:00:increasing:00
+''
+and
+``
+entry entry%1:04:01::
+limiting limiting%5:00:01:restrictive:00
+''
+prices price%1:07:00::
+due_to due_to%5:00:00:attributable:00
+fears fear%1:12:01::
+of
+public public%1:14:00::
+reaction reaction%1:09:00::
+,
+the
+profit profit%1:21:00::
+seeking seeking%3:44:00::
+producers producer%1:18:01::
+have have%2:40:00::
+an
+interest interest%1:21:03::
+in
+offering offer%2:40:02::
+little little%3:00:03::
+real real%3:00:00::
+resistance resistance%1:04:02::
+to
+wage wage%1:21:00::
+demands demand%1:10:00::
+.
+The
+contribution contribution%1:04:02::
+of
+this
+paper paper%1:10:01::
+is be%2:42:06::
+a
+demonstration demonstration%1:04:00::
+of
+this
+proposition proposition%1:10:00::
+,
+and
+an
+exploration exploration%1:09:00::
+of
+some some%3:00:00::
+of
+its
+implications implication%1:09:01::
+.
+In_order_to
+focus focus%2:31:01::
+clearly clearly%4:02:01::
+upon
+the
+operation operation%1:04:04::
+of
+this
+one one%5:00:01:single(a):00
+force force%1:07:01::
+,
+which
+we
+may
+call call%2:32:00::
+the
+effect effect%1:19:00::
+of
+``
+public public%5:00:00:common:02
+limit limit%1:07:00::
+pricing price%1:21:00::
+''
+on
+``
+key key%5:00:00:important:00
+''
+wage wage%1:21:00::
+bargains bargain%1:10:00::
+,
+we
+deliberately deliberately%4:02:00::
+simplify simplify%2:30:01::
+the
+model model%1:09:00::
+by
+abstracting abstract%2:31:00::
+from
+other other%3:00:00::
+forces force%1:07:01::
+,
+such_as such_as%5:00:00:specified:00
+union union%1:14:01::
+power power%1:07:00::
+,
+which
+may
+be be%2:42:03::
+relevant relevant%3:00:00::
+in
+an
+actual actual%3:00:00::
+situation situation%1:26:00::
+.
+For
+expository expository%5:00:00:instructive:00
+purposes purpose%1:09:00::
+,
+this
+is
+best best%4:02:00::
+treated treat%2:32:00::
+as
+a
+model model%1:09:00::
+which
+spells_out spell_out%2:32:00::
+the
+conditions condition%1:26:00::
+under
+which
+an
+important important%3:00:00::
+industry industry%1:14:00::
+affected affected%3:00:00::
+with
+the
+public public%1:14:00::
+interest interest%1:07:01::
+would
+find find%2:32:00::
+it
+profitable profitable%5:00:00:advantageous:00
+to
+raise raise%2:30:01::
+wages wage%1:21:00::
+even even%4:02:00::
+in
+the
+absence absence%1:04:00::
+of
+union union%1:14:01::
+pressures pressure%1:07:00::
+for
+higher high%3:00:02::
+wages wage%1:21:00::
+.
+Part part%1:24:00::
+1 1%5:00:00:cardinal:00
+,
+below below%4:02:02::
+describes describe%2:32:01::
+this
+abstract abstract%5:00:00:technical:00
+model model%1:09:00::
+by
+spelling_out spell_out%2:32:00::
+its
+assumptions assumption%1:09:00::
+.
+Part part%1:24:00::
+2 2%5:00:00:cardinal:00
+,
+discusses discuss%2:32:01::
+the
+operation operation%1:04:04::
+of
+the
+model model%1:09:00::
+and
+derives derive%2:31:00::
+some
+significant significant%3:00:00::
+conclusions conclusion%1:09:00::
+.
+Part part%1:24:00::
+3 3%5:00:00:cardinal:00
+,
+discusses discuss%2:32:01::
+the
+empirical empirical%3:00:00::
+relevance relevance%1:24:00::
+and
+policy policy%1:09:00::
+implications implication%1:09:01::
+of
+the
+conclusions conclusion%1:09:00::
+.
+Part part%1:24:00::
+4 4%5:00:00:cardinal:00
+,
+is be%2:42:06::
+a
+brief brief%5:00:00:concise:00
+summary summary%1:10:00::
+.
+The
+Mathematical mathematical%3:01:00::
+Appendix appendix%1:10:00::
+presents present%2:32:00::
+the
+rigorous rigorous%5:00:00:exact:00
+argument argument%1:10:02::
+,
+but
+is
+best best%4:02:00::
+read read%2:31:00::
+after
+Part part%1:24:00::
+1 1%5:00:00:cardinal:00
+,
+in_order
+that
+the
+assumptions assumption%1:09:00::
+underlying underlie%2:42:00::
+the
+equations equation%1:10:00::
+may
+be be%2:42:03::
+explicit explicit%3:00:00::
+.
+The
+industry industry%1:14:00::
+with
+which
+this
+model model%1:09:00::
+is be%2:42:03::
+concerned concerned%5:00:00:involved:00
+is be%2:42:06::
+a
+basic basic%5:00:00:essential:00
+industry industry%1:14:00::
+,
+producing produce%2:36:00::
+a
+substantial substantial%5:00:00:considerable:00
+share share%1:21:00::
+of
+gross_national_product gross_national_product%1:21:00::
+.
+Price_competition price_competition%1:24:00::
+is be%2:42:03::
+lacking lacking%5:00:00:absent:00
+.
+For
+the
+purposes purpose%1:09:00::
+of
+setting set%2:31:04::
+the
+product product%1:06:01::
+price price%1:07:00::
+,
+the
+industry industry%1:14:00::
+behaves behave%2:29:00::
+as
+a
+single single%3:00:00::
+entity entity%1:03:00::
+.
+In
+wage wage%1:21:00::
+negotiations negotiation%1:10:00::
+,
+the
+industry industry%1:14:00::
+bargains bargain%2:40:00::
+as
+a
+unit unit%1:09:00::
+with
+a
+single single%3:00:00::
+union union%1:14:01::
+.
+We
+are
+concerned concerned%5:00:00:involved:00
+with
+aggregate aggregate%5:00:01:collective:00
+demand demand%1:22:00::
+for
+the
+industry industry%1:14:00::
+'s
+product product%1:06:01::
+.
+The
+manner manner%1:07:02::
+in
+which
+this
+is
+shared share%2:40:01::
+among
+firms firm%1:14:00::
+is
+taken take%2:31:07::
+as
+given given%5:00:00:acknowledged:00
+.
+In
+any any%5:00:00:some(a):00
+given given%5:00:00:specified:00
+time_period time_period%1:28:00::
+,
+the
+aggregate aggregate%5:00:01:collective:00
+demand demand%1:22:00::
+for
+the
+industry industry%1:14:00::
+'s
+product product%1:06:01::
+is
+determined determine%2:31:02::
+by
+two two%5:00:00:cardinal:00
+things thing%1:07:00::
+:
+the
+price price%1:07:00::
+charged charge%2:40:03::
+by
+the
+industry industry%1:14:00::
+,
+and
+the
+level level%1:07:00::
+of
+GNP gnp%1:21:00::
+.
+For
+the
+purposes purpose%1:09:00::
+of
+this
+discussion discussion%1:10:02::
+,
+the
+problem problem%1:26:00::
+of
+relative relative%3:00:00::
+prices price%1:07:00::
+is be%2:42:03::
+encompassed encompass%2:42:00::
+in
+these
+two two%5:00:00:cardinal:00
+variables variable%1:09:00::
+,
+since
+GNP gnp%1:21:00::
+includes include%2:42:00::
+other other%3:00:00::
+prices price%1:07:00::
+.
+(
+We
+abstract abstract%2:31:01::
+here here%4:02:02::
+from
+technological technological%5:00:00:scientific:00
+progress progress%1:04:01::
+and
+assume assume%2:31:00::
+that
+prices price%1:07:00::
+of
+all
+other other%3:00:00::
+products product%1:06:01::
+change change%2:30:02::
+proportionately proportionately%4:02:00::
+.
+)
+The
+form form%1:09:00::
+of
+the
+industry industry%1:14:00::
+demand demand%1:22:00::
+function function%1:24:00::
+is be%2:42:06::
+one one%5:00:01:single(a):00
+which
+makes make%2:30:00::
+quantity quantity%1:07:00::
+demanded demand%2:42:00::
+vary vary%2:30:01::
+inversely inversely%4:02:00::
+with
+the
+product product%1:06:01::
+price price%1:07:00::
+,
+and
+vary vary%2:30:01::
+directly directly%4:02:05::
+with
+the
+level level%1:07:00::
+of
+GNP gnp%1:21:00::
+.
+The
+industry industry%1:14:00::
+of
+this
+model model%1:09:00::
+is be%2:42:03::
+so so%4:02:02::
+important important%3:00:00::
+that
+its
+wage wage%1:21:00::
+and
+price price%1:07:00::
+policies policy%1:09:00::
+are
+affected affect%2:30:00::
+with
+a
+public public%3:00:00::
+interest interest%1:07:01::
+.
+Because
+of
+its
+importance importance%1:07:00::
+,
+and
+because
+the
+lack lack%1:26:00::
+of
+price_competition price_competition%1:24:00::
+is be%2:42:03::
+well well%4:02:05::
+recognized recognized%5:00:00:acknowledged:00
+,
+the
+industry industry%1:14:00::
+is be%2:42:03::
+under
+considerable considerable%3:00:00::
+public public%1:14:00::
+pressure pressure%1:07:00::
+not not%4:02:00::
+to
+raise raise%2:30:01::
+its
+price price%1:07:00::
+any any%5:00:00:some(a):00
+more more%4:02:01::
+than
+could
+be
+justified justify%2:32:01::
+by
+cost cost%1:21:00::
+increases increase%1:23:00::
+.
+The
+threat threat%1:26:00::
+of
+effective effective%3:00:00::
+anti-trust antitrust%5:00:00:fair:03
+action action%1:04:01::
+,
+provoked provoke%2:37:00::
+by
+``
+gouging gouge%2:40:00::
+the
+public public%1:14:00::
+''
+through
+price price%1:07:00::
+increases increase%1:23:00::
+not not%4:02:00::
+justified justify%2:32:01::
+by
+cost cost%1:21:00::
+increases increase%1:23:00::
+,
+and
+fears fear%1:12:01::
+of
+endangering endanger%2:42:00::
+relations relations%1:24:00::
+with
+customers customer%1:18:00::
+,
+Congress congress%1:14:01::
+,
+the
+general general%3:00:00::
+public public%1:14:00::
+and
+the
+press press%1:14:00::
+,
+all
+operate operate%2:35:03::
+to
+keep keep%2:42:00::
+price price%1:07:00::
+increases increase%1:23:00::
+in
+some
+relation relation%1:03:00::
+to
+cost cost%1:21:00::
+increases increase%1:23:00::
+.
+For
+the
+industry industry%1:14:00::
+of
+this
+model model%1:09:00::
+,
+the
+effect effect%1:19:00::
+of
+such such%5:00:01:specified:00
+public public%1:14:00::
+pressures pressure%1:07:00::
+in
+the
+past past%1:28:00::
+has
+been be%2:42:03::
+to
+hold hold%2:42:00::
+the
+price price%1:07:00::
+well well%4:02:15::
+below
+the
+short-run short-run%5:00:00:short:02
+profit profit%1:21:00::
+maximizing maximize%2:30:00::
+price price%1:07:00::
+(
+given given%5:00:00:acknowledged:00
+the
+wage wage%1:21:00::
+rate rate%1:21:00::
+and
+the
+level level%1:07:00::
+of
+GNP gnp%1:21:00::
+)
+,
+and
+even
+below
+the
+entry entry%1:04:01::
+limited limited%3:00:00::
+price price%1:07:00::
+(
+but
+not not%4:02:00::
+below
+average_cost average_cost%1:07:00::
+)
+.
+For
+such such%5:00:01:specified:00
+an
+industry industry%1:14:00::
+,
+it
+is be%2:42:03::
+only only%4:02:01::
+``
+safe safe%3:00:01::
+''
+to
+raise raise%2:30:01::
+its
+price price%1:07:00::
+if
+such such%5:00:01:specified:00
+an
+increase increase%1:23:00::
+is
+manifestly manifestly%4:02:00::
+``
+justified justify%2:32:01::
+''
+by
+rising rising%3:00:00::
+costs cost%1:21:00::
+(
+due_to due_to%5:00:00:attributable:00
+rising rising%3:00:00::
+wages wage%1:21:00::
+,
+etc
+.
+)
+.
+Thus thus%4:02:00::
+,
+if
+public public%1:14:00::
+pressure pressure%1:07:00::
+sets set%2:31:04::
+the
+effective effective%5:00:00:operative:00
+limit limit%1:07:00::
+to
+the
+price price%1:07:00::
+that
+the
+industry industry%1:14:00::
+may
+charge charge%2:40:03::
+,
+this
+pressure pressure%1:07:00::
+is be%2:42:06::
+itself
+a
+function function%1:24:00::
+of
+the
+wage wage%1:21:00::
+rate rate%1:21:00::
+.
+In
+this
+model model%1:09:00::
+,
+we
+abstract abstract%2:31:00::
+from
+all
+non non%5:00:00:negative:02
+wage wage%1:21:00::
+sources source%1:15:00::
+of
+cost cost%1:21:00::
+changes change%1:19:00::
+,
+so so%4:02:06::
+that
+the
+``
+public public%5:00:00:common:02
+limit limit%1:07:00::
+price price%1:07:00::
+''
+only only%4:02:01::
+rises rise%2:30:00::
+as
+the
+wage wage%1:21:00::
+rate rate%1:21:00::
+rises rise%2:30:00::
+.
+In
+such such%5:00:01:specified:00
+circumstances circumstance%1:26:01::
+,
+it
+may
+well well%4:02:03::
+be be%2:42:03::
+to
+the
+advantage advantage%1:07:00::
+of
+the
+industry industry%1:14:00::
+to
+allow allow%2:32:00::
+an
+increase increase%1:23:00::
+in
+the
+basic basic%3:00:00::
+wage wage%1:21:00::
+rate rate%1:21:00::
+.
+Since
+marginal_costs marginal_cost%1:07:00::
+rise rise%2:30:00::
+when
+the
+wage wage%1:21:00::
+rate rate%1:21:00::
+rises rise%2:30:00::
+,
+the
+profit_maximizing profit-maximizing%5:00:00:increasing:00
+price price%1:07:00::
+also also%4:02:00::
+rises rise%2:30:00::
+when
+the
+public public%5:00:00:common:02
+limit limit%1:07:00::
+price price%1:07:00::
+is
+elevated elevate%2:38:00::
+,
+and
+is be%2:42:03::
+likely likely%3:00:00::
+to
+remain remain%2:30:00::
+well well%4:02:15::
+above
+the
+latter latter%3:00:00::
+.
+The
+entry entry%1:04:01::
+limiting limiting%5:00:01:restrictive:00
+price price%1:07:00::
+will
+also also%4:02:00::
+be
+raised raise%2:30:01::
+for
+potential potential%3:00:00::
+domestic domestic%3:00:00::
+competition competition%1:04:00::
+,
+but
+unless
+general general%3:00:00::
+inflation inflation%1:22:00::
+permits permit%2:41:00::
+profit_margins profit_margin%1:21:00::
+to
+increase increase%2:30:00::
+proportionately proportionately%4:02:00::
+throughout
+the
+economy economy%1:14:00::
+,
+we
+might
+expect expect%2:31:00::
+the
+public public%5:00:00:common:02
+limit limit%1:07:00::
+price price%1:07:00::
+to
+approach approach%2:42:00::
+the
+entry entry%1:04:01::
+limit limit%1:07:00::
+price price%1:07:00::
+.
+The
+foreign foreign%3:00:02::
+entry entry%1:04:01::
+limit limit%1:07:00::
+price price%1:07:00::
+would
+be
+approached approach%2:38:00::
+more more%4:02:00::
+rapidly rapidly%4:02:00::
+,
+since
+domestic domestic%3:00:00::
+wage wage%1:21:00::
+rates rate%1:21:00::
+do
+not not%4:02:00::
+enter enter%2:42:00::
+foreign foreign%3:00:02::
+costs cost%1:21:00::
+directly directly%4:02:05::
+.
+Where
+this
+approach approach%1:04:02::
+becomes become%2:30:00::
+critical critical%5:00:00:indispensable:00
+,
+the
+industry industry%1:14:00::
+can
+be
+expected expect%2:31:00::
+to
+put put%2:35:00::
+much much%3:00:00::
+emphasis emphasis%1:26:00::
+on
+this
+as
+evidence evidence%1:10:01::
+of
+its
+sincerity sincerity%1:12:00::
+in
+``
+resisting resist%2:33:00::
+''
+the
+wage wage%1:21:00::
+pressures pressure%1:07:00::
+of
+a
+powerful powerful%3:00:00::
+union union%1:14:01::
+,
+requesting request%2:32:01::
+tariff tariff%1:21:00::
+relief relief%1:04:02::
+after
+it
+has
+``
+reluctantly reluctantly%4:02:00::
+''
+acceded accede%2:32:00::
+to
+the
+union union%1:14:01::
+pressure pressure%1:07:00::
+.
+Whether
+or
+not not%4:02:00::
+it
+is be%2:42:03::
+in
+the
+industry industry%1:14:00::
+'s
+interest interest%1:07:01::
+to
+allow allow%2:32:00::
+the
+basic basic%3:00:00::
+wage wage%1:21:00::
+rate rate%1:21:00::
+to
+rise rise%2:30:00::
+obviously obviously%4:02:00::
+depends_upon depend_upon%2:42:00::
+the
+extent extent%1:26:00::
+to
+which
+the
+public public%3:00:00::
+limit limit%1:07:00::
+price price%1:07:00::
+rises rise%2:30:00::
+in
+response response%1:19:00::
+to
+a
+basic basic%3:00:00::
+wage wage%1:21:00::
+increase increase%1:23:00::
+,
+and
+the
+relation relation%1:03:00::
+of
+this
+response response%1:19:00::
+to
+the
+increase increase%1:23:00::
+in
+costs cost%1:21:00::
+accompanying accompany%2:42:00::
+the
+wage wage%1:21:00::
+increase increase%1:23:00::
+.
+The
+extent extent%1:26:00::
+to
+which
+the
+public public%3:00:00::
+limit limit%1:07:00::
+price price%1:07:00::
+is
+raised raise%2:30:01::
+by
+a
+given given%5:00:00:specified:00
+increase increase%1:23:00::
+in
+the
+basic basic%3:00:00::
+wage wage%1:21:00::
+rate rate%1:21:00::
+is be%2:42:06::
+itself
+a
+function function%1:24:00::
+of
+three three%5:00:00:cardinal:00
+things thing%1:07:00::
+:
+the
+passage passage%1:04:04::
+of
+time time%1:28:05::
+,
+the
+level level%1:07:00::
+of
+GNP gnp%1:21:00::
+,
+and
+the
+size size%1:07:00::
+of
+the
+wage wage%1:21:00::
+increase increase%1:23:00::
+.
+We
+are
+abstracting abstract%2:31:00::
+from
+the
+fact fact%1:09:01::
+of
+strikes strike%1:04:00::
+here here%4:02:02::
+,
+but
+it
+should
+be be%2:42:03::
+obvious obvious%3:00:00::
+that
+the
+extent extent%1:26:00::
+to
+which
+the
+public public%3:00:00::
+limit limit%1:07:00::
+price price%1:07:00::
+is
+raised raise%2:30:01::
+by
+a
+given given%5:00:00:specified:00
+increase increase%1:23:00::
+in
+the
+basic basic%3:00:00::
+wage wage%1:21:00::
+rate rate%1:21:00::
+is be%2:42:06::
+also also%4:02:00::
+a
+function function%1:24:00::
+of
+the
+show show%1:10:03::
+of
+resistance resistance%1:04:02::
+put_up put_up%2:41:01::
+by
+the
+industry industry%1:14:00::
+.
+The
+industry industry%1:14:00::
+may
+deliberately deliberately%4:02:00::
+take take%2:39:00::
+a
+strike strike%1:04:00::
+,
+not not%4:02:00::
+to
+put
+pressure pressure%1:07:00::
+on
+the
+union union%1:14:01::
+,
+but
+in_order
+to
+``
+educate educate%2:41:00::
+''
+the
+government government%1:14:00::
+and
+the
+customers customer%1:18:00::
+of
+the
+industry industry%1:14:00::
+.
+As
+a
+strike strike%1:04:00::
+continues continue%2:42:01::
+,
+these
+parties party%1:14:02::
+increase increase%2:30:02::
+their
+pressure pressure%1:07:00::
+on
+the
+industry industry%1:14:00::
+to
+reach reach%2:38:01::
+an
+agreement agreement%1:10:01::
+.
+They
+become become%2:30:00::
+increasingly increasingly%4:02:00::
+willing willing%3:00:00::
+to
+accept accept%2:40:00::
+the
+price price%1:07:00::
+increase increase%1:23:00::
+that
+the
+industry industry%1:14:00::
+claims claim%2:32:00::
+the
+wage wage%1:21:00::
+bargain bargain%1:10:00::
+would
+entail entail%2:42:01::
+.
+Public public%1:14:00::
+indignation indignation%1:12:00::
+and
+resistance resistance%1:04:02::
+to
+wage wage%1:21:00::
+price price%1:07:00::
+increases increase%1:23:00::
+is be%2:42:03::
+obviously obviously%4:02:00::
+much much%4:02:00::
+less less%3:00:00::
+when
+the
+increases increase%1:23:00::
+are be%2:42:03::
+on
+the
+order order%1:07:01::
+of
+3 3%5:00:00:cardinal:00
+%
+per_annum per_annum%4:02:00::
+than
+when
+the
+increases increase%1:23:00::
+are be%2:42:03::
+on
+the
+order order%1:07:01::
+of
+3 3%5:00:00:cardinal:00
+%
+per
+month month%1:28:00::
+.
+The
+simple simple%5:00:02:plain:01
+passage passage%1:04:04::
+of
+an
+additional additional%5:00:00:added:00
+eleven eleven%5:00:00:cardinal:00
+months month%1:28:00::
+'
+time time%1:28:05::
+makes make%2:30:00::
+the
+second second%5:00:00:ordinal:00
+3 3%5:00:00:cardinal:00
+%
+boost boost%1:07:00::
+more more%4:02:00::
+acceptable acceptable%3:00:00::
+.
+Thus thus%4:02:00::
+,
+the
+public public%3:00:00::
+limit limit%1:07:00::
+price price%1:07:00::
+is
+raised raise%2:30:01::
+further further%4:02:02::
+by
+a
+given given%5:00:00:specified:00
+wage wage%1:21:00::
+increase increase%1:23:00::
+the
+longer longer%4:02:00::
+it
+has
+been be%2:42:03::
+since
+the
+previous previous%5:00:00:preceding(a):00
+price price%1:07:00::
+increase increase%1:23:00::
+.
+Notice notice%2:39:00::
+,
+however however%4:02:00::
+,
+that
+the
+passage passage%1:04:04::
+of
+time time%1:28:05::
+does
+not not%4:02:00::
+permit permit%2:32:00::
+the
+raising raising%1:11:00::
+of
+prices price%1:07:00::
+per_se per_se%4:02:00::
+,
+without
+an
+accompanying accompanying%5:00:00:related:02
+wage wage%1:21:00::
+increase increase%1:23:00::
+.
+Similarly similarly%4:02:00::
+,
+higher high%3:00:02::
+levels level%1:07:00::
+of
+GNP gnp%1:21:00::
+do
+not not%4:02:00::
+,
+in
+themselves
+,
+provide provide%2:40:00::
+grounds ground%1:16:00::
+for
+raising raise%2:30:01::
+prices price%1:07:00::
+,
+but
+they
+do
+relax relax%2:29:01::
+some
+of
+the
+pressure pressure%1:07:00::
+on
+the
+industry industry%1:14:00::
+so
+that
+it
+can
+raise raise%2:30:01::
+prices price%1:07:00::
+higher high%3:00:02::
+for
+a
+given given%5:00:00:specified:00
+wage wage%1:21:00::
+increase increase%1:23:00::
+.
+This
+is
+not not%4:02:00::
+extended extend%2:40:05::
+to
+anticipated anticipated%5:00:00:expected:00
+levels level%1:07:00::
+of
+GNP gnp%1:21:00::
+,
+however however%4:02:00::
+-
+only
+the
+current current%3:00:00::
+level level%1:07:00::
+of
+GNP gnp%1:21:00::
+affects affect%2:30:00::
+the
+public public%1:14:00::
+pressure pressure%1:07:00::
+against
+wage wage%1:21:00::
+price price%1:07:00::
+increases increase%1:23:00::
+.
+Finally finally%4:02:03::
+,
+since
+the
+public public%1:14:00::
+requires require%2:42:00::
+some
+restraint restraint%1:07:00::
+on
+the
+part part%1:09:02::
+of
+the
+companies company%1:14:01::
+,
+larger larger%5:00:00:large:00
+wage wage%1:21:00::
+increases increase%1:23:00::
+call_for call_for%2:42:00::
+less_than less_than%4:02:00::
+proportionately proportionately%4:02:00::
+larger larger%5:00:00:large:00
+price price%1:07:00::
+increases increase%1:23:00::
+(
+e._g. e.g.%4:02:00::
+,
+if
+a
+wage wage%1:21:00::
+increase increase%1:23:00::
+of
+5 5%5:00:00:cardinal:00
+%
+allows allow%2:32:00::
+a
+price price%1:07:00::
+increase increase%1:23:00::
+of
+7 7%5:00:00:cardinal:00
+%
+,
+a
+wage wage%1:21:00::
+increase increase%1:23:00::
+of
+10 10%5:00:00:cardinal:00
+%
+allows allow%2:32:00::
+a
+price price%1:07:00::
+increase increase%1:23:00::
+of
+something
+less_than less_than%4:02:00::
+14 14%5:00:00:cardinal:00
+%
+)
+.
+We
+assume assume%2:31:00::
+that
+average average%5:00:02:normal:01
+total total%5:00:00:gross:00
+unit_cost unit_cost%1:21:00::
+in
+the
+relevant relevant%3:00:00::
+region region%1:15:00::
+of
+operation operation%1:26:00::
+is be%2:42:03::
+constant constant%5:00:00:invariable:00
+with_respect_to with_respect_to%5:00:00:related:02
+quantity quantity%1:07:00::
+produced produce%2:36:00::
+(
+the
+average_cost average_cost%1:07:00::
+curve curve%1:10:00::
+is be%2:42:03::
+horizontal horizontal%3:00:00::
+,
+and
+therefore therefore%4:02:00::
+is be%2:42:03::
+identical identical%5:00:00:same:00
+with
+the
+marginal_cost marginal_cost%1:07:00::
+curve curve%1:10:00::
+)
+,
+and
+is be%2:42:03::
+the
+same same%3:00:04::
+for
+every
+firm firm%1:14:00::
+(
+and
+therefore therefore%4:02:00::
+for
+the
+industry industry%1:14:00::
+)
+.
+The
+level level%1:07:00::
+of
+this
+average_cost average_cost%1:07:00::
+is
+determined determine%2:31:02::
+by
+factor factor%1:09:00::
+prices price%1:07:00::
+,
+technology technology%1:04:00::
+,
+and_so_forth and_so_forth%4:02:00::
+.
+As
+we
+have
+noted note%2:32:00::
+,
+however however%4:02:00::
+,
+we
+are
+abstracting abstract%2:31:00::
+from
+changes change%1:24:00::
+in
+all all%3:00:00::
+determinants determinant%1:09:00::
+of
+this
+level level%1:07:00::
+except
+for
+changes change%1:24:00::
+in
+the
+wage wage%1:21:00::
+rate rate%1:21:00::
+.
+The
+level level%1:07:00::
+of
+average_cost average_cost%1:07:00::
+(
+equal equal%3:00:00::
+to
+marginal_cost marginal_cost%1:07:00::
+)
+is be%2:42:06::
+thus thus%4:02:00::
+strictly strictly%4:02:00::
+a
+function function%1:24:00::
+of
+the
+wage wage%1:21:00::
+rate rate%1:21:00::
+.
+The
+single single%3:00:00::
+union union%1:14:01::
+which
+faces face%2:33:00::
+the
+industry industry%1:14:00::
+does
+not not%4:02:00::
+restrict restrict%2:30:02::
+its
+membership membership%1:14:00::
+,
+and
+there
+is be%2:42:00::
+an
+adequate adequate%3:00:00::
+supply supply%1:23:00::
+of
+labor labor%1:14:00::
+available available%3:00:00::
+to
+the
+firms firm%1:14:00::
+of
+the
+industry industry%1:14:00::
+at
+the
+going going%5:00:00:active:06
+wage wage%1:21:00::
+rate rate%1:21:00::
+.
+The
+union union%1:14:01::
+does
+not not%4:02:00::
+regard regard%2:31:00::
+unemployment unemployment%1:26:00::
+of
+its
+own own%5:00:00:personal:00
+members member%1:18:00::
+as
+a
+matter matter%1:09:01::
+of
+concern concern%1:09:00::
+when
+setting set%2:31:04::
+its
+own own%5:00:00:personal:00
+wage wage%1:21:00::
+policy policy%1:09:00::
+-
+its
+concern concern%1:09:00::
+with
+employment employment%1:26:00::
+makes make%2:30:00::
+itself
+felt felt%5:00:00:detected:00
+in
+pressure pressure%1:07:00::
+upon
+the
+government government%1:14:00::
+to
+maintain maintain%2:42:00::
+full full%5:00:00:complete:00
+employment employment%1:26:00::
+.
+The
+union union%1:14:01::
+vigorously vigorously%4:02:00::
+demands demand%2:32:00::
+wage wage%1:21:00::
+increases increase%1:23:00::
+from
+productivity productivity%1:07:00::
+increases increase%1:23:00::
+,
+and
+wage wage%1:21:00::
+increases increase%1:23:00::
+to
+offset offset%2:42:01::
+cost-of-living cost_of_living%1:21:00::
+increases increase%1:23:00::
+,
+but
+we
+abstract abstract%2:31:00::
+from
+these
+forces force%1:07:01::
+here here%4:02:02::
+.
+For
+our
+present present%3:00:01::
+purposes purpose%1:09:00::
+we
+assume assume%2:31:00::
+that
+the
+sole sole%5:00:00:unshared:00
+subject subject%1:10:00::
+of
+bargaining bargaining%1:10:00::
+is be%2:42:06::
+the
+basic basic%3:00:00::
+wage wage%1:21:00::
+rate rate%1:21:00::
+(
+not not%4:02:00::
+including include%2:42:00::
+productivity productivity%1:07:00::
+improvement improvement%1:11:00::
+factors factor%1:11:00::
+or
+cost-of-living cost_of_living%1:21:00::
+adjustments adjustment%1:11:00::
+)
+,
+and
+it
+is be%2:42:06::
+this
+basic basic%3:00:00::
+wage wage%1:21:00::
+rate rate%1:21:00::
+which
+determines determine%2:31:01::
+the
+level level%1:07:00::
+of
+costs cost%1:21:00::
+.
+Productivity productivity%1:07:00::
+is be%2:42:03::
+something
+of
+an
+amorphous amorphous%5:00:00:unformed:00
+concept concept%1:09:00::
+and
+the
+amount amount%1:07:00::
+of
+productivity productivity%1:07:00::
+increase increase%1:23:00::
+in
+a
+given given%5:00:00:specified:00
+time_period time_period%1:28:00::
+is be%2:42:03::
+not not%4:02:00::
+even even%4:02:00::
+well_known well_known%5:00:00:known:00
+to
+the
+industry industry%1:14:00::
+,
+much_less
+to
+the
+union union%1:14:01::
+or
+to
+the
+public public%1:14:00::
+.
+Disagreement disagreement%1:26:00::
+on
+the
+amount amount%1:07:00::
+of
+productivity productivity%1:07:00::
+increase increase%1:23:00::
+exacerbates exacerbate%2:30:00::
+the
+problem problem%1:26:00::
+of
+agreeing agree%2:32:00::
+how
+an
+increase increase%1:23:00::
+in
+profit_margins profit_margin%1:21:00::
+related related%3:00:02::
+to
+a
+productivity productivity%1:07:00::
+increase increase%1:23:00::
+should
+be
+shared share%2:40:00::
+.
+The
+existence existence%1:26:00::
+of
+conflict conflict%1:04:00::
+and
+of
+vigorous vigorous%5:00:00:energetic:00
+union union%1:14:01::
+demand demand%1:10:00::
+for
+an
+increase increase%1:23:00::
+in
+money money%1:21:00::
+wages wage%1:21:00::
+does
+not not%4:02:00::
+contradict contradict%2:42:00::
+the
+assumption assumption%1:09:00::
+that
+the
+union union%1:14:01::
+is be%2:42:03::
+willing willing%3:00:00::
+to
+settle settle%2:32:01::
+for
+cost-of-living cost_of_living%1:21:00::
+and
+productivity productivity%1:07:00::
+share share%1:21:00::
+increases increase%1:23:00::
+as
+distinct distinct%5:00:00:different:00
+from
+a
+cost cost%1:21:00::
+raising raising%5:00:00:increasing:00
+increase increase%1:23:00::
+in
+the
+basic basic%3:00:00::
+wage wage%1:21:00::
+rate rate%1:21:00::
+.
+We
+assume assume%2:31:00::
+further further%4:02:02::
+that
+the
+union union%1:14:01::
+recognizes recognize%2:31:02::
+the
+possibility possibility%1:26:00::
+that
+price price%1:07:00::
+level level%1:07:00::
+increases increase%1:23:00::
+may
+offset offset%2:42:01::
+wage wage%1:21:00::
+rate rate%1:21:00::
+increases increase%1:23:00::
+,
+and
+it
+does
+not not%4:02:00::
+entirely entirely%4:02:00::
+disregard disregard%2:32:02::
+the
+effect effect%1:19:00::
+of
+price price%1:07:00::
+increases increase%1:23:00::
+arising arise%2:42:00::
+from
+its
+own own%5:00:00:personal:00
+wage wage%1:21:00::
+increases increase%1:23:00::
+upon
+the
+``
+real real%3:00:00::
+''
+wage wage%1:21:00::
+rate rate%1:21:00::
+.
+For
+internal internal%3:00:00::
+political political%3:00:00::
+reasons reason%1:16:00::
+,
+the
+union union%1:14:01::
+asks ask%2:32:01::
+for
+(
+and
+accepts accept%2:40:00::
+)
+increases increase%1:23:00::
+in
+the
+basic basic%3:00:00::
+wage wage%1:21:00::
+rate rate%1:21:00::
+,
+and
+would
+vigorously vigorously%4:02:00::
+oppose oppose%2:33:01::
+a
+reduction reduction%1:04:00::
+in
+this
+rate rate%1:21:00::
+,
+but
+the
+adjustment adjustment%1:11:00::
+of
+the
+basic basic%3:00:00::
+wage wage%1:21:00::
+rate rate%1:21:00::
+upwards upwards%4:02:00::
+is be%2:42:03::
+essentially essentially%4:02:01::
+up_to
+the
+discretion discretion%1:26:00::
+of
+the
+companies company%1:14:01::
+of
+the
+industry industry%1:14:00::
+.
+Changes change%1:24:00::
+in
+the
+basic basic%3:00:00::
+wage wage%1:21:00::
+rate rate%1:21:00::
+are be%2:42:03::
+cost cost%1:21:00::
+raising raising%5:00:00:increasing:00
+,
+and
+they
+constitute constitute%2:42:00::
+an
+argument argument%1:10:02::
+for
+raising raise%2:30:01::
+prices price%1:07:00::
+.
+However however%4:02:00::
+,
+it
+is be%2:42:03::
+not not%4:02:00::
+known known%3:00:00::
+to
+either
+the
+union union%1:14:01::
+or
+the
+public public%1:14:00::
+precisely precisely%4:02:00::
+how
+much much%3:00:00::
+of
+a
+cost cost%1:21:00::
+increase increase%1:23:00::
+is
+caused cause%2:36:00::
+by
+a
+given given%5:00:00:specified:00
+change change%1:24:00::
+in
+the
+basic basic%3:00:00::
+wage wage%1:21:00::
+rate rate%1:21:00::
+,
+although
+the
+companies company%1:14:01::
+are
+presumed presume%2:31:00::
+to
+have have%2:40:00::
+reliable reliable%3:00:00::
+estimates estimate%1:09:00::
+of
+this
+magnitude magnitude%1:07:00::
+.
+In
+this
+model model%1:09:00::
+,
+then
+,
+the
+industry industry%1:14:00::
+is
+presumed presume%2:31:00::
+to
+realize realize%2:31:01::
+that
+they
+could
+successfully successfully%4:02:00::
+resist resist%2:42:01::
+a
+change change%1:04:00::
+in
+the
+basic basic%3:00:00::
+wage wage%1:21:00::
+rate rate%1:21:00::
+,
+but
+since
+such such%5:00:01:specified:00
+a
+change change%1:04:00::
+is be%2:42:03::
+the
+only only%5:00:00:single(a):00
+effective effective%5:00:00:efficacious:00
+means means%1:04:00::
+to
+raising raise%2:30:01::
+prices price%1:07:00::
+they
+may
+,
+in
+circumstances circumstance%1:26:01::
+to
+be
+spelled_out spell_out%2:32:00::
+in
+Part part%1:24:00::
+2 2%5:00:00:cardinal:00
+,
+below below%4:02:02::
+,
+find find%2:32:00::
+it
+to
+their
+advantage advantage%1:07:00::
+to
+allow allow%2:32:00::
+the
+wage wage%1:21:00::
+rise rise%1:07:02::
+.
+Thus thus%4:02:00::
+,
+for
+non non%5:00:00:negative:02
+negative negative%3:00:02::
+changes change%1:24:00::
+in
+the
+basic basic%3:00:00::
+wage wage%1:21:00::
+rate rate%1:21:00::
+,
+the
+industry industry%1:14:00::
+becomes become%2:42:01::
+the
+active active%3:00:03::
+wage_setter wage_setter%1:26:00::
+,
+since
+any
+increase increase%1:23:00::
+in
+the
+basic basic%3:00:00::
+wage wage%1:21:00::
+rate rate%1:21:00::
+can
+occur occur%2:30:00::
+only only%4:02:01::
+by
+reason reason%1:10:01::
+of
+industry industry%1:14:00::
+acquiescence acquiescence%1:26:00::
+.
+The
+presumption presumption%1:09:00::
+in
+the
+literature literature%1:10:01::
+would
+appear appear%2:39:00::
+to
+be be%2:42:03::
+that
+the
+basic basic%3:00:00::
+wage wage%1:21:00::
+rate rate%1:21:00::
+would
+be be%2:42:03::
+unchanged unchanged%3:00:00::
+in
+this
+case case%1:26:00::
+,
+on
+the
+grounds grounds%1:09:00::
+that
+it
+is be%2:42:03::
+``
+clearly clearly%4:02:00::
+''
+not not%4:02:00::
+in
+the
+interest interest%1:07:01::
+of
+the
+industry industry%1:14:00::
+to
+raise raise%2:30:01::
+wages wage%1:21:00::
+gratuitously gratuitously%4:02:00::
+.
+From
+this
+presumption presumption%1:09:00::
+it
+is be%2:42:03::
+an
+easy easy%3:00:01::
+step step%1:04:02::
+to
+the
+conclusion conclusion%1:09:00::
+that
+any
+observed observed%5:00:00:witnessed:00
+increases increase%1:23:00::
+in
+the
+basic basic%3:00:00::
+wage wage%1:21:00::
+rate rate%1:21:00::
+must
+be_due be_due%2:42:00::
+to
+union union%1:14:01::
+behavior behavior%1:04:00::
+different different%3:00:00::
+and
+more more%4:02:00::
+aggressive aggressive%3:00:00::
+than
+assumed assume%2:31:00::
+in
+our
+model model%1:09:00::
+.
+It
+is
+this
+conclusion conclusion%1:09:00::
+that
+we
+challenge challenge%2:32:01::
+;
+we
+do
+so so%4:02:05::
+by
+disproving disprove%2:31:00::
+the
+presumption presumption%1:09:00::
+on
+which
+it
+is
+based base%2:31:00::
+.
+It
+is be%2:42:03::
+convenient convenient%3:00:00::
+to
+assume assume%2:31:00::
+that
+the
+union union%1:14:01::
+industry industry%1:14:00::
+contract contract%1:10:00::
+is be%2:42:03::
+of
+one one%5:00:00:cardinal:00
+year year%1:28:01::
+'s
+duration duration%1:28:02::
+.

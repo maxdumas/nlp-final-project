@@ -1,0 +1,2424 @@
+When
+several several%5:00:00:some(a):00
+minutes minute%1:28:00::
+had
+passed pass%2:38:03::
+and
+Curt person%1:03:00::
+had
+n't n't%4:02:00::
+emerged emerge%2:30:00::
+from
+the
+livery_stable livery_stable%1:06:00::
+,
+Brenner person%1:03:00::
+re-entered re-enter%2:38:00::
+the
+hotel hotel%1:06:00::
+and
+faced face%2:42:02::
+Summers person%1:03:00::
+across
+the
+counter counter%1:06:00::
+.
+``
+I
+have have%2:40:00::
+a
+little little%5:00:00:short:02
+job job%1:04:01::
+for
+you
+,
+Charlie person%1:03:00::
+.
+I
+'m be%2:42:03::
+sure sure%3:00:00::
+you
+won
+n't n't%4:02:00::
+mind mind%2:32:00::
+doing do%2:41:01::
+me
+a
+small small%3:00:00::
+favor favor%1:04:00::
+''
+.
+Brenner person%1:03:00::
+'s
+voice voice%1:07:00::
+was be%2:42:03::
+oily oily%5:00:00:insincere:00
+,
+but
+Summers person%1:03:00::
+was
+n't n't%4:02:00::
+fooled fool%2:41:00::
+.
+He
+moistened moisten%2:30:00::
+his
+lips lip%1:08:00::
+uneasily uneasily%4:02:00::
+.
+``
+What
+is
+it
+you
+want
+me
+to
+do do%2:41:01::
+,
+Mr._Brenner person%1:03:00::
+''
+?
+Brenner person%1:03:00::
+shrugged shrug%2:29:00::
+carelessly carelessly%4:02:02::
+.
+``
+It
+'s
+very very%4:02:00::
+simple simple%5:00:00:easy:01
+.
+I
+just just%4:02:00::
+want want%2:31:01::
+you
+to
+take take%2:38:10::
+a
+message message%1:10:01::
+to
+Diane_Molinari person%1:03:00::
+.
+Tell tell%2:32:00::
+her
+to
+come come%2:38:04::
+here here%4:02:00::
+to
+the
+hotel hotel%1:06:00::
+''
+.
+Vastly vastly%4:02:00::
+relieved relieved%5:00:00:mitigated:00
+,
+Summers person%1:03:00::
+nodded nod%2:32:01::
+and
+started start%2:38:02::
+toward
+the
+door door%1:06:01::
+.
+``
+One one%5:00:00:unspecified:00
+thing thing%1:09:01::
+,
+Summers person%1:03:00::
+''
+,
+Brenner person%1:03:00::
+said say%2:32:00::
+.
+``
+You
+'re
+not not%4:02:00::
+to
+mention mention%2:32:02::
+my
+name name%1:10:00::
+.
+Tell tell%2:32:00::
+her
+Curt_Adams person%1:03:00::
+wants want%2:37:00::
+to
+see see%2:35:09::;2:38:00::
+her
+''
+.
+Summers person%1:03:00::
+pulled_up pull_up%2:38:02::
+short short%4:02:04::
+,
+and
+turned_around turn_around%2:38:00::
+.
+``
+I
+do
+n't n't%4:02:00::
+know know%2:31:02::
+,
+Mr._Brenner person%1:03:00::
+''
+,
+he
+said say%2:32:00::
+haltingly haltingly%4:02:00::
+,
+beginning begin%2:42:00::
+to
+get get%2:31:09::
+an
+inkling inkling%1:09:00::
+of
+Brenner person%1:03:00::
+'s
+plans plan%1:09:00::
+.
+``
+It
+does
+n't n't%4:02:00::
+seem seem%2:39:00::
+quite quite%4:02:01::
+right right%3:00:01::;5:00:01:proper:00
+,
+telling tell%2:32:00::
+her
+a
+thing thing%1:10:00::
+like
+that
+.
+Could
+n't n't%4:02:00::
+I
+just just%4:02:00::
+''
+-
+His
+voice voice%1:07:00::
+trailed trail%2:38:02::
+off off%4:02:03::
+into
+silence silence%1:07:00::
+.
+Brenner person%1:03:00::
+continued continue%2:42:01::
+to
+smile smile%2:29:00::
+,
+but
+his
+eyes eye%1:08:00::
+were be%2:42:03::
+cold cold%3:00:02::
+.
+He
+turned turn%2:38:00::
+and
+looked_around look_around%2:39:00::
+at
+the
+lobby lobby%1:06:00::
+as
+though
+seeing see%2:39:00::
+things thing%1:06:00::
+he
+had
+n't n't%4:02:00::
+before before%4:02:03::
+noticed notice%2:39:04::
+.
+``
+You
+know know%2:31:01::
+,
+Summers person%1:03:00::
+''
+,
+he
+said say%2:32:00::
+thoughtfully thoughtfully%4:02:01::
+.
+``
+Eagle location%1:03:00::
+'s
+Nest location%1:03:00::
+ought
+to
+have have%2:40:04::
+a
+fire_company fire_company%1:14:00::
+.
+If
+someone
+were
+to
+drop drop%2:38:01::
+a
+match match%1:06:02::
+in
+here here%4:02:00::
+,
+this
+place place%1:15:04::
+would
+go_up go_up%2:30:04::
+like
+a
+haystack haystack%1:14:00::
+''
+.
+He
+started start%2:38:02::
+toward
+the
+stairway stairway%1:06:00::
+,
+then then%4:02:00::
+turned turn%2:38:00::
+to
+add add%2:32:01::
+,
+``
+Tell tell%2:32:00::
+her
+to
+come come%2:38:00::
+to
+Adams person%1:03:00::
+'s
+room room%1:06:00::
+,
+that
+Adams person%1:03:00::
+is be%2:42:03::
+in_trouble in_trouble%5:00:00:troubled:00
+.
+Tell tell%2:32:00::
+her
+to
+hurry hurry%2:30:00::
+''
+.
+``
+Yes
+sir sir%1:18:00::
+''
+.
+His
+face face%1:08:00::
+pale pale%5:00:00:weak:00
+,
+Summers person%1:03:00::
+headed head%2:38:00::
+for
+the
+street street%1:06:00::
+.
+Curt person%1:03:00::
+'s
+visit visit%1:04:02::
+to
+the
+livery_stable livery_stable%1:06:00::
+had
+been be%2:42:03::
+merely merely%4:02:00::
+a
+precaution precaution%1:07:00::
+in_case in_case%4:02:00::
+anyone
+should
+be
+watching watch%2:41:00::
+.
+He
+paused pause%2:42:00::
+only only%4:02:02::
+long long%3:00:02::
+enough enough%4:02:00::
+to
+ascertain ascertain%2:31:00::
+that
+Jess person%1:03:00::
+'s
+buckskin buckskin%1:05:00::
+was be%2:42:03::
+still still%4:02:01::
+missing missing%5:00:00:absent:00
+and
+that
+his
+own own%5:00:00:personal:00
+gray gray%1:05:00::
+was be%2:42:03::
+all_right all_right%5:00:00:satisfactory:00
+,
+then then%4:02:00::
+climbed climb%2:38:00::
+through
+a
+back back%3:00:00::
+window window%1:06:00::
+and
+dropped drop%2:38:00::
+to
+the
+ground ground%1:17:00::
+outside outside%4:02:00::
+.
+The
+fact fact%1:09:01::
+that
+Jess person%1:03:00::
+'s
+horse horse%1:05:00::
+had
+not not%4:02:00::
+been
+returned return%2:38:12::
+to
+its
+stall stall%1:06:03::
+could
+indicate indicate%2:32:03::
+that
+Diane person%1:03:00::
+'s
+information information%1:10:00::
+had
+been be%2:42:03::
+wrong wrong%5:00:00:false:00
+,
+but
+Curt person%1:03:00::
+did
+n't n't%4:02:00::
+interpret interpret%2:31:00::
+it
+this
+way way%1:07:01::
+.
+A
+man man%1:18:00::
+like
+Jess person%1:03:00::
+would
+want want%2:37:00::
+to
+have have%2:40:00::
+a
+ready ready%5:00:01:available:00
+means means%1:04:00::
+of
+escape escape%1:04:00::
+in_case in_case%4:02:00::
+it
+was
+needed need%2:42:00::
+.
+Probably probably%4:02:00::
+his
+horse horse%1:05:00::
+would
+be be%2:42:05::
+close close%3:00:05::
+to
+where
+he
+was
+hiding hide%2:39:01::
+.
+From
+the
+back back%1:15:02::
+of
+the
+barn barn%1:06:00::
+it
+was be%2:42:06::
+a
+simple simple%3:00:02::
+matter matter%1:09:01::
+to
+reach reach%2:38:01::
+Black person%1:03:00::
+'s
+house house%1:06:00::
+without
+using use%2:34:01::
+the
+street street%1:06:00::
+.
+Curt person%1:03:00::
+approached approach%2:38:00::
+the
+place place%1:15:04::
+cautiously cautiously%4:02:00::
+,
+and
+watched watch%2:41:00::
+it
+several several%5:00:00:some(a):00
+minutes minute%1:28:00::
+from
+the
+protection protection%1:06:00::
+of
+a
+grove grove%1:14:00::
+of
+trees tree%1:20:00::
+.
+There
+was
+a
+light light%1:06:00::
+in
+Black person%1:03:00::
+'s
+front_room front_room%1:06:00::
+,
+but
+drawn drawn%5:00:00:closed:01
+curtains curtain%1:06:00::
+prevented prevent%2:41:01::
+any
+view view%1:04:00::
+of
+the
+interior interior%1:15:01::
+.
+Curt person%1:03:00::
+circled circle%2:38:01::
+the
+house house%1:06:00::
+and
+located locate%2:42:00::
+a
+barn barn%1:06:00::
+out
+back back%4:02:00::
+.
+He
+could
+hear hear%2:39:00::
+horses horse%1:05:00::
+moving move%2:38:03::
+around
+inside inside%4:02:00::
+,
+and
+nothing
+else else%4:02:01::
+.
+There
+was
+no
+lock lock%1:06:00::
+on
+the
+door door%1:06:00::
+,
+only only%4:02:02::
+an
+iron iron%1:27:00::
+hook hook%1:06:03::
+which
+he
+unfastened unfasten%2:35:01::
+.
+He
+opened open%2:35:00::
+the
+door door%1:06:00::
+and
+went_in go_in%2:38:00::
+,
+pulling pull%2:35:00::
+it
+shut shut%3:00:00::
+behind
+him
+.
+Again again%4:02:00::
+he
+stood stand%2:42:03::
+in
+the
+darkness darkness%1:15:00::
+listening listen%2:39:00::
+,
+but
+there
+was
+only only%4:02:01::
+the
+scrape scrape%1:11:00::
+of
+a
+shod shod%3:00:00::
+hoof hoof%1:05:00::
+on
+a
+plank plank%1:27:00::
+floor floor%1:06:00::
+.
+He
+moved move%2:38:03::
+ahead ahead%4:02:02::
+carefully carefully%4:02:02::
+,
+his
+left_hand left_hand%1:08:00::
+in_front in_front%4:02:00::
+of
+him
+,
+and
+came come%2:38:04::
+to
+a
+wooden wooden%5:00:00:woody:00
+partition partition%1:06:00::
+.
+Horse horse%1:05:00::
+smell smell%1:07:00::
+was be%2:42:03::
+very very%4:02:00::
+strong strong%5:00:00:intense:00
+,
+and
+he
+could
+hear hear%2:39:00::
+the
+crunch crunch%1:11:00::
+of
+grain grain%1:13:00::
+being
+ground grind%2:35:02::
+between
+strong strong%3:00:00::
+jaws jaw%1:08:00::
+.
+He
+found find%2:40:02::
+a
+match match%1:06:00::
+in
+his
+pocket pocket%1:06:00::
+and
+lit light%2:43:00::
+it
+.
+There
+were
+two two%5:00:00:cardinal:00
+horses horse%1:05:00::
+in
+the
+barn barn%1:06:00::
+,
+a
+sway-backed swaybacked%5:00:00:unfit:01
+dun dun%1:05:00::
+and
+Jess_Crouch person%1:03:00::
+'s
+buckskin buckskin%1:05:00::
+.
+Curt person%1:03:00::
+snuffed_out snuff_out%2:30:00::
+the
+match match%1:06:00::
+.
+It
+was be%2:42:03::
+certain certain%3:00:01::
+now now%4:02:05::
+that
+Jess person%1:03:00::
+was be%2:42:05::
+in
+the
+house house%1:06:00::
+,
+but
+also also%4:02:00::
+,
+presumably presumably%4:02:00::
+,
+was be%2:42:05::
+Stacey_Black person%1:03:00::
+.
+Curt person%1:03:00::
+wanted want%2:37:00::
+to
+get get%2:30:02::
+Jess person%1:03:00::
+alone alone%5:00:00:unsocial:00
+,
+without
+interference interference%1:04:00::
+from
+anyone
+,
+even even%4:02:00::
+as
+spineless spineless%5:00:00:weak:00
+a
+person person%1:03:00::
+as
+the
+store store%1:06:00::
+owner owner%1:18:00::
+.
+He
+studied study%2:31:02::
+the
+problem problem%1:26:00::
+for
+a_few a_few%5:00:00:few:00
+seconds second%1:28:00::
+and
+thought_of think_of%2:36:00::
+a
+means means%1:04:00::
+by
+which
+it
+might
+be
+solved solve%2:31:00::
+.
+Reaching reach%2:35:00::
+across
+the
+side side%1:15:02::
+of
+the
+stall stall%1:06:03::
+,
+he
+slapped slap%2:35:00::
+the
+buckskin buckskin%1:05:00::
+on
+the
+rump rump%1:05:00::
+.
+The
+startled startled%5:00:00:surprised:00
+animal animal%1:03:00::
+let_out let_out%2:32:02::
+a
+terrified terrified%5:00:00:afraid(p):00
+squeal squeal%1:11:00::
+and
+thrashed thrash%2:38:01::
+around
+in
+the
+stall stall%1:06:03::
+.
+As
+Curt person%1:03:00::
+had
+hoped hope%2:31:00::
+,
+the
+house house%1:06:00::
+door door%1:06:00::
+banged bang%2:38:00::
+open open%3:00:01::
+.
+He
+slapped slap%2:35:00::
+the
+buckskin buckskin%1:05:00::
+again again%4:02:00::
+and
+it
+kicked kick%2:38:00::
+wildly wildly%4:02:02::
+,
+its
+hoofs hoof%1:05:00::
+rattling rattle%2:38:00::
+the
+side side%1:15:02::
+of
+the
+stall stall%1:06:03::
+.
+Curt person%1:03:00::
+moved_over move_over%2:38:00::
+beside
+the
+door door%1:06:00::
+and
+waited wait%2:42:01::;2:42:00::
+.
+Presently presently%4:02:01::
+he
+heard hear%2:39:00::
+footsteps footstep%1:11:00::
+crossing cross%2:38:00::
+the
+yard yard%1:06:02::
+,
+and
+Jess person%1:03:00::
+'s
+smothered smothered%5:00:00:inhibited:00
+curses curse%1:10:00::
+.
+The
+door door%1:06:00::
+swung swing%2:38:00::
+open open%3:00:01::
+,
+and
+Jess person%1:03:00::
+said say%2:32:00::
+sourly sourly%4:02:00::
+,
+``
+What
+the
+hell
+'s
+the_matter the_matter%5:00:00:malfunctioning:00
+with
+you
+?
+''
+The
+horse horse%1:05:00::
+continued continue%2:42:01::
+to
+snort snort%2:29:00::
+.
+Curt person%1:03:00::
+doubted doubt%2:31:00::
+that
+any
+animal animal%1:03:00::
+belonging belong%2:40:00::
+to
+Jess person%1:03:00::
+would
+find find%2:40:01::
+much much%3:00:00::
+reassurance reassurance%1:04:00::
+in
+its
+owner owner%1:18:02::
+'s
+voice voice%1:07:00::
+.
+Jess person%1:03:00::
+cursed curse%2:32:00::
+again again%4:02:00::
+,
+and
+entered enter%2:38:00::
+the
+barn barn%1:06:00::
+.
+A
+match match%1:06:00::
+flared flare%2:43:00::
+,
+and
+he
+reached reach%2:35:00::
+above
+his
+head head%1:08:00::
+to
+light light%2:43:00::
+a
+lantern lantern%1:06:00::
+which
+hung hang%2:35:03::
+from
+a
+wire wire%1:06:00::
+loop loop%1:06:01::
+.
+As
+he
+crossed cross%2:38:00::
+to_the
+side side%1:15:02::
+of
+the
+stall stall%1:06:03::
+,
+Curt person%1:03:00::
+drew draw%2:38:01::
+his
+gun gun%1:06:00::
+and
+clicked click%2:38:00::
+back back%4:02:00::
+the
+hammer hammer%1:06:04::
+.
+``
+Before
+you
+try try%2:41:00::
+anything
+''
+,
+he
+said say%2:32:00::
+.
+``
+Remember remember%2:31:00::
+what
+happened happen%2:30:00::
+to
+Gruller person%1:03:00::
+''
+.
+Jess person%1:03:00::
+caught catch%2:40:00::
+his
+breath breath%1:27:00::
+in
+surprise surprise%1:12:00::
+.
+He
+started start%2:30:00::
+to
+reach reach%2:35:00::
+for
+his
+gun gun%1:06:00::
+,
+but
+apparently apparently%4:02:00::
+hammer hammer%2:35:00::
+it
+.
+``
+That
+'s be%2:42:06::
+the
+stuff stuff%1:07:00::
+''
+,
+Curt person%1:03:00::
+said say%2:32:00::
+.
+``
+Just just%4:02:00::
+hold hold%2:42:00::
+it
+that
+way way%1:07:01::
+''
+.
+He
+reached_out reach_out%2:35:00::
+to
+pull pull%2:35:00::
+the
+door door%1:06:00::
+shut shut%3:00:00::
+and
+fasten fasten%2:35:01::
+it
+with
+a
+sliding sliding%5:00:00:slippery:00
+bolt bolt%1:06:01::
+.
+``
+You
+and
+I
+have
+a
+little little%1:23:00::
+talking talk%1:10:00::
+to
+do do%2:41:01::
+,
+Jess person%1:03:00::
+.
+You
+won
+n't n't%4:02:00::
+be
+needing need%2:34:00::
+this
+''
+.
+He
+moved move%2:38:00::
+up
+and
+lifted lift%2:35:00::
+Jess person%1:03:00::
+'s
+pistol pistol%1:06:00::
+out
+of
+its
+holster holster%1:06:00::
+.
+``
+Damn damn%2:32:00::
+you
+,
+Adams person%1:03:00::
+''
+-
+Jess person%1:03:00::
+was
+beginning begin%2:30:00::
+to
+recover recover%2:29:00::
+from
+his
+initial initial%5:00:00:first:00
+shock shock%1:12:01::
+.
+``
+We
+ai
+n't n't%4:02:00::
+got get%2:40:00::
+nothing
+to
+talk_about talk_about%2:32:00::
+.
+If
+I
+do
+n't n't%4:02:00::
+come_back come_back%2:38:00::
+in
+the
+house house%1:06:00::
+,
+Breed person%1:03:00::
+'s
+going_to
+''
+-
+``
+Your
+trigger-happy trigger-happy%5:00:00:irresponsible:00
+brother brother%1:18:00::
+is be%2:42:05::
+n't n't%4:02:00::
+in
+the
+house house%1:06:00::
+.
+About
+now now%4:02:05::
+he
+'s
+probably probably%4:02:00::
+having have%2:34:00::
+supper supper%1:13:00::
+.
+That
+long long%3:00:02::
+ride ride%1:04:00::
+the
+four four%5:00:00:cardinal:00
+of
+you
+took take%2:39:00::
+must
+'ve
+given give%2:40:03::
+him
+a
+good good%5:00:00:ample:00
+appetite appetite%1:12:00::
+.
+Now now%4:02:02::
+turn_around turn_around%2:38:00::
+so so%4:02:06::
+I
+can
+see see%2:39:00::
+your
+face face%1:08:00::
+''
+.
+Jess person%1:03:00::
+turned turn%2:38:00::
+.
+There
+was
+raw raw%5:00:00:overt:00
+fury fury%1:12:00::
+in
+his
+eyes eye%1:08:00::
+,
+and
+the
+veins vein%1:08:00::
+of
+his
+neck neck%1:08:00::
+were be%2:42:03::
+swollen swollen%5:00:00:expanded:01
+.
+``
+You
+'re be%2:42:03::
+about about%4:02:00::
+as
+dumb dumb%5:00:00:stupid:00
+as
+they
+come come%2:42:01::
+,
+Adams person%1:03:00::
+.
+I
+do
+n't n't%4:02:00::
+know know%2:31:03::
+what
+you
+'re be%2:42:03::
+up_to up_to%5:00:00:busy:00
+,
+but
+when
+Brenner person%1:03:00::
+''
+-
+``
+You
+can
+forget forget%2:31:01::
+about
+Brenner person%1:03:00::
+,
+too too%4:02:01::
+''
+,
+Curt person%1:03:00::
+said say%2:32:00::
+.
+``
+It
+'s
+Ben_Arbuckle person%1:03:00::
+we
+'re
+going_to
+talk_about talk_about%2:32:01::
+''
+.
+``
+Arbuckle person%1:03:00::
+''
+?
+Jess person%1:03:00::
+stiffened stiffen%2:30:00::
+.
+``
+I
+do
+n't n't%4:02:00::
+know know%2:31:01::
+nothin
+'
+about
+him
+''
+.
+``
+No
+?
+I
+suppose suppose%2:31:00::
+you
+do
+n't n't%4:02:00::
+know know%2:31:01::
+anything
+about
+a
+piece piece%1:17:00::
+of
+two-by-four two-by-four%1:06:00::
+,
+either
+;
+one
+with
+blood blood%1:04:00::
+all_over all_over%4:02:01::
+it
+,
+Arbuckle person%1:03:00::
+'s
+blood blood%1:08:00::
+''
+.
+Curt person%1:03:00::
+'s
+fingers finger%1:08:00::
+put put%2:35:05::
+a_little a_little%4:02:00::
+more more%5:00:00:added:00
+pressure pressure%1:19:00::
+on
+the
+trigger trigger%1:06:00::
+of
+his
+gun gun%1:06:00::
+.
+``
+So so%4:02:05::
+help help%2:41:00::
+me
+,
+Crouch person%1:03:00::
+,
+I
+'d
+like
+to
+kill kill%2:35:00::
+you
+where
+you
+stand stand%2:35:00::
+,
+but
+,
+before
+I
+do
+,
+I
+'m
+going_to
+hear hear%2:39:00::
+you
+admit admit%2:32:00::
+killing kill%2:35:00::
+him
+.
+Now now%4:02:02::
+start start%2:30:00::
+talking talk%2:32:01::
+.
+Who
+told tell%2:32:02::
+you
+to
+do do%2:36:01::
+it
+?
+Was be%2:42:06::
+it
+Dutch_Brenner person%1:03:00::
+''
+?
+Curt person%1:03:00::
+was
+holding hold%2:35:00::
+Jess person%1:03:00::
+'s
+gun gun%1:06:00::
+in
+his
+left_hand left_hand%1:08:00::
+.
+He
+drew_back draw_back%2:38:00::
+his
+arm arm%1:08:00::
+to
+slash slash%2:35:02::
+the
+gunbarrel gun_barrel%1:06:00::
+across
+Jess person%1:03:00::
+'s
+face face%1:08:00::
+,
+but
+did
+n't n't%4:02:00::
+finish finish%2:30:02::
+the
+motion motion%1:04:00::
+.
+Pistol pistol%1:06:00::
+whipping whipping%1:04:00::
+an
+unarmed unarmed%3:00:01::
+man man%1:18:00::
+might
+come come%2:30:02::
+easy easy%4:02:01::
+to
+someone
+like
+Jess person%1:03:00::
+,
+but
+Curt person%1:03:00::
+could
+n't n't%4:02:00::
+bring_himself bring_oneself%2:41:00::
+to
+do
+it
+.
+Apparently apparently%4:02:00::
+sensing sense%2:39:00::
+this
+,
+and
+realizing realize%2:31:00::
+that
+it
+gave give%2:40:03::
+him
+an
+advantage advantage%1:07:00::
+,
+Jess person%1:03:00::
+became become%2:30:00::
+bold bold%3:00:00::
+.
+``
+Having have%2:40:00::
+all
+the
+guns gun%1:06:00::
+makes make%2:30:00::
+you
+a
+big big%5:00:00:important:00
+man man%1:18:00::
+,
+do
+n't n't%4:02:00::
+it
+,
+Adams person%1:03:00::
+?
+If
+we
+was be%2:42:03::
+both
+armed armed%3:00:01::
+,
+you
+would
+n't n't%4:02:00::
+talk talk%2:32:00::
+so so%4:02:02::
+tough tough%3:00:03::
+''
+.
+``
+No
+''
+?
+Curt person%1:03:00::
+reached_out reach_out%2:35:00::
+and
+dropped drop%2:38:01::
+Jess person%1:03:00::
+'s
+pistol pistol%1:06:00::
+back back%4:02:04::
+into
+the
+holster holster%1:06:00::
+.
+He
+retreated retreat%2:38:00::
+a
+step step%1:23:00::
+and
+holstered
+his
+own own%5:00:00:personal:00
+.
+``
+All_right all_right%4:02:00::
+,
+Crouch crouch%1:04:00::
+;
+we
+'re be%2:42:03::
+on
+even even%5:00:01:equal:00
+terms terms%1:26:00::
+.
+Now now%4:02:02::
+draw draw%2:38:01::
+''
+!
+Sweat sweat%1:08:00::
+bubbled bubble%2:30:00::
+out out%4:02:01::
+on
+Jess person%1:03:00::
+'s
+swarthy swarthy%5:00:00:brunet:00
+face face%1:08:00::
+.
+The
+fingers finger%1:08:00::
+of
+his
+right_hand right_hand%1:08:00::
+twisted twist%2:38:01::
+into
+a
+claw claw%1:06:00::
+,
+but
+he
+did
+n't n't%4:02:00::
+reach reach%2:35:00::
+for
+the
+gun gun%1:06:00::
+.
+Curt person%1:03:00::
+,
+angry angry%3:00:00::
+enough enough%4:02:00::
+to
+be be%2:42:03::
+a_little a_little%4:02:00::
+reckless reckless%5:00:00:bold:00
+,
+raised raise%2:38:00::
+his
+hands hand%1:08:00::
+shoulder shoulder%1:08:00::
+high high%4:02:02::
+.
+``
+Does
+this
+make make%2:30:00::
+it
+any any%4:02:00::
+easier easy%3:00:01::
+,
+coward coward%1:18:00::
+''
+?
+``
+I
+ai
+n't n't%4:02:00::
+drawin draw%2:38:01::
+'
+against
+you
+''
+,
+Jess person%1:03:00::
+said say%2:32:00::
+thickly thickly%4:02:02::
+.
+``
+I
+heard hear%2:31:00::
+how
+you
+outdrew outdraw%2:33:00::
+Chico person%1:03:00::
+.
+I
+ai be%2:42:03::
+n't n't%4:02:00::
+a
+gunslinger gunslinger%1:18:00::
+''
+.
+``
+No no%1:10:00::
+.
+You
+'re be%2:42:03::
+the
+kind kind%1:09:00::
+of
+bastard bastard%1:18:00::
+who
+sneaks_up sneak_up%2:38:00::
+on
+a
+man man%1:18:00::
+from
+behind behind%4:02:00::
+and
+hits hit%1:04:00::
+him
+with
+a
+club club%1:06:00::
+.
+I
+just just%4:02:00::
+wanted want%2:37:00::
+to
+hear hear%2:39:00::
+you
+say say%2:32:00::
+so so%4:02:05::
+''
+.
+Jess person%1:03:00::
+stared stare%2:39:00::
+at
+him
+without
+answering answer%2:32:00::
+and
+let let%2:41:00::
+his
+hands hand%1:08:00::
+fall fall%2:38:00::
+to
+his
+sides side%1:08:00::
+.
+He
+had
+found find%2:31:09::
+Curt person%1:03:00::
+'s
+weakness weakness%1:26:00::
+,
+or
+what
+to
+Jess person%1:03:00::
+was be%2:42:02::
+a
+weakness weakness%1:26:00::
+,
+and
+was be%2:42:03::
+smart smart%3:00:00::
+enough enough%4:02:00::
+to
+take_advantage take_advantage%2:40:00::
+of
+it
+.
+Somewhere somewhere%4:02:00::
+in
+the
+distance distance%1:15:00::
+,
+a
+woman woman%1:18:00::
+screamed scream%2:32:01::
+.
+Curt person%1:03:00::
+was be%2:42:03::
+too too%4:02:00::
+involved involved%3:00:00::
+in
+his
+own own%5:00:00:personal:00
+problems problem%1:26:00::
+to
+pay pay%2:32:00::
+much much%3:00:00::
+attention attention%1:09:00::
+.
+He
+had
+to
+make make%2:30:00::
+Jess person%1:03:00::
+talk talk%2:32:06::
+,
+and
+he
+had
+to
+do
+it
+before
+Stacey_Black person%1:03:00::
+got get%2:30:00::
+curious curious%3:00:00::
+and
+came come%2:38:00::
+to
+investigate investigate%2:32:01::
+.
+Once_more once_more%4:02:00::
+he
+lifted lift%2:35:00::
+Jess person%1:03:00::
+'s
+gun gun%1:06:00::
+from
+its
+holster holster%1:06:00::
+,
+only only%4:02:06::
+this
+time time%1:11:00::
+he
+tossed toss%2:40:00::
+it
+into
+the
+stall stall%1:06:03::
+with
+the
+frightened frightened%5:00:00:afraid(p):00
+buckskin buckskin%1:05:00::
+.
+He
+dropped drop%2:38:01::
+his
+own own%5:00:00:personal:00
+beside
+it
+.
+``
+We
+'ll
+do do%2:41:04::
+it
+another
+way way%1:07:01::
+,
+then then%4:02:02::
+''
+,
+he
+said say%2:32:00::
+harshly harshly%4:02:02::
+.
+Jess person%1:03:00::
+'s
+coarse coarse%3:00:00::
+features feature%1:08:00::
+twisted twist%2:38:01::
+in
+a
+surprised surprised%3:00:00::
+grin grin%1:10:00::
+which
+was
+smashed smash%2:35:00::
+out
+of
+shape shape%1:03:00::
+by
+Curt person%1:03:00::
+'s
+fist fist%1:08:00::
+.
+With
+a
+roar roar%1:10:00::
+of
+pain pain%1:26:00::
+and
+fury fury%1:12:00::
+Jess person%1:03:00::
+made make%2:41:00::
+his
+attack attack%1:04:02::
+.
+Curt person%1:03:00::
+managed manage%2:41:09::
+to
+duck duck%2:38:01::
+beneath
+the
+man man%1:18:00::
+'s
+flailing flailing%5:00:00:moving:02
+fist fist%1:08:00::
+,
+and
+drove drive%2:35:00::
+home home%4:02:04::
+a
+solid solid%5:00:00:good:01
+left left%1:08:00::
+to
+Jess person%1:03:00::
+'s
+mid_section midsection%1:08:00::
+.
+It
+was
+like
+hitting hit%2:35:00::
+a
+sack sack%1:06:00::
+of
+salt salt%1:13:00::
+.
+Pain pain%1:26:00::
+shout shoot%2:38:00::
+up
+Curt person%1:03:00::
+'s
+arm arm%1:08:00::
+clear clear%4:02:03::
+to
+the
+shoulder shoulder%1:08:00::
+,
+but
+Jess person%1:03:00::
+seemed seem%2:39:00::
+hardly hardly%4:02:00::
+aware aware%3:00:00::
+that
+he
+had
+been
+hit hit%2:35:00::
+.
+He
+slammed slam%2:35:00::
+into
+the
+wall wall%1:06:00::
+,
+bounced bounce%2:38:00::
+back back%4:02:04::
+,
+and
+caught catch%2:35:13::
+Curt person%1:03:00::
+with
+a
+roundhouse roundhouse%1:04:00::
+right right%1:08:00::
+which
+sent send%2:38:01::
+him
+spinning spin%2:38:01::
+.
+An
+inch inch%1:23:00::
+lower low%3:00:01::
+and
+it
+would
+have
+knocked knock%2:35:04::
+him
+out
+.
+As
+it
+was
+,
+his
+vision vision%1:09:01::
+blurred blur%2:39:01::
+and
+for
+a
+moment moment%1:28:00::
+he
+was be%2:42:03::
+unable unable%3:00:00::
+to
+move move%2:38:00::
+.
+When
+his
+eyes eye%1:08:00::
+began begin%2:30:00::
+to
+focus focus%2:39:00::
+,
+he
+saw see%2:39:00::
+Jess person%1:03:00::
+charging charge%2:33:00::
+at
+him
+with
+a
+pitchfork pitchfork%1:06:00::
+.
+Curt person%1:03:00::
+twisted twist%2:38:01::
+to
+one one%5:00:00:unspecified:00
+side side%1:15:02::
+,
+and
+the
+tines tine%1:06:00::
+of
+the
+fork fork%1:06:02::
+bit bite%2:35:01::
+into
+the
+floor floor%1:17:01::
+.
+Jess person%1:03:00::
+wasted waste%2:34:05::
+a_few a_few%5:00:00:few:00
+seconds second%1:28:00::
+trying try%2:41:00::
+to
+yank yank%2:35:00::
+them
+loose loose%4:02:00::
+.
+It
+gave give%2:40:03::
+Curt person%1:03:00::
+time time%1:28:05::
+to
+stagger stagger%2:38:00::
+to
+his
+feet foot%1:08:01::
+.
+The
+tines tine%1:06:00::
+broke_off break_off%2:35:01::
+under
+Jess person%1:03:00::
+'s
+twisting twisting%1:04:00::
+,
+and
+he
+swung swing%2:38:02::
+the
+handle handle%1:06:00::
+in
+an
+attempt attempt%1:04:00::
+to
+knock knock_out%2:30:01::
+Curt person%1:03:00::
+'s
+brains brain%1:08:00::
+out
+.
+His
+aim aim%1:04:00::
+was be%2:42:03::
+hurried hurried%3:00:00::
+;
+so
+the
+pitchfork pitchfork%1:06:00::
+whistled whistle%2:38:00::
+over
+Curt person%1:03:00::
+'s
+head head%1:08:00::
+.
+By
+now now%4:02:05::
+Curt person%1:03:00::
+was
+seeing see%2:39:00::
+clearly clearly%4:02:03::
+again again%4:02:00::
+.
+He
+stepped step%2:38:00::
+inside
+Jess person%1:03:00::
+'s
+guard guard%1:07:00::
+and
+landed land%2:40:00::
+two two%5:00:00:cardinal:00
+blows blow%1:04:01::
+to
+the
+big big%3:00:01::
+man man%1:18:00::
+'s
+belly belly%1:08:00::
+,
+putting put%2:35:05::
+everything
+he
+had have%2:40:04::
+behind
+them
+.
+They
+made make%2:32:00::
+Jess person%1:03:00::
+double_over double_over%2:38:00::
+.
+When
+his
+head head%1:08:00::
+came_down come_down%2:38:00::
+,
+Curt person%1:03:00::
+grabbed grab%2:35:00::
+him
+by
+the
+hair hair%1:08:00::
+and
+catapulted catapult%2:35:01::
+him
+head head%1:08:00::
+first first%4:02:01::
+into
+the
+wall wall%1:06:00::
+.
+The
+building building%1:06:00::
+shook shake%2:29:00::
+,
+setting set%2:30:01::
+the
+lantern lantern%1:06:00::
+to
+swaying sway%2:38:02::;2:38:00::
+,
+and
+the
+buckskin buckskin%1:05:00::
+to
+pitching pitch%2:38:03::
+again again%4:02:00::
+.
+Even even%4:02:00::
+Black person%1:03:00::
+'s
+old old%5:00:00:familiar:00
+crowbait crowbait%1:05:00::
+began begin%2:30:00::
+to
+snort snort%2:29:00::
+,
+and
+from
+the
+house house%1:06:00::
+Black person%1:03:00::
+yelled yell%2:32:01::
+,
+``
+Jess person%1:03:00::
+!
+What
+'s
+going_on go_on%2:30:00::
+out out%4:02:00::
+there there%4:02:00::
+''
+?
+Jess person%1:03:00::
+did
+n't n't%4:02:00::
+seem seem%2:39:00::
+too too%4:02:00::
+sure sure%3:00:00::
+himself
+.
+He
+lurched lurch%2:38:01::;2:38:03::
+drunkenly drunkenly%4:02:00::
+to
+his
+feet foot%1:08:01::
+,
+lowered lower%2:38:00::
+his
+head head%1:08:00::
+,
+and
+took take%2:41:04::
+one one%5:00:00:cardinal:00
+step step%1:04:00::
+away away%4:02:01::
+from
+the
+wall wall%1:06:00::
+.
+Curt person%1:03:00::
+caught catch%2:35:13::
+him
+flush flush%4:02:00::
+on
+the
+nose nose%1:08:00::
+with
+a
+blow blow%1:04:01::
+which
+started start%2:30:00::
+at
+the
+floor floor%1:06:00::
+.
+Jess person%1:03:00::
+had
+had have%2:39:06::
+enough enough%4:02:00::
+.
+Blood blood%1:08:00::
+gushed gush%2:38:00::
+from
+his
+nose nose%1:08:00::
+,
+and
+he
+backed_off back_off%2:38:00::
+as
+rapidly rapidly%4:02:00::
+as
+he
+could
+,
+stumbling stumble%2:38:00::
+over
+his
+own own%5:00:00:personal:00
+feet foot%1:08:01::
+in
+his
+frantic frantic%5:00:00:agitated:00
+haste haste%1:04:00::
+to
+get_away get_away%2:38:00::
+from
+Curt person%1:03:00::
+'s
+fists fist%1:08:00::
+.
+Curt person%1:03:00::
+was be%2:42:03::
+in
+almost almost%4:02:00::
+as
+bad bad%3:00:00::
+shape shape%1:26:00::
+,
+but
+he
+would
+n't n't%4:02:00::
+quit quit%2:42:04::
+.
+He
+backed back%2:38:01::
+Jess person%1:03:00::
+into
+a
+corner corner%1:06:02::
+,
+grabbed grab%2:35:00::
+a
+handful handful%1:23:00::
+of
+the
+man man%1:18:00::
+'s
+shirtfront shirtfront%1:06:01::
+,
+and
+drew_back draw_back%2:38:00::
+his
+right right%3:00:00::
+fist fist%1:08:00::
+.
+``
+Tell tell%2:32:04::
+me
+about
+Arbuckle person%1:03:00::
+!
+You
+killed kill%2:35:00::
+him
+,
+did
+n't n't%4:02:00::
+you
+''
+?
+``
+It
+was be%2:42:06::
+Brenner person%1:03:00::
+'s
+idea idea%1:09:01::
+''
+,
+Jess person%1:03:00::
+mumbled mumble%2:32:00::
+,
+dabbing dab%2:35:00::
+at
+his
+nose nose%1:08:00::
+.
+``
+He
+found_out find_out%2:31:00::
+about
+you
+and
+Arbuckle person%1:03:00::
+talking talk%2:32:06::;2:32:02::
+.
+He
+wanted want%2:37:00::
+to
+show show%2:39:02::
+the
+town town%1:14:00::
+what
+happened happen%2:30:00::
+to
+anyone
+who
+tried try%2:41:00::
+to
+start start%2:30:01::
+trouble trouble%1:11:00::
+''
+.
+``
+You
+mean mean%2:32:01::
+anyone
+who
+stood_up stand_up%2:33:00::
+for
+his
+rights right%1:07:00::
+''
+,
+Curt person%1:03:00::
+said say%2:32:00::
+.
+He
+let_go_of let_go_of%2:35:00::
+the
+shirt shirt%1:06:00::
+,
+and
+Jess person%1:03:00::
+slumped slump%2:38:00::
+to
+the
+floor floor%1:06:00::
+.
+Turning turn%2:38:02::
+his
+back back%1:08:00::
+,
+Curt person%1:03:00::
+crossed cross%2:38:00::
+to
+the
+stall stall%1:06:03::
+,
+reached reach%2:35:00::
+over over%4:02:01::
+to
+untie untie%2:35:00::
+the
+buckskin buckskin%1:05:00::
+'s
+halter halter%1:06:01::
+rope rope%1:06:00::
+,
+and
+waved wave%2:32:00::
+his
+hand hand%1:08:00::
+in
+the
+animal animal%1:03:00::
+'s
+face face%1:08:01::
+.
+The
+buckskin buckskin%1:05:00::
+bolted_out bolt_out%2:38:00::
+of
+the
+stall stall%1:06:03::
+.
+Curt person%1:03:00::
+moved_in move_in%2:38:02::
+and
+picked_up pick_up%2:35:01::
+his
+gun gun%1:06:00::
+.
+He
+shook shake%2:38:00::
+loose loose%5:00:02:free:00
+straw straw%1:27:01::
+out
+of
+the
+action action%1:06:00::
+,
+and
+placed place%2:35:00::
+the
+gun gun%1:06:00::
+in
+his
+holster holster%1:06:00::
+.
+Leaving leave%2:31:05::
+Jess person%1:03:00::
+'s
+where
+it
+lay lie%2:42:00::
+,
+he
+left leave%2:38:01::
+the
+stall stall%1:06:03::
+.
+``
+Get_up get_up%2:38:01::
+,
+Crouch person%1:03:00::
+.
+We
+'re
+going go%2:38:00::
+someplace someplace%4:02:00::
+''
+.
+Jess person%1:03:00::
+painfully painfully%4:02:00::
+got get%2:30:00::
+to
+his
+feet foot%1:08:01::
+as
+someone
+rattled rattle%2:38:00::
+the
+door door%1:06:00::
+.
+``
+Who
+'s
+in
+there
+''
+?
+Black person%1:03:00::
+called call%2:32:09::
+fearfully fearfully%4:02:00::
+.
+Curt person%1:03:00::
+opened open%2:35:00::
+the
+door door%1:06:00::
+,
+grabbed grab%2:35:00::
+Black person%1:03:00::
+by
+the
+shoulder shoulder%1:08:00::
+,
+and
+pulled pull%2:35:00::
+him
+into
+the
+barn barn%1:06:00::
+.
+``
+You
+'re
+staying stay%2:38:00::
+right right%4:02:04::
+here here%4:02:00::
+for_a_while for_a_while%4:02:01::
+.
+This
+dirty dirty%5:00:00:nasty:00
+coward coward%1:18:00::
+just just%4:02:01::
+admitted admit%2:32:00::
+killing kill%2:35:00::
+Arbuckle person%1:03:00::
+.
+I
+'m
+going_to
+let let%2:41:00::
+him
+tell tell%2:32:04::
+it
+to
+somebody
+else else%5:00:00:other:00
+''
+.
+He
+shoved shove%2:38:00::
+Black person%1:03:00::
+toward
+the
+stall stall%1:06:03::
+,
+and
+pointed point%2:33:00::
+his
+pistol pistol%1:06:00::
+at
+Jess person%1:03:00::
+.
+``
+Get_out get_out%2:38:01::
+of
+here here%4:02:00::
+.
+You
+'re
+coming come%2:38:00::
+along along%4:02:00::
+peacefully peacefully%4:02:00::
+,
+or
+I
+'ll
+put put%2:35:00::
+a
+bullet bullet%1:06:00::
+in
+your
+leg leg%1:08:01::
+''
+.
+Jess person%1:03:00::
+stumbled stumble%2:38:01::
+through
+the
+door door%1:06:01::
+.
+Curt person%1:03:00::
+followed follow%2:38:00::
+,
+reaching reach%2:35:00::
+behind
+him
+to
+shut shut%2:35:00::
+the
+door door%1:06:00::
+and
+hook hook%2:35:00::
+it
+.
+Black person%1:03:00::
+would
+have have%2:39:06::
+little little%3:00:03::
+trouble trouble%1:04:02::
+getting_out get_out%2:38:01::
+,
+but
+it
+might
+delay delay%2:30:00::
+him
+a_few a_few%5:00:00:few:00
+minutes minute%1:28:00::
+.
+``
+Where
+'re
+you
+takin take%2:38:09::
+'
+me
+''
+?
+Jess person%1:03:00::
+asked ask%2:32:00::
+worriedly worriedly%4:02:00::
+.
+``
+We
+'re
+going go%2:38:00::
+to
+Marshal_Woods person%1:03:00::
+'s
+house house%1:06:00::
+.
+Maybe maybe%4:02:00::
+if
+the
+marshal marshal%1:18:00::
+hears hear%2:31:00::
+this
+himself
+,
+it
+'ll
+make make%2:36:00::
+a
+difference difference%1:24:00::
+.
+Somebody
+in
+this
+town town%1:14:00::
+must
+still still%4:02:01::
+have have%2:40:04::
+some
+backbone backbone%1:07:00::
+''
+.

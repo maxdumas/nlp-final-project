@@ -1,0 +1,2254 @@
+Rousseau rousseau%1:18:00::
+is be%2:42:03::
+so so%4:02:02::
+persuasive persuasive%3:00:00::
+that
+Voltaire voltaire%1:18:00::
+is
+almost almost%4:02:00::
+convinced convinced%5:00:00:certain(p):02
+that
+he
+should
+burn burn%2:30:02::
+his
+books book%1:10:00::
+,
+too too%4:02:01::
+.
+But
+while
+the
+two two%5:00:00:cardinal:00
+men man%1:18:00::
+are
+riding ride%2:38:00::
+into
+the
+country country%1:15:00::
+,
+where
+they
+are
+going go%2:38:00::
+to
+dinner dinner%1:13:00::
+,
+they
+are
+attacked attack%2:33:00::
+in
+the
+dark dark%1:26:00::
+of
+the
+forest forest%1:14:00::
+by
+a
+band band%1:14:01::
+of
+thieves thief%1:18:00::
+,
+who
+strip strip%2:40:03::
+them
+of
+everything
+,
+including include%2:42:00::
+most
+of
+their
+clothes clothes%1:06:00::
+.
+``
+You
+must
+be be%2:42:03::
+a
+very very%4:02:00::
+learned learned%5:00:00:educated:00
+man man%1:18:00::
+''
+,
+says say%2:32:00::
+Voltaire voltaire%1:18:00::
+to
+one
+of
+the
+bandits bandit%1:18:00::
+.
+``
+A
+learned learned%5:00:00:educated:00
+man man%1:18:00::
+''
+?
+the
+bandit bandit%1:18:00::
+laughs laugh%2:29:00::
+in
+his
+face face%1:08:00::
+.
+But
+Voltaire voltaire%1:18:00::
+perseveres persevere%2:30:00::
+.
+He
+goes_to go_to%2:38:00::
+the
+chief chief%1:18:00::
+himself
+.
+``
+At
+what
+university university%1:06:00::
+did do%2:36:01::
+you
+study study%2:31:03::
+''
+?
+he
+asks ask%2:32:00::
+.
+He
+refuses refuse%2:32:00::
+to
+believe believe%2:31:00::
+that
+the
+bandit bandit%1:18:00::
+chief chief%1:18:00::
+never never%4:02:00::
+attended attend%2:42:00::
+a
+higher higher%5:00:02:high:02
+institution institution%1:14:00::
+.
+``
+To
+have
+become become%2:30:00::
+so so%4:02:02::
+corrupt corrupt%3:00:00::
+''
+,
+he
+says say%2:32:00::
+,
+``
+surely surely%4:02:00::
+you
+must
+have
+studied study%2:31:03::
+many many%3:00:00::
+arts arts%1:09:00::
+and
+sciences science%1:09:01::
+''
+.
+The
+chief chief%1:18:00::
+,
+annoyed annoy%2:37:00::
+by
+these
+questions question%1:10:00::
+,
+knocks knock_down%2:35:01::
+Voltaire voltaire%1:18:00::
+down down%4:02:00::
+and
+shouts shout%2:32:00::
+at
+him
+that
+he
+not_only not_only%4:02:00::
+never never%4:02:00::
+went_to go_to%2:42:00::
+any
+school school%1:14:00::
+,
+but
+never never%4:02:00::
+even even%4:02:00::
+learned learn%2:31:00::
+how
+to
+read read%2:31:00::
+.
+When
+finally finally%4:02:02::
+the
+two two%5:00:00:cardinal:00
+bedraggled bedraggled%5:00:00:dirty:01
+men man%1:18:00::
+reach reach%2:38:01::
+their
+friend friend%1:18:00::
+'s
+home home%1:15:04::
+,
+Voltaire voltaire%1:18:00::
+'s
+fears fear%1:12:00::
+are
+once_again once_again%4:02:00::
+aroused arouse%2:37:00::
+.
+For
+it
+is be%2:42:03::
+such such%4:02:00::
+a
+distinguished distinguished%5:00:00:dignified:00
+place place%1:15:02::
+,
+with
+such such%4:02:00::
+fine fine%5:00:00:skilled:00
+works_of_art work_of_art%1:06:00::
+and
+such such%4:02:00::
+a
+big big%3:00:01::
+library library%1:06:00::
+,
+that
+there
+can
+be be%2:42:00::
+little little%3:00:03::
+doubt doubt%1:09:00::
+but
+that
+the
+owner owner%1:18:00::
+has
+become become%2:30:00::
+depraved deprave%2:41:00::
+by
+all
+this
+culture culture%1:09:00::
+.
+To
+Voltaire voltaire%1:18:00::
+'s
+surprise surprise%1:12:00::
+,
+however however%4:02:00::
+,
+their
+host host%1:18:02::
+gives give%2:40:02::
+them
+fresh fresh%3:00:01::
+clothes clothes%1:06:00::
+to
+put_on put_on%2:29:00::
+,
+opens open%2:35:00::
+his
+purse purse%1:06:02::
+to
+lend lend%2:40:00::
+them
+money money%1:21:00::
+and
+sits sit_down%2:35:00::
+them
+down
+before
+a
+good good%3:00:01::
+dinner dinner%1:13:00::
+.
+Immediately immediately%4:02:00::
+after
+dinner dinner%1:13:00::
+,
+however however%4:02:00::
+,
+Rousseau rousseau%1:18:00::
+asks ask%2:32:01::
+for
+still still%4:02:00::
+another another%5:00:00:added:00
+favor favor%1:04:00::
+.
+Could
+he
+have have%2:40:00::
+pen pen%1:06:00::
+and
+paper paper%1:10:00::
+,
+please
+?
+He
+is be%2:42:03::
+in
+a
+hurry hurry%1:07:00::
+to
+write write%2:36:00::
+another another%5:00:00:other:00
+essay essay%1:10:00::
+against
+culture culture%1:09:00::
+.
+Such such%5:00:01:specified:00
+was be%2:42:06::
+the
+impromptu impromptu%1:10:00::
+that
+Voltaire voltaire%1:18:00::
+gave give%2:36:02::
+to
+howls howl%1:10:00::
+of
+laughter laughter%1:10:00::
+at
+Sans_Souci location%1:03:00::
+and
+that
+was
+soon soon%4:02:00::
+circulated circulate%2:32:00::
+in
+manuscript manuscript%1:10:00::
+throughout
+the
+literary literary%3:01:00::
+circles circle%1:14:00::
+of
+Europe europe%1:17:00::
+,
+to
+be be%2:42:05::
+printed print%2:36:02::
+sometime sometime%4:02:00::
+later later%4:02:02::
+,
+but
+with
+the
+name name%1:10:00::
+of
+Timon_of_Athens person%1:03:00::
+,
+the
+famous famous%5:00:00:known:00
+misanthrope misanthrope%1:18:00::
+,
+substituted substitute%2:40:01::
+for
+that
+of
+Rousseau rousseau%1:18:00::
+.
+How
+cruel cruel%5:00:00:heartless:00
+!
+But
+at_the_same_time at_the_same_time%4:02:03::
+how
+understandable understandable%5:00:00:comprehensible:00
+.
+How
+could
+the
+rich rich%3:00:00::
+,
+for
+whom
+life life%1:09:00::
+was
+made make%2:30:00::
+so so%4:02:02::
+simple simple%5:00:00:easy:01
+,
+ever ever%4:02:04::
+understand understand%2:31:03::
+the
+subterfuges subterfuge%1:10:00::
+,
+the
+lies lie%1:10:00::
+,
+the
+frauds fraud%1:04:01::
+,
+the
+errors error%1:07:01::
+,
+sins sin%1:04:00::
+and
+even even%4:02:00::
+crimes crime%1:04:00::
+to
+which
+the
+poor poor%3:00:00::
+were
+driven drive%2:36:00::
+in
+their
+efforts effort%1:04:00::
+to
+overcome overcome%2:33:03::
+the
+great great%5:00:01:large:00
+advantages advantage%1:07:00::
+the
+rich rich%3:00:00::
+had have%2:40:00::
+in
+the
+race race%1:11:01::
+of
+life life%1:09:00::
+?
+How
+,
+for_example for_example%4:02:00::
+,
+could
+a
+Voltaire voltaire%1:18:00::
+understand understand%2:31:00::
+the
+strange strange%3:00:00::
+predicament predicament%1:26:00::
+in
+which
+a
+Rousseau rousseau%1:18:00::
+would
+find find%2:39:02::
+himself
+when
+,
+soon soon%4:02:00::
+after
+the
+furor furor%1:09:00::
+of
+his
+first first%3:00:00::
+Discourse discourse%1:10:01::
+,
+he
+acquired acquire%2:40:00::
+still still%4:02:00::
+another another%5:00:00:added:00
+title title%1:07:00::
+to
+fame fame%1:26:01::
+?
+This
+time time%1:11:00::
+as
+a
+musician musician%1:18:01::
+.
+As
+a
+composer composer%1:18:00::
+.
+Ever ever%4:02:00::
+since
+he
+had
+first first%4:02:02::
+begun begin%2:30:00::
+to
+study study%2:31:03::
+music music%1:10:00::
+and
+to
+teach teach%2:32:00::
+it
+,
+Rousseau rousseau%1:18:00::
+had
+dreamed dream%2:36:00::
+of
+piercing pierce%2:35:02::
+through through%4:02:00::
+to
+fame fame%1:26:01::
+as
+the
+result result%1:19:00::
+of
+a
+successful successful%3:00:00::
+opera opera%1:10:00::
+.
+But
+his
+facility facility%1:09:01::
+in
+this
+genre genre%1:09:00::
+was be%2:42:03::
+not not%4:02:00::
+great great%5:00:00:high:02
+.
+And
+his
+efforts effort%1:04:00::
+to
+get get%2:40:00::
+a
+performance performance%1:10:00::
+for
+his
+Gallant_Muses
+invariably invariably%4:02:00::
+failed fail%2:41:00::
+.
+And
+for
+good good%3:00:01::
+reasons reason%1:16:00::
+.
+His
+operatic operatic%3:01:00::
+music music%1:10:00::
+had have%2:42:00::
+little little%3:00:03::
+merit merit%1:07:01::
+.
+But
+then then%4:02:01::
+one one%5:00:00:unspecified:00
+day day%1:28:03::
+,
+while
+on
+a
+week week%1:28:00::
+'s
+visit visit%1:04:02::
+to
+the
+country country%1:15:00::
+home home%1:06:00::
+of
+a
+retired retired%5:00:00:inactive:08
+Swiss swiss%3:01:00::
+jeweler jeweler%1:18:01::
+,
+Rousseau rousseau%1:18:00::
+amused amuse%2:41:00::
+the
+company company%1:14:00::
+with
+a_few a_few%5:00:00:few:00
+little little%3:00:01::
+melodies melody%1:10:00::
+he
+had
+written write%2:36:00::
+,
+to
+which
+he
+attached attach%2:35:01::
+no
+great great%5:00:00:high:02
+importance importance%1:07:00::
+.
+He
+was be%2:42:03::
+really really%4:02:03::
+amazed amazed%5:00:00:surprised:00
+to
+discover discover%2:39:03::
+the
+other other%3:00:00::
+guests guest%1:18:00::
+so so%4:02:02::
+excited excite%2:37:02::
+about
+these
+delicate delicate%5:00:00:skilled:00
+little little%3:00:01::
+songs song%1:10:00::
+.
+``
+Put put%2:35:05::
+a_few a_few%5:00:00:few:00
+such such%5:00:01:specified:00
+songs song%1:10:00::
+together together%4:02:04::
+''
+,
+they
+urged urge%2:32:00::
+him
+.
+``
+String string%2:30:00::
+them
+onto
+some
+sort sort%1:09:00::
+of
+little little%3:00:01::
+plot plot%1:10:00::
+,
+and
+you
+'ll
+have have%2:42:00::
+a
+delightful delightful%5:00:00:pleasing:00
+operetta operetta%1:10:00::
+''
+.
+He
+did
+n't n't%4:02:00::
+believe believe%2:31:00::
+them
+.
+``
+Nonsense nonsense%1:10:00::
+''
+,
+he
+said say%2:32:00::
+.
+``
+This
+is be%2:42:06::
+the
+sort sort%1:09:00::
+of
+stuff stuff%1:10:00::
+I
+write write%2:36:00::
+and
+then then%4:02:00::
+throw_away throw_away%2:40:00::
+''
+!
+``
+Heaven_forbid
+''
+!
+cried cry%2:32:01::
+the
+ladies lady%1:18:02::
+,
+enchanted enchant%2:37:00::
+by
+his
+music music%1:10:00::
+.
+``
+You
+must
+make make%2:36:09::
+an
+opera opera%1:10:00::
+out
+of
+this
+material material%1:10:00::
+''
+.
+And
+they
+would
+n't n't%4:02:00::
+leave_off leave_off%2:42:00::
+arguing argue%2:32:00::
+and
+pleading plead%2:32:00::
+until
+he
+had
+promised promise%2:32:00::
+.
+Oh
+,
+the
+irony irony%1:07:00::
+and
+the
+bitterness bitterness%1:12:00::
+of_it
+!
+That
+after
+all all%3:00:00::
+his
+years year%1:28:01::
+of
+effort effort%1:04:01::
+to
+become become%2:42:01::
+a
+composer composer%1:18:00::
+,
+he
+should
+now now%4:02:05::
+,
+now now%4:02:05::
+when
+he
+was
+still still%4:02:01::
+stoutly stoutly%4:02:00::
+replying reply%2:32:00::
+to
+the
+critics critic%1:18:01::
+of
+his
+Discourse_on_the_Arts_and_Sciences
+,
+be be%2:42:03::
+so so%4:02:02::
+close close%3:00:01::
+to
+a
+success success%1:18:00::
+in
+music music%1:10:00::
+and
+have_to
+reject reject%2:40:00::
+it
+.
+Or
+at_least at_least%4:02:01::
+appear appear%2:39:00::
+to
+reject reject%2:40:00::
+it
+!
+But
+what
+else else%4:02:01::
+could
+he
+do do%2:36:01::
+?
+You
+could
+n't n't%4:02:00::
+on_the_one_hand on_the_one_hand%4:02:00::
+decry decry%2:32:00::
+the
+arts art%1:06:00::
+and
+at_the_same_time at_the_same_time%4:02:03::
+practice practice%1:04:03::
+them
+,
+could
+you
+?
+Well
+,
+yes
+,
+perhaps perhaps%4:02:00::
+in
+literature literature%1:10:00::
+,
+since
+you
+could
+argue argue%2:32:00::
+that
+you
+could
+n't n't%4:02:00::
+keep keep%2:42:00::
+silent silent%5:00:00:uncommunicative:00
+about
+your
+feelings feeling%1:09:03::
+against
+literature literature%1:10:00::
+and
+so
+were
+involved involved%3:00:00::
+in
+spite
+of
+yourself
+.
+But
+now now%4:02:05::
+music music%1:10:00::
+too too%4:02:01::
+?
+No
+.
+That
+would
+be be%2:42:03::
+too_much too_much%5:00:00:immoderate:00
+!
+And
+the
+fault fault%1:04:00::
+,
+of_course of_course%4:02:00::
+,
+was be%2:42:03::
+Rameau person%1:03:00::
+'s
+.
+The
+fault fault%1:04:00::
+was be%2:42:03::
+Rameau person%1:03:00::
+'s
+and
+that
+of
+the
+whole whole%3:00:00::
+culture culture%1:09:00::
+of
+this
+Parisian parisian%3:01:00::
+age age%1:28:02::
+.
+For
+it
+was
+Rameau person%1:03:00::
+'s
+type type%1:09:00::
+of
+music music%1:10:00::
+that
+he
+had
+been
+trying try%2:41:00::
+to
+write write%2:36:00::
+,
+and
+that
+he
+could
+n't n't%4:02:00::
+write write%2:36:00::
+.
+These
+little little%3:00:01::
+songs song%1:10:00::
+,
+however however%4:02:00::
+,
+were be%2:42:03::
+sweet_nothings sweet_nothings%1:10:00::
+from_the_heart from_the_heart%4:02:00::
+,
+tender tender%3:00:03::
+memories memory%1:09:02::
+of
+his
+childhood childhood%1:28:00::
+,
+little little%3:00:01::
+melodies melody%1:10:00::
+that
+anyone
+could
+hum hum%2:32:00::
+and
+that
+would
+make make%2:30:00::
+one
+want
+to
+weep weep%2:29:00::
+.
+But
+no
+.
+He
+could
+n't n't%4:02:00::
+appear appear%2:30:00::
+as
+a
+composer composer%1:18:00::
+now now%4:02:05::
+.
+That
+glory glory%1:26:00::
+,
+craved crave%2:34:00::
+for
+so so%4:02:02::
+long long%3:00:02::
+,
+was
+now now%4:02:05::
+forbidden forbid%2:32:00::
+to
+him
+.
+Still still%4:02:04::
+,
+just just%4:02:00::
+for
+the
+ladies lady%1:18:02::
+,
+and
+just just%4:02:00::
+for
+this
+once once%4:02:00::
+,
+for
+this
+one one%5:00:00:cardinal:00
+weekend weekend%1:28:00::
+in
+the
+country country%1:15:01::
+,
+he
+would
+make make%2:36:09::
+a
+little little%3:00:01::
+piece piece%1:10:01::
+out
+of
+his
+melodies melody%1:10:00::
+.
+The
+ladies lady%1:18:02::
+were be%2:42:03::
+delighted delight%2:37:00::
+and
+Jean_Jacques person%1:03:00::
+was
+applauded applaud%2:32:00::
+.
+And
+everyone
+went
+to
+work work%2:41:02::
+to
+learn learn%2:31:03::
+the
+parts part%1:10:00::
+which
+he
+wrote write%2:36:00::
+.
+But
+then then%4:02:01::
+,
+after
+the
+little little%3:00:01::
+operetta operetta%1:10:00::
+had
+been
+given give%2:40:05::
+its
+feeble feeble%5:00:02:weak:00
+amateur amateur%5:00:00:nonprofessional:00
+rendering rendering%1:10:01::
+,
+everyone
+insisted insist%2:32:00::
+that
+it
+was be%2:42:03::
+too too%4:02:00::
+good good%3:00:01::
+to
+be be%2:42:03::
+lost lost%3:00:01::
+forever forever%4:02:00::
+,
+and
+that
+the
+Royal_Academy_of_Music group%1:03:00::
+must
+now now%4:02:05::
+have have%2:40:00::
+the
+manuscript manuscript%1:10:00::
+in_order
+to
+give give%2:40:03::
+it
+the
+really really%4:02:03::
+first-rate first-rate%5:00:00:superior:02
+performance performance%1:10:00::
+it
+merited merit%2:42:04::
+.
+Rousseau person%1:03:00::
+was be%2:42:03::
+aware aware%3:00:00::
+that
+he
+must
+seem seem%2:39:00::
+like
+a
+hypocrite hypocrite%1:18:00::
+,
+standing stand%2:35:00::
+there there%4:02:00::
+and
+arguing argue%2:32:00::
+that
+he
+could
+not not%4:02:00::
+possibly possibly%4:02:00::
+permit permit%2:32:00::
+a
+public public%3:00:00::
+performance performance%1:10:00::
+.
+The
+ladies lady%1:18:02::
+especially especially%4:02:00::
+could
+n't n't%4:02:00::
+understand understand%2:31:00::
+what
+troubled trouble%2:37:01::
+him
+.
+A
+contradiction contradiction%1:24:00::
+?
+Bah
+,
+what
+was be%2:42:03::
+a
+contradiction contradiction%1:24:00::
+in
+one
+'s
+life life%1:26:02::
+?
+Every
+woman woman%1:18:00::
+has
+had have%2:39:06::
+the
+experience experience%1:09:01::
+of
+saying say%2:32:00::
+no no%1:10:00::
+when
+she
+meant mean%2:32:01::
+yes yes%1:10:00::
+,
+and
+saying say%2:32:00::
+yes yes%1:10:00::
+when
+she
+meant mean%2:32:01::
+no no%1:10:00::
+.
+Rousseau person%1:03:00::
+had_to
+admit admit%2:32:00::
+that
+though
+he
+could
+n't n't%4:02:00::
+agree agree%2:32:01::
+to
+a
+public public%3:00:00::
+performance performance%1:10:00::
+,
+he
+would
+indeed indeed%4:02:03::
+,
+just just%4:02:00::
+for
+his
+own own%5:00:00:personal:00
+private private%3:00:00::
+satisfaction satisfaction%1:12:00::
+,
+dearly dearly%4:02:02::
+love love%2:37:02::
+to
+know know%2:31:01::
+how
+his
+work work%1:06:00::
+would
+sound sound%2:39:06::
+when
+done do%2:36:01::
+by
+professional professional%3:00:01::
+musicians musician%1:18:01::
+and
+by
+trained trained%5:00:00:skilled:00
+voices voice%1:18:01::
+.
+``
+I
+'d
+simply simply%4:02:00::
+like like%2:37:01::
+to
+know know%2:31:02::
+if
+it
+is be%2:42:03::
+as_good_as as_good_as%5:00:00:equal:00
+you
+kind kind%3:00:00::
+people people%1:14:00::
+seem seem%2:39:00::
+to
+think think%2:31:01::;2:31:03::
+''
+,
+he
+said say%2:32:00::
+.
+Duclos person%1:03:00::
+,
+the
+historian historian%1:18:00::
+,
+pointed_out point_out%2:32:01::
+to
+Jean_Jacques person%1:03:00::
+that
+this
+was be%2:42:03::
+impossible impossible%3:00:00::
+.
+The
+musicians musician%1:18:01::
+of
+the
+Royal_Opera group%1:03:00::
+would
+not not%4:02:00::
+rehearse rehearse%2:36:00::
+a
+work work%1:06:00::
+merely merely%4:02:00::
+to
+see see%2:32:00::
+how
+it
+would
+sound sound%2:39:06::
+.
+Merely merely%4:02:00::
+to
+satisfy satisfy%2:34:01::
+the
+author author%1:18:01::
+'s
+curiosity curiosity%1:09:00::
+.
+Rousseau rousseau%1:18:00::
+agreed agree%2:32:00::
+.
+But
+he
+recalled recall%2:31:00::
+that
+Rameau person%1:03:00::
+had
+once once%4:02:00::
+had have%2:36:00::
+a
+private private%3:00:00::
+performance performance%1:10:00::
+of
+his
+opera opera%1:10:00::
+Armide
+,
+behind
+closed closed%3:00:01::
+doors door%1:06:00::
+,
+just just%4:02:00::
+for
+himself
+alone alone%4:02:00::
+.
+Duclos person%1:03:00::
+understood understand%2:31:00::
+what
+was
+bothering bother%2:37:00::
+Rousseau rousseau%1:18:00::
+:
+that
+the
+writer writer%1:18:00::
+of
+the
+Prosopopoeia_of_Fabricius
+should
+now now%4:02:05::
+become become%2:30:00::
+known known%3:00:00::
+as
+the
+writer writer%1:18:00::
+of
+an
+amusing amusing%5:00:00:entertaining:00
+little little%3:00:01::
+operetta operetta%1:10:00::
+.
+That
+would
+certainly certainly%4:02:00::
+be be%2:42:03::
+paradoxical paradoxical%5:00:00:inexplicable:00
+.
+But
+Duclos person%1:03:00::
+thought think%2:31:01::;2:31:03::
+he
+saw see%2:36:00::
+a
+way_out way_out%1:06:00::
+.
+``
+Let let%2:41:00::
+me
+do do%2:36:01::
+the
+submitting submit%2:32:01::
+to
+the
+Royal_Academy group%1:03:00::
+''
+,
+he
+suggested suggest%2:32:00::
+.
+``
+Your
+name name%1:10:00::
+will
+never never%4:02:00::
+appear appear%2:30:00::
+.
+No_one
+will
+even even%4:02:00::
+suspect suspect%2:31:02::
+that
+it
+is be%2:42:03::
+your
+work work%1:06:00::
+''
+.
+To_that
+Rousseau rousseau%1:18:00::
+could
+agree agree%2:32:00::
+.
+But
+now now%4:02:05::
+what
+crazy crazy%5:00:00:insane:00
+twists twist%1:11:00::
+and
+turns turn%1:11:01::
+of
+his
+emotions emotion%1:12:00::
+!
+Afraid afraid%3:00:00::
+at
+one_and_the_same one_and_the_same%5:00:00:same:02
+time time%1:11:00::
+that
+his
+work work%1:06:00::
+might
+be
+turned_down turn_down%2:40:00::
+-
+which
+would
+be be%2:42:05::
+a
+blow blow%1:04:01::
+to
+his
+pride pride%1:07:00::
+even_though
+no_one
+knew know%2:31:01::
+he
+was be%2:42:06::
+the
+author author%1:18:00::
+-
+and
+that
+the
+work work%1:06:00::
+would
+be
+accepted accept%2:31:01::
+,
+and
+then then%4:02:00::
+that
+his
+violent violent%3:00:00::
+feelings feeling%1:03:00::
+in
+the
+matter matter%1:09:01::
+would
+certainly certainly%4:02:00::
+betray betray%2:32:01::
+how
+deeply deeply%4:02:00::
+concerned concern%2:42:01::
+he
+was be%2:42:03::
+in_spite_of
+himself
+.
+And
+how how%4:02:00::
+anxious anxious%5:00:00:eager:00
+this
+lover lover%1:18:00::
+of
+obscurity obscurity%1:26:00::
+was be%2:42:03::
+for
+applause applause%1:10:00::
+!
+And
+thus thus%4:02:00::
+torn torn%5:00:00:divided:00
+between
+his
+desire desire%1:12:00::
+to
+be be%2:42:03::
+known known%3:00:00::
+as
+the
+composer composer%1:18:00::
+of
+a
+successful successful%3:00:00::
+opera opera%1:10:00::
+and
+the
+necessity necessity%1:26:00::
+of
+remaining remain%2:30:00::
+true true%5:00:02:faithful:00
+to
+his
+proclaimed proclaimed%5:00:01:declared:00
+desire desire%1:07:00::
+for
+anonymity anonymity%1:26:00::
+,
+Rousseau rousseau%1:18:00::
+suffered suffer%2:37:00::
+through
+several several%5:00:00:some(a):00
+painful painful%3:00:00::
+weeks week%1:28:00::
+.
+All
+these
+emotions emotion%1:12:00::
+were
+screwed_up screw_up%2:30:00::
+to
+new new%3:00:00::
+heights height%1:07:00::
+when
+,
+after
+acceptance acceptance%1:04:00::
+and
+the
+first first%3:00:00::
+rehearsals rehearsal%1:04:01::
+,
+there
+ensued ensue%2:42:00::
+such such%5:00:00:much(a):00
+a
+buzz buzz%1:04:00::
+of
+excitement excitement%1:12:00::
+among
+Parisian parisian%3:01:00::
+music_lovers music_lover%1:18:00::
+that
+Duclos person%1:03:00::
+had_to
+come come%2:38:00::
+running run%2:38:00::
+to
+Rousseau rousseau%1:18:00::
+to
+inform inform%2:32:00::
+him
+that
+the
+news news%1:10:01::
+had
+reached reach%2:32:00::
+the
+superintendent superintendent%1:18:00::
+of
+the
+King king%1:18:00::
+'s
+amusements amusement%1:04:00::
+,
+and
+that
+he
+was
+now now%4:02:05::
+demanding demand%2:32:00::
+that
+the
+work work%1:06:00::
+be
+offered offer%2:39:06::
+first first%4:02:02::
+at
+the
+royal royal%3:01:00::
+summer summer%1:28:00::
+palace palace%1:06:01::
+of
+Fontainebleau location%1:03:00::
+.
+Imagine imagine%2:36:00::
+the
+honor honor%1:26:00::
+of_it
+!
+``
+What
+was be%2:42:06::
+your
+answer answer%1:10:01::
+''
+?
+Jean_Jacques person%1:03:00::
+asked ask%2:32:00::
+,
+striving strive%2:41:00::
+to
+appear appear%2:39:00::
+unimpressed unimpressed%5:00:00:unaffected:00
+.
+``
+I
+refused refuse%2:40:00::
+''
+,
+Duclos person%1:03:00::
+said say%2:32:00::
+.
+``
+What
+else else%4:02:01::
+could
+I
+do do%2:36:01::
+?
+Monsieur_de_Cury person%1:03:00::
+was be%2:42:03::
+incensed incensed%5:00:00:angry:00
+,
+of_course of_course%4:02:00::
+.
+But
+I
+said say%2:32:00::
+I
+would
+first first%4:02:00::
+have_to
+get get%2:40:00::
+the
+author author%1:18:01::
+'s
+permission permission%1:10:00::
+.
+And
+I
+was be%2:42:03::
+certain certain%3:00:02::
+he
+would
+refuse refuse%2:40:00::
+''
+.
+How
+infuriating infuriating%5:00:00:displeasing:00
+all
+this
+was be%2:42:03::
+!
+Why
+had
+not not%4:02:00::
+this
+success success%1:04:00::
+come come%2:30:01::
+to
+him
+before
+he
+had
+plunged plunge%2:30:10::
+into
+his
+Discourse
+,
+and
+before
+he
+had
+committed commit%2:32:01::
+himself
+to
+a
+life life%1:26:01::
+of
+austerity austerity%1:07:01::
+and
+denial denial%1:22:00::
+?
+Now now%4:02:05::
+,
+when
+everything
+was
+opening_up open_up%2:35:00::
+to
+him
+-
+even even%4:02:00::
+the
+court court%1:14:00::
+of
+Louis_/_15 person%1:03:00::
+15
+,
+!
+-
+he
+had_to
+play play%2:41:12::
+a
+role role%1:04:00::
+of
+self-effacement self-effacement%1:04:00::
+.
+Back_and_forth back_and_forth%4:02:00::
+Duclos person%1:03:00::
+had_to
+go go%2:41:00::
+,
+between
+M._de_Cury person%1:03:00::
+and
+Jean_Jacques person%1:03:00::
+and
+between
+the
+Duke_d'Aumont person%1:03:00::
+and
+Jean_Jacques person%1:03:00::
+again again%4:02:00::
+,
+as
+his
+little little%3:00:01::
+operetta operetta%1:10:00::
+,
+The_Village_Soothsayer
+,
+though
+still still%4:02:01::
+unperformed unperformed%5:00:00:unstaged:00
+,
+took_on take_on%2:41:01::
+ever ever%4:02:04::
+more more%3:00:01::
+importance importance%1:26:00::
+.
+And
+of_course of_course%4:02:00::
+the
+news news%1:10:01::
+of
+who
+the
+composer composer%1:18:00::
+was be%2:42:06::
+did
+finally finally%4:02:02::
+begin begin%2:30:00::
+to
+get_around get_around%2:32:00::
+among
+his
+closest close%3:00:02::
+friends friend%1:18:00::
+.
+But
+they
+,
+naturally naturally%4:02:00::
+,
+kept keep%2:41:03::
+his
+secret secret%1:10:00::
+well well%4:02:00::
+,
+and
+the
+public public%1:14:00::
+at_large at_large%5:00:01:general:00
+knew know%2:31:01::
+only only%4:02:02::
+of
+a
+great great%5:00:00:high:02
+excitement excitement%1:12:00::
+in
+musical musical%3:01:00::
+and
+court court%1:14:00::
+circles circle%1:14:00::
+.
+How
+titillating titillating%5:00:01:exciting:00
+it
+was be%2:42:03::
+to
+go go%2:38:00::
+among
+people people%1:14:00::
+who
+did
+not not%4:02:00::
+know know%2:31:01::
+him
+as
+the
+composer composer%1:18:00::
+,
+but
+who
+talked talk%2:32:01::
+in
+the
+most most%4:02:00::
+glowing glowing%5:00:00:enthusiastic:00
+terms term%1:10:00::
+of
+the
+promise promise%1:09:00::
+of
+the
+piece piece%1:10:01::
+after
+having
+heard hear%2:39:00::
+the
+first first%3:00:00::
+rehearsals rehearsal%1:04:01::
+.
+The
+furor furor%1:09:00::
+was be%2:42:03::
+such_that such_that%5:00:00:specified:00
+people people%1:14:00::
+who
+could
+not not%4:02:00::
+possibly possibly%4:02:00::
+have
+squirmed squirm%2:38:00::
+their
+way way%1:23:00::
+into
+the
+rehearsals rehearsal%1:04:01::
+were
+pretending pretend%2:36:00::
+that
+they
+were be%2:42:03::
+intimate intimate%5:00:00:close:02
+with
+the
+whole whole%3:00:00::
+affair affair%1:11:00::
+and
+that
+it
+would
+be be%2:42:03::
+sensational sensational%3:00:00::
+.
+And
+listening listen%2:39:00::
+to
+such such%5:00:01:specified:00
+a
+conversation conversation%1:10:00::
+one one%5:00:00:cardinal:00
+morning morning%1:28:00::
+while
+taking take%2:34:00::
+a
+cup cup%1:23:01::
+of
+chocolate chocolate%1:13:02::
+in
+a
+cafe cafe%1:06:00::
+,
+Rousseau person%1:03:00::
+found find%2:39:02::
+himself
+bathed bathe%2:29:00::
+in
+perspiration perspiration%1:08:00::
+,
+trembling tremble%2:29:00::
+lest
+his
+authorship authorship%1:04:00::
+become become%2:30:00::
+known known%3:00:00::
+,
+and
+at_the_same_time at_the_same_time%4:02:05::
+dreaming dream%2:36:00::
+of
+the
+startling startling%5:00:00:surprising:00
+effect effect%1:09:00::
+he
+would
+make make%2:36:08::
+if
+he
+should
+proclaim proclaim%2:32:02::
+himself
+suddenly suddenly%4:02:00::
+as
+the
+composer composer%1:18:00::
+.
+He
+felt feel%2:31:00::
+himself
+now now%4:02:05::
+,
+as
+he
+himself
+says say%2:32:01::
+in
+his
+Confessions
+,
+at
+a
+crucial crucial%3:00:00::
+point point%1:28:00::
+of
+his
+life life%1:26:02::
+.
+And
+that
+was be%2:42:06::
+why
+,
+on
+the
+day day%1:28:01::
+of
+the
+performance performance%1:10:00::
+,
+when
+a
+carriage carriage%1:06:01::
+from
+the
+royal royal%3:01:00::
+stables stable%1:06:00::
+called call%2:41:00::
+to
+take take%2:38:02::
+him
+to
+the
+palace palace%1:06:01::
+,
+he
+did
+not not%4:02:00::
+bother bother%2:41:00::
+to
+shave shave%2:29:00::
+.
+On_the_contrary on_the_contrary%4:02:02::
+,
+he
+was be%2:42:03::
+pleased pleased%3:00:00::
+that
+his
+face face%1:08:00::
+showed show%2:39:02::
+a
+neglect neglect%1:04:02::
+of
+several several%5:00:00:some(a):00
+days day%1:28:00::
+.
+Seeing see%2:39:00::
+him
+in
+that
+condition condition%1:26:00::
+,
+and
+about
+to
+enter enter%2:38:00::
+the
+hall hall%1:06:06::
+where
+the
+King person%1:03:00::
+,
+the
+Queen queen%1:18:01::
+,
+the
+whole whole%3:00:00::
+royal_family royal_family%1:14:00::
+and
+all
+the
+members member%1:18:00::
+of
+the
+highest high%5:00:00:superior:01
+aristocracy aristocracy%1:14:01::
+would
+be be%2:42:03::
+present present%3:00:02::
+,
+Grimm person%1:03:00::
+and
+the
+Abbe_Raynal person%1:03:00::
+and_others and_others%4:02:00::
+tried try%2:41:00::
+to
+stop stop%2:41:00::
+him
+.
+``
+You
+can
+n't n't%4:02:00::
+go_in go_in%2:38:00::
+that
+way way%1:07:01::
+''
+!
+they
+cried cry%2:32:01::
+.
+``
+Why
+not not%4:02:00::
+''
+?
+Jean_Jacques person%1:03:00::
+asked ask%2:32:00::
+.
+``
+Who
+is
+going_to go_to%2:38:00::
+stop stop%2:41:00::
+me
+''
+?
+``
+You
+have
+n't n't%4:02:00::
+dressed dress%2:29:01::
+for
+the
+occasion occasion%1:11:01::
+''
+!
+they
+pointed_out point_out%2:32:01::
+to
+him
+.
+``
+I'm
+dressed dress%2:29:01::
+as
+I
+always always%4:02:00::
+am
+''
+,
+Rousseau person%1:03:00::
+said say%2:32:00::
+.
+``
+Neither
+better good%3:00:01::
+nor
+worse worse%3:00:00::
+''
+.
+``
+At
+home home%1:15:04::;1:06:00::
+,
+yes yes%1:10:00::
+''
+,
+they
+argued argue%2:32:00::
+.
+``
+But
+here here%4:02:02::
+you
+are be%2:42:05::
+in
+the
+palace palace%1:06:01::
+.
+There
+'s
+the
+King king%1:18:00::
+.
+And
+Madame_de_Pompadour person%1:03:00::
+''
+.
+``
+If
+they
+are be%2:42:05::
+here here%4:02:00::
+,
+then then%4:02:02::
+surely surely%4:02:00::
+I
+have have%2:40:00::
+the
+right right%1:07:00::
+to
+be be%2:42:05::
+here here%4:02:00::
+''
+,
+Rousseau person%1:03:00::
+said say%2:32:00::
+.
+``
+And
+even even%4:02:00::
+more more%3:00:01::
+right right%1:07:00::
+.
+Since
+I
+am be%2:42:06::
+the
+composer composer%1:18:00::
+''
+!
+``
+But
+in
+such such%5:00:00:much(a):00
+a
+slovenly slovenly%5:00:00:untidy:00
+condition condition%1:26:00::
+''
+.
+``
+What
+is be%2:42:03::
+slovenly slovenly%5:00:00:untidy:00
+about
+me
+''
+?
+Rousseau person%1:03:00::
+asked ask%2:32:00::
+.
+``
+Is
+it
+because
+of
+my
+slovenliness slovenliness%1:26:00::
+that
+hair hair%1:08:00::
+grows grow%2:30:02::
+on
+my
+face face%1:08:00::
+?
+Surely surely%4:02:00::
+it
+would
+grow grow%2:30:02::
+there there%4:02:00::
+whether
+I
+washed wash%2:29:00::
+myself
+or
+not not%4:02:00::
+.
+A_hundred a_hundred%5:00:00:cardinal:00
+years year%1:28:01::
+ago ago%4:02:00::
+I
+would
+have
+worn wear%2:29:00::
+a
+beard beard%1:08:00::
+with_pride with_pride%4:02:00::
+.
+And
+those
+without
+beards beard%1:08:00::
+would
+have
+stood_out stand_out%2:42:02::
+as
+not not%4:02:00::
+dressed dress%2:29:01::
+for
+the
+occasion occasion%1:11:01::
+.
+Now now%1:28:00::
+times times%1:28:01::
+have
+changed change%2:30:00::
+,
+and
+I
+must
+pretend pretend%2:36:00::
+that
+hair hair%1:08:00::
+does
+n't n't%4:02:00::
+grow grow%2:30:02::
+on
+my
+face face%1:08:00::
+.
+That
+'s
+the
+fashion fashion%1:09:00::
+.
+And
+fashion fashion%1:04:00::
+is be%2:42:03::
+the
+real real%3:00:00::
+king king%1:18:00::
+here here%4:02:00::
+.
+Not not%4:02:00::
+Louis_/_15 person%1:03:00::
+,
+,
+since
+even even%4:02:00::
+he
+obeys obey%2:41:00::
+.
+Now now%1:28:00::
+,
+if
+you
+do
+n't n't%4:02:00::
+mind mind%2:32:00::
+,
+I
+should_like
+to
+hear hear%2:39:00::
+my
+own own%5:00:00:personal:00
+piece piece%1:10:01::
+performed perform%2:36:00::
+''
+.
+But
+of_course of_course%4:02:00::
+behind
+his
+boldness boldness%1:07:00::
+he
+did
+n't n't%4:02:00::
+feel feel%2:37:00::
+bold bold%3:00:00::
+at_all at_all%4:02:00::
+.
+He
+trembled tremble%2:29:00::
+lest lest%4:02:00::
+his
+piece piece%1:10:01::
+should
+fail fail%2:41:00::
+.
+And
+this
+in_addition in_addition%4:02:00::
+to
+his
+usual usual%3:00:00::
+fear fear%1:12:00::
+of
+being be%2:42:04::
+among
+people people%1:14:00::
+of
+high_society high_society%1:14:00::
+.
+His
+fear fear%1:12:00::
+of
+making make%2:41:00::
+some
+inane inane%5:00:00:foolish:00
+or
+inappropriate inappropriate%3:00:00::
+remark remark%1:10:00::
+.
+And
+even even%4:02:00::
+deeper deep%5:00:00:profound:00
+than
+that
+:
+his
+fear fear%1:12:00::
+lest lest%4:02:00::
+in
+this
+closed closed%3:00:01::
+hall hall%1:06:06::
+he
+should
+suddenly suddenly%4:02:00::
+itch itch%2:39:00::
+to
+relieve_himself relieve_oneself%2:29:00::
+.
+Could
+he
+walk walk%2:38:00::
+out out%4:02:00::
+in_the_midst in_the_midst%4:02:00::
+of
+his
+piece piece%1:10:01::
+?
+Here here%4:02:00::
+,
+before
+the
+court court%1:14:00::
+?
+Before
+the
+King king%1:18:00::
+?

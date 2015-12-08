@@ -1,0 +1,2414 @@
+There
+was be%2:42:00::
+a
+crowd crowd%1:14:00::
+in
+the
+stands stands%1:06:00::
+for
+a
+change change%1:24:00::
+and
+the
+sun sun%1:19:00::
+was be%2:42:03::
+hot hot%3:00:01::
+.
+The
+new new%3:00:00::
+Riverside location%1:03:00::
+pitcher pitcher%1:18:00::
+turned_out turn_out%2:42:01::
+to
+have have%2:42:00::
+an
+overhand overhand%3:00:00::
+fast_ball fastball%1:04:00::
+that
+took
+a
+hop hop%1:04:00::
+.
+For
+a_few a_few%5:00:00:few:00
+innings inning%1:28:00::
+the
+Anniston location%1:03:00::
+team team%1:14:00::
+could
+n't n't%4:02:00::
+figure figure_out%2:31:00::
+him
+out
+.
+Then then%4:02:00::
+,
+in
+the
+fifth fifth%5:00:00:ordinal:00
+,
+Anniston location%1:03:00::
+'s
+kid kid%1:18:00::
+catcher catcher%1:18:00::
+caught catch%2:35:00::
+onto
+a
+curve curve%1:04:02::
+and
+smacked smack%2:35:02::
+the
+ball ball%1:06:01::
+into
+left left%3:00:00::
+center_field centerfield%1:06:00::
+.
+Eddie_Lee person%1:03:00::
+,
+Riverside location%1:03:00::
+'s
+redheaded redheaded%5:00:00:blond:00
+playing playing%1:04:00::
+manager manager%1:18:01::
+,
+ran run%2:38:00::
+after
+the
+ball ball%1:06:01::
+but
+it
+rolled roll%2:38:01::
+past past%4:02:00::
+him
+.
+Phil_Rossoff person%1:03:00::
+cut cut%2:38:08::
+over
+to
+center center%1:06:02::
+from
+left_field leftfield%1:06:00::
+to
+get get%2:40:00::
+the
+relay relay%1:04:00::
+.
+Eddie person%1:03:00::
+caught_up_with catch_up_with%2:33:00::
+the
+ball ball%1:06:01::
+near
+the
+fence fence%1:06:00::
+and
+threw throw%2:35:00::
+it
+to
+Phil person%1:03:00::
+.
+``
+Third third%1:04:00::
+!
+Third_base third_base%1:06:00::
+''
+!
+Eddie person%1:03:00::
+shouted shout%2:32:00::
+.
+Phil person%1:03:00::
+spun_around spin_around%2:38:00::
+and
+made make%2:41:00::
+an
+accurate accurate%3:00:00::
+throw throw%1:04:00::
+into
+Mike_Deegan person%1:03:00::
+'s
+hands hand%1:08:00::
+on
+third_base third_base%1:06:00::
+.
+Mike person%1:03:00::
+caught catch%2:35:00::
+the
+ball ball%1:06:01::
+just just%4:02:01::
+as
+the
+catcher catcher%1:18:00::
+slid slide%2:38:01::
+into
+the
+bag bag%1:06:03::
+.
+But
+the
+Anniston location%1:03:00::
+boy boy%1:18:02::
+had
+begun begin%2:30:01::
+his
+slide slide%1:04:00::
+too too%4:02:00::
+late late%4:02:00::
+.
+He
+came come%2:38:00::
+into
+the
+bag bag%1:06:03::
+with
+his
+body body%1:08:00::
+and
+Mike_Deegan person%1:03:00::
+brought bring%2:38:00::
+the
+ball ball%1:06:01::
+down down%4:02:00::
+full full%4:02:01::
+in
+his
+face face%1:08:00::
+.
+``
+You
+bastard bastard%1:18:00::
+''
+!
+the
+Anniston person%1:03:00::
+catcher catcher%1:18:00::
+screamed scream%2:32:08::
+.
+He
+jumped_to_his_feet
+and
+started start%2:30:00::
+to
+throw
+punches punch%1:04:00::
+.
+Mike_Deegan person%1:03:00::
+tossed toss_away%2:40:00::
+his
+glove glove%1:06:01::
+away
+and
+began begin%2:30:00::
+to
+swing swing%2:33:00::
+at
+the
+catcher catcher%1:18:00::
+.
+This
+brought bring%2:30:00::
+in
+everybody
+from
+both
+sides side%1:14:00::
+,
+while
+the
+spectators spectator%1:18:00::
+stood_up stand_up%2:38:00::
+and
+added add%2:30:00::
+to
+the
+uproar uproar%1:26:00::
+.
+The
+fighters fighter%1:18:00::
+were
+separated separate%2:35:01::
+in
+a_few a_few%5:00:00:few:00
+minutes minute%1:28:00::
+.
+The
+game game%1:04:00::
+was
+resumed resume%2:30:00::
+.
+But
+Mike_Deegan person%1:03:00::
+was be%2:42:03::
+boiling boiling%5:00:00:hot:02
+mad mad%5:00:00:angry:00
+now now%4:02:05::
+.
+When
+the
+inning inning%1:28:00::
+was be%2:42:03::
+over over%5:00:01:finished:01
+he
+cursed curse%2:32:02::
+the
+Anniston location%1:03:00::
+catcher catcher%1:18:00::
+all_the_way all_the_way%4:02:03::
+into
+the
+dugout dugout%1:06:01::
+.
+Phil_Rossoff person%1:03:00::
+,
+coming_in come_in%2:38:02::
+from
+left_field leftfield%1:06:00::
+,
+stopped stop%2:38:00::
+at
+the
+water_fountain water_fountain%1:06:00::
+for
+a
+drink drink%1:13:00::
+.
+Mike_Deegan person%1:03:00::
+was
+standing stand%2:35:00::
+beside
+it
+,
+facing face%2:42:02::
+the
+field field%1:15:02::
+.
+He
+was
+eyeing eye%2:39:00::
+the
+Anniston person%1:03:00::
+catcher catcher%1:18:00::
+warming_up warm_up%2:29:01::
+his
+pitcher pitcher%1:18:00::
+before
+the
+inning inning%1:28:00::
+began begin%2:30:00::
+.
+``
+Keep keep%2:42:00::
+your
+eyes eye%1:08:00::
+open open%3:00:01::
+,
+sonny sonny%1:18:00::
+''
+!
+Mike person%1:03:00::
+yelled yell%2:32:00::
+to
+the
+catcher catcher%1:18:00::
+.
+``
+You
+'re
+in_for in_for%5:00:00:certain:03
+trouble trouble%1:11:00::
+''
+.
+The
+Anniston location%1:03:00::
+catcher catcher%1:18:00::
+did
+not not%4:02:00::
+reply reply%2:32:00::
+with
+words words%1:10:03::
+.
+He
+simply simply%4:02:00::
+turned_to turn_to%2:32:01::
+Mike person%1:03:00::
+and
+smiled smile%2:29:00::
+.
+This
+so so%4:02:02::
+infuriated infuriate%2:37:00::
+Deegan person%1:03:00::
+that
+he
+spun_around spin_around%2:38:00::
+and
+said say%2:32:00::
+:
+``
+I
+'ll
+get get%2:33:00::
+that
+little little%5:00:00:minor:06
+bastard bastard%1:18:00::
+.
+So_help_me_God
+,
+I
+'ll
+get get%2:33:00::
+him
+''
+.
+Phil_Rossoff person%1:03:00::
+said say%2:32:00::
+:
+``
+Why
+do
+n't n't%4:02:00::
+you
+leave leave%2:30:01::
+him
+alone alone%4:02:01::
+''
+?
+``
+Mind mind%2:41:01::
+your
+own own%5:00:00:personal:00
+goddamn goddamn%5:00:00:cursed:00
+business business%1:09:01::
+''
+,
+Mike_Deegan person%1:03:00::
+said say%2:32:00::
+.
+Phil person%1:03:00::
+shrugged shrug%2:29:00::
+.
+He
+stepped step%2:38:00::
+into
+the
+dugout dugout%1:06:01::
+,
+wondering wonder%2:31:00::
+why
+Deegan person%1:03:00::
+was
+always always%4:02:00::
+looking_for look_for%2:35:00::
+trouble trouble%1:11:00::
+.
+Maybe maybe%4:02:00::
+the
+answer answer%1:10:02::
+was be%2:42:04::
+in
+his
+eyes eye%1:08:00::
+.
+When
+Deegan person%1:03:00::
+smiled smile%2:29:00::
+his
+eyes eye%1:08:00::
+never never%4:02:00::
+fit_in fit_in%2:42:00::
+with
+his
+lips lip%1:08:00::
+.
+In
+the
+last last%1:28:00::
+of
+the
+sixth sixth%5:00:00:ordinal:00
+inning inning%1:28:00::
+Mike_Deegan person%1:03:00::
+got_up get_up%2:38:01::
+to
+bat bat%2:35:01::
+and
+hit hit%2:35:00::
+a
+fast_ball fastball%1:04:00::
+over
+the
+left_fielder left_fielder%1:18:00::
+'s
+head head%1:08:00::
+.
+By
+the
+time time%1:11:00::
+the
+fielder fielder%1:18:00::
+got get%2:30:02::
+his
+hands hand%1:08:00::
+on
+the
+ball ball%1:06:01::
+Deegan person%1:03:00::
+was
+rounding round%2:38:00::
+third_base third_base%1:06:00::
+and
+heading head%2:38:00::
+for
+home home%1:06:02::
+.
+The
+left_fielder left_fielder%1:18:00::
+threw throw%2:35:00::
+and
+it
+was be%2:42:03::
+a
+good good%5:00:00:opportune:00
+one
+.
+But
+Mike person%1:03:00::
+had have%2:40:00::
+no
+chance chance%1:26:00::
+of
+being
+tagged tag%2:35:01::
+.
+The
+Anniston location%1:03:00::
+catcher catcher%1:18:00::
+was
+straddling straddle%2:42:01::
+home_plate home_plate%1:06:00::
+.
+All
+Deegan person%1:03:00::
+had_to
+do do%2:41:01::
+was be%2:42:06::
+slide slide%2:38:01::
+,
+fall_away fall_away%2:30:00::
+,
+but
+instead instead%4:02:00::
+,
+he
+rammed ram%2:35:02::
+into
+the
+catcher catcher%1:18:00::
+.
+Both
+fell fall%2:38:00::
+heavily heavily%4:02:02::
+to
+the
+ground ground%1:17:00::
+.
+Only only%4:02:01::
+Mike person%1:03:00::
+got get%2:30:00::
+to
+his
+feet
+.
+He
+went_back go_back%2:38:00::
+to
+touch touch%2:35:00::
+home_plate home_plate%1:06:00::
+,
+turned turn%2:38:00::
+and
+walked walk%2:38:00::
+to
+the
+dugout dugout%1:06:01::
+without
+looking_back look_back%2:39:00::
+.
+The
+Anniston location%1:03:00::
+players player%1:18:01::
+and
+their
+manager manager%1:18:01::
+ran run%2:38:00::
+out
+on
+the
+field field%1:15:02::
+.
+They
+poured pour%2:38:03::
+water water%1:27:00::
+over
+their
+catcher catcher%1:18:00::
+'s
+face face%1:08:00::
+.
+He
+did
+not not%4:02:00::
+move move%2:38:00::
+.
+Then then%4:02:00::
+the
+manager manager%1:18:01::
+called_for call_for%2:32:00::
+a
+doctor doctor%1:18:00::
+.
+The
+Riverside location%1:03:00::
+physician physician%1:18:00::
+came come%2:38:00::
+down
+to
+look look%2:39:00::
+over
+the
+injured injured%3:00:00::
+ballplayer ballplayer%1:18:00::
+.
+Then then%4:02:00::
+,
+quickly quickly%4:02:02::
+,
+and
+a_little a_little%4:02:00::
+nervously nervously%4:02:00::
+,
+the
+doctor doctor%1:18:00::
+ordered order%2:32:01::
+a_couple_of a_couple_of%5:00:00:few:00
+ballplayers ballplayer%1:18:00::
+to
+carry carry%2:35:02::
+the
+catcher catcher%1:18:00::
+into
+the
+dressing_room dressing_room%1:06:00::
+.
+Mike_Deegan person%1:03:00::
+was
+sitting sit%2:35:00::
+on
+the
+bench bench%1:06:02::
+,
+watching watch%2:39:00::
+.
+When
+the
+ballplayers ballplayer%1:18:00::
+started start%2:30:00::
+to
+carry carry%2:35:02::
+the
+catcher catcher%1:18:00::
+off
+the
+field field%1:15:02::
+he
+said say%2:32:00::
+:
+``
+That
+ought
+to
+teach teach%2:32:00::
+the
+sonofabitch
+''
+.
+Phil_Rossoff person%1:03:00::
+,
+seated seat%2:35:00::
+next next%5:00:00:close:01
+to
+Deegan person%1:03:00::
+,
+got_up get_up%2:38:01::
+and
+moved move%2:38:03::
+to
+the
+other other%3:00:00::
+end end%1:15:00::
+of
+the
+bench bench%1:06:02::
+.
+The
+Anniston location%1:03:00::
+manager manager%1:18:01::
+was
+coming come%2:38:00::
+over
+to
+the
+Riverside location%1:03:00::
+dugout dugout%1:06:01::
+.
+He
+was
+followed follow%2:38:00::
+by
+four four%5:00:00:cardinal:00
+of
+his
+men men%1:14:00::
+.
+It
+began begin%2:30:00::
+to
+look look%2:39:01::
+as
+if
+something
+was
+going_to
+happen happen%2:30:00::
+.
+Mike person%1:03:00::
+sat sit%2:35:00::
+quietly quietly%4:02:01::
+watching watch%2:41:00::
+the
+manager manager%1:18:01::
+come come%2:38:00::
+nearer nearer%5:00:00:near:00
+.
+Eddie_Lee person%1:03:00::
+moved move%2:38:03::
+over
+to
+Mike_Deegan person%1:03:00::
+'s
+side side%1:15:02::
+.
+No
+one
+said say%2:32:00::
+a
+word word%1:10:00::
+.
+The
+Anniston location%1:03:00::
+manager manager%1:18:01::
+came come%2:38:00::
+right right%4:02:04::
+up
+to
+the
+dugout dugout%1:06:01::
+in_front in_front%4:02:00::
+of
+Mike person%1:03:00::
+.
+His
+face face%1:08:00::
+was be%2:42:03::
+flushed flushed%5:00:00:healthy:00
+.
+``
+Deegan person%1:03:00::
+''
+,
+the
+manager manager%1:18:01::
+said say%2:32:00::
+,
+his
+voice voice%1:10:00::
+pitched pitched%3:44:00::
+low low%3:00:03::
+,
+quivering quiver%2:38:00::
+.
+``
+That
+was be%2:42:06::
+a
+rotten rotten%5:00:03:bad:00
+thing thing%1:11:00::
+to
+do do%2:41:01::
+''
+.
+``
+For
+God god%1:18:00::
+'s
+sake sake%1:07:00::
+''
+,
+Mike person%1:03:00::
+said say%2:32:00::
+,
+waving wave%2:32:00::
+the
+manager manager%1:18:01::
+away away%4:02:00::
+.
+``
+Stop stop%2:42:00::
+it
+,
+will
+you
+?
+Tell tell%2:32:02::
+your
+guys guy%1:18:00::
+not not%4:02:00::
+to
+block block%2:35:00::
+the
+plate plate%1:06:04::
+''
+.
+``
+You
+did
+n't n't%4:02:00::
+have_to
+ram ram%2:35:02::
+him
+''
+.
+``
+That
+'s
+what
+you
+say say%2:32:01::
+''
+.
+The
+Anniston location%1:03:00::
+manager manager%1:18:01::
+looked look%2:39:00::
+at
+Eddie_Lee person%1:03:00::
+.
+It
+was be%2:42:06::
+a
+cold cold%3:00:02::
+and
+calculated calculated%5:00:00:premeditated:00
+look look%1:07:01::
+.
+He
+turned turn%2:38:00::
+and
+went_back go_back%2:38:00::
+across
+the
+field field%1:15:02::
+to
+his
+dugout dugout%1:06:01::
+.
+He
+called_in call_in%2:41:02::
+the
+pitcher pitcher%1:18:00::
+who
+had
+been
+pitching pitch%2:35:00::
+,
+and
+a
+big big%3:00:01::
+,
+heavy heavy%3:00:01::
+,
+powerfully powerfully%4:02:01::
+built built%5:00:00:shapely:00
+right right%3:00:00::
+hander
+moved move%2:38:03::
+out
+to
+the
+mound mound%1:06:01::
+for
+Anniston location%1:03:00::
+.
+The
+game game%1:04:00::
+started start%2:30:00::
+again again%4:02:00::
+and
+in
+the
+eighth eighth%5:00:00:ordinal:00
+inning inning%1:28:00::
+Mike_Deegan person%1:03:00::
+came come%2:38:04::
+up
+to
+bat bat%2:35:01::
+.
+Everyone
+in
+the
+ball_park ballpark%1:06:00::
+seemed seem%2:39:00::
+to
+be
+standing stand%2:35:00::
+and
+shouting shout%2:32:01::
+.
+The
+first first%5:00:00:ordinal:00
+ball ball%1:06:01::
+the
+hefty hefty%5:00:00:strong:00
+pitcher pitcher%1:18:00::
+threw throw%2:35:00::
+came come%2:38:00::
+in
+for
+Mike person%1:03:00::
+'s
+head head%1:08:00::
+.
+Deegan person%1:03:00::
+fell fall%2:38:00::
+into
+the
+dirt dirt%1:27:01::
+,
+the
+ball ball%1:06:01::
+going go%2:38:00::
+over
+him
+.
+He
+arose arise%2:38:00::
+slowly slowly%4:02:02::
+and
+brushed brush%2:35:01::
+himself
+off
+.
+He
+got get%2:38:00::
+back back%4:02:04::
+into
+the
+batter's_box batter's_box%1:06:00::
+and
+on
+the
+next next%5:00:00:succeeding(a):00
+pitch pitch%1:04:03::
+dropped drop%2:38:05::
+into
+the
+dirt dirt%1:27:01::
+again again%4:02:00::
+.
+``
+Hit hit%2:35:00::
+the
+bum bum%1:18:02::
+''
+!
+somebody
+yelled yell%2:32:00::
+from
+the
+Anniston location%1:03:00::
+bench bench%1:06:02::
+.
+In
+the
+Riverside location%1:03:00::
+dugout dugout%1:06:01::
+Frankie_Ricco person%1:03:00::
+,
+shortstop shortstop%1:18:00::
+,
+whispered whisper%2:32:00::
+into
+Phil person%1:03:00::
+'s
+ear ear%1:08:00::
+:
+``
+There
+'s
+gonna
+be be%2:42:04::
+a
+fight fight%1:04:02::
+''
+.
+``
+Look look%2:39:00::
+at
+those
+bastards bastard%1:18:00::
+''
+!
+Charlie_Haydon person%1:03:00::
+,
+a
+pitcher pitcher%1:18:00::
+,
+said say%2:32:00::
+.
+``
+They
+'re
+looking_for look_for%2:35:00::
+trouble trouble%1:11:00::
+''
+.
+Mike person%1:03:00::
+was be%2:42:03::
+slow slow%3:00:01::
+getting get%2:38:00::
+into
+the
+box batter's_box%1:06:00::
+this
+time time%1:11:00::
+.
+When
+he
+finally finally%4:02:02::
+did
+he
+had_to
+duck duck%2:38:00::
+his
+head head%1:08:00::
+quickly quickly%4:02:00::
+away away%4:02:03::
+as
+the
+pitch pitch%1:04:03::
+came_in come_in%2:38:01::
+.
+``
+Listen
+''
+!
+he
+shouted shout%2:32:00::
+to
+the
+pitcher pitcher%1:18:00::
+.
+``
+One one%5:00:02:single(a):00
+more more%5:00:00:added:00
+and
+I
+'m
+coming come%2:38:04::
+out
+there
+''
+!
+``
+I
+'ll
+be
+waiting wait%2:31:00::
+''
+!
+the
+pitcher pitcher%1:18:00::
+yelled yell%2:32:00::
+back back%4:02:06::
+.
+Mike_Deegan person%1:03:00::
+pounded pound%2:35:00::
+the
+rubber rubber%1:27:00::
+plate plate%1:06:04::
+with
+the
+end end%1:15:00::
+of
+his
+bat bat%1:06:01::
+.
+He
+stood stand%2:35:00::
+flat-footed flat-footed%5:00:00:footed:00
+in
+the
+box batter's_box%1:06:00::
+,
+but
+not not%4:02:00::
+very very%4:02:00::
+close close%3:00:01::
+to
+the
+plate plate%1:06:04::
+now now%4:02:05::
+.
+The
+pitcher pitcher%1:18:00::
+wound_up wind_up%2:38:00::
+and
+the
+ball ball%1:06:01::
+came come%2:38:00::
+in
+straight straight%4:02:05::
+for
+Mike person%1:03:00::
+'s
+head head%1:08:00::
+.
+Deegan person%1:03:00::
+dropped drop%2:38:00::
+,
+got_up get_up%2:38:01::
+,
+turned turn%2:38:00::
+and
+,
+holding hold%2:35:00::
+the
+bat bat%1:06:01::
+with
+both
+hands hand%1:08:00::
+up
+against
+his
+chest chest%1:08:00::
+,
+began begin%2:30:00::
+to
+walk walk%2:38:00::
+slowly slowly%4:02:02::
+out
+to
+the
+mound mound%1:06:01::
+.
+The
+pitcher pitcher%1:18:00::
+tossed toss_away%2:40:00::
+his
+glove glove%1:06:01::
+away
+and
+came come%2:38:00::
+towards
+Mike_Deegan person%1:03:00::
+.
+They
+were
+both
+walking walk%2:38:00::
+towards
+each
+other
+,
+unhurried unhurried%3:00:00::
+.
+Riverside location%1:03:00::
+and
+Anniston location%1:03:00::
+players player%1:18:01::
+rushed_out rush_out%2:38:00::
+on
+the
+field field%1:15:02::
+.
+In
+the
+next next%5:00:00:succeeding(a):00
+moment moment%1:28:00::
+,
+it
+seemed seem%2:39:00::
+,
+the
+infield infield%1:06:00::
+was be%2:42:03::
+crowded crowded%3:00:00::
+with
+spectators spectator%1:18:00::
+,
+ballplayers ballplayer%1:18:00::
+,
+cops cop%1:18:00::
+,
+kids kid%1:18:00::
+and
+a
+dog dog%1:05:00::
+.
+There
+was be%2:42:04::
+much much%3:00:00::
+shouting shouting%1:10:00::
+and
+screaming screaming%1:10:00::
+.
+Fights fight%1:04:02::
+sprang_up spring_up%2:42:00::
+and
+were
+quickly quickly%4:02:02::
+squelched squelch%2:30:00::
+.
+Mike person%1:03:00::
+and
+the
+Anniston location%1:03:00::
+pitcher pitcher%1:18:00::
+were
+pulled_away pull_away%2:35:00::
+before
+they
+even even%4:02:00::
+came come%2:38:04::
+together together%4:02:02::
+.
+Phil_Rossoff person%1:03:00::
+and
+two two%5:00:00:cardinal:00
+other other%3:00:00::
+Riverside location%1:03:00::
+players player%1:18:01::
+did
+not not%4:02:00::
+go go%2:38:00::
+out
+on
+the
+field field%1:15:02::
+when
+the
+fighting fighting%1:04:00::
+started start%2:30:00::
+.
+After
+the
+game game%1:04:00::
+,
+Phil person%1:03:00::
+was
+taking_off take_off%2:35:01::
+his
+sweatshirt sweatshirt%1:06:00::
+in
+the
+dressing_room dressing_room%1:06:00::
+when
+Mike_Deegan person%1:03:00::
+came_in come_in%2:38:02::
+.
+``
+It
+'s
+a
+helluva
+thing thing%1:26:00::
+''
+,
+Mike person%1:03:00::
+said say%2:32:00::
+,
+looking look%2:39:00::
+at
+Phil person%1:03:00::
+,
+``
+when
+a
+guy guy%1:18:00::
+'s
+own own%5:00:00:personal:00
+team-mate teammate%1:18:00::
+won
+n't n't%4:02:00::
+come_out come_out%2:38:01::
+and
+help help%2:41:00::
+him
+in
+a
+fight fight%1:04:02::
+''
+.
+Phil person%1:03:00::
+sighed sigh%2:29:00::
+and
+pulled pull%2:35:00::
+the
+wet wet%3:00:01::
+sweatshirt sweatshirt%1:06:00::
+over
+his
+head head%1:08:00::
+.
+Frankie_Ricco person%1:03:00::
+sat_down sit_down%2:38:00::
+on
+the
+bench bench%1:06:00::
+near near%3:00:00::
+Phil person%1:03:00::
+.
+The
+other other%3:00:00::
+players player%1:18:01::
+were
+undressing undress%2:29:00::
+quietly quietly%4:02:01::
+.
+Eddie_Lee person%1:03:00::
+had
+not not%4:02:00::
+come_in come_in%2:38:02::
+yet yet%4:02:04::
+.
+Mike person%1:03:00::
+went go%2:38:00::
+over
+to
+Phil person%1:03:00::
+and
+stood stand%2:35:00::
+over
+him
+.
+``
+Why
+the
+hell
+did
+n't n't%4:02:00::
+you
+come_out come_out%2:30:00::
+when
+you
+saw see%2:39:00::
+them
+gang_up gang_up%2:33:00::
+on
+me
+''
+?
+``
+I
+did
+n't n't%4:02:00::
+think think%2:31:01::
+it
+was be%2:42:03::
+necessary necessary%3:00:00::
+''
+.
+``
+Well
+!
+Now
+that
+'s
+just just%4:02:03::
+fine fine%5:00:02:bad:00
+!
+You
+did
+n't n't%4:02:00::
+think think%2:31:01::
+it
+was be%2:42:03::
+necessary necessary%3:00:00::
+''
+.
+Mike person%1:03:00::
+placed place%2:35:00::
+both
+his
+hands hand%1:08:00::
+on
+his
+hips hip%1:08:00::
+.
+He
+pushed push%2:38:00::
+his
+jaw jaw%1:08:00::
+forward forward%4:02:00::
+.
+``
+Listen
+,
+wise_guy wise_guy%1:18:00::
+,
+if
+you
+think think%2:31:03::
+I
+'m
+gonna
+do do%2:41:01::
+all
+the
+fighting fighting%1:04:00::
+for
+this
+ball_club ball_club%1:14:00::
+you
+'re
+crazy crazy%5:00:00:impractical:00
+''
+.
+Mike person%1:03:00::
+had have%2:40:00::
+a
+good good%5:00:00:ample:00
+two two%5:00:00:cardinal:00
+inches inch%1:23:00::
+over
+Phil person%1:03:00::
+and
+Phil person%1:03:00::
+had_to
+look look%2:39:00::
+up up%4:02:00::
+into
+Mike person%1:03:00::
+'s
+face face%1:08:00::
+.
+``
+I
+did
+n't n't%4:02:00::
+ask ask%2:32:01::
+you
+to
+fight fight%2:33:00::
+for
+the
+ball_club ball_club%1:14:00::
+''
+,
+Phil person%1:03:00::
+said say%2:32:00::
+slowly slowly%4:02:02::
+.
+``
+Nobody
+else else%4:02:01::
+did
+,
+either
+''
+.
+``
+You
+trying try%2:41:00::
+to
+say say%2:32:01::
+I
+started start%2:30:01::
+the
+fight fight%1:04:02::
+''
+?
+``
+I
+'m
+not not%4:02:00::
+trying try%2:41:00::
+to
+say say%2:32:01::
+anything
+''
+.
+Phil person%1:03:00::
+turned_away turn_away%2:38:02::
+and
+opened open%2:35:00::
+his
+locker locker%1:06:00::
+,
+and_then and_then%4:02:00::
+he
+heard hear%2:39:00::
+Mike_Deegan person%1:03:00::
+say say%2:32:00::
+:
+``
+You
+'re
+yellow yellow%5:00:00:cowardly:00
+,
+Rossoff person%1:03:00::
+''
+!
+and
+Phil person%1:03:00::
+banged bang%2:35:01::
+his
+locker locker%1:06:00::
+door door%1:06:00::
+shut shut%3:00:00::
+and
+spun_around spin_around%2:38:00::
+.
+But
+before
+anything
+could
+happen happen%2:30:00::
+Frankie_Ricco person%1:03:00::
+was be%2:42:05::
+between
+them
+and
+Eddie_Lee person%1:03:00::
+had
+come come%2:38:04::
+into
+the
+dressing_room dressing_room%1:06:00::
+.
+``
+Phil person%1:03:00::
+,
+come come%2:38:00::
+into
+my
+office office%1:06:00::
+''
+,
+Eddie person%1:03:00::
+said say%2:32:00::
+.
+Phil person%1:03:00::
+followed follow%2:38:00::
+Eddie person%1:03:00::
+into
+the
+office office%1:06:00::
+and
+shut shut%2:35:00::
+the
+door door%1:06:00::
+.
+He
+sat_down sit_down%2:38:00::
+before
+Eddie person%1:03:00::
+'s
+desk desk%1:06:00::
+.
+``
+I
+'m
+doing do%2:41:01::
+you
+a
+favor favor%1:04:00::
+''
+,
+Eddie person%1:03:00::
+said say%2:32:00::
+quickly quickly%4:02:00::
+.
+``
+You
+get get%2:40:00::
+your
+unconditional unconditional%3:00:00::
+release release%1:04:02::
+as
+of
+today today%1:28:01::
+''
+.
+Phil person%1:03:00::
+'s
+eyes eye%1:08:00::
+widened widen%2:30:00::
+just just%4:02:00::
+a_trifle a_trifle%4:02:00::
+.
+``
+The
+best best%3:00:00::
+thing thing%1:04:00::
+for
+you
+to
+do do%2:41:01::
+''
+,
+Eddie person%1:03:00::
+said say%2:32:00::
+,
+``
+is be%2:42:06::
+go_home go_home%2:38:00::
+.
+You
+do
+n't n't%4:02:00::
+belong belong%2:42:02::
+in
+professional professional%3:00:01::
+baseball baseball%1:04:00::
+''
+.
+Phil person%1:03:00::
+had_to
+clear clear%2:30:02::
+his
+throat throat%1:08:00::
+.
+``
+Is be%2:42:00::
+this
+because
+of
+what
+happened happen%2:30:00::
+out
+there
+''
+?
+``
+No
+''
+,
+Eddie person%1:03:00::
+said say%2:32:00::
+.
+``
+But
+it
+does
+confirm confirm%2:31:00::
+what
+I
+'ve
+suspected suspect%2:31:02::
+all_along all_along%4:02:00::
+''
+.
+Phil person%1:03:00::
+stood_up stand_up%2:38:00::
+.
+``
+Listen
+!
+This
+is be%2:42:06::
+the
+second second%5:00:00:ordinal:00
+time time%1:11:00::
+''
+.
+``
+Sit_down sit_down%2:38:00::
+,
+sit_down sit_down%2:38:00::
+''
+,
+Eddie person%1:03:00::
+said say%2:32:00::
+.
+``
+I
+'m
+not not%4:02:00::
+saying say%2:32:01::
+you
+'re
+yellow yellow%5:00:00:cowardly:00
+.
+I
+am
+saying say%2:32:01::
+you
+'re
+not not%4:02:00::
+a
+professional professional%3:00:01::
+ballplayer ballplayer%1:18:00::
+''
+.
+Eddie_Lee person%1:03:00::
+leaned lean%2:38:00::
+forward forward%4:02:00::
+over
+the
+desk desk%1:06:00::
+.
+``
+Now now%4:02:02::
+listen listen%2:41:11::;2:39:01::
+to
+me
+,
+Phil person%1:03:00::
+.
+I
+'m
+not not%4:02:00::
+steering steer%2:41:00::
+you
+wrong wrong%3:00:01::
+.
+You
+have have_got%2:40:00::
+n't n't%4:02:00::
+got
+the
+heart heart%1:07:01::
+for
+baseball baseball%1:04:00::
+''
+.
+Phil person%1:03:00::
+shook shake%2:38:00::
+his
+head head%1:08:00::
+and
+Eddie person%1:03:00::
+frowned frown%2:29:00::
+.
+Suddenly suddenly%4:02:00::
+his
+voice voice%1:07:00::
+grew grow%2:30:03::
+hard hard%3:00:02::
+.
+``
+What
+the
+hell
+do
+you
+think think%2:31:01::
+baseball baseball%1:04:00::
+is be%2:42:06::
+?
+You
+'re
+not not%4:02:00::
+in
+the
+big_leagues big_league%1:14:00::
+,
+but
+if
+you
+can
+n't n't%4:02:00::
+give_and_take give_and_take%2:32:00::
+down
+here here%4:02:00::
+what
+the
+hell
+do
+you
+think think%2:31:03::
+it
+'ll
+be be%2:42:03::
+like
+up
+there
+''
+?
+Phil person%1:03:00::
+started start%2:30:00::
+to
+say say%2:32:00::
+something
+but
+Eddie person%1:03:00::
+cut cut_short%2:30:04::
+him
+short
+.
+``
+Now
+do
+n't n't%4:02:00::
+tell tell%2:32:04::
+me
+what
+a
+good good%3:00:01::
+ball_player ballplayer%1:18:00::
+you
+are be%2:42:03::
+.
+I
+know know%2:31:01::
+you
+'ve
+got have_got%2:40:00::
+talent talent%1:09:00::
+.
+But
+what
+you
+have have_got%2:40:00::
+n't n't%4:02:00::
+got
+is be%2:42:06::
+the
+heart heart%1:07:01::
+to
+back_up back_up%2:41:00::
+that
+talent talent%1:09:00::
+with
+.
+The
+heart heart%1:07:01::
+,
+Phil person%1:03:00::
+.
+You
+just just%4:02:03::
+have have_got%2:40:00::
+n't n't%4:02:00::
+got
+the
+heart heart%1:07:01::
+for
+pro-ball
+,
+and
+that
+'s
+it
+''
+.
+Dazed dazed%5:00:00:confused:00
+,
+Phil person%1:03:00::
+said say%2:32:00::
+:
+``
+I
+do
+n't n't%4:02:00::
+get_it get_it%2:31:00::
+.
+My
+batting_average batting_average%1:24:00::
+&
+&
+&
+''
+.
+Eddie person%1:03:00::
+stood_up stand_up%2:38:00::
+abruptly abruptly%4:02:00::
+,
+then then%4:02:00::
+sat_down sit_down%2:38:00::
+just just%4:02:05::
+as
+abruptly abruptly%4:02:00::
+.
+``
+What
+difference difference%1:07:00::
+does
+your
+batting_average batting_average%1:24:00::
+make
+?
+Or
+your
+fielding_average fielding_average%1:24:00::
+.
+Or
+even even%4:02:00::
+the
+way way%1:07:01::
+you
+run_bases run_bases%2:38:00::
+.
+I
+tell tell%2:32:00::
+you
+when
+it
+'s
+necessary necessary%3:00:00::
+to
+hurt hurt%2:29:01::
+in_order
+to
+win win%2:33:00::
+-
+you
+won
+n't n't%4:02:00::
+do do%2:41:01::
+it
+.
+That
+'s
+what
+I
+mean mean%2:32:01::
+by
+no no%3:00:00::
+heart heart%1:07:01::
+for
+the
+game game%1:04:00::
+.
+Baseball baseball%1:04:00::
+'s
+no
+cinch cinch%1:04:01::
+.
+Deegan person%1:03:00::
+had
+no no%3:00:00::
+business business%1:09:01::
+ramming ram%2:35:01::
+into
+that
+kid kid%1:18:00::
+out
+there
+.
+He
+did do%2:41:01::
+it
+because
+he
+knows know%2:31:01::
+for
+each each%5:00:00:all(a):00
+guy guy%1:18:00::
+he
+puts put%2:35:05::
+out_of_commission out_of_commission%3:00:00::
+that
+'s
+one one%5:00:01:single(a):00
+less less%1:23:00::
+who
+might
+take take_away%2:30:01::
+his
+job job%1:04:00::
+away
+later_on later_on%4:02:00::
+.
+What
+the
+hell
+do
+you
+think think%2:31:01::
+baseball baseball%1:04:00::
+is be%2:42:06::
+?
+A
+sport sport%1:04:00::
+?
+It
+'s
+a
+way_of_life way_of_life%1:04:00::
+,
+goddamit
+!
+And
+you
+'ve
+got
+to
+be be%2:42:03::
+ready ready%3:00:00::
+to
+cut_to_ribbons
+anybody
+who
+want
+to
+take take_away%2:30:01::
+your
+way_of_life way_of_life%1:04:00::
+away
+from
+you
+''
+!
+He
+'s
+wrong wrong%3:00:02::
+!
+Phil person%1:03:00::
+thought think%2:31:01::
+.
+It
+'s
+only only%4:02:02::
+his
+opinion opinion%1:09:00::
+.
+There
+were be%2:42:00::
+other other%3:00:00::
+clubs club%1:14:01::
+in
+this
+league league%1:14:01::
+.
+He
+stood_up stand_up%2:38:00::
+slowly slowly%4:02:02::
+.
+He
+was be%2:42:03::
+a_little a_little%4:02:00::
+pale pale%5:00:00:weak:00
+and
+shaky shaky%5:00:00:unstable:00
+.
+His
+lips lip%1:08:00::
+felt feel%2:42:00::
+glued glued%5:00:00:affixed:00
+together together%4:02:02::
+.
+``
+I
+think think%2:31:01::
+you
+'re
+wrong wrong%3:00:02::
+,
+Eddie person%1:03:00::
+''
+,
+he
+said say%2:32:00::
+finally finally%4:02:02::
+.
+Eddie person%1:03:00::
+nodded nod%2:32:01::
+.
+``
+Okay
+.
+You
+'ll
+get get%2:40:00::
+your
+pay pay%1:21:01::
+in
+the
+morning morning%1:28:00::
+''
+.
+Phil person%1:03:00::
+turned turn%2:38:00::
+and
+left leave%2:38:01::
+the
+room room%1:06:00::
+,
+hearing hear%2:39:00::
+Eddie person%1:03:00::
+say say%2:32:00::
+:
+``
+Someday someday%4:02:00::
+you
+'ll
+see see%2:39:02::
+I
+was be%2:42:03::
+right right%3:00:02::
+''
+.
+Phil person%1:03:00::
+shut shut%2:35:00::
+the
+door door%1:06:00::
+behind
+him
+.
+Outside
+in
+the
+dressing_room dressing_room%1:06:00::
+,
+Frankie_Ricco person%1:03:00::
+sat sit%2:35:00::
+on
+the
+bench bench%1:06:00::
+dressed dressed%5:00:00:clothed:00
+in
+his
+street_clothes street_clothes%1:06:00::
+.
+``
+What
+happened happen%2:30:00::
+''
+?
+Frankie person%1:03:00::
+asked ask%2:32:00::
+.
+Phil person%1:03:00::
+said say%2:32:00::
+:
+``
+I
+got get%2:40:00::
+my
+release release%1:04:02::
+''
+.
+``
+You
+crazy crazy%5:00:00:insane:00
+''
+?
+Phil person%1:03:00::
+shrugged shrug%2:29:00::
+.
+``
+What
+for
+''
+?
+Phil person%1:03:00::
+sighed sigh%2:29:00::
+.
+Frankie person%1:03:00::
+shook shake%2:38:00::
+his
+head head%1:08:00::
+.
+``
+I
+do
+n't n't%4:02:00::
+get_it get_it%2:31:00::
+''
+.
+``
+I
+do
+n't n't%4:02:00::
+know know%2:31:01::
+''
+,
+Phil person%1:03:00::
+said say%2:32:00::
+.
+They
+were be%2:42:03::
+silent silent%5:00:00:quiet:01
+for
+a_few a_few%5:00:00:few:00
+moments moment%1:28:01::
+.
+Then then%4:02:00::
+Frankie person%1:03:00::
+said say%2:32:00::
+:
+``
+What
+are
+you
+gonna
+do do%2:41:01::
+''
+?
+Phil person%1:03:00::
+started start%2:30:00::
+to
+take take_off%2:35:01::
+his
+clothes clothes%1:06:00::
+off
+and
+Frankie person%1:03:00::
+sat_down sit_down%2:38:00::
+on
+the
+bench bench%1:06:00::
+again again%4:02:00::
+.
+Phil person%1:03:00::
+took_off take_off%2:35:01::
+one one%5:00:02:single(a):00
+shoe shoe%1:06:00::
+and
+stared stare%2:39:00::
+at
+it
+.
+``
+Do
+n't n't%4:02:00::
+take take%2:31:07::
+it
+like
+this
+''
+,
+Frankie person%1:03:00::
+said say%2:32:00::
+.
+``
+Hell
+,
+plenty plenty%1:07:00::
+of
+guys guy%1:18:00::
+get
+let_out
+and
+come_back come_back%2:38:00::
+later later%4:02:02::
+.
+The
+leagues league%1:14:01::
+are be%2:42:03::
+full full%3:00:00::
+of
+guys guy%1:18:00::
+like
+that
+''
+.
+Phil person%1:03:00::
+was be%2:42:03::
+very very%4:02:00::
+quiet quiet%3:00:01::
+.
+``
+What
+are
+you
+gonna
+do do%2:41:01::
+,
+Phil person%1:03:00::
+''
+?
+Phil person%1:03:00::
+did
+not not%4:02:00::
+answer answer%2:32:00::
+.
+``
+Why
+not not%4:02:00::
+try try%2:41:01::
+another another%5:00:00:other:00
+club club%1:14:01::
+''
+?
+Phil person%1:03:00::
+looked look%2:39:00::
+up
+.
+What
+the
+hell
+right right%1:07:00::
+did
+Eddie person%1:03:00::
+have have%2:40:00::
+saying say%2:32:00::
+a
+thing thing%1:09:00::
+like
+that
+?
+``
+Springfield springfield%1:15:00::
+'s
+in
+tomorrow tomorrow%1:28:01::
+''
+,
+Frankie person%1:03:00::
+said say%2:32:00::
+.
+``
+Talk talk%2:32:01::
+to
+Whitey_Jackson person%1:03:00::
+''
+.
+He
+just just%4:02:03::
+did
+n't n't%4:02:00::
+know know%2:31:01::
+what
+he
+was
+talking_about talk_about%2:32:00::
+,
+saying say%2:32:01::
+a
+thing thing%1:09:00::
+like
+that
+.
+``
+Will
+you
+do do%2:41:01::
+it
+,
+Phil person%1:03:00::
+''
+?
+``
+Do do%2:41:01::
+what
+''
+?
+``
+Ask ask%2:32:01::
+Whitey person%1:03:00::
+for
+a
+job job%1:04:00::
+''
+.
+Phil person%1:03:00::
+nodded nod%2:32:01::
+.
+``
+Sure sure%4:02:00::
+''
+,
+he
+said say%2:32:00::
+.
+``
+Springfield springfield%1:15:00::
+come_in come_in%2:38:02::
+tomorrow tomorrow%1:28:01::
+''
+?
+Frankie person%1:03:00::
+nodded nod%2:32:01::
+.
+``
+I
+'ll
+speak_to speak_to%2:32:00::
+Whitey person%1:03:00::
+''
+.
+``
+Atta_boy
+''
+.
+``
+I
+'ll
+talk talk%2:32:01::
+to
+him
+,
+all_right all_right%4:02:01::
+''
+.
+``
+Do
+n't n't%4:02:00::
+worry worry%2:37:00::
+''
+,
+Frankie person%1:03:00::
+said say%2:32:00::
+.
+``
+You
+'ll
+get get%2:40:00::
+a
+job job%1:04:00::
+there
+.
+He
+needs need%2:34:00::
+outfielders outfielder%1:18:00::
+bad
+''
+.
+``
+I
+'m
+not not%4:02:00::
+worried worry%2:37:12::
+about
+it
+''
+,
+Phil person%1:03:00::
+said say%2:32:00::
+.
+``
+That
+'s
+the
+way way%1:07:01::
+to
+talk talk%2:32:00::
+.
+What
+else else%5:00:00:added:00
+did
+Eddie person%1:03:00::
+have
+to
+say say%2:32:00::
+''
+?
+``
+Nothing nothing%1:23:00::
+''
+,
+Phil person%1:03:00::
+said say%2:32:00::
+.

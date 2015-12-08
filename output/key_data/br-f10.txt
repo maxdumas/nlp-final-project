@@ -1,0 +1,2219 @@
+Franklin_D._Lee person%1:03:00::
+proved prove%2:42:00::
+a
+man man%1:18:00::
+of
+prompt prompt%5:00:00:efficient:00
+action action%1:07:00::
+when
+Mrs._Claire_Shaefer person%1:03:00::
+,
+accompanied accompany%2:42:00::
+by
+a
+friend friend%1:18:00::
+,
+visited visit%2:41:02::
+him
+in
+Bakersfield location%1:03:00::
+,
+California california%1:15:00::
+,
+several several%5:00:00:some(a):00
+months month%1:28:01::
+ago ago%4:02:00::
+as
+a
+prospective prospective%3:00:00::
+patient patient%1:18:00::
+.
+``
+Doctor doctor%1:18:00::
+''
+Lee person%1:03:00::
+asked ask%2:32:01::
+her
+to
+lie_down lie_down%2:38:00::
+on
+a
+bed bed%1:06:00::
+and
+remove remove%2:30:00::
+her
+shoes shoe%1:06:00::
+.
+Then then%4:02:00::
+,
+by
+squeezing squeeze%2:35:00::
+her
+foot foot%1:08:01::
+three three%5:00:00:cardinal:00
+times time%1:11:00::
+,
+he
+came_up come_up%2:42:00::
+-
+presto presto%4:02:01::
+-
+with
+a
+different different%5:00:00:other:00
+diagnosis diagnosis%1:04:00::
+with
+each
+squeeze squeeze%1:04:00::
+.
+She
+had have%2:29:02::
+-
+he
+informed inform%2:32:00::
+her
+-
+kidney kidney%1:08:00::
+trouble trouble%1:26:01::
+,
+liver liver%1:08:00::
+trouble trouble%1:26:01::
+,
+and
+a
+severe severe%5:00:00:critical:03
+female female%5:00:02:feminine:01
+disorder disorder%1:26:03::
+.
+(
+He
+explained explain%2:32:00::
+that
+he
+could
+diagnose diagnose%2:31:00::
+these
+ailments ailment%1:26:00::
+from
+squeezing squeeze%2:35:00::
+her
+foot foot%1:08:01::
+because
+all_of all_of%3:00:00::
+the
+nervous_system nervous_system%1:08:00::
+was be%2:42:03::
+connected connected%3:00:00::
+to
+it
+.
+)
+He
+knew know%2:31:03::
+just just%4:02:05::
+the
+thing thing%1:04:00::
+for
+her
+-
+a
+treatment treatment%1:04:00::
+from
+his
+``
+cosmic cosmic%3:01:00::
+light light%1:19:00::
+ozone ozone%1:27:00::
+generator generator%1:06:00::
+''
+machine machine%1:06:00::
+.
+As
+he
+applied apply%2:35:00::
+the
+applicator applicator%1:06:00::
+extending extend%2:42:03::
+from
+the
+machine machine%1:06:00::
+-
+which
+consisted_of consist_of%2:42:00::
+seven seven%5:00:00:cardinal:00
+differently differently%4:02:00::
+colored colored%3:00:00::
+neon_tubes neon_tube%1:06:00::
+superimposed superimpose%2:35:00::
+on
+a
+rectangular rectangular%5:00:00:angular:00
+base base%1:06:01::
+-
+to
+the
+supposedly supposedly%4:02:00::
+diseased diseased%5:00:00:unhealthy:00
+portions portion%1:24:00::
+of
+Mrs._Shaefer person%1:03:00::
+'s
+body body%1:08:00::
+,
+Lee person%1:03:00::
+kept_up keep_up%2:42:00::
+a
+steady steady%3:00:00::
+stream stream%1:11:00::
+of
+pseudo pseudo%5:00:00:counterfeit:00
+scientific scientific%3:00:00::
+mumbo-jumbo mumbo_jumbo%1:10:00::
+.
+Yes
+,
+the
+ozone ozone%1:27:00::
+from
+his
+machine machine%1:06:00::
+would
+cure cure%2:29:00::
+practically practically%4:02:00::
+everything
+,
+he
+assured assure%2:32:01::
+her
+.
+Did
+she
+know know%2:31:01::
+,
+he
+asked ask%2:32:00::
+,
+why
+the
+colors color%1:07:00::
+of
+the
+tubes tube%1:06:00::
+were be%2:42:03::
+important important%3:00:00::
+to
+people people%1:14:00::
+'s
+health health%1:26:00::
+?
+The
+human_body human_body%1:08:00::
+-
+he
+pointed_out point_out%2:32:02::
+,
+for_example for_example%4:02:00::
+-
+required require%2:42:00::
+33
+units unit%1:23:00::
+of
+blue blue%5:00:00:chromatic:00
+light light%1:19:00::
+.
+For
+that
+reason reason%1:16:00::
+,
+he
+informed inform%2:32:00::
+her
+,
+the
+Lord lord%1:18:02::
+made make%2:36:05::
+the
+sky sky%1:17:00::
+blue blue%5:00:00:chromatic:00
+.
+Continuing continue%2:32:00::
+glibly glibly%4:02:00::
+in
+this
+vein vein%1:10:00::
+,
+he
+paused pause%2:32:01::
+to
+comfort comfort%2:37:01::
+her
+:
+``
+Do
+n't n't%4:02:00::
+you
+worry worry%2:37:00::
+.
+This
+machine machine%1:06:00::
+will
+cure cure%2:29:00::
+your
+cancer cancer%1:26:00::
+ridden ridden%5:00:00:controlled:00
+body body%1:08:00::
+''
+.
+``
+Cancer cancer%1:26:00::
+''
+!
+Mrs._Shaefer person%1:03:00::
+practically practically%4:02:00::
+shrieked shriek%2:32:00::
+.
+``
+You
+did
+n't n't%4:02:00::
+tell tell%2:32:00::
+me
+I
+had have%2:29:02::
+cancer cancer%1:26:00::
+''
+.
+``
+You
+have have%2:29:02::
+it
+,
+all_right all_right%4:02:01::
+.
+But
+as_long_as
+you
+can
+have have%2:39:06::
+treatment treatment%1:04:00::
+from
+my
+machine machine%1:06:00::
+you
+have have%2:40:00::
+nothing nothing%1:23:00::
+to
+worry worry%2:37:00::
+about
+.
+Why
+,
+I
+once once%4:02:00::
+used use%2:34:01::
+this
+machine machine%1:06:00::
+to
+cure cure%2:29:00::
+a
+woman woman%1:18:00::
+with
+97
+pounds pound%1:23:09::
+of
+cancer cancer%1:26:00::
+in
+her
+body body%1:08:00::
+''
+.
+He
+urged urge%2:32:00::
+her
+to
+buy buy%2:40:00::
+one one%5:00:00:cardinal:00
+of
+his
+machines machine%1:06:00::
+-
+for
+$
+300
+.
+When
+she
+said say%2:32:00::
+that
+she
+did
+n't n't%4:02:00::
+have have%2:40:00::
+the
+money money%1:21:00::
+,
+he
+said say%2:32:00::
+that
+she
+could
+come_in come_in%2:38:02::
+for
+treatment treatment%1:04:00::
+with
+his
+office office%1:06:00::
+model model%1:09:03::
+until
+she
+was be%2:42:03::
+ready ready%3:00:00::
+to
+buy buy%2:40:00::
+one one%5:00:00:cardinal:00
+.
+He
+then then%4:02:00::
+sold sell%2:40:00::
+her
+minerals mineral%1:27:00::
+to
+cure cure%2:29:00::
+her
+kidney kidney%1:08:00::
+ailment ailment%1:26:00::
+,
+a
+can can%1:06:00::
+of
+sage sage%1:13:00::
+``
+to
+make make%2:30:00::
+her
+look_like look_like%2:42:00::
+a
+girl girl%1:18:02::
+again again%4:02:00::
+''
+,
+and
+an
+application application%1:04:03::
+of
+plain plain%5:00:00:unadorned:00
+mud mud%1:27:00::
+to
+take take_away%2:30:00::
+her
+wrinkles wrinkle%1:25:00::
+away
+.
+Lee person%1:03:00::
+renewed renew%2:36:00::
+his
+pressure pressure%1:07:00::
+on
+Mrs._Shaefer person%1:03:00::
+to
+buy buy%2:40:00::
+his
+machine machine%1:06:00::
+when
+she
+visited visit%2:41:02::
+him
+the
+next next%5:00:00:succeeding(a):00
+day day%1:28:01::
+.
+After
+another another%5:00:00:added:00
+treatment treatment%1:04:00::
+with
+the
+machine machine%1:06:00::
+,
+he
+told tell%2:32:04::
+her
+that
+``
+her
+entire entire%5:00:02:whole:00
+body body%1:08:00::
+was
+shot_through
+with
+tumors tumor%1:26:00::
+and
+cysts cyst%1:26:00::
+''
+.
+He
+then then%4:02:00::
+sold sell%2:40:00::
+her
+some some%3:00:00::
+capsules capsule%1:06:00::
+that
+he
+asserted assert%2:32:00::
+would
+take_care take_care%2:41:12::
+of
+the
+tumors tumor%1:26:00::
+and
+cysts cyst%1:26:00::
+until
+she
+could
+collect collect%2:40:00::
+the
+money money%1:21:00::
+for
+buying buy%2:40:00::
+his
+machine machine%1:06:00::
+.
+When
+she
+submitted submit%2:31:12::
+to
+his
+treatment treatment%1:04:00::
+with
+the
+capsules capsule%1:06:00::
+,
+Mrs._Shaefer person%1:03:00::
+felt feel%2:39:00::
+intense intense%3:00:00::
+pain pain%1:26:00::
+.
+Leaving leave%2:38:01::
+Lee person%1:03:00::
+'s
+office office%1:06:00::
+,
+Mrs._Shaefer person%1:03:00::
+hurried hurry%2:38:00::
+over over%4:02:01::
+to
+her
+family family%1:14:02::
+physician physician%1:18:00::
+,
+who
+treated treat%2:29:00::
+her
+for
+burned burn%2:39:00::
+tissue tissue%1:08:00::
+.
+For
+several several%5:00:00:some(a):00
+days day%1:28:00::
+,
+she
+was be%2:42:03::
+ill ill%3:00:01::
+as
+a
+result result%1:11:00::
+of
+Lee person%1:03:00::
+'s
+treatment treatment%1:04:00::
+.
+Mrs._Shaefer person%1:03:00::
+never never%4:02:00::
+got_around_to get_around_to%2:41:00::
+joining join%2:41:00::
+the
+thousand thousand%5:00:00:cardinal:00
+or_so or_so%4:02:00::
+people people%1:14:00::
+who
+paid pay%2:40:00::
+Lee person%1:03:00::
+some
+$
+30000
+for
+his
+ozone ozone%1:27:00::
+machines machine%1:06:00::
+.
+For
+Mrs._Shaefer person%1:03:00::
+-
+who
+had
+been
+given give%2:40:07::
+a
+clean clean%5:00:00:unqualified:02
+bill_of_health bill_of_health%1:10:00::
+by
+her
+own own%5:00:00:personal:00
+physician physician%1:18:00::
+at
+the
+time time%1:11:00::
+she
+visited visit%2:41:02::
+Lee person%1:03:00::
+-
+and
+her
+friend friend%1:18:00::
+were be%2:42:06::
+agents agent%1:18:02::
+for
+the
+California_Pure_Food group%1:03:00::
+and
+Drug_Inspection_Bureau group%1:03:00::
+.
+And
+she
+felt feel%2:37:00::
+amply amply%4:02:00::
+rewarded reward%2:32:00::
+for
+her
+suffering suffering%1:12:01::
+when
+the
+evidence evidence%1:10:00::
+of
+Lee person%1:03:00::
+'s
+quack quack%5:00:00:unqualified:01
+shenanigans shenanigan%1:04:01::
+,
+gathered gather%2:35:00::
+by
+the
+tape_recorder tape_recorder%1:06:00::
+under
+her
+friend friend%1:18:00::
+'s
+clothing clothing%1:06:00::
+,
+proved prove%2:42:00::
+adequate adequate%3:00:00::
+in
+court court%1:06:02::
+for
+convicting convict%2:32:00::
+Franklin_D._Lee person%1:03:00::
+.
+The
+charge charge%1:10:00::
+:
+violation violation%1:04:03::
+of
+the
+California california%1:15:00::
+Medical_Practices medical_practice%1:04:00::
+Act act%1:10:01::
+by
+practicing practice%2:41:00::
+medicine medicine%1:04:00::
+without
+a
+license license%1:10:00::
+and
+selling sell%2:40:00::
+misbranded misbranded%5:00:00:illegal:00
+drugs drug%1:06:00::
+.
+The
+sentence sentence%1:28:00::
+:
+360
+days day%1:28:00::
+'
+confinement confinement%1:04:00::
+in
+the
+county county%1:15:00::
+jail jail%1:06:00::
+.
+An
+isolated isolated%5:00:00:sporadic:00
+case case%1:11:00::
+of
+quackery quackery%1:04:00::
+?
+By_no_means by_no_means%4:02:00::
+.
+Rather rather%4:02:02::
+,
+it
+is be%2:42:03::
+typical typical%3:00:00::
+of
+the
+thousands thousand%1:23:00::
+of
+quacks quack%1:18:00::
+who
+use use%2:34:01::
+phony phony%5:00:00:counterfeit:00
+therapeutic therapeutic%3:01:00::
+devices device%1:06:00::
+to
+fatten fatten%2:34:00::
+themselves
+on
+the
+miseries misery%1:26:00::
+of
+hundreds hundred%1:23:00::
+of
+thousands thousand%1:23:00::
+of
+Americans american%1:18:00::
+by
+robbing rob%2:40:01::
+them
+of
+millions millions%1:23:00::
+of
+dollars dollar%1:23:00::
+and
+luring lure%2:32:00::
+them
+away away%4:02:00::
+from
+legitimate legitimate%3:00:00::
+,
+ethical ethical%3:00:00::
+medical medical%3:00:00::
+treatment treatment%1:04:00::
+of
+serious serious%5:00:00:critical:03
+diseases disease%1:26:00::
+.
+The
+machine machine%1:06:00::
+quack quack%1:18:00::
+makes make%2:36:01::
+his
+Rube_Goldberg person%1:03:00::
+devices device%1:06:00::
+out
+of
+odds_and_ends odds_and_ends%1:14:00::
+of
+metals metal%1:27:00::
+,
+wires wire%1:06:00::
+,
+and
+radio radio%1:06:01::
+parts part%1:06:00::
+.
+With
+these
+gadgets gadget%1:06:00::
+-
+impressive impressive%3:00:00::
+to
+the
+gullible gullible%5:00:00:naive:00
+because
+of
+their
+flashing flash%2:39:00::
+light_bulbs light_bulb%1:06:00::
+,
+ticks tick%1:11:00::
+,
+and
+buzzes buzz%1:11:00::
+-
+he
+then then%4:02:00::
+carries_out carry_out%2:36:00::
+a
+vicious vicious%5:00:00:wicked:00
+medical medical%3:01:00::
+con_game con_game%1:04:00::
+,
+capitalizing capitalize%2:40:00::
+on
+people people%1:14:00::
+'s
+respect respect%1:26:00::
+for
+the
+electrical electrical%3:01:00::
+and
+atomic atomic%3:01:00::
+wonders wonder%1:11:00::
+of
+our
+scientific scientific%3:01:00::
+age age%1:28:02::
+.
+He
+milks milk%2:34:00::
+the
+latest latest%5:00:00:modern:00
+scientific scientific%3:01:00::
+advances advance%1:11:01::
+,
+translating translate%2:30:01::
+them
+into
+his
+own own%5:00:00:personal:00
+special special%5:00:00:specialized:00
+Buck_Rogers person%1:03:00::
+vocabulary vocabulary%1:10:00::
+to
+huckster huckster%2:40:00::
+his
+fake fake%5:00:00:counterfeit:00
+machines machine%1:06:00::
+as
+a
+cure-all cure-all%1:06:00::
+for
+everything
+from
+hay_fever hay_fever%1:26:00::
+to
+sexual sexual%3:01:01::
+impotence impotence%1:07:00::
+and
+cancer cancer%1:26:00::
+.
+The
+gadget gadget%1:06:00::
+faker faker%1:18:00::
+operates operate%2:35:00::
+or
+sells sell%2:40:00::
+his
+phony phony%5:00:00:counterfeit:00
+machines machine%1:06:00::
+for
+$
+5 5%5:00:00:cardinal:00
+to
+$
+10000
+-
+anything
+the
+traffic traffic%1:14:00::
+will
+bear bear%2:40:01::
+.
+He
+may
+call call%2:32:02::
+himself
+a
+naprapath naprapath%1:18:00::
+,
+a
+physiotherapist physical_therapist%1:18:00::
+,
+an
+electrotherapist electrotherapist%1:18:00::
+,
+a
+naturopath naturopath%1:18:00::
+,
+a
+sanipractor
+,
+a
+medical medical%3:01:00::
+cultist cultist%1:18:00::
+,
+a
+masseur masseur%1:18:00::
+,
+a
+``
+doctor doctor%1:18:00::
+''
+-
+or
+what
+have
+you
+.
+Not_only not_only%4:02:00::
+do
+these
+quacks quack%1:18:00::
+assume assume%2:41:00::
+impressive impressive%3:00:00::
+titles title%1:10:02::
+,
+but
+represent represent%2:42:02::
+themselves
+as
+being be%2:42:03::
+associated associated%5:00:00:related:02
+with
+various various%5:00:00:individual:00
+scientific scientific%3:01:00::
+or
+impressive impressive%3:00:00::
+foundations foundation%1:14:00::
+-
+foundations foundation%1:14:00::
+which
+often often%4:02:00::
+have have%2:40:00::
+little little%4:02:00::
+more more%4:02:01::
+than
+a
+letterhead letterhead%1:10:00::
+existence existence%1:26:00::
+.
+The
+medical medical%3:01:00::
+device device%1:06:00::
+pirate pirate%1:18:01::
+of
+today today%1:28:00::
+,
+of_course of_course%4:02:00::
+,
+is be%2:42:03::
+a
+far far%4:02:02::
+more more%3:00:01::
+sophisticated sophisticated%3:00:00::
+operator operator%1:18:02::
+than
+his
+predecessor predecessor%1:18:00::
+of
+yesteryear yesteryear%1:28:00::
+-
+the
+gallus gallus%1:06:00::
+snapping snap%2:30:00::
+hawker hawker%1:18:00::
+of
+snake_oil snake_oil%1:27:00::
+and
+other other%3:00:00::
+patent_medicines patent_medicine%1:06:00::
+.
+His
+plunder plunder%1:21:00::
+is be%2:42:03::
+therefore
+far far%4:02:02::
+higher high%3:00:02::
+-
+running run%2:42:07::
+into
+hundreds hundred%1:23:00::
+of
+millions millions%1:23:00::
+.
+According_to
+the
+Food_and_Drug_Administration group%1:03:00::
+(
+FDA group%1:03:00::
+)
+,
+``
+Doctor doctor%1:18:00::
+''
+Ghadiali person%1:03:00::
+,
+Dr._Albert_Abrams person%1:03:00::
+and
+his
+clique clique%1:14:00::
+,
+and
+Dr._Wilhelm_Reich person%1:03:00::
+-
+to
+name name%2:40:00::
+three three%5:00:00:cardinal:00
+notorious notorious%5:00:00:disreputable:00
+device device%1:06:00::
+quacks quack%1:18:00::
+-
+succeeded succeed%2:41:00::
+,
+respectively respectively%4:02:00::
+,
+in
+distributing distribute%2:41:00::
+10000
+,
+5000
+,
+and
+2000
+fake fake%5:00:00:counterfeit:00
+health health%1:26:00::
+machines machine%1:06:00::
+.
+Authorities authorities%1:14:00::
+believe believe%2:31:03::
+that
+many_of
+the
+Doctor doctor%1:18:00::
+Frauds fraud%1:18:00::
+using use%2:34:01::
+these
+false false%3:00:00::
+health health%1:26:00::
+gadgets gadget%1:06:00::
+are be%2:42:03::
+still still%4:02:01::
+in
+business business%1:04:00::
+.
+Look_at look_at%2:31:00::
+the
+sums sum%1:21:00::
+paid pay%2:40:00::
+by
+two two%5:00:00:cardinal:00
+device device%1:06:00::
+quack quack%1:18:00::
+victims victim%1:18:01::
+in
+Cleveland cleveland%1:15:00::
+.
+Sarah_Gross person%1:03:00::
+,
+a
+dress_shop dress_shop%1:06:00::
+proprietor proprietor%1:18:00::
+,
+paid pay%2:40:00::
+$
+1020
+to
+a
+masseur masseur%1:18:00::
+,
+and
+Mr._A. person%1:03:00::
+,
+a
+laborer laborer%1:18:00::
+,
+paid pay%2:40:00::
+$
+4200
+to
+a
+chiropractor chiropractor%1:18:00::
+for
+treatment treatment%1:04:00::
+with
+two two%5:00:00:cardinal:00
+fake fake%5:00:00:counterfeit:00
+health health%1:26:00::
+machines machine%1:06:00::
+-
+the
+``
+radioclast
+''
+and
+the
+``
+diagnometer
+''
+.
+Multiply multiply%2:31:00::
+these
+figures figure%1:21:00::
+by
+the
+millions million%1:23:00::
+of
+people people%1:14:00::
+known know%2:31:01::
+to
+be
+conned con%2:41:00::
+by
+medical medical%3:01:00::
+pirates pirate%1:18:01::
+annually annually%4:02:00::
+.
+You
+will
+come_up come_up%2:36:03::
+with
+a
+frightening frightening%5:00:00:alarming:00
+total total%1:09:00::
+.
+That
+'s
+why
+the
+FDA group%1:03:00::
+,
+the
+American_Medical_Association group%1:03:00::
+(
+AMA group%1:03:00::
+)
+,
+and
+the
+National_Better_Business_Bureau person%1:03:00::
+(
+BBB group%1:03:00::
+)
+have
+estimated estimate%2:31:00::
+the
+toll toll%1:21:00::
+of
+mechanical mechanical%3:00:00::
+quackery quackery%1:04:00::
+to
+be be%2:42:02::
+a
+substantial substantial%5:00:00:considerable:00
+portion portion%1:04:00::
+of
+the
+$
+610
+million million%1:23:00::
+or_so or_so%4:02:00::
+paid pay%2:40:00::
+to
+medical medical%3:01:00::
+charlatans charlatan%1:18:00::
+annually annually%4:02:00::
+.
+The
+Postmaster_General postmaster_general%1:18:00::
+recently recently%4:02:00::
+reported report%2:32:04::
+that
+mail_order mail_order%1:10:00::
+frauds fraud%1:04:00::
+-
+among
+which
+fake fake%5:00:00:counterfeit:00
+therapeutic therapeutic%3:01:00::
+devices device%1:06:00::
+figure figure%2:42:00::
+prominently prominently%4:02:00::
+-
+are be%2:42:05::
+at
+the
+highest highest%5:00:00:maximal:00
+level level%1:07:00::
+in
+history history%1:28:00::
+.
+Similarly similarly%4:02:00::
+,
+the
+American_Cancer_Society group%1:03:00::
+(
+ACS group%1:03:00::
+)
+,
+the
+Arthritis_and_Rheumatism_Foundation group%1:03:00::
+,
+and
+the
+BBB group%1:03:00::
+have
+each
+stated state%2:32:00::
+lately lately%4:02:00::
+that
+medical medical%3:01:00::
+quackery quackery%1:04:00::
+is be%2:42:05::
+at
+a
+new new%3:00:00::
+high high%1:07:00::
+.
+For_example for_example%4:02:00::
+,
+the
+BBB group%1:03:00::
+has
+reported report%2:32:04::
+it
+was
+receiving receive%2:40:00::
+four_times four_times%4:02:00::
+as
+many many%3:00:00::
+inquiries inquiry%1:10:01::
+about
+quack quack%5:00:00:unqualified:01
+devices device%1:06:00::
+and
+10 10%5:00:00:cardinal:00
+times
+as_many as_many%5:00:00:equal:00
+complaints complaint%1:10:01::
+compared compare%2:31:00::
+with
+two two%5:00:00:cardinal:00
+years year%1:28:01::
+ago ago%4:02:00::
+.
+Authorities authorities%1:14:00::
+hesitate hesitate%2:42:00::
+to
+quote quote%2:32:00::
+exact exact%5:00:00:correct:00
+figures figure%1:21:00::
+,
+however however%4:02:00::
+,
+believing believe%2:31:04::
+that
+any any%5:00:00:some(a):00
+sum sum%1:21:00::
+they
+come_up come_up%2:36:03::
+with
+is be%2:42:03::
+only only%4:02:02::
+a
+surface surface%3:00:00::
+manifestation manifestation%1:11:00::
+-
+turned_up turn_up%2:40:00::
+by
+their
+inevitably inevitably%4:02:02::
+limited limit%2:41:00::
+policing police%2:41:00::
+-
+of
+the
+real real%3:00:00::
+loot loot%1:21:01::
+of
+the
+medical medical%3:01:00::
+racketeer racketeer%1:18:00::
+.
+In
+this
+sense sense%1:10:01::
+,
+authorities authorities%1:14:00::
+believe believe%2:31:03::
+that
+all all%3:00:00::
+estimates estimate%1:04:01::
+of
+phony phony%5:00:00:counterfeit:00
+device device%1:06:00::
+quackery quackery%1:04:00::
+are be%2:42:03::
+conservative conservative%3:00:00::
+.
+The
+economic economic%3:01:01::
+toll toll%1:07:01::
+that
+the
+device device%1:06:00::
+quack quack%1:18:00::
+extracts
+is be%2:42:03::
+important important%3:00:00::
+,
+of_course of_course%4:02:00::
+.
+But
+it
+is
+our
+health health%1:26:00::
+-
+more more%3:00:01::
+precious precious%5:00:00:loved:00
+than
+all
+the
+money money%1:21:00::
+in
+the
+world world%1:17:01::
+-
+that
+these
+modern modern%3:00:00::
+witch_doctors witch_doctor%1:18:00::
+with
+their
+fake fake%5:00:00:counterfeit:00
+therapeutic therapeutic%3:01:00::
+gadgets gadget%1:06:00::
+are
+gambling gamble%2:41:00::
+away away%4:02:03::
+.
+By
+preying prey%2:34:01::
+on
+the
+sick sick%3:00:01::
+,
+by
+playing play%2:34:13::
+callously callously%4:02:00::
+on
+the
+hopes hope%1:12:00::
+of
+the
+desperate desperate%1:18:00::
+,
+by
+causing cause%2:36:00::
+the
+sufferer sufferer%1:18:00::
+to
+delay delay%2:42:00::
+proper proper%3:00:00::
+medical_care medical_care%1:04:00::
+,
+these
+medical medical%3:01:00::
+ghouls ghoul%1:18:01::
+create create%2:36:00::
+pain pain%1:12:00::
+and
+misery misery%1:26:00::
+by
+their
+very very%5:00:00:precise:00
+activity activity%1:04:00::
+.
+Typically typically%4:02:00::
+,
+Sarah_Gross person%1:03:00::
+and
+Mr._A person%1:03:00::
+both
+lost lose%2:40:02::
+more more%1:23:00::
+than
+their
+money money%1:21:00::
+as
+the
+result result%1:19:00::
+of
+their
+experiences experience%1:11:00::
+with
+their
+Cleveland cleveland%1:15:00::
+quacks quack%1:18:00::
+.
+Sarah_Gross person%1:03:00::
+found find%2:39:02::
+that
+the
+treatments treatment%1:04:00::
+given give%2:40:14::
+her
+for
+a
+nervous nervous%5:00:00:tense:03
+ailment ailment%1:26:00::
+by
+the
+masseur masseur%1:18:00::
+were
+not not%4:02:00::
+helping help%2:29:00::
+her
+.
+As
+a
+result result%1:19:00::
+,
+she
+consulted consult%2:32:02::
+medical medical%3:01:00::
+authorities authorities%1:14:00::
+and
+learned learn%2:31:01::
+that
+the
+devices device%1:06:00::
+her
+quack quack%5:00:00:unqualified:01
+``
+doctor doctor%1:18:00::
+''
+was
+using use%2:34:01::
+were be%2:42:03::
+phony phony%5:00:00:counterfeit:00
+.
+She
+suffered suffer%2:37:00::
+a
+nervous_breakdown nervous_breakdown%1:26:00::
+and
+had
+to
+be
+institutionalized institutionalize%2:40:00::
+.
+Mr._A. person%1:03:00::
+,
+her
+fellow fellow%5:00:00:related:02
+townsman townsman%1:18:00::
+,
+also also%4:02:00::
+experienced experience%2:39:01::
+a
+nervous_breakdown nervous_breakdown%1:26:00::
+just just%4:02:01::
+as_soon_as
+he
+discovered discover%2:31:01::
+that
+he
+had
+been
+bilked bilk%2:41:00::
+of
+his
+life life%1:28:01::
+savings savings%1:21:00::
+by
+the
+limited limited%3:00:00::
+practitioner practitioner%1:18:00::
+who
+had
+been
+treating treat%2:29:00::
+his
+wife wife%1:18:00::
+-
+a
+woman woman%1:18:00::
+suffering suffer%2:29:01::
+from
+an
+incurable incurable%5:00:00:hopeless:00
+disease disease%1:26:00::
+,
+multiple_sclerosis multiple_sclerosis%1:26:00::
+-
+and
+himself
+.
+Mr._A person%1:03:00::
+has
+recovered recover%2:29:00::
+,
+but
+he
+is be%2:42:03::
+,
+justifiably justifiably%4:02:00::
+,
+a
+bitter bitter%5:00:00:resentful:00
+man man%1:18:00::
+.
+``
+That
+'s
+a
+lot lot%1:23:00::
+of
+hard hard%5:00:01:effortful:00
+earned earned%3:00:00::
+money money%1:21:00::
+to
+lose lose%2:40:02::
+''
+,
+he
+says say%2:32:00::
+today today%1:28:00::
+.
+``
+Neither
+me
+nor
+my
+wife wife%1:18:00::
+were
+helped help%2:29:00::
+by
+that
+chiropractor chiropractor%1:18:00::
+'s
+treatments treatment%1:04:00::
+''
+.
+And
+there
+was be%2:42:04::
+the
+case case%1:26:00::
+of
+Tom_Hepker person%1:03:00::
+,
+a
+machinist machinist%1:18:00::
+,
+who
+was
+referred refer%2:38:00::
+by
+a
+friend friend%1:18:00::
+to
+a
+health health%1:26:00::
+machine machine%1:06:00::
+quack quack%1:18:00::
+who
+treated treat%2:29:00::
+him
+with
+a
+so-called so-called%5:00:00:questionable:00
+diagnostic diagnostic%3:01:00::
+machine machine%1:06:00::
+for
+what
+Doctor_Fraud person%1:03:00::
+said say%2:32:01::
+was be%2:42:06::
+a
+system system%1:08:01::
+full full%3:00:00::
+of
+arsenic arsenic%1:27:01::
+and
+strychnine strychnine%1:27:00::
+.
+After
+his
+pains pain%1:09:00::
+got_worse get_worse%2:30:00::
+,
+Tom person%1:03:00::
+decided decide%2:31:02::
+to
+see see%2:41:11::
+a
+real real%3:00:00::
+doctor doctor%1:18:00::
+,
+from
+whom
+he
+learned learn%2:31:01::
+he
+was
+suffering suffer%2:29:01::
+from
+cancer cancer%1:26:00::
+of
+the
+lung lung%1:08:00::
+.
+Yes
+,
+Tom person%1:03:00::
+caught catch%2:31:00::
+it
+in_time in_time%4:02:00::
+to
+stay stay%2:30:00::
+alive alive%3:00:01::
+.
+But
+he
+'s be%2:42:03::
+a
+welfare_case welfare_case%1:18:00::
+now now%4:02:00::
+-
+a
+human human%3:01:01::
+wreck wreck%1:26:00::
+-
+thanks thank%2:32:00::
+to
+this
+modern modern%3:00:00::
+witch_doctor witch_doctor%1:18:00::
+.
+But
+the
+machine machine%1:06:02::
+quack quack%1:18:00::
+can
+cause cause%2:36:00::
+far far%4:02:02::
+more more%1:23:00::
+than
+just just%4:02:00::
+suffering suffering%1:12:02::
+.
+In
+such such%5:00:01:specified:00
+diseases disease%1:26:00::
+as
+cancer cancer%1:26:00::
+,
+tuberculosis tuberculosis%1:26:00::
+,
+and
+heart_disease heart_disease%1:26:00::
+,
+early early%3:00:02::
+diagnosis diagnosis%1:04:00::
+and
+treatment treatment%1:04:00::
+are be%2:42:03::
+so so%4:02:02::
+vital vital%5:00:00:indispensable:00
+that
+the
+waste_of_time waste_of_time%1:04:00::
+by
+the
+patient patient%1:18:00::
+with
+Doctor_Fraud person%1:03:00::
+'s
+cure-all cure-all%1:06:00::
+gadget gadget%1:06:00::
+can
+prove prove%2:42:00::
+fatal fatal%3:00:00::
+.
+Moreover moreover%4:02:00::
+,
+the
+diabetic diabetic%1:18:00::
+patient patient%1:18:00::
+who
+relies_on rely_on%2:31:01::
+cure cure%1:06:00::
+by
+the
+quack quack%5:00:00:unqualified:01
+device device%1:06:00::
+and
+therefore therefore%4:02:00::
+cuts_off cut_off%2:30:00::
+his
+insulin insulin%1:08:00::
+intake intake%1:04:00::
+can
+be
+committing commit%2:41:00::
+suicide suicide%1:04:00::
+.
+For_instance for_instance%4:02:00::
+:
+In
+Chicago location%1:03:00::
+,
+some some%5:00:00:unspecified:00
+time time%1:28:05::
+ago ago%4:02:00::
+,
+Mr._H. person%1:03:00::
+,
+age age%1:07:00::
+27 27%5:00:00:cardinal:00
+,
+a
+diabetic diabetic%1:18:00::
+since
+he
+was be%2:42:03::
+six six%5:00:00:cardinal:00
+,
+stopped stop%2:42:00::
+using use%2:34:02::
+insulin insulin%1:08:00::
+because
+he
+had
+bought buy%2:40:00::
+a
+``
+magic magic%5:00:00:supernatural:00
+spike spike%1:06:00::
+''
+-
+a
+glass glass%1:27:00::
+tube tube%1:06:00::
+about
+the
+size size%1:07:00::
+of
+a
+pencil pencil%1:06:00::
+filled fill%2:34:01::
+with
+barium barium%1:27:00::
+chloride chloride%1:27:00::
+worth worth%1:23:00::
+a
+small small%3:00:00::
+fraction fraction%1:23:00::
+of
+a
+cent cent%1:23:00::
+-
+sold sell%2:40:00::
+by
+the
+Vrilium_Company group%1:03:00::
+of
+Chicago location%1:03:00::
+for
+$
+306
+as
+a
+cure-all cure-all%1:06:00::
+.
+``
+Hang hang%2:35:02::
+this
+around
+your
+neck neck%1:08:00::
+or
+attach attach%2:35:01::
+it
+to
+other other%3:00:00::
+parts part%1:08:01::
+of
+your
+anatomy anatomy%1:08:00::
+,
+and
+its
+rays ray%1:19:00::
+will
+cure cure%2:29:00::
+any
+disease disease%1:26:00::
+you
+have have%2:29:05::
+''
+,
+said say%2:32:01::
+the
+company company%1:14:01::
+.
+Mr._H. person%1:03:00::
+is be%2:42:03::
+dead dead%3:00:01::
+today today%1:28:00::
+because
+he
+followed follow%2:40:00::
+this
+advice advice%1:10:00::
+.
+Doris_Hull person%1:03:00::
+,
+suffering suffer%2:29:01::
+from
+tuberculosis tuberculosis%1:26:00::
+,
+was
+taken take%2:38:09::
+by
+her
+husband husband%1:18:00::
+to
+see see%2:41:11::
+Otis_G._Carroll person%1:03:00::
+,
+a
+sanipractor
+-
+a
+licensed licensed%5:00:00:authorized:00
+drugless drugless%5:00:00:healthful:00
+healer healer%1:18:00::
+-
+in
+Spokane location%1:03:00::
+.
+Carroll person%1:03:00::
+diagnosed diagnose%2:31:00::
+Mrs._Hull person%1:03:00::
+by
+taking take%2:40:00::
+a
+drop drop%1:23:00::
+of
+blood blood%1:08:00::
+from
+her
+ear ear%1:08:01::
+and
+putting put%2:35:00::
+it
+on
+his
+``
+radionic
+''
+machine machine%1:06:00::
+and
+twirling twirl%2:38:00::
+some
+knobs knob%1:06:00::
+(
+fee fee%1:21:00::
+$
+50 50%5:00:00:cardinal:00
+)
+.
+His
+prescription prescription%1:10:00::
+:
+hot hot%3:00:01::
+and
+cold cold%3:00:01::
+compresses compress%1:06:00::
+to
+increase increase%2:30:00::
+her
+absorption absorption%1:22:00::
+of
+water water%1:27:00::
+.
+Although
+she
+weighed weigh%2:42:01::
+only only%4:02:02::
+108
+pounds pound%1:23:09::
+when
+she
+visited visit%2:41:02::
+him
+,
+Carroll person%1:03:00::
+permitted permit%2:32:00::
+her
+to
+go
+on
+a
+10 10%5:00:00:cardinal:00
+-
+day day%1:28:00::
+fast fast%1:04:00::
+in
+which
+she
+took take%2:34:00::
+nothing nothing%1:23:00::
+but
+water water%1:27:00::
+.
+Inevitably inevitably%4:02:00::
+,
+Mrs._Hull person%1:03:00::
+died die%2:30:00::
+of
+starvation starvation%1:26:00::
+and
+tuberculosis tuberculosis%1:26:00::
+,
+weighing weigh%2:42:01::
+60 60%5:00:00:cardinal:00
+pounds pound%1:23:09::
+.
+Moreover moreover%4:02:00::
+,
+her
+husband husband%1:18:00::
+and
+child child%1:18:01::
+contracted contract%2:29:00::
+T.B. t.b.%1:26:00::
+from
+her
+.
+(
+Small small%5:00:00:lowercase:00
+wonder wonder%1:11:00::
+a
+Spokane location%1:03:00::
+jury jury%1:14:01::
+awarded award%2:40:01::
+the
+husband husband%1:18:00::
+$
+35823
+for
+his
+wife wife%1:18:00::
+'s
+death death%1:11:00::
+.
+)
+In
+California location%1:03:00::
+,
+a_few a_few%5:00:00:few:00
+years year%1:28:01::
+ago ago%4:02:00::
+,
+a
+ghoul ghoul%1:18:01::
+by
+the
+name name%1:10:00::
+of
+H._F._Bell person%1:03:00::
+sold sell%2:40:00::
+electric electric%3:01:00::
+blankets blanket%1:06:00::
+as
+a
+cure cure%1:06:00::
+for
+cancer cancer%1:26:00::
+.
+He
+did do%2:41:01::
+this
+by
+the
+charming charming%5:00:00:pleasing:00
+practice practice%1:04:03::
+of
+buying_up buy_up%2:40:00::
+used used%5:00:00:old:01
+electric electric%3:01:00::
+blankets blanket%1:06:00::
+for
+$
+5 5%5:00:00:cardinal:00
+to
+$
+10 10%5:00:00:cardinal:00
+from
+survivors survivor%1:18:02::
+of
+patients patient%1:18:00::
+who
+had
+died die%2:30:00::
+,
+reconditioning recondition%2:30:00::
+them
+,
+and
+selling sell%2:40:00::
+them
+at
+$
+185
+each
+.
+When
+authorities authorities%1:14:00::
+convicted convict%2:32:00::
+him
+of
+practicing practice%2:41:00::
+medicine medicine%1:04:00::
+without
+a
+license license%1:10:00::
+(
+he
+got_off get_off%2:32:01::
+with
+a
+suspended suspended%5:00:00:delayed:00
+sentence sentence%1:28:00::
+of
+three three%5:00:00:cardinal:00
+years year%1:28:01::
+because
+of
+his
+advanced advanced%5:00:00:late:00
+age age%1:07:00::
+of
+77
+)
+,
+one one%1:23:00::
+of
+his
+victims victim%1:18:01::
+was be%2:42:04::
+not not%4:02:00::
+around around%4:02:01::
+to
+testify testify%2:32:01::
+:
+He
+was be%2:42:03::
+dead dead%3:00:01::
+of
+cancer cancer%1:26:00::
+.
+By_no_means by_no_means%4:02:00::
+are be%2:42:03::
+these
+isolated isolated%5:00:00:sporadic:00
+cases case%1:11:00::
+.
+``
+Unfortunately unfortunately%4:02:00::
+''
+,
+says say%2:32:00::
+Chief_Postal_Inspector_David_H._Stephens person%1:03:00::
+,
+who
+has
+prosecuted prosecute%2:41:00::
+many many%3:00:00::
+device device%1:06:00::
+quacks quack%1:18:00::
+,
+``
+the
+ghouls ghoul%1:18:01::
+who
+trade trade%2:40:01::
+on
+the
+hopes hope%1:12:00::
+of
+the
+desperately desperately%4:02:00::
+ill ill%3:00:01::
+often often%4:02:00::
+cannot
+be
+successfully successfully%4:02:00::
+prosecuted prosecute%2:41:01::
+because
+the
+patients patient%1:18:00::
+who
+are be%2:42:06::
+the
+chief chief%5:00:02:important:00
+witnesses witness%1:18:01::
+die die%2:30:00::
+before
+the
+case case%1:04:00::
+is
+called_up call_up%2:32:03::
+in
+court court%1:14:00::
+''
+.
+Death death%1:28:00::
+!
+Have have%2:42:00::
+no_doubt no_doubt%4:02:00::
+about
+it
+.
+That
+'s
+where
+device device%1:06:00::
+quackery quackery%1:04:00::
+can
+lead lead%2:38:01::
+.
+The
+evidence evidence%1:09:00::
+shows show%2:32:00::
+that
+fake fake%5:00:00:counterfeit:00
+therapeutic therapeutic%3:01:00::
+machines machine%1:06:00::
+,
+substituted substitute%2:40:01::
+for
+valid valid%3:00:00::
+medical medical%3:01:00::
+cures cure%2:29:00::
+,
+have
+hastened hasten%2:36:00::
+the
+deaths death%1:28:00::
+of
+thousands thousand%1:23:00::
+.
+Who
+are be%2:42:06::
+the
+victims victim%1:18:01::
+of
+the
+device device%1:06:00::
+quacks quack%1:18:00::
+?
+Authorities authorities%1:14:00::
+say say%2:32:01::
+that
+oldsters oldster%1:18:00::
+are be%2:42:03::
+a
+prime prime%5:00:02:first:00
+target target%1:18:00::
+.
+Says say%2:32:00::
+Wallace_F._Jannsen person%1:03:00::
+,
+director director%1:18:02::
+of
+the
+FDA group%1:03:00::
+'s
+Division_of_Public_Information group%1:03:00::
+:
+``
+Quacks quack%1:18:00::
+are be%2:42:03::
+apt apt%5:00:00:inclined(p):02
+to
+direct direct%2:33:01::
+their
+appeal appeal%1:07:00::
+directly directly%4:02:00::
+to
+older older%5:00:00:old:02
+people people%1:14:00::
+,
+or
+to
+sufferers sufferer%1:18:00::
+from
+chronic chronic%3:00:00::
+ailments ailment%1:26:00::
+such_as such_as%5:00:00:specified:00
+arthritis arthritis%1:26:00::
+,
+rheumatism rheumatism%1:26:00::
+,
+diabetes diabetes%1:26:00::
+,
+and
+cancer cancer%1:26:00::
+.
+People people%1:14:00::
+who
+have
+not not%4:02:00::
+been be%2:42:03::
+able able%5:00:00:capable:00
+to
+get get%2:40:00::
+relief relief%1:26:00::
+from
+regular regular%5:00:00:usual:00
+medical medical%3:01:00::
+doctors doctor%1:18:00::
+are be%2:42:03::
+especially especially%4:02:00::
+apt apt%5:00:00:inclined(p):02
+to
+be
+taken_in take_in%2:32:00::
+by
+quacks quack%1:18:00::
+''
+.
+The
+victims victim%1:18:01::
+of
+the
+quacks quack%1:18:00::
+are be%2:42:06::
+frequently frequently%4:02:00::
+poor poor%3:00:00::
+people people%1:14:00::
+,
+like
+Mr._A. person%1:03:00::
+,
+who
+scrape_up scrape_up%2:35:00::
+their
+life life%1:28:01::
+savings savings%1:21:00::
+to
+offer offer%2:40:00::
+as
+a
+sacrifice sacrifice%1:04:01::
+to
+Doctor_Fraud person%1:03:00::
+'s
+avarice avarice%1:04:00::
+.
+They
+are be%2:42:03::
+often often%4:02:00::
+ignorant ignorant%5:00:01:uneducated:00
+as_well_as
+underprivileged underprivileged%3:00:00::
+.

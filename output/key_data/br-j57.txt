@@ -1,0 +1,2182 @@
+Some
+who
+have
+written write%2:32:00::
+on
+Utopia utopia%1:10:00::
+have
+treated treat%2:32:00::
+it
+as
+``
+a
+learned learned%5:00:00:scholarly:00
+diversion diversion%1:04:00::
+of
+a
+learned learned%5:00:00:scholarly:00
+world world%1:14:01::
+''
+,
+``
+a
+phantasy phantasy%1:09:01::
+with
+which
+More person%1:03:00::
+amused amuse%2:41:00::
+himself
+''
+,
+``
+a
+holiday holiday%1:28:00::
+work work%1:06:00::
+,
+a
+spontaneous spontaneous%3:00:00::
+overflow overflow%1:04:00::
+of
+intellectual intellectual%3:01:00::
+high_spirits high_spirits%1:12:00::
+,
+a
+revel revel%1:04:00::
+of
+debate debate%1:10:01::
+,
+paradox paradox%1:10:00::
+,
+comedy comedy%1:10:01::
+and
+invention invention%1:04:00::
+''
+.
+With_respect_to with_respect_to%5:00:00:related:02
+this
+view view%1:09:02::
+,
+two two%5:00:00:cardinal:00
+points point%1:09:02::
+are be%2:42:03::
+worth worth%5:00:00:worthy:00
+making make%2:41:00::
+.
+First first%4:02:00::
+,
+it
+appears appear%2:39:00::
+to
+be be%2:42:03::
+based based%3:44:00::
+on
+the
+fact fact%1:10:01::
+that
+on
+its
+title_page title_page%1:10:00::
+Utopia utopia%1:10:00::
+is
+described describe%2:32:00::
+as
+``
+festivus
+''
+,
+``
+gay gay%5:00:00:cheerful:00
+''
+.
+It
+overlooks overlook%2:39:01::
+the
+other other%3:00:00::
+fact fact%1:09:01::
+that
+it
+is
+described describe%2:32:00::
+as
+``
+Nec
+minus
+salutaris
+quam
+festivus
+''
+,
+``
+no no%4:02:02::
+less less%4:02:00::
+salutary salutary%5:00:00:healthful:00
+than
+gay gay%5:00:00:cheerful:00
+''
+.
+It
+also also%4:02:00::
+overlooks overlook%2:39:01::
+the
+fact fact%1:09:01::
+that
+in
+a
+rational rational%3:00:00::
+lexicon lexicon%1:09:00::
+,
+and
+quite quite%4:02:01::
+clearly clearly%4:02:00::
+in
+More person%1:03:00::
+'s
+lexicon lexicon%1:09:00::
+,
+the
+opposite opposite%1:10:00::
+of
+serious serious%3:00:00::
+is be%2:42:06::
+not not%4:02:00::
+gay gay%5:00:00:cheerful:00
+but
+frivolous frivolous%3:00:00::
+,
+and
+the
+opposite opposite%1:10:00::
+of
+gay gay%5:00:00:cheerful:00
+is be%2:42:06::
+not not%4:02:00::
+serious serious%3:00:00::
+but
+solemn solemn%5:00:00:humorless:00
+.
+More person%1:03:00::
+believed believe%2:31:00::
+that
+a
+man man%1:18:00::
+could
+be be%2:42:03::
+both
+serious serious%3:00:00::
+and
+gay gay%5:00:00:cheerful:00
+.
+That
+a
+writer writer%1:18:01::
+who
+is be%2:42:03::
+gay gay%5:00:00:cheerful:00
+cannot
+be be%2:42:03::
+serious serious%3:00:00::
+is be%2:42:06::
+a
+common common%3:00:02::
+professional professional%3:01:01::
+illusion illusion%1:09:00::
+,
+sedulously sedulously%4:02:00::
+fostered foster%2:41:00::
+by
+all_too all_too%4:02:00::
+many many%3:00:00::
+academics academic%1:18:00::
+who
+mistakenly mistakenly%4:02:00::
+believe believe%2:31:00::
+that
+their
+frivolous frivolous%3:00:00::
+efforts effort%1:04:00::
+should
+be
+taken take%2:31:07::
+seriously seriously%4:02:00::
+because
+they
+are
+expressed express%2:32:01::
+with
+that
+dreary dreary%5:00:00:dull:03
+solemnity solemnity%1:07:00::
+which
+is be%2:42:06::
+the
+only only%5:00:00:single(a):00
+mode mode%1:07:00::
+of
+expression expression%1:10:04::
+their
+authors author%1:18:00::
+are be%2:42:03::
+capable capable%3:00:02::
+of
+.
+Secondly secondly%4:02:00::
+,
+to
+find find%2:40:02::
+a
+learned learned%5:00:00:scholarly:00
+diversion diversion%1:04:00::
+and
+a
+pleasing pleasing%3:00:00::
+joke joke%1:10:00::
+in
+More person%1:03:00::
+'s
+account account%1:10:00::
+of
+the
+stupid stupid%3:00:00::
+brutalities brutality%1:04:00::
+of
+early early%3:00:00::
+sixteenth sixteenth%5:00:00:ordinal:00
+century century%1:28:00::
+wars war%1:26:00::
+,
+of
+the
+anguish anguish%1:26:00::
+of
+the
+poor poor%3:00:00::
+and
+dispossessed dispossessed%5:00:00:unfortunate:00
+,
+of
+the
+insolence insolence%1:07:00::
+and
+cruelty cruelty%1:04:00::
+of
+the
+rich rich%3:00:00::
+and
+powerful powerful%3:00:00::
+requires require%2:42:00::
+a
+callousness callousness%1:07:00::
+toward
+suffering suffering%1:26:01::
+and
+sin sin%1:04:00::
+that
+would
+be be%2:42:03::
+surprising surprising%3:00:00::
+in
+a
+moral moral%3:01:00::
+imbecile imbecile%1:18:00::
+and
+most most%4:02:00::
+surprising surprising%3:00:00::
+in
+More person%1:03:00::
+himself
+.
+Indeed indeed%4:02:03::
+,
+it
+is be%2:42:03::
+even even%4:02:00::
+surprising surprising%3:00:00::
+in
+the
+Canon canon%1:10:00::
+of
+Christ_Church group%1:03:00::
+and
+Regius_Professor regius_professor%1:18:00::
+of
+Ecclesiastical ecclesiastical%3:01:00::
+History history%1:09:00::
+,
+who
+fathered father%2:29:00::
+this
+most most%4:02:01::
+peculiar peculiar%5:00:00:strange:00
+view view%1:09:02::
+,
+and
+in
+the
+brilliant brilliant%5:00:00:intelligent:00
+Professor professor%1:18:00::
+of
+Medieval medieval%3:01:00::
+and
+Renaissance_English
+at
+Cambridge cambridge%1:06:00::
+,
+who
+inherited inherit%2:40:00::
+it
+and
+is be%2:42:06::
+now now%4:02:00::
+its
+most most%4:02:00::
+eminent eminent%5:00:00:important:00
+proponent proponent%1:18:00::
+.
+But
+to
+return return%2:38:00::
+to
+the
+main main%5:00:00:important:00
+line line%1:09:01::
+of
+our
+inquiry inquiry%1:09:01::
+.
+It
+is be%2:42:03::
+doubtful doubtful%5:00:00:questionable:00
+that
+Utopia utopia%1:10:00::
+is
+still still%4:02:01::
+widely widely%4:02:00::
+read read%2:31:00::
+because
+More person%1:03:00::
+was be%2:42:03::
+medieval medieval%3:01:00::
+or
+even even%4:02:00::
+because
+he
+was be%2:42:06::
+a
+martyr martyr%1:18:00::
+-
+indeed indeed%4:02:03::
+,
+it
+is be%2:42:03::
+likely likely%3:00:00::
+that
+these
+days day%1:28:03::
+many many%3:00:00::
+who
+read read%2:31:00::
+Utopia utopia%1:10:00::
+with
+interest interest%1:09:00::
+do
+not not%4:02:00::
+even even%4:02:00::
+know know%2:31:01::
+that
+its
+author author%1:18:00::
+was be%2:42:06::
+a
+martyr martyr%1:18:00::
+.
+Utopia utopia%1:10:00::
+is
+still still%4:02:01::
+widely widely%4:02:00::
+read read%2:31:00::
+because
+in_a_sense in_a_sense%4:02:00::
+More person%1:03:00::
+stood stand%2:42:04::
+on
+the
+margin margin%1:25:00::
+of
+modernity modernity%1:07:00::
+.
+And
+if
+he
+did
+stand stand%2:42:04::
+on
+the
+margins margin%1:25:00::
+of
+modernity modernity%1:07:00::
+,
+it
+was be%2:42:06::
+not not%4:02:00::
+in
+dying die%2:30:00::
+a
+martyr martyr%1:18:00::
+for
+such such%5:00:01:specified:00
+unity unity%1:26:00::
+as
+Papal papal%3:01:00::
+supremacy supremacy%1:26:00::
+might
+be be%2:42:03::
+able able%3:00:00::
+to
+force force%2:41:00::
+on
+Western western%5:00:02:west:00
+Christendom christendom%1:14:00::
+.
+It
+was be%2:42:06::
+not not%4:02:00::
+even even%4:02:00::
+in
+writing writing%1:04:02::
+Latin latin%1:10:00::
+epigrams epigram%1:10:00::
+,
+sometimes sometimes%4:02:01::
+bawdy bawdy%5:00:00:dirty:02
+ones
+,
+or
+in
+translating translate%2:32:00::
+Lucian person%1:03:00::
+from
+Greek greek%1:10:00::
+into
+Latin latin%1:10:00::
+or
+in
+defending defend%2:32:00::
+the
+study study%1:04:00::
+of
+Greek greek%1:10:00::
+against
+the
+attack attack%1:10:00::
+of
+conservative conservative%3:00:00::
+academics academic%1:18:00::
+,
+or
+in
+attacking attack%2:32:00::
+the
+conservative conservative%3:00:00::
+theologians theologian%1:18:00::
+who
+opposed oppose%2:32:01::
+Erasmus person%1:03:00::
+'s
+philological philological%3:01:00::
+study study%1:04:00::;1:09:04::
+of
+the
+New_Testament new_testament%1:10:00::
+.
+Similar similar%3:00:00::
+literary literary%3:01:00::
+exercises exercise%1:04:01::
+were be%2:42:06::
+the
+common common%3:00:01::
+doings doing%1:04:00::
+of
+a
+Christian christian%3:01:00::
+humanist humanist%1:18:00::
+of
+the
+first first%3:00:00::
+two two%5:00:00:cardinal:00
+decades decade%1:28:00::
+of
+the
+sixteenth sixteenth%5:00:00:ordinal:00
+century century%1:28:00::
+.
+Had
+More person%1:03:00::
+'s
+writings writing%1:10:02::
+been
+wholly wholly%4:02:00::
+limited limited%5:00:00:restricted:00
+to
+such such%5:00:01:specified:00
+exercises exercise%1:04:01::
+,
+they
+would
+be
+almost almost%4:02:00::
+as
+dimly dimly%4:02:00::
+remembered remember%2:31:00::
+as
+those
+of
+a
+dozen dozen%1:23:00::
+or_so or_so%4:02:00::
+other other%3:00:00::
+authors author%1:18:00::
+living live%2:42:00::
+in
+his
+time time%1:28:00::
+,
+whose
+works works%1:06:02::
+tenuously tenuously%4:02:00::
+survive survive%2:42:01::
+in
+the
+minds mind%1:09:00::
+of
+the
+few few%3:00:00::
+hundred hundred%5:00:00:cardinal:00
+scholars scholar%1:18:00::
+who
+each
+decade decade%1:28:00::
+in
+pursuit pursuit%1:09:00::
+of
+their
+very very%4:02:00::
+specialized specialized%3:00:00::
+occasions occasions%1:09:00::
+read read%2:31:00::
+those
+works work%1:06:00::
+.
+More person%1:03:00::
+stands stand%2:42:04::
+on
+the
+margins margin%1:25:00::
+of
+modernity modernity%1:07:00::
+for
+one one%5:00:02:single(a):00
+reason reason%1:10:01::
+alone alone%4:02:00::
+-
+because
+he
+wrote write%2:36:00::
+Utopia utopia%1:10:00::
+.
+And
+the
+evidence evidence%1:09:00::
+that
+he
+does
+,
+indeed indeed%4:02:03::
+,
+stand stand%2:42:04::
+there
+derives derive%2:31:00::
+quite quite%4:02:02::
+simply simply%4:02:00::
+from
+the
+vigorous vigorous%5:00:00:energetic:00
+interest interest%1:09:00::
+with
+which
+rather
+casual casual%5:00:00:unconcerned:00
+readers reader%1:18:02::
+have have%2:40:00::
+responded respond%2:31:00::
+to
+that
+book book%1:10:00::
+for
+the
+past past%3:00:00::
+century century%1:28:00::
+or_so or_so%4:02:00::
+.
+Only only%4:02:01::
+one one%1:23:00::
+other other%3:00:00::
+contemporary contemporary%1:18:00::
+of
+More person%1:03:00::
+'s
+evokes evoke%2:37:00::
+so so%4:02:02::
+immediate immediate%3:00:00::
+and
+direct direct%5:00:00:immediate:00
+a
+response response%1:10:02::
+,
+and
+only only%5:00:00:single(a):00
+one one%5:00:02:single(a):00
+other other%3:00:00::
+contemporary contemporary%5:00:00:current:00
+work work%1:06:00::
+-
+Niccolo_Machiavelli person%1:03:00::
+and
+The_Prince
+.
+Can
+we
+discover discover%2:31:00::
+what
+it
+is be%2:42:06::
+in
+Utopia utopia%1:10:00::
+that
+has
+evoked evoke%2:37:00::
+this
+response response%1:10:02::
+?
+Remember remember%2:31:01::
+that
+in
+seeking seek%2:35:00::
+the
+modern modern%3:00:00::
+in
+Utopia utopia%1:10:00::
+we
+do
+not not%4:02:00::
+deny deny%2:32:00::
+the
+existence existence%1:26:00::
+of
+the
+medieval medieval%3:01:00::
+and
+the
+Renaissance renaissance%1:28:00::
+there there%4:02:00::
+;
+we
+do
+not not%4:02:00::
+even even%4:02:00::
+need
+to
+commit commit%2:32:01::
+ourselves
+to
+assessing assess%2:31:00::
+on
+the
+same same%3:00:02::
+inconceivable inconceivable%5:00:00:unthinkable:00
+scale scale%1:24:03::
+the
+relative relative%3:00:00::
+importance importance%1:07:00::
+of
+the
+medieval medieval%3:01:00::
+,
+the
+Renaissance renaissance%1:28:00::
+,
+and
+the
+modern modern%3:00:00::
+.
+The
+medieval medieval%3:01:00::
+was be%2:42:03::
+the
+most most%4:02:00::
+important important%3:00:00::
+to
+Chambers person%1:03:00::
+because
+he
+sought seek%2:41:00::
+to
+place place%2:41:01::
+Thomas_More person%1:03:00::
+,
+the
+author author%1:18:00::
+of
+Utopia
+,
+in
+some
+intelligible intelligible%5:00:00:comprehensible:00
+relation relation%1:03:00::
+with
+St._Thomas_More person%1:03:00::
+,
+the
+martyr martyr%1:18:00::
+.
+To
+others
+whose
+concern concern%1:09:00::
+it
+is be%2:42:06::
+to
+penetrate penetrate%2:31:00::
+the
+significance significance%1:10:00::
+of
+Christian_Humanism
+,
+the
+Renaissance renaissance%1:28:00::
+elements element%1:09:00::
+are be%2:42:03::
+of
+primary primary%3:00:00::
+concern concern%1:09:00::
+.
+But
+here here%4:02:02::
+we
+have have%2:40:00::
+a
+distinctly distinctly%4:02:00::
+modern modern%5:00:00:fashionable:00
+preoccupation preoccupation%1:09:00::
+;
+we
+want
+to
+know know%2:31:01::
+why
+that
+book book%1:10:00::
+has
+kept_on keep_on%2:42:00::
+selling sell%2:40:00::
+the
+way way%1:07:01::
+it
+has
+;
+we
+want_to
+know know%2:31:01::
+what
+is be%2:42:03::
+perennially perennially%4:02:00::
+new new%5:00:00:original:00
+about
+Utopia utopia%1:10:00::
+.
+What
+is be%2:42:03::
+new new%5:00:00:original:00
+about
+it
+?
+To
+that
+question question%1:10:00::
+the
+answer answer%1:10:01::
+is be%2:42:03::
+simple simple%3:00:02::
+;
+it
+can
+be
+made make%2:41:00::
+in
+two two%5:00:00:cardinal:00
+words word%1:10:00::
+,
+Utopian utopian%3:01:00::
+communism communism%1:14:00::
+.
+But
+it
+is be%2:42:03::
+an
+answer answer%1:10:01::
+which
+opens open%2:35:00::
+the
+door door%1:06:00::
+wide wide%4:02:03::
+to
+an
+onrush onrush%1:04:00::
+of
+objections objection%1:10:00::
+and
+denials denial%1:10:00::
+.
+Surely surely%4:02:00::
+there
+is be%2:42:04::
+nothing nothing%1:23:00::
+new new%5:00:00:original:00
+about
+communism communism%1:14:00::
+.
+We
+find find%2:40:02::
+it
+in
+Plato plato%1:18:00::
+'s
+republic republic%1:14:00::
+,
+and
+in
+Utopia utopia%1:10:00::
+More person%1:03:00::
+acknowledges acknowledge%2:32:02::
+his
+debt debt%1:26:00::
+to
+that
+book book%1:10:00::
+.
+We
+find find%2:40:02::
+it
+in
+that
+``
+common common%3:00:02::
+way_of_life way_of_life%1:04:00::
+pleasing pleasing%3:00:00::
+to
+Christ christ%1:18:00::
+and
+still still%4:02:01::
+in_use in_use%5:00:00:occupied:00
+among
+the
+truest true%3:00:00::
+societies society%1:14:00::
+of
+Christians christian%1:18:00::
+''
+,
+that_is that_is%4:02:00::
+,
+the
+better good%3:00:01::
+monasteries monastery%1:06:00::
+which
+made make%2:30:00::
+it
+easier easy%3:00:01::
+to
+convert convert%2:30:01::
+the
+Utopians utopian%1:18:00::
+to
+Christianity christianity%1:09:00::
+.
+We
+find find%2:40:02::
+it
+in
+the
+later later%5:00:00:subsequent:00
+Stoic stoic%5:00:00:unemotional:00
+conception conception%1:09:00::
+of
+man man%1:14:00::
+'s
+natural natural%3:00:03::
+condition condition%1:26:00::
+which
+included include%2:42:00::
+the
+community community%1:21:00::
+of
+all
+possessions possession%1:03:00::
+.
+This
+conception conception%1:09:00::
+was
+taken_up take_up%2:31:00::
+by
+the
+early early%5:00:00:past:00
+Church_Fathers church_father%1:18:00::
+and
+by
+canon canon%1:10:00::
+lawyers lawyer%1:18:00::
+and
+theologians theologian%1:18:00::
+in
+the
+Middle_Ages middle_ages%1:28:00::
+;
+and
+More person%1:03:00::
+was be%2:42:03::
+far far%4:02:02::
+too too%4:02:00::
+well_read well-read%5:00:00:informed:00
+not not%4:02:00::
+to
+have have%2:40:00::
+come_across come_across%2:40:02::
+it
+in
+one one%5:00:00:cardinal:00
+or
+several several%5:00:00:some(a):00
+of
+the
+forms form%1:09:00::
+thus thus%4:02:01::
+given give%2:40:03::
+it
+.
+But
+although
+the
+idea idea%1:09:00::
+of
+communism communism%1:14:00::
+is be%2:42:03::
+very very%4:02:00::
+old old%3:00:01::
+even even%4:02:00::
+in
+More person%1:03:00::
+'s
+day day%1:28:03::
+and
+did
+not not%4:02:00::
+spring spring%2:42:00::
+full-clad full-clad%5:00:00:complete:00
+from
+his
+imagination imagination%1:09:02::
+in
+1515
+,
+it
+is be%2:42:03::
+not not%4:02:00::
+communism communism%1:14:00::
+as_such as_such%4:02:00::
+that
+we
+are
+concerned concern%2:42:00::
+with
+.
+We
+are
+concerned concern%2:42:00::
+not not%4:02:00::
+with
+the
+genus genus%1:09:00::
+communism communism%1:14:00::
+nor
+with
+other other%3:00:00::
+species species%1:09:00::
+of
+the
+genus genus%1:09:00::
+:
+Platonic platonic%3:01:00::
+,
+Stoic stoic%5:00:00:unemotional:00
+,
+early early%3:00:00::
+Christian christian%3:01:00::
+,
+monastic monastic%5:00:00:unworldly:00
+,
+canonist canonist%3:01:00::
+or
+theological theological%3:01:00::
+communism communism%1:14:00::
+;
+we
+are
+concerned concern%2:42:00::
+with
+Utopian utopian%3:01:00::
+communism communism%1:14:00::
+-
+that_is that_is%4:02:00::
+,
+simply simply%4:02:00::
+communism communism%1:14:00::
+as
+it
+appears appear%2:30:00::
+in
+the
+imaginary imaginary%5:00:00:unreal:00
+commonwealth commonwealth%1:14:00::
+of
+Utopia utopia%1:15:00::
+,
+as
+More person%1:03:00::
+conceived conceive%2:36:00::
+it
+.
+Perhaps perhaps%4:02:00::
+one one%5:00:00:cardinal:00
+way way%1:04:01::
+to
+sharpen sharpen%2:30:03::
+our
+sense sense%1:09:05::
+of
+the
+modernity modernity%1:07:00::
+of
+Utopian utopian%3:01:00::
+communism communism%1:14:00::
+is be%2:42:06::
+to
+contrast contrast%2:31:00::
+it
+with
+the
+principal principal%5:00:00:important:00
+earlier early%3:00:00::
+types type%1:09:00::
+of
+communistic communistic%3:01:00::
+theory theory%1:09:00::
+.
+We
+will
+achieve achieve%2:41:00::
+a
+more more%4:02:00::
+vivid vivid%5:00:00:clear:00
+sense sense%1:09:05::
+of
+what
+it
+is be%2:42:06::
+by
+realizing realize%2:31:00::
+what
+it
+is be%2:42:06::
+not not%4:02:00::
+.
+In
+Plato plato%1:18:00::
+'s
+Republic
+communism communism%1:14:00::
+is be%2:42:06::
+-
+to
+speak speak%2:32:00::
+anachronistically anachronistically%4:02:00::
+-
+a
+communism communism%1:14:00::
+of
+Janissaries janissary%1:18:01::
+.
+Its
+function function%1:04:00::
+is be%2:42:06::
+to
+separate separate%2:41:01::
+from
+the
+base base%5:00:00:lowborn:00
+ruled ruled%5:00:00:subordinate:02
+mass mass%1:14:01::
+,
+among
+whom
+private private%3:00:00::
+ownership ownership%1:21:00::
+prevails prevail%2:42:01::
+,
+the
+governing governing%5:00:00:dominant:01
+warrior warrior%1:18:00::
+elite elite%1:14:00::
+.
+Moreover moreover%4:02:00::
+,
+it
+is
+too too%4:02:00::
+readily readily%4:02:00::
+forgotten forget%2:31:01::
+that
+in
+the
+Republic
+what
+gave give%2:40:05::
+the
+initial initial%5:00:00:first:00
+impetus impetus%1:19:00::
+to
+Plato plato%1:18:00::
+'s
+excursus excursus%1:10:00::
+into
+the
+construction construction%1:09:00::
+of
+an
+imaginary imaginary%5:00:00:unreal:00
+commonwealth commonwealth%1:14:00::
+with
+its
+ruling-class ruling_class%1:14:00::
+communism communism%1:14:00::
+of
+goods goods%1:06:00::
+,
+wives wife%1:18:00::
+,
+and
+children child%1:18:01::
+,
+was be%2:42:06::
+his
+quest quest%1:09:00::
+for
+a
+canon canon%1:10:00::
+for
+the
+proper proper%3:00:00::
+ordering ordering%1:04:00::
+of
+the
+individual individual%3:00:00::
+human human%3:01:01::
+psyche psyche%1:09:00::
+;
+and
+it
+is
+to
+this
+problem problem%1:10:00::
+that
+the
+Republic
+ultimately ultimately%4:02:01::
+returns return%2:30:00::
+.
+In
+More person%1:03:00::
+'s
+Utopia utopia%1:15:00::
+communism communism%1:14:00::
+is be%2:42:06::
+not not%4:02:00::
+a
+means means%1:04:00::
+of
+separating_out separate_out%2:35:00::
+a
+warrior warrior%1:18:00::
+elite elite%1:14:00::
+from
+the
+lumpish lumpish%5:00:00:stupid:00
+mass mass%1:14:01::
+.
+Utopian utopian%3:01:00::
+communism communism%1:14:00::
+applies apply%2:42:00::
+to
+all
+Utopians utopian%1:18:00::
+.
+And
+in
+the
+economy economy%1:14:00::
+of
+the
+book book%1:10:00::
+it
+is be%2:42:03::
+not not%4:02:00::
+peripheral peripheral%3:00:00::
+but
+central central%5:00:00:important:00
+.
+The
+concern concern%1:09:00::
+of
+Utopia utopia%1:10:00::
+is be%2:42:03::
+with
+the
+optimo
+reipublicae
+statu
+,
+the
+best best%3:00:00::
+ordering ordering%1:04:00::
+of
+a
+civil civil%5:00:00:civilian:00
+society society%1:14:00::
+;
+and
+it
+is
+again_and_again again_and_again%4:02:00::
+made make%2:30:00::
+clear clear%3:00:00::
+that
+Utopian utopian%3:01:00::
+communism communism%1:14:00::
+provides provide%2:40:00::
+the
+institutional institutional%3:01:00::
+array array%1:14:00::
+indispensable indispensable%5:00:00:necessary:00
+to
+that
+best best%3:00:00::
+ordering ordering%1:04:00::
+.
+To
+derive derive%2:31:00::
+Utopian utopian%3:01:00::
+communism communism%1:14:00::
+from
+the
+Jerusalem jerusalem%1:15:00::
+Christian christian%3:01:00::
+community community%1:14:03::
+of
+the
+apostolic apostolic%3:01:00::
+age age%1:28:02::
+or
+from
+its
+medieval medieval%3:01:00::
+successors successor%1:18:01::
+in
+spirit spirit%1:10:00::
+,
+the
+monastic monastic%5:00:00:unworldly:00
+communities community%1:14:03::
+,
+is be%2:42:03::
+with
+an
+appropriate appropriate%5:00:00:congruous:00
+shift shift%1:04:01::
+of
+adjectives adjective%1:10:00::
+,
+misleading misleading%5:00:00:dishonest:00
+in
+the
+same same%3:00:00::
+way way%1:07:01::
+as
+to
+derive derive%2:31:00::
+it
+from
+Plato plato%1:18:00::
+'s
+Republic
+:
+in
+the
+Republic
+we
+have have%2:42:12::
+to
+do do%2:42:00::
+with
+an
+elite elite%1:14:00::
+of
+physical physical%3:00:00::
+and
+intellectual intellectual%5:00:00:mental:00
+athletes athlete%1:18:00::
+,
+in
+the
+apostolic apostolic%3:01:00::
+and
+monastic monastic%5:00:00:unworldly:00
+communities community%1:14:03::
+with
+an
+elite elite%1:14:00::
+of
+spiritual spiritual%5:00:00:sacred:00
+and
+religious religious%3:01:00::
+athletes athlete%1:18:00::
+.
+The
+apostolic apostolic%3:01:00::
+community community%1:14:03::
+was be%2:42:06::
+literally literally%4:02:00::
+an
+elite elite%1:14:00::
+:
+chosen choose%2:31:00::
+by
+Christ christ%1:18:00::
+himself
+.
+And
+the
+monastic monastic%5:00:00:unworldly:00
+communities community%1:14:03::
+were
+supposed
+to
+be
+made_up make_up%2:42:00::
+of
+volunteers volunteer%1:18:00::
+selected select%2:31:00::
+only only%4:02:02::
+after
+a
+novitiate novitiate%1:28:00::
+which
+would
+test test%2:41:00::
+their
+religious religious%5:00:00:sacred:00
+aptitude aptitude%1:09:00::
+for
+monastic monastic%5:00:00:unworldly:00
+rigors rigor%1:07:00::
+,
+their
+spiritual spiritual%5:00:00:sacred:00
+athleticism athleticism%1:07:00::
+.
+Finally finally%4:02:03::
+,
+the
+conception conception%1:09:00::
+of
+the
+natural natural%3:00:01::
+community community%1:21:00::
+of
+all
+possessions possession%1:03:00::
+which
+originated originate%2:42:00::
+with
+the
+Stoics stoic%1:18:01::
+was
+firmly firmly%4:02:02::
+fixed fix%2:35:00::
+in
+a
+tradition tradition%1:09:01::
+by
+More person%1:03:00::
+'s
+time time%1:28:00::
+,
+although
+it
+was
+not not%4:02:00::
+accepted accept%2:31:00::
+by
+all all%3:00:00::
+the
+theologian theologian%1:18:00::
+philosophers philosopher%1:18:00::
+of
+the
+Middle_Ages middle_ages%1:28:00::
+.
+In
+that
+tradition tradition%1:09:01::
+communism communism%1:14:00::
+lay lie%2:42:00::
+a
+safe safe%3:00:01::
+distance distance%1:07:00::
+back back%4:02:01::
+in
+the
+age age%1:28:02::
+of
+innocence innocence%1:07:01::
+before
+the
+Fall fall%1:11:03::
+of
+Man man%1:14:00::
+.
+It
+did
+not not%4:02:00::
+serve serve%2:42:03::
+to
+contrast contrast%2:31:00::
+the
+existing existing%5:00:00:present(a):01
+order order%1:26:00::
+of
+society society%1:14:00::
+with
+a
+possible possible%3:00:00::
+alternative alternative%5:00:00:secondary:01
+order order%1:26:00::
+,
+because
+the
+age age%1:28:02::
+of
+innocence innocence%1:07:01::
+was be%2:42:03::
+not not%4:02:00::
+a
+possible possible%3:00:00::
+alternative alternative%1:09:00::
+once once%4:02:02::
+man man%1:14:00::
+had
+sinned sin%2:41:00::
+.
+The
+actual actual%3:00:00::
+function function%1:07:00::
+of
+patristic patristic%3:01:00::
+civilian civilian%3:00:00::
+canonist canonist%3:01:00::
+scholastic scholastic%3:01:01::
+communism communism%1:14:00::
+was
+adequately adequately%4:02:00::
+set_forth set_forth%2:32:00::
+by
+St._Gregory person%1:03:00::
+almost almost%4:02:00::
+a
+millennium millennium%1:28:00::
+before
+More person%1:03:00::
+wrote write%2:36:00::
+Utopia utopia%1:10:00::
+.
+``
+The
+soil soil%1:27:01::
+is be%2:42:03::
+common common%3:00:02::
+to
+all
+men man%1:14:00::
+.
+When
+we
+give give%2:40:02::
+the
+necessities necessity%1:17:00::
+of
+life life%1:26:00::
+to
+the
+poor poor%3:00:00::
+,
+we
+restore restore%2:40:00::
+to
+them
+what
+is be%2:42:03::
+already already%4:02:00::
+theirs
+.
+We
+should
+think_of think_of%2:31:00::
+it
+more more%4:02:01::
+as
+an
+act act%1:03:00::
+of
+justice justice%1:07:00::
+than
+compassion compassion%1:07:00::
+''
+.
+Because
+community community%1:21:00::
+not not%4:02:00::
+severalty severalty%1:26:00::
+of
+property property%1:21:00::
+is be%2:42:06::
+the
+law_of_nature law_of_nature%1:09:00::
+no
+man man%1:18:00::
+can
+assert assert%2:32:01::
+an
+absolutely absolutely%4:02:00::
+unalterable unalterable%3:00:00::
+right right%1:07:00::
+to
+what
+is be%2:42:03::
+his
+.
+Indeed indeed%4:02:03::
+,
+of
+all
+that
+is be%2:42:03::
+his
+every
+man man%1:18:00::
+is be%2:42:03::
+by
+nature nature%1:07:02::
+and
+reason reason%1:09:00::
+and
+therefore therefore%4:02:00::
+by
+conscience conscience%1:16:00::
+obligated obligated%3:00:00::
+to
+regard regard_as%2:31:00::
+himself
+as
+a
+custodian custodian%1:18:00::
+.
+He
+is be%2:42:06::
+a
+trustee trustee%1:18:00::
+for
+the
+common common%3:00:02::
+good good%1:07:01::
+,
+however however%4:02:02::
+feeble feeble%5:00:02:weak:00
+the
+safeguards safeguard%1:04:00::
+which
+the
+positive positive%5:00:00:formal:01
+or
+municipal municipal%3:01:00::
+law law%1:14:00::
+of
+property property%1:21:00::
+provides provide%2:40:00::
+against
+his
+misuse misuse%1:04:00::
+of
+that
+share share%1:21:00::
+of
+the
+common common%3:00:02::
+fund fund%1:21:00::
+,
+wisely wisely%4:02:00::
+or
+unwisely unwisely%4:02:00::
+,
+entrusted entrust%2:40:00::
+to
+his
+keeping keeping%1:04:00::
+.
+In_contrast_to
+this
+Stoic stoic%5:00:00:unemotional:00
+patristic patristic%3:01:00::
+view view%1:09:02::
+,
+Utopia utopia%1:10:00::
+implies imply%2:32:00::
+that
+the
+nature nature%1:07:02::
+of
+man man%1:14:00::
+is be%2:42:03::
+such such%5:00:00:specified:00
+that
+to
+rely_on rely_on%2:31:01::
+individual individual%3:00:00::
+conscience conscience%1:16:00::
+to
+supply supply%2:40:00::
+the
+deficiencies deficiency%1:07:00::
+of
+municipal municipal%3:01:00::
+law law%1:14:00::
+is be%2:42:06::
+to
+embark embark%2:38:00::
+on
+the
+bottomless bottomless%5:00:00:deep:01
+sea
+of
+human human%3:01:00::
+sinfulness sinfulness%1:07:00::
+in
+a
+sieve sieve%1:06:00::
+.
+The
+Utopians utopian%1:18:00::
+brace brace%2:35:01::
+conscience conscience%1:16:00::
+with
+legal legal%3:00:00::
+sanctions sanction%1:04:02::
+.
+In
+a
+properly properly%4:02:00::
+ordered order%2:41:01::
+society society%1:14:00::
+the
+massive massive%5:00:00:large:00
+force force%1:07:00::
+of
+public_law public_law%1:10:00::
+performs perform%2:41:02::
+the
+function function%1:04:00::
+which
+in
+natural_law natural_law%1:09:00::
+theory theory%1:09:00::
+ineptly ineptly%4:02:00::
+is
+left leave%2:40:06::
+altogether altogether%4:02:04::
+to
+a
+small_voice small_voice%1:16:00::
+so so%4:02:02::
+often often%4:02:00::
+still still%5:00:00:quiet:01
+.
+In
+all all%3:00:00::
+the
+respects respect%1:09:00::
+just just%4:02:01::
+indicated indicate%2:32:00::
+Utopian utopian%3:01:00::
+communism communism%1:14:00::
+differs differ%2:42:00::
+from
+previous previous%5:00:00:preceding(a):00
+conceptions conception%1:09:00::
+in
+which
+community community%1:21:00::
+of
+possessions possession%1:03:00::
+and
+living living%1:09:00::
+plays play%2:41:12::
+a
+role role%1:04:00::
+.
+Neither
+from
+one one%5:00:00:cardinal:00
+of
+these
+conceptions conception%1:09:00::
+nor
+from
+a
+combination combination%1:14:00::
+of
+them
+can
+it
+be
+deduced deduce%2:31:00::
+.
+We
+do
+not not%4:02:00::
+deny deny%2:40:00::
+originality originality%1:09:00::
+to
+the
+Agamemnon
+because
+Aeschylus aeschylus%1:18:00::
+found find%2:40:02::
+the
+tales tale%1:10:00::
+of
+the
+house house%1:14:00::
+of
+Atreus person%1:03:00::
+among
+the
+folk_lore folklore%1:09:00::
+of
+the
+Greeks greek%1:18:00::
+.
+In
+a
+like like%3:00:02::
+sense sense%1:09:03::
+whatever
+bits bit%1:17:00::
+or
+shreds shred%1:23:00::
+of
+previous previous%5:00:00:preceding(a):00
+conceptions conception%1:09:00::
+one
+may
+find find%2:40:02::
+in
+it
+,
+Utopian utopian%3:01:00::
+communism communism%1:14:00::
+remains remain%2:30:00::
+,
+as
+an
+integral integral%5:00:00:whole:00
+whole whole%1:09:00::
+,
+original original%3:00:00::
+-
+a
+new new%5:00:00:original:00
+thing thing%1:26:00::
+.
+It
+is be%2:42:06::
+not not%4:02:00::
+merely merely%4:02:00::
+a
+new new%5:00:00:original:00
+thing thing%1:26:00::
+;
+it
+is be%2:42:06::
+one
+of
+the
+very very%4:02:00::
+few few%3:00:00::
+new new%5:00:00:original:00
+things thing%1:26:00::
+in
+Utopia
+;
+most_of
+the
+rest rest%1:24:00::
+is be%2:42:03::
+medieval medieval%3:01:00::
+or
+humanist humanist%3:01:03::
+or
+part part%1:24:00::
+of
+an
+old old%3:00:01::
+tradition tradition%1:09:01::
+of
+social social%3:01:00::
+criticism criticism%1:10:01::
+.
+But
+to
+say say%2:32:01::
+that
+at
+a
+moment moment%1:28:01::
+in
+history history%1:28:00::
+something
+is be%2:42:03::
+new new%5:00:00:original:00
+is be%2:42:06::
+not not%4:02:00::
+necessarily necessarily%4:02:00::
+to
+say say%2:32:01::
+that
+it
+is be%2:42:03::
+modern modern%5:00:00:fashionable:00
+;
+and
+for
+this
+statement statement%1:10:00::
+the
+best best%3:00:00::
+evidence evidence%1:09:00::
+comes come%2:30:01::
+within
+the
+five five%5:00:00:cardinal:00
+years year%1:28:01::
+following
+the
+publication publication%1:04:01::
+of
+Utopia utopia%1:10:00::
+,
+when
+Martin_Luther person%1:03:00::
+elaborates elaborate%2:32:00::
+a
+new new%3:00:00::
+perception perception%1:09:02::
+of
+the
+nature nature%1:07:02::
+of
+the
+Divine divine%1:18:01::
+'s
+encounter encounter%1:04:01::
+with
+man man%1:14:00::
+.
+New new%3:00:00::
+,
+indeed indeed%4:02:03::
+,
+is be%2:42:03::
+Luther person%1:03:00::
+'s
+perception perception%1:09:02::
+,
+but
+not not%4:02:00::
+modern modern%5:00:00:fashionable:00
+,
+as
+anyone
+knows know%2:31:01::
+who
+has
+ever ever%4:02:04::
+tried try%2:41:00::
+to
+make make%2:30:00::
+intelligible intelligible%5:00:00:comprehensible:00
+to
+modern modern%3:00:00::
+students student%1:18:00::
+what
+Luther person%1:03:00::
+was
+getting get%2:32:08::
+at
+.
+Although
+Utopian utopian%3:01:00::
+communism communism%1:14:00::
+is be%2:42:03::
+both
+new new%5:00:00:original:00
+in
+1516
+and
+also also%4:02:00::
+modern modern%3:00:00::
+,
+it
+is be%2:42:03::
+not not%4:02:00::
+modern modern%3:00:00::
+communism communism%1:14:00::
+or
+even even%4:02:00::
+modern modern%3:00:00::
+socialism socialism%1:09:00::
+,
+as
+they
+exist exist%2:42:00::
+or
+have
+ever ever%4:02:04::
+existed exist%2:42:00::
+in_theory in_theory%4:02:00::
+or
+in_practice in_practice%4:02:00::
+.
+Consider consider%2:31:01::
+the
+features feature%1:09:00::
+of
+Utopian utopian%3:01:00::
+communism communism%1:14:00::
+:
+generous generous%5:00:00:ample:00
+public public%3:00:00::
+provision provision%1:04:01::
+for
+the
+infirm infirm%5:00:00:ill:01
+;
+democratic democratic%3:00:00::
+and
+secret secret%5:00:00:concealed:00
+elections election%1:04:01::
+of
+all
+officers officer%1:18:02::
+including include%2:42:00::
+priests priest%1:18:00::
+,
+meals meal%1:13:00::
+taken take%2:34:00::
+publicly publicly%4:02:00::
+in
+common common%3:00:02::
+refectories refectory%1:06:00::
+;
+a
+common common%3:00:02::
+habit habit%1:06:00::
+or
+uniform uniform%1:06:00::
+prescribed prescribe%2:32:00::
+for
+all
+citizens citizen%1:18:00::
+;
+even even%4:02:00::
+houses house%1:06:00::
+changed change%2:40:00::
+once once%4:02:00::
+a
+decade decade%1:28:00::
+;
+six six%5:00:00:cardinal:00
+hours hour%1:28:00::
+of
+manual_labor manual_labor%1:04:00::
+a
+day day%1:28:00::
+for
+all
+but
+a
+handful handful%1:23:00::
+of
+magistrates magistrate%1:18:00::
+and
+scholars scholar%1:18:00::
+,
+and
+careful careful%3:00:00::
+measures measure%1:04:01::
+to
+prevent prevent%2:41:01::
+anyone
+from
+shirking shirk%2:41:01::
+;
+no
+private_property private_property%1:21:00::
+,
+no
+money money%1:21:00::
+;
+no
+sort sort%1:09:00::
+of
+pricing price%2:40:00::
+at_all at_all%4:02:00::
+for
+any
+goods goods%1:06:00::
+or
+services service%1:04:08::
+,
+and
+therefore therefore%4:02:00::
+no
+market market%1:04:00::
+in
+the
+economic economic%3:01:00::
+sense sense%1:09:03::
+of
+the
+term term%1:10:00::
+.
+Whatever
+the
+merits merit%1:07:01::
+of
+its
+intent intent%1:09:00::
+,
+Utopian utopian%3:01:00::
+communism communism%1:14:00::
+is be%2:42:03::
+far far%4:02:02::
+too too%4:02:00::
+naive naive%3:00:00::
+,
+far far%4:02:02::
+too too%4:02:00::
+crude
+,
+to
+suit suit%2:42:05::
+any
+modern modern%3:00:00::
+socialist socialist%1:18:00::
+or
+communist communist%1:18:00::
+.
+It
+is be%2:42:03::
+not not%4:02:00::
+the
+details detail%1:09:00::
+of
+Utopian utopian%3:01:00::
+communism communism%1:14:00::
+that
+make make%2:30:00::
+Utopia utopia%1:10:00::
+modern modern%5:00:00:fashionable:00
+,
+it
+is be%2:42:03::
+the
+spirit spirit%1:26:00::
+,
+the
+attitude attitude%1:09:00::
+of
+mind mind%1:09:00::
+that
+informs inform%2:30:00::
+those
+details detail%1:09:00::
+.
+What
+that
+spirit spirit%1:26:00::
+and
+attitude attitude%1:09:00::
+were be%2:42:06::
+we
+can
+best best%4:02:01::
+understand understand%2:31:00::
+if
+we
+see see%2:31:01::
+more more%4:02:00::
+precisely precisely%4:02:00::
+how
+it
+contrasts contrast%2:31:00::
+with
+the
+communist communist%1:18:00::
+tradition tradition%1:09:01::
+with
+the
+longest long%3:00:02::
+continuous continuous%3:00:01::
+history history%1:28:00::
+,
+the
+one
+which
+reached reach%2:38:01::
+Christianity christianity%1:09:00::
+by_the_way_of
+Stoicism stoicism%1:07:00::
+through
+the
+Church_Fathers church_father%1:18:00::
+of
+Late late%3:00:01::
+Antiquity antiquity%1:28:00::
+.

@@ -1,0 +1,2088 @@
+The
+controversy controversy%1:10:00::
+of
+the
+last last%5:00:00:past:00
+few few%3:00:00::
+years year%1:28:01::
+over
+whether
+architects architect%1:18:00::
+or
+interior_designers interior_designer%1:18:00::
+should
+plan plan%2:36:00::
+the
+interiors interior%1:15:01::
+of
+modern modern%3:00:00::
+buildings building%1:06:00::
+has
+brought bring%2:35:04::
+clearly clearly%4:02:00::
+into
+focus focus%1:07:03::
+one one%5:00:00:cardinal:00
+important important%3:00:00::
+difference_of_opinion difference_of_opinion%1:10:00::
+.
+The
+architects architect%1:18:00::
+do
+not not%4:02:00::
+believe believe%2:31:04::
+that
+the
+education education%1:09:00::
+of
+the
+interior_designer interior_designer%1:18:00::
+is be%2:42:03::
+sufficiently sufficiently%4:02:00::
+good good%3:00:01::
+or
+sufficiently sufficiently%4:02:00::
+extended extended%5:00:00:long:02
+to
+compare compare%2:42:00::
+with
+that
+of
+the
+architect architect%1:18:00::
+and
+that
+,
+therefore therefore%4:02:00::
+,
+the
+interior_designer interior_designer%1:18:00::
+is be%2:42:03::
+incapable incapable%5:00:00:incompetent:00
+of
+understanding understand%2:31:00::
+the
+architectural architectural%3:01:00::
+principles principle%1:09:03::
+involved involved%3:00:00::
+in
+planning plan%2:36:00::
+the
+interior interior%1:15:01::
+of
+a
+building building%1:06:00::
+.
+Ordinary ordinary%3:00:00::
+politeness politeness%1:07:00::
+may
+have
+militated militate%2:41:00::
+against
+this
+opinion opinion%1:09:00::
+being
+stated state%2:32:01::
+so so%4:02:02::
+badly badly%4:02:00::
+but
+anyone
+with
+a
+wide wide%5:00:00:comprehensive:00
+acquaintance acquaintance%1:09:00::
+in
+both
+groups group%1:03:00::
+and
+who
+has
+sat sit%2:38:01::
+through
+the
+many many%3:00:00::
+round_tables round_table%1:10:00::
+,
+workshops workshop%1:04:00::
+or
+panel_discussions panel_discussion%1:10:00::
+-
+whatever
+they
+are be%2:42:03::
+called called%5:00:01:titled:00
+-
+on
+this
+subject subject%1:10:00::
+will
+recognize recognize%2:31:02::
+that
+the
+final final%5:00:00:ultimate:00
+,
+boiled_down boiled-down%5:00:00:condensed:01
+crux_of_the_matter crux_of_the_matter%1:10:00::
+is be%2:42:06::
+education education%1:09:00::
+.
+It
+is
+true true%3:00:00::
+that
+most most%3:00:02::
+architectural architectural%3:01:00::
+schools school%1:14:00::
+have have%2:42:00::
+five five%5:00:00:cardinal:00
+year year%1:28:02::;1:28:01::
+courses course%1:04:01::
+,
+some
+even even%4:02:00::
+have have%2:42:00::
+six six%5:00:00:cardinal:00
+or
+more more%3:00:02::
+.
+The
+element element%1:09:00::
+of
+public public%5:00:00:common:02
+danger danger%1:26:00::
+which
+enters enter%2:42:00::
+so so%4:02:02::
+largely largely%4:02:00::
+into
+architectural architectural%3:01:00::
+certification certification%1:04:00::
+,
+however however%4:02:04::
+,
+would
+demand demand%2:42:00::
+a
+prolonged prolonged%5:00:00:long:02
+study study%1:09:03::
+of
+structure structure%1:07:00::
+.
+This
+would
+,
+naturally naturally%4:02:00::
+,
+lengthen lengthen%2:30:01::
+their
+courses course%1:04:01::
+far far%4:02:00::
+beyond beyond%4:02:01::
+the
+largely largely%4:02:00::
+esthetic esthetic%3:00:00::
+demands demand%1:09:00::
+of
+interior_designer interior_designer%1:18:00::
+'s
+training training%1:04:00::
+.
+We
+may
+then then%4:02:02::
+dismiss dismiss%2:32:00::
+the
+time time%1:28:05::
+difference difference%1:07:00::
+between
+these
+courses course%1:04:01::
+and
+the
+usual usual%3:00:00::
+four four%5:00:00:cardinal:00
+year year%1:28:02::;1:28:01::
+course course%1:04:01::
+of
+the
+interior_design interior_design%1:04:00::
+student student%1:18:00::
+as
+not not%4:02:00::
+having have%2:40:00::
+serious serious%5:00:00:important:00
+bearing bearing%1:24:01::
+on
+the
+subject subject%1:10:00::
+.
+The
+real real%3:00:00::
+question question%1:10:00::
+that
+follows follow%2:42:05::
+is be%2:42:06::
+-
+how
+are
+those
+four four%5:00:00:cardinal:00
+years year%1:28:02::;1:28:01::
+used use%2:34:01::
+and
+what
+is be%2:42:06::
+their
+value value%1:07:00::
+as
+training training%1:04:00::
+?
+The
+American_Institute_of_Interior_Designers group%1:03:00::
+has
+published publish%2:36:01::
+a
+recommended recommended%5:00:00:advisable:00
+course course%1:04:01::
+for
+designers designer%1:18:02::
+and
+a
+percentage percentage%1:21:00::
+layout layout%1:09:00::
+of
+such such%5:00:01:specified:00
+a
+course course%1:04:01::
+.
+An
+examination examination%1:04:00::
+of
+some
+forty forty%5:00:00:cardinal:00
+catalogs catalog%1:10:00::
+of
+schools school%1:14:00::
+offering offer%2:40:02::
+courses course%1:04:01::
+in
+interior_design interior_design%1:04:00::
+,
+for_the_most_part for_the_most_part%4:02:00::
+schools school%1:14:00::
+accredited accredit%2:41:00::
+by
+membership membership%1:26:00::
+in
+the
+National_Association_of_Schools_of_Art group%1:03:00::
+,
+and
+a
+further further%4:02:02::
+``
+on_the_spot on_the_spot%4:02:00::
+''
+inspection inspection%1:04:01::
+of
+a
+number number%1:07:00::
+of
+schools school%1:14:00::
+,
+show show%2:39:03::
+their
+courses course%1:04:01::
+adhere adhere%2:30:00::
+pretty pretty%4:02:00::
+closely closely%4:02:00::
+to
+the
+recommendations recommendation%1:10:00::
+.
+One one%5:00:00:cardinal:00
+or
+two two%5:00:00:cardinal:00
+of
+the
+schools school%1:14:00::
+have have%2:42:00::
+a
+five five%5:00:00:cardinal:00
+year year%1:28:01::
+curriculum curriculum%1:10:00::
+,
+but
+the
+usual usual%3:00:00::
+pattern pattern%1:04:00::
+of
+American american%3:01:01::
+education education%1:04:00::
+has
+limited limit%2:30:00::
+most most%3:00:02::
+of
+them
+to
+the
+four four%5:00:00:cardinal:00
+year year%1:28:02::;1:28:01::
+plan plan%1:09:00::
+which
+seems seem%2:39:00::
+to
+be be%2:42:03::
+the
+minimum minimum%1:23:00::
+in
+acceptable acceptable%3:00:00::
+institutions institution%1:14:00::
+.
+The
+suggested suggested%5:00:00:advisable:00
+course course%1:04:01::
+of
+the
+A.I.D. group%1:03:00::
+was
+based base%2:31:00::
+on
+the
+usual usual%3:00:00::
+course course%1:04:01::
+offered offer%2:40:02::
+and
+on
+the
+opinion opinion%1:09:00::
+of
+many many%3:00:00::
+educators educator%1:18:00::
+as
+to
+curricular curricular%3:01:00::
+necessities necessity%1:17:00::
+.
+Obviously obviously%4:02:00::
+,
+the
+four four%5:00:00:cardinal:00
+year year%1:28:02::;1:28:01::
+provision provision%1:10:00::
+limits limit%2:30:00::
+this
+to
+fundamentals fundamentals%1:09:00::
+and
+much much%3:00:00::
+desirable desirable%3:00:00::
+material material%1:27:00::
+must
+be
+eliminated eliminate%2:42:01::
+.
+Without
+comparing compare%2:31:00::
+the
+relative relative%3:00:00::
+merits merit%1:07:01::
+of
+the
+two two%5:00:00:cardinal:00
+courses course%1:04:01::
+-
+architecture architecture%1:09:00::
+versus
+interior_design interior_design%1:09:00::
+-
+let let%2:41:00::
+us
+examine examine%2:31:00::
+the
+educational educational%3:01:00::
+needs need%1:03:00::
+of
+the
+interior_designer interior_designer%1:18:00::
+.
+To_begin_with to_begin_with%4:02:00::
+,
+what
+is be%2:42:06::
+an
+interior_designer interior_designer%1:18:00::
+?
+``
+The_Dictionary_of_Occupational_Titles
+''
+published publish%2:36:01::
+by
+the
+U._S. u.s.%1:14:00::
+Department_of_Labor department_of_labor%1:14:00::
+describes describe%2:32:00::
+him
+as_follows as_follows%4:02:00::
+:
+``
+Designs design%2:36:01::
+,
+plans plan%2:36:00::
+and
+furnishes furnish%2:40:01::
+interiors interior%1:15:01::
+of
+houses house%1:06:00::
+,
+commercial commercial%3:00:00::
+and
+institutional institutional%3:01:00::
+structures structure%1:06:00::
+,
+hotels hotel%1:06:00::
+,
+clubs club%1:06:02::
+,
+ships ship%1:06:00::
+,
+theaters theater%1:06:00::
+,
+as_well_as
+set_decorations set_decoration%1:06:00::
+for
+motion_picture motion_picture%1:10:00::
+arts arts%1:09:00::
+and
+television television%1:10:00::
+.
+Makes make%2:36:00::
+drawings drawing%1:06:00::
+and
+plans plan%1:06:00::
+of
+rooms room%1:06:00::
+showing show%2:32:01::
+placement placement%1:07:00::
+of
+furniture furniture%1:06:00::
+,
+floor_coverings floor_covering%1:06:00::
+,
+wall wall%1:06:00::
+decorations decoration%1:06:00::
+,
+and
+determines determine%2:32:03::
+color_schemes color_scheme%1:14:00::
+.
+Furnishes furnish%2:40:00::
+complete complete%3:00:00::
+cost cost%1:21:00::
+estimates estimate%1:10:00::
+for
+clients client%1:18:00::
+approval approval%1:04:02::
+.
+Makes make%2:41:00::
+necessary necessary%3:00:00::
+purchases purchase%1:04:00::
+,
+places place%2:32:01::
+contracts
+,
+supervises supervise%2:41:00::
+construction construction%1:04:00::
+,
+installation installation%1:04:00::
+,
+finishing finishing%1:07:00::
+and
+placement placement%1:04:00::
+of
+furniture furniture%1:06:00::
+,
+fixtures fixture%1:06:00::
+and
+other other%3:00:00::
+correlated correlated%5:00:00:related:02
+furnishings furnishings%1:06:00::
+,
+and
+follows_through follow_through%2:41:00::
+to
+completion completion%1:04:01::
+of
+project project%1:04:00::
+``
+.
+In_addition in_addition%4:02:00::
+to
+this
+the
+U._S. u.s.%1:14:00::
+Civil_Service_Bureau group%1:03:00::
+,
+when
+examining examine%2:32:00::
+applicants applicant%1:18:00::
+for
+government government%1:14:00::
+positions position%1:04:01::
+as
+interior_designers interior_designer%1:18:00::
+,
+expects expect%2:32:00::
+that
+``
+when
+various various%5:00:00:individual:00
+needed needed%5:00:00:necessary:00
+objects object%1:03:00::
+are be%2:42:03::
+not not%4:02:00::
+obtainable obtainable%5:00:00:available:00
+on
+the
+market market%1:04:00::
+he
+will
+design design%2:36:01::
+them
+.
+He
+must
+be be%2:42:03::
+capable capable%5:00:00:competent:00
+of
+designing design%2:36:01::
+for
+and
+supervising supervise%2:41:00::
+the
+manufacture manufacture%1:04:00::
+of
+any
+craft craft%1:04:00::
+materials material%1:06:00::
+needed need%2:42:00::
+in
+the
+furnishings furnishings%1:06:00::
+''
+.
+This
+seems seem%2:39:00::
+like
+a
+large_order large_order%1:04:00::
+.
+The
+interior_designer interior_designer%1:18:00::
+,
+then then%4:02:02::
+,
+must
+first first%4:02:00::
+be be%2:42:06::
+an
+artist artist%1:18:00::
+but
+also also%4:02:00::
+understand understand%2:31:00::
+carpentry carpentry%1:04:00::
+and
+painting painting%1:04:01::
+and
+lighting lighting%1:04:01::
+and
+plumbing plumbing%1:04:01::
+and
+finance finance%1:04:00::
+.
+Yet
+nobody
+will
+question question%2:32:01::
+the
+necessity necessity%1:26:00::
+of
+all
+this
+and
+any
+reputable reputable%3:00:00::
+interior_designer interior_designer%1:18:00::
+does
+know know%2:31:03::
+all
+this
+and
+does
+practice practice%2:41:00::
+it
+.
+And
+further further%4:02:03::
+he
+must
+understand understand%2:31:00::
+his
+obligation obligation%1:04:00::
+to
+the
+client client%1:18:00::
+to
+not_only not_only%4:02:00::
+meet meet%2:42:01::
+his
+physical physical%3:00:00::
+necessities necessity%1:17:00::
+but
+also also%4:02:00::
+to
+enhance enhance%2:30:01::
+and
+improve improve%2:30:01::
+his
+life life%1:26:02::
+and
+to
+enlarge enlarge%2:30:00::
+the
+cultural cultural%3:01:01::
+horizon horizon%1:07:00::
+of
+our
+society society%1:14:00::
+.
+Few
+will
+quarrel quarrel%2:32:00::
+with
+the
+aim aim%1:09:00::
+of
+the
+schools school%1:14:00::
+or
+with
+the
+wording wording%1:10:00::
+of
+their
+curriculum curriculum%1:10:00::
+.
+It
+is
+in
+the
+quality quality%1:07:02::
+of
+the
+teaching teaching%1:04:00::
+of
+all
+this
+that
+a
+question question%1:10:01::
+may
+arise arise%2:42:01::
+.
+The
+old old%3:00:01::
+established established%3:00:00::
+independent independent%3:00:00::
+art_schools art_school%1:06:00::
+try try%2:41:00::
+their
+best best%3:00:00::
+to
+fulfill fulfill%2:36:00::
+their
+obligations obligation%1:04:00::
+.
+Yet
+even even%4:02:00::
+here here%4:02:02::
+many_a many_a%5:00:00:many:00
+problem problem%1:26:00::
+is
+presented present%2:39:00::
+;
+as
+in
+a
+recent recent%5:00:00:new:00
+design design%1:04:00::
+competition competition%1:11:00::
+with
+a
+floor_plan floor_plan%1:06:00::
+and
+the
+simple simple%3:00:02::
+command command%1:10:00::
+-
+``
+design design%2:36:01::
+a
+luxury luxury%5:00:00:elegant:00
+apartment apartment%1:06:00::
+''
+;
+no
+description description%1:10:01::
+of
+the
+client client%1:18:00::
+or
+his
+cultural cultural%3:01:01::
+level level%1:07:00::
+,
+no
+assertion assertion%1:10:01::
+of
+geographical_area geographical_area%1:15:00::
+or
+local local%5:00:00:native:01
+social social%3:01:00::
+necessities necessity%1:17:00::
+-
+simply simply%4:02:01::
+``
+a
+luxury luxury%5:00:00:elegant:00
+apartment apartment%1:06:00::
+''
+.
+Working work%2:41:02::
+in
+a
+vacuum vacuum%1:26:00::
+of
+minimal minimal%3:00:00::
+information information%1:10:00::
+can
+result result%2:42:02::
+only only%4:02:01::
+in
+show_pieces showpiece%1:06:00::
+that
+look look%2:39:01::
+good good%3:00:01::
+in
+exhibitions exhibition%1:14:00::
+and
+catalogs catalog%1:10:00::
+and
+may
+please please%2:37:00::
+the
+public_relations public_relations%1:10:00::
+department department%1:14:00::
+but
+have have%2:42:12::
+little little%1:23:00::
+to
+do do%2:42:00::
+with
+the
+essence essence%1:09:00::
+of
+interior_design interior_design%1:04:00::
+.
+It
+is
+possible possible%3:00:00::
+,
+of_course of_course%4:02:00::
+,
+to
+work_on work_on%2:41:00::
+extant extant%3:00:00::
+or
+projected projected%5:00:00:planned:00
+buildings building%1:06:00::
+where
+either
+architect architect%1:18:00::
+or
+owner owner%1:18:00::
+will
+explain explain%2:32:00::
+their
+necessities necessity%1:26:00::
+so_that
+the
+student student%1:18:00::
+may
+get get%2:39:00::
+``
+the
+feel feel%1:09:00::
+''
+of
+real real%5:00:00:genuine:00
+interior_design interior_design%1:04:00::
+demands demand%1:09:00::
+.
+Unfortunately unfortunately%4:02:00::
+,
+the
+purely purely%4:02:00::
+synthetic synthetic%5:00:00:artificial:00
+problem problem%1:26:00::
+is be%2:42:03::
+the
+rule rule%1:09:01::
+.
+It
+is be%2:42:03::
+like
+medical_schools medical_school%1:14:00::
+in
+India location%1:03:00::
+where
+,
+in
+that
+fairy_land fairyland%1:09:00::
+of
+religious religious%3:01:00::
+inhibition inhibition%1:04:00::
+,
+the
+dissection dissection%1:04:01::
+of
+dead_bodies dead_body%1:08:00::
+is
+frowned_upon frown_upon%2:31:00::
+.
+Instead instead%4:02:00::
+they
+learn learn%2:31:00::
+their
+dissection dissection%1:04:01::
+on
+the
+bulbs bulb%1:20:00::
+of
+plants plant%1:03:00::
+.
+Thus thus%4:02:00::
+technical technical%3:01:00::
+efficiency efficiency%1:09:00::
+is
+achieved achieve%2:41:00::
+at
+the
+expense expense%1:11:00::
+of
+actual actual%3:00:00::
+experience experience%1:09:01::
+.
+In
+the
+earlier early%3:00:00::
+years year%1:28:01::
+of
+training training%1:04:00::
+certain certain%5:00:00:definite:00
+phases phase%1:28:00::
+of
+the
+work work%1:09:00::
+must
+be
+covered cover%2:32:01::
+and
+the
+synthetic synthetic%5:00:00:artificial:00
+problem problem%1:26:00::
+has have%2:40:00::
+its
+use use%1:07:00::
+.
+But
+to
+continue continue%2:42:01::
+to
+divorce divorce%2:41:01::
+advanced advanced%5:00:00:precocious:00
+students student%1:18:00::
+from
+reality reality%1:09:00::
+is be%2:42:03::
+inexcusable inexcusable%3:00:00::
+.
+Consultation consultation%1:10:01::
+with
+architects architect%1:18:00::
+,
+clients client%1:18:00::
+,
+real_estate real_estate%1:21:00::
+men man%1:18:00::
+,
+fabric fabric%1:06:00::
+houses house%1:14:01::
+and
+furniture furniture%1:06:00::
+companies company%1:14:01::
+is be%2:42:03::
+essential essential%5:00:00:necessary:00
+to
+the
+proper proper%3:00:00::
+development development%1:22:02::
+of
+class class%1:14:03::
+problems problem%1:26:00::
+just just%4:02:05::
+as
+in
+actual actual%3:00:00::
+work work%1:04:01::
+.
+Fortunately fortunately%4:02:00::
+,
+although
+only only%4:02:02::
+a_few a_few%5:00:00:few:00
+years year%1:28:01::
+ago ago%4:02:00::
+they
+held hold%2:42:00::
+the
+student student%1:18:00::
+at_arms_length at_arm's_length%4:02:00::
+,
+today today%1:28:00::
+the
+business business%5:00:00:commercial:00
+houses house%1:14:01::
+welcome welcome%2:40:00::
+the
+opportunity opportunity%1:26:00::
+to
+aid aid%2:41:00::
+the
+student student%1:18:00::
+,
+not_only not_only%4:02:00::
+from
+an
+increased increased%3:00:00::
+sense sense%1:09:05::
+of
+community community%1:14:00::
+responsibility responsibility%1:04:00::
+but
+also also%4:02:00::
+from
+the
+realization realization%1:09:00::
+that
+the
+student student%1:18:00::
+of
+today today%1:28:00::
+is be%2:42:06::
+the
+interior_designer interior_designer%1:18:00::
+of
+tomorrow tomorrow%1:28:01::
+-
+that
+the
+student student%1:18:00::
+already already%4:02:00::
+is be%2:42:05::
+``
+in
+the
+trade trade%1:04:00::
+''
+.
+Even even%4:02:00::
+the
+``
+history history%1:10:00::
+of
+furniture furniture%1:06:00::
+''
+can
+hardly hardly%4:02:00::
+be
+taught teach%2:32:00::
+exclusively exclusively%4:02:00::
+from
+photographs photograph%1:06:00::
+and
+lantern_slides lantern_slide%1:06:00::
+.
+Here here%4:02:02::
+,
+too too%4:02:01::
+,
+the
+reality reality%1:09:00::
+of
+actual actual%3:00:00::
+furniture furniture%1:06:00::
+must
+be
+experienced experience%2:31:00::
+.
+The
+professional professional%3:01:01::
+organizations organization%1:14:00::
+such_as
+American_Institute_of_Interior_Designers group%1:03:00::
+,
+National_Society_of_Interior_Designers group%1:03:00::
+,
+Home_Fashions_League group%1:03:00::
+and
+various various%5:00:00:individual:00
+trade trade%1:14:00::
+associations association%1:14:00::
+,
+can
+and
+do
+aid aid%2:41:00::
+greatly greatly%4:02:00::
+in
+this
+work work%1:04:00::
+.
+Certainly certainly%4:02:00::
+every
+educator educator%1:18:00::
+involved involve%2:42:04::
+in
+interior_design interior_design%1:04:00::
+should
+be be%2:42:06::
+a
+member member%1:18:00::
+and
+active active%3:00:03::
+in
+the
+work work%1:04:00::
+of
+one
+of
+these
+organizations organization%1:14:00::
+.
+Not_only not_only%4:02:00::
+should
+every
+educator educator%1:18:00::
+above
+the
+rank rank%1:26:00::
+of
+instructor instructor%1:18:00::
+be
+expected expect%2:32:00::
+to
+be be%2:42:06::
+a
+member member%1:18:00::
+of
+one
+of
+the
+professional professional%3:01:01::
+organizations organization%1:14:00::
+,
+but
+his
+first first%3:00:00::
+qualification qualification%1:07:00::
+for
+membership membership%1:26:00::
+as
+an
+educator educator%1:18:00::
+should
+be
+so so%4:02:02::
+sharply sharply%4:02:00::
+scrutinized scrutinize%2:39:00::
+that
+membership membership%1:26:00::
+would
+be be%2:42:03::
+equivalent_to equivalent_to%5:00:00:equal:00
+certification certification%1:04:00::
+to
+teach teach%2:32:00::
+the
+subject subject%1:09:00::
+.
+Participation participation%1:04:00::
+for
+the
+educator educator%1:18:00::
+in
+this
+case case%1:11:00::
+,
+however however%4:02:04::
+,
+would
+have_to
+be
+raised raise%2:30:01::
+to
+full full%5:00:01:whole:00
+and
+complete complete%3:00:00::
+membership membership%1:26:00::
+.
+The
+largest largest%5:00:00:large:00
+of
+these
+organizations organization%1:14:00::
+at_present at_present%4:02:00::
+denies deny%2:40:00::
+to
+the
+full_time full-time%3:00:00::
+educator educator%1:18:00::
+any
+vote vote%1:04:00::
+on
+the
+conduct conduct%1:07:00::
+and
+standards standard%1:09:00::
+of
+the
+group group%1:03:00::
+and
+,
+indeed indeed%4:02:03::
+,
+refuses refuse%2:40:01::
+him
+even even%4:02:00::
+the
+right right%1:07:00::
+to
+attach attach%2:35:01::
+the
+customary customary%5:00:00:conventional:00
+initials initial%1:10:00::
+after
+his
+name name%1:10:00::
+in
+the
+college college%1:14:00::
+catalog catalog%1:10:01::
+.
+This
+anomalous anomalous%5:00:00:abnormal:00
+status status%1:26:00::
+of
+the
+educator educator%1:18:00::
+cannot
+fail fail%2:41:02::
+to
+lower lower%2:38:00::
+his
+standing standing%1:26:00::
+in
+the
+eyes eyes%1:09:00::
+of
+the
+students student%1:18:00::
+.
+The
+professor professor%1:18:00::
+in_turn in_turn%4:02:00::
+dares
+not not%4:02:00::
+tolerate tolerate%2:31:00::
+the
+influence influence%1:07:00::
+in
+his
+classes class%1:14:03::
+of
+an
+organization organization%1:14:00::
+in
+the
+policies policy%1:09:00::
+and
+standards standard%1:09:00::
+of
+which
+he
+has have%2:40:00::
+no
+voice voice%1:10:01::
+.
+This
+seems seem%2:39:00::
+somewhat somewhat%4:02:01::
+shortsighted shortsighted%5:00:00:improvident:00
+since
+if
+the
+absolute absolute%3:00:00::
+educational educational%3:01:00::
+qualifications qualification%1:07:00::
+for
+membership membership%1:26:00::
+which
+the
+organizations organization%1:14:00::
+profess profess%2:32:00::
+are
+ever ever%4:02:04::
+enforced enforce%2:41:00::
+,
+the
+educator educator%1:18:00::
+will
+have have%2:40:00::
+the
+molding molding%1:04:01::
+of
+the
+entire entire%5:00:02:whole:00
+profession profession%1:14:00::
+in
+his
+hands hands%1:04:00::
+.
+In
+one one%5:00:00:cardinal:00
+way way%1:26:00::
+the
+Institutes institute%1:14:00::
+and
+Societies society%1:14:01::
+do do%2:36:02::
+a
+disservice disservice%1:04:00::
+to
+the
+schools school%1:14:00::
+.
+That_is that_is%4:02:00::
+in
+the
+continuance continuance%1:04:00::
+of
+the
+``
+grandfather_clauses grandfather_clause%1:26:00::
+''
+in
+their
+membership membership%1:26:00::
+requirements requirement%1:09:00::
+.
+When
+these
+groups group%1:03:00::
+were
+first first%4:02:02::
+formed form%2:41:00::
+many many%3:00:00::
+prominent prominent%5:00:02:conspicuous:00
+and
+accomplished accomplished%5:00:00:skilled:00
+decorators decorator%1:18:01::
+could
+not not%4:02:00::
+have
+had have%2:40:00::
+the
+advantage advantage%1:07:00::
+of
+school school%1:14:00::
+training training%1:04:00::
+since
+interior_design interior_design%1:04:00::
+courses course%1:04:01::
+were be%2:42:03::
+rare rare%5:00:00:uncommon:00
+and
+undeveloped undeveloped%3:00:00::
+during
+their
+youth youth%1:28:01::
+.
+Long long%3:00:02::
+hard hard%3:00:06::
+years year%1:28:01::
+of
+``
+on_the_job on_the_job%5:00:00:employed:00
+''
+training training%1:04:00::
+had
+brought bring%2:38:00::
+them
+to
+their
+competence competence%1:07:00::
+.
+The
+necessity necessity%1:26:00::
+of
+that
+day day%1:28:03::
+has
+long long%4:02:00::
+disappeared disappear%2:30:00::
+.
+There
+is be%2:42:00::
+plenty plenty%1:07:00::
+of
+opportunity opportunity%1:26:00::
+for
+proper proper%3:00:00::
+education education%1:04:00::
+today today%1:28:00::
+.
+It
+is be%2:42:03::
+discouraging discouraging%3:00:00::
+for
+students student%1:18:00::
+to
+realize realize%2:31:01::
+that
+the
+societies society%1:14:01::
+do
+not not%4:02:00::
+truly truly%4:02:00::
+uphold uphold%2:42:00::
+the
+standards standard%1:09:00::
+for
+which
+they
+are be%2:42:03::
+supposed supposed%5:00:00:obligated(p):00
+to
+stand stand_for%2:32:01::
+.
+The
+reason reason%1:16:00::
+and
+the
+day day%1:28:03::
+of
+``
+grandfather_clauses grandfather_clause%1:26:00::
+''
+has
+long_since long_since%4:02:01::
+passed pass%2:38:03::
+.
+No
+one
+can
+deny deny%2:32:00::
+that
+these
+``
+back_door back_door%1:04:00::
+''
+admissions admission%1:04:00::
+to
+membership membership%1:14:00::
+provisions provision%1:10:00::
+have
+been
+seriously seriously%4:02:01::
+abused abuse%2:30:00::
+nor
+that
+they
+have
+not not%4:02:00::
+resulted result%2:42:02::
+in
+the
+admission admission%1:04:00::
+of
+downright downright%4:02:00::
+incompetents incompetent%1:18:00::
+to
+membership membership%1:26:00::
+in
+supposedly supposedly%4:02:00::
+learned learned%5:00:00:educated:00
+societies society%1:14:01::
+.
+Beyond
+any
+question question%1:10:01::
+of
+curriculum curriculum%1:10:00::
+and
+approach approach%1:04:02::
+to
+subject subject%1:09:00::
+must
+be be%2:42:03::
+the
+quality quality%1:07:02::
+of
+the
+teachers teacher%1:18:00::
+themselves
+.
+It
+will
+occur occur%2:31:00::
+to
+anyone
+that
+the
+teacher teacher%1:18:00::
+must
+have have%2:40:00::
+adequate adequate%3:00:00::
+education education%1:09:00::
+,
+a
+depth depth%1:07:01::
+and
+breadth breadth%1:09:00::
+of
+knowledge knowledge%1:03:00::
+far far%4:02:02::
+beyond
+the
+immediate immediate%5:00:00:present(a):01
+necessities necessity%1:26:00::
+of
+his
+course course%1:04:01::
+plus
+complete complete%3:00:00::
+dedication dedication%1:07:00::
+to
+his
+subject subject%1:09:00::
+and
+to
+his
+students student%1:18:00::
+.
+The
+local local%5:00:00:native:01
+decorator decorator%1:18:01::
+who
+rushes rush%2:38:00::
+in
+for
+a_few a_few%5:00:00:few:00
+hours hour%1:28:00::
+of
+teaching teaching%1:04:00::
+may
+but
+more more%4:02:00::
+likely likely%4:02:00::
+may_not
+have have%2:40:00::
+these
+qualifications qualification%1:07:00::
+.
+Nor
+will
+the
+hack hack%1:18:00::
+,
+the
+Jack-of-all-trades jack_of_all_trades%1:18:01::
+,
+still still%4:02:01::
+found find%2:40:02::
+in
+some
+of
+the
+smaller smaller%5:00:00:small:00
+art_schools art_school%1:06:00::
+,
+suffice suffice%2:42:00::
+.
+Only only%4:02:02::
+a_few a_few%5:00:00:few:00
+years year%1:28:01::
+ago ago%4:02:00::
+a
+middle_western midwestern%5:00:00:western:02
+college college%1:14:00::
+circulated circulate%2:32:00::
+a
+request request%1:10:01::
+for
+a
+teacher teacher%1:18:00::
+of
+interior_design interior_design%1:04:00::
+.
+At
+the
+end end%1:09:00::
+of
+its
+letter letter%1:10:00::
+was be%2:42:05::
+the
+information information%1:10:00::
+that
+applicants applicant%1:18:00::
+for
+this
+position position%1:04:01::
+``
+must
+also also%4:02:00::
+be
+prepared prepare%2:30:00::
+to
+teach teach%2:32:00::
+costume costume%1:06:00::
+design design%1:04:00::
+and
+advertising advertising%1:10:00::
+art art%1:10:00::
+''
+.
+This
+kind kind%1:09:00::
+of
+irresponsibility irresponsibility%1:07:00::
+toward
+their
+students student%1:18:00::
+can
+scarcely scarcely%4:02:00::
+build build%2:30:00::
+a
+strong strong%3:00:00::
+professional professional%3:00:02::
+attitude attitude%1:09:00::
+in
+the
+future future%5:00:00:incoming:00
+designer designer%1:18:02::
+.
+We
+must
+build build%2:36:00::
+a
+corps corps%1:14:01::
+of
+highly highly%4:02:02::
+professional professional%3:00:02::
+teachers teacher%1:18:00::
+of
+interior_design interior_design%1:04:00::
+who
+have
+had have%2:40:00::
+education education%1:09:00::
+,
+experience experience%1:09:01::
+in
+the
+profession profession%1:14:00::
+and
+are be%2:42:03::
+willing willing%3:00:00::
+to
+take_on take_on%2:41:01::
+the
+usual usual%3:00:00::
+accompaniments accompaniment%1:11:00::
+of
+teaching teaching%1:04:00::
+-
+minimal minimal%3:00:00::
+income income%1:21:00::
+and
+minimal minimal%3:00:00::
+status status%1:26:00::
+among
+their
+confreres confrere%1:18:00::
+.
+Considerable considerable%3:00:00::
+specialization specialization%1:04:00::
+in
+teaching teaching%1:04:00::
+subjects subject%1:09:00::
+such_as
+architecture architecture%1:04:00::
+,
+furniture furniture%1:06:00::
+design design%1:04:00::
+,
+textiles textile%1:06:00::
+and
+color color%1:07:00::
+is be%2:42:03::
+also also%4:02:00::
+desirable desirable%3:00:00::
+.
+In
+all all%3:00:00::
+``
+degree degree%1:10:00::
+''
+courses course%1:04:01::
+in
+interior_design interior_design%1:04:00::
+a
+number number%1:07:00::
+of
+``
+academic academic%3:01:00::
+''
+or
+``
+general general%3:00:00::
+studies study%1:09:02::
+''
+courses course%1:04:01::
+are
+included include%2:42:00::
+.
+It
+is be%2:42:03::
+only only%4:02:02::
+fair fair%3:00:03::
+to
+demand demand%2:32:02::
+that
+teachers teacher%1:18:00::
+of
+courses course%1:04:01::
+in
+English english%1:09:00::
+,
+history history%1:09:00::
+,
+psychology psychology%1:09:00::
+and_so_on and_so_on%4:02:00::
+be be%2:42:03::
+as
+well well%4:02:00::
+informed informed%3:00:00::
+in
+matters matter%1:09:00::
+of
+art art%1:06:00::
+,
+especially especially%4:02:00::
+interior_design interior_design%1:04:00::
+,
+as
+are be%2:42:03::
+the
+art_teachers art_teacher%1:18:00::
+educated educated%3:00:00::
+in
+the
+academic academic%3:01:00::
+subjects subject%1:09:00::
+.
+The
+proper proper%3:00:00::
+correlation correlation%1:24:00::
+of
+the
+art art%1:04:00::
+with
+the
+academic academic%3:01:00::
+can
+be
+achieved achieve%2:41:00::
+only_if only_if%4:02:00::
+this
+standard standard%1:09:00::
+is
+observed observe%2:41:01::
+.
+The
+matter matter%1:09:00::
+of
+sympathy sympathy%1:09:00::
+of
+the
+academic academic%3:01:00::
+professors professor%1:18:00::
+for
+art art%1:04:00::
+objectives objective%1:09:00::
+also also%4:02:00::
+must
+be
+taken_into_account take_into_account%2:31:00::
+.
+One one%5:00:00:cardinal:00
+technical technical%3:01:00::
+question question%1:10:01::
+of
+school school%1:14:00::
+organization organization%1:04:00::
+comes_to_mind come_to_mind%2:31:00::
+here here%4:02:02::
+.
+For
+proper proper%3:00:00::
+accreditation accreditation%1:04:00::
+of
+schools school%1:14:00::
+,
+teachers teacher%1:18:00::
+in
+any
+course course%1:04:01::
+must
+have have%2:40:00::
+a
+degree degree%1:10:00::
+at_least at_least%4:02:00::
+one one%5:00:00:cardinal:00
+level level%1:26:01::
+above
+that
+for
+which
+the
+student student%1:18:00::
+is be%2:42:06::
+a
+candidate candidate%1:18:00::
+.
+Since
+there
+are be%2:42:00::
+almost almost%4:02:00::
+no no%3:00:00::
+schools school%1:14:00::
+in
+the
+country country%1:15:00::
+offering offer%2:40:02::
+graduate graduate%5:00:00:high:02
+work work%1:09:00::
+in
+interior_design interior_design%1:04:00::
+this
+rule rule%1:09:01::
+cannot
+at_present at_present%4:02:00::
+be
+observed observe%2:41:01::
+.
+Indeed
+,
+it
+has
+only only%4:02:02::
+been be%2:42:03::
+a
+matter matter%1:09:00::
+of
+the
+last last%5:00:00:past:00
+few few%3:00:00::
+years year%1:28:01::
+that
+reputable reputable%3:00:00::
+schools school%1:14:00::
+of
+art art%1:04:00::
+have
+granted grant%2:40:03::
+degrees degree%1:10:00::
+at_all at_all%4:02:00::
+.
+The
+question question%1:10:01::
+,
+however however%4:02:00::
+,
+cannot
+be
+ignored ignore%2:32:00::
+for
+long long%4:02:00::
+.
+The
+basic basic%3:00:00::
+problem problem%1:26:00::
+involved involve%2:42:01::
+is be%2:42:06::
+that
+a
+college college%1:14:00::
+setting_up set_up%2:41:02::
+a
+graduate_school graduate_school%1:14:00::
+must
+have have%2:40:00::
+an
+entirely entirely%4:02:00::
+separate separate%3:00:00::
+faculty faculty%1:14:00::
+for
+the
+advanced advanced%5:00:02:high:02
+degree degree%1:10:00::
+.
+Most most%3:00:02::
+professors professor%1:18:00::
+in
+the
+course course%1:04:01::
+must
+,
+naturally naturally%4:02:00::
+,
+again again%4:02:00::
+have have%2:40:00::
+a
+higher high%3:00:02::
+degree degree%1:10:00::
+than
+the
+course course%1:04:01::
+offers offer%2:40:02::
+.
+One one%5:00:00:cardinal:00
+solution solution%1:10:00::
+is be%2:42:06::
+the
+acquisition acquisition%1:04:00::
+of
+degrees degree%1:10:00::
+in
+education education%1:04:01::
+but
+it
+is be%2:42:03::
+a
+poor poor%5:00:00:inferior:02
+substitute substitute%1:09:00::
+.
+It
+is be%2:42:03::
+a
+sort_of sort_of%4:02:00::
+academic academic%3:01:00::
+ring-around-a_rosy ring-around-a-rosy%1:04:00::
+and
+you
+solve solve%2:31:00::
+it
+.
+This
+brings bring%2:38:00::
+us
+to
+the
+question question%1:10:01::
+of
+accreditation accreditation%1:04:00::
+of
+art_schools art_school%1:06:00::
+in_general in_general%4:02:00::
+.
+Only only%4:02:01::
+the
+independent independent%3:00:00::
+art_schools art_school%1:06:00::
+,
+that_is that_is%4:02:00::
+,
+those
+not not%4:02:00::
+connected connected%5:00:00:related:02
+with
+any
+university university%1:14:00::
+or
+college college%1:14:00::
+,
+receive receive%2:39:03::
+severe severe%5:00:02:nonindulgent:00
+and
+separate separate%3:00:00::
+investigation investigation%1:09:00::
+before
+accreditation accreditation%1:04:00::
+by
+the
+various various%5:00:00:individual:00
+regional regional%3:01:00::
+organizations organization%1:14:00::
+.
+It
+has
+been be%2:42:03::
+the
+custom custom%1:04:00::
+for
+most most%3:00:02::
+universities university%1:14:00::
+to
+stretch_the_blanket
+of
+accreditation accreditation%1:04:00::
+for
+their
+liberal_arts liberal_arts%1:09:00::
+school school%1:14:00::
+to
+cover_the_shivering_body
+of
+their
+fine_arts fine_arts%1:09:00::
+department department%1:14:00::
+.
+This
+,
+plus
+the
+habit habit%1:04:02::
+of
+many many%3:00:00::
+schools school%1:14:00::
+of
+simply simply%4:02:03::
+adding add%2:30:00::
+interior_design interior_design%1:04:00::
+to
+the
+many many%3:00:00::
+subjects subject%1:09:00::
+of
+their
+home_economics home_economics%1:09:00::
+department department%1:14:00::
+,
+yet
+,
+nevertheless nevertheless%4:02:00::
+,
+claiming claim%2:32:00::
+that
+they
+teach teach%2:32:00::
+interior_design interior_design%1:04:00::
+,
+has
+contributed contribute%2:40:01::
+to
+the
+low low%5:00:00:contemptible:00
+repute repute%1:26:00::
+of
+many many%3:00:00::
+university university%1:14:00::
+courses course%1:04:01::
+in
+interior_design interior_design%1:04:00::
+.
+In_spite_of
+this
+,
+many many%3:00:00::
+universities university%1:14:00::
+offer offer%2:40:02::
+adequate adequate%3:00:00::
+and
+even even%4:02:00::
+distinguished distinguished%5:00:00:important:00
+courses course%1:04:01::
+in
+the
+subject subject%1:09:00::
+.
+There
+will
+be be%2:42:04::
+no
+mitigation mitigation%1:04:00::
+of
+these
+offences offence%1:04:00::
+until
+all
+art_schools art_school%1:06:00::
+,
+whether
+independent independent%3:00:00::
+or
+attached attached%5:00:00:related:02
+to
+universities university%1:14:00::
+have have%2:40:00::
+separate separate%3:00:00::
+accreditation accreditation%1:04:00::
+-
+as
+do
+medical_schools medical_school%1:14:00::
+-
+by
+an
+art art%1:04:00::
+accreditation accreditation%1:04:00::
+group group%1:03:00::
+such_as
+the
+``
+National_Association_of_Schools_of_Art group%1:03:00::
+''
+.
+Independent independent%3:00:00::
+art_schools art_school%1:06:00::
+granting grant%2:40:03::
+degrees degree%1:10:00::
+must
+,
+naturally naturally%4:02:00::
+,
+follow follow%2:42:03::
+this
+with
+academic academic%3:01:00::
+accreditation accreditation%1:04:00::
+by
+the
+appropriate appropriate%3:00:00::
+regional regional%3:01:00::
+group group%1:03:00::
+.

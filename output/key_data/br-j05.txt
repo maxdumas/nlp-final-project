@@ -1,0 +1,2209 @@
+Polyphosphates polyphosphate%1:27:00::
+gave give%2:40:03::
+renewed renewed%5:00:00:revived:00
+life life%1:28:00::
+to
+soap soap%1:06:00::
+products product%1:06:01::
+at
+a
+time time%1:28:00::
+when
+surfactants surfactant%1:27:00::
+were be%2:42:02::
+a
+threat threat%1:26:00::
+though though%4:02:00::
+expensive expensive%3:00:00::
+,
+and
+these
+same same%3:00:02::
+polyphosphates polyphosphate%1:27:00::
+spelled spell%2:32:01::
+the
+decline decline%1:22:02::
+of
+soap soap%1:06:00::
+usage usage%1:04:00::
+when
+the
+synergism synergism%1:22:00::
+between
+polyphosphates polyphosphate%1:27:00::
+and
+synthetic synthetic%5:00:00:artificial:00
+detergent detergent%1:27:00::
+actives active%1:27:00::
+was
+recognized recognize%2:31:01::
+and
+exploited exploit%2:34:00::
+.
+The
+market market%1:14:00::
+today today%1:28:00::
+for
+detergent_builders detergent_builder%1:27:00::
+is be%2:42:03::
+quite quite%4:02:02::
+diverse diverse%5:00:00:different:00
+.
+The
+best_known best-known%5:00:00:known:00
+field field%1:26:00::
+of
+application application%1:04:02::
+for
+builders builder%1:27:00::
+is be%2:42:05::
+in
+heavy-duty heavy-duty%3:00:00::
+,
+spray-dried spray-dried%3:44:00::
+detergent detergent%1:27:00::
+formulations formulation%1:27:00::
+for
+household household%1:14:00::
+use use%1:04:00::
+.
+These
+widely widely%4:02:00::
+advertised advertised%5:00:00:publicized:00
+products product%1:06:01::
+,
+which
+are
+used use%2:34:01::
+primarily primarily%4:02:01::
+for
+washing wash%2:35:00::
+clothes clothes%1:06:00::
+,
+are be%2:42:03::
+based based%3:44:00::
+on
+high-sudsing high-sudsing%3:00:00::
+,
+synthetic synthetic%5:00:00:artificial:00
+organic organic%3:00:01::
+actives active%1:27:00::
+(
+sodium sodium%1:27:00::
+alkylbenzenesulfonates alkylbenzenesulfonate%1:27:00::
+)
+and
+contain contain%2:42:00::
+up_to
+50 50%5:00:00:cardinal:00
+%
+by
+weight weight%1:07:00::
+of
+sodium_tripolyphosphate sodium_tripolyphosphate%1:27:00::
+or
+a
+mixture mixture%1:27:00::
+of
+sodium_tripolyphosphate sodium_tripolyphosphate%1:27:00::
+and
+tetrasodium_pyrophosphate tetrasodium_pyrophosphate%1:27:00::
+.
+In
+the
+household household%1:14:00::
+market market%1:14:00::
+,
+there
+are
+also also%4:02:00::
+low-sudsing low-sudsing%3:00:00::
+detergent detergent%1:27:00::
+formulations formulation%1:27:00::
+based based%3:44:00::
+on
+nonionic nonionic%3:00:00::
+actives active%1:27:00::
+with
+about
+the
+same same%3:00:04::
+amount amount%1:03:00::
+of
+phosphate phosphate%1:27:00::
+builder builder%1:27:00::
+;
+light-duty light-duty%3:00:00::
+synthetic synthetic%5:00:00:artificial:00
+detergents detergent%1:27:00::
+with
+much much%4:02:00::
+less less%3:00:00::
+builder builder%1:27:00::
+;
+and
+the
+dwindling dwindling%5:00:00:decreasing:00
+built built%5:00:00:improved:00
+soap_powders soap_powder%1:06:00::
+as_well_as
+soap_flakes soap_flakes%1:06:00::
+and
+granules granule%1:17:00::
+,
+none
+of
+which
+are
+now now%4:02:00::
+nationally nationally%4:02:00::
+advertised advertise%2:32:01::
+.
+A
+well well%4:02:00::
+publicized publicized%3:00:00::
+entrant entrant%1:06:00::
+which
+has
+achieved achieve%2:41:00::
+success success%1:04:00::
+only only%4:02:02::
+recently recently%4:02:00::
+is be%2:42:06::
+the
+built built%5:00:00:improved:00
+liquid_detergent liquid_detergent%1:06:00::
+,
+with
+which
+the
+major major%3:00:02::
+problem problem%1:26:00::
+today today%1:28:00::
+is be%2:42:06::
+incorporation incorporation%1:04:01::
+of
+builder builder%1:27:00::
+and
+active active%1:27:00::
+into
+a
+small small%3:00:00::
+volume volume%1:23:00::
+using use%2:34:01::
+a
+sufficiently sufficiently%4:02:00::
+high high%3:00:02::
+builder builder%1:27:00::
+/
+active active%1:27:00::
+ratio ratio%1:24:01::
+.
+Hard hard%3:00:01::
+surface surface%1:06:00::
+cleaning cleaning%1:04:00::
+in
+household household%1:14:00::
+application application%1:04:02::
+is
+represented represent%2:42:02::
+by
+two two%5:00:00:cardinal:00
+classes class%1:14:00::
+of
+alkaline alkaline%3:00:00::
+products product%1:06:01::
+:
+(
+1
+)
+the
+formulations formulation%1:27:00::
+made make%2:36:01::
+expressly expressly%4:02:00::
+for
+machine machine%1:06:00::
+dishwashers dishwasher%1:06:00::
+,
+and
+(
+2
+)
+the
+general-purpose general-purpose%5:00:00:general:00
+cleaners cleaner%1:06:00::
+used use%2:34:01::
+for
+walls wall%1:06:00::
+and
+woodwork woodwork%1:06:00::
+.
+The
+better better%3:00:00::
+quality quality%1:09:00::
+products product%1:06:01::
+in
+both
+of
+these
+lines line%1:06:08::
+contain contain%2:42:00::
+phosphate phosphate%1:27:00::
+builders builder%1:27:00::
+.
+In_addition in_addition%4:02:00::
+,
+many
+of
+the
+hard hard%3:00:01::
+surface surface%1:06:00::
+cleaners cleaner%1:06:00::
+used use%2:34:01::
+for
+walls wall%1:06:00::
+and
+woodwork woodwork%1:06:00::
+had have%2:30:01::
+their
+genesis genesis%1:11:00::
+in
+trisodium_orthophosphate trisodium_orthophosphate%1:27:00::
+,
+which
+is be%2:42:06::
+still still%4:02:01::
+the
+major major%3:00:02::
+ingredient ingredient%1:06:00::
+of
+a
+number number%1:07:00::
+of
+such such%5:00:01:specified:00
+products product%1:06:01::
+.
+Many many%3:00:00::
+scouring scouring%1:04:00::
+powders powder%1:27:00::
+now now%4:02:00::
+also also%4:02:00::
+contain contain%2:42:00::
+phosphates phosphate%1:27:00::
+.
+These
+hard hard%3:00:01::
+surface surface%1:06:00::
+cleaners cleaner%1:06:00::
+are
+discussed discuss%2:32:01::
+in
+Chapter chapter%1:10:00::
+28 twenty-eighth%5:00:00:ordinal:00
+.
+Cleaning cleaning%1:04:00::
+or
+detergent detergent%1:27:00::
+action action%1:22:00::
+is be%2:42:03::
+entirely entirely%4:02:00::
+a
+matter matter%1:09:00::
+of
+surfaces surface%1:06:00::
+.
+Wet wet%3:00:01::
+cleaning cleaning%1:04:00::
+involves involve%2:42:07::
+an
+aqueous aqueous%3:01:00::
+medium medium%1:15:01::
+,
+a
+solid solid%3:00:01::
+substrate substrate%1:27:00::
+,
+soil soil%1:26:00::
+to
+be
+removed remove%2:30:00::
+,
+and
+the
+detergent detergent%1:27:00::
+or
+surface-active surface-active%5:00:00:active:05
+material material%1:27:00::
+.
+An
+oversimplified oversimplified%5:00:00:simple:02
+differentiation differentiation%1:09:00::
+between
+soft soft%3:00:01::
+-
+and
+hard hard%3:00:01::
+surface surface%1:06:00::
+cleaning cleaning%1:04:00::
+lies_in lie_in%2:42:00::
+the
+magnitude magnitude%1:07:00::
+and
+kind kind%1:09:00::
+of
+surface surface%1:06:00::
+involved involve%2:42:01::
+.
+One one%5:00:00:cardinal:00
+gram gram%1:23:00::
+of
+cotton cotton%1:27:01::
+has
+been
+found find%2:32:00::
+to
+have have%2:42:00::
+a
+specific specific%5:00:00:specified:00
+surface_area surface_area%1:07:00::
+of
+*
+*
+f
+.
+In
+contrast contrast%1:24:00::
+,
+a
+metal metal%1:27:00::
+coupon coupon%1:09:00::
+*
+*
+f
+in
+size size%1:07:00::
+would
+have have%2:42:00::
+a
+magnitude magnitude%1:07:00::
+from
+100000 100000%1:23:00::
+to
+a_million a_million%5:00:00:cardinal:00
+less less%3:00:00::
+.
+Even even%4:02:00::
+here here%4:02:02::
+there
+is
+room room%1:26:00::
+for
+some some%3:00:00::
+variation variation%1:11:01::
+,
+for
+metal metal%1:27:00::
+surfaces surface%1:06:00::
+vary vary%2:42:00::
+in
+smoothness smoothness%1:07:00::
+,
+absorptive absorptive%3:00:00::
+capacity capacity%1:26:00::
+,
+and
+chemical chemical%3:01:01::
+reactivity reactivity%1:26:00::
+.
+Spring person%1:03:00::
+used use%2:34:01::
+a
+Brush person%1:03:00::
+surface surface%1:06:00::
+analyzer analyzer%1:06:00::
+in
+a
+metal metal%1:27:00::
+cleaning cleaning%1:04:00::
+study study%1:04:00::
+and
+showed show%2:31:00::
+considerable considerable%3:00:00::
+differences difference%1:07:00::
+in
+soil soil%1:26:00::
+removal removal%1:04:00::
+,
+depending_upon depend_upon%2:42:00::
+surface surface%1:06:00::
+roughness roughness%1:07:00::
+.
+There
+are
+considerable considerable%3:00:00::
+differences difference%1:07:00::
+between
+the
+requirements requirement%1:09:01::
+for
+textile textile%1:06:00::
+and
+hard hard%3:00:01::
+surface surface%1:06:00::
+cleaning cleaning%1:04:00::
+.
+Exclusive exclusive%5:00:00:unshared:00
+of
+esthetic esthetic%3:00:00::
+values value%1:07:00::
+,
+such_as such_as%5:00:00:specified:00
+high high%3:00:02::
+-
+or
+low low%3:00:02::
+foam foam%1:17:00::
+level level%1:07:00::
+,
+perfume perfume%1:06:00::
+content content%1:23:00::
+,
+etc. etc.%4:02:00::
+,
+the
+requirements requirement%1:09:01::
+for
+the
+organic organic%3:00:01::
+active active%1:27:00::
+used use%2:34:01::
+in
+washing washing%1:04:00::
+textiles textile%1:06:00::
+are be%2:42:03::
+high high%3:00:02::
+.
+No
+matter
+how
+they
+are
+formulated formulate%2:36:01::
+,
+a
+large_number large_number%1:23:00::
+of
+organic organic%3:00:01::
+actives active%1:27:00::
+are be%2:42:03::
+simply simply%4:02:03::
+not not%4:02:00::
+suitable suitable%5:00:00:good:01
+for
+this
+application application%1:04:02::
+,
+since
+they
+do
+not not%4:02:00::
+give give%2:36:00::
+adequate adequate%3:00:00::
+soil soil%1:26:00::
+removal removal%1:04:00::
+.
+This
+is
+best best%4:02:01::
+demonstrated demonstrate%2:31:00::
+by
+practical practical%3:00:00::
+washing washing%1:04:00::
+tests test%1:09:02::
+in
+which
+cloth cloth%1:06:00::
+articles article%1:03:00::
+are
+repeatedly repeatedly%4:02:00::
+washed wash%2:35:00::
+with
+the
+same same%3:00:02::
+detergent detergent%1:27:00::
+formulation formulation%1:27:00::
+.
+A
+good good%3:00:01::
+formulation formulation%1:27:00::
+will
+keep keep%2:42:00::
+the
+clothes clothes%1:06:00::
+clean clean%3:00:01::
+and
+white white%3:00:01::
+after
+many many%3:00:00::
+washings washing%1:04:00::
+;
+whereas
+,
+with
+a
+poor poor%5:00:00:inferior:02
+formulation formulation%1:27:00::
+,
+the
+clothes clothes%1:06:00::
+exhibit exhibit%2:42:00::
+a
+build-up buildup%1:04:00::
+of
+``
+tattle-tale_grey tattletale_grey%1:07:00::
+''
+and
+dirty dirty%3:00:01::
+spots spot%1:07:00::
+-
+sometimes sometimes%4:02:01::
+with
+bad bad%3:00:00::
+results result%1:19:00::
+even even%4:02:00::
+after
+the
+first first%5:00:00:ordinal:00
+wash wash%1:04:01::
+.
+Since
+practical practical%3:00:00::
+washing washing%1:04:00::
+procedures procedure%1:04:02::
+are be%2:42:03::
+both
+lengthy lengthy%5:00:00:long:02
+and
+expensive expensive%3:00:00::
+,
+a
+number number%1:07:00::
+of
+laboratory laboratory%1:06:00::
+tests test%1:09:02::
+have
+been
+developed develop%2:36:00::
+for
+the
+numerical numerical%5:00:00:denotative:00
+evaluation evaluation%1:09:00::
+of
+detergents detergent%1:27:00::;1:06:00::
+.
+Harris person%1:03:00::
+has
+indicated indicate%2:32:00::
+that
+two two%1:23:00::
+devices device%1:06:00::
+,
+the
+Launder-Ometer
+and
+Terg-O-Tometer
+are
+most most%4:02:01::
+widely widely%4:02:00::
+used use%2:34:01::
+for
+rapid rapid%5:00:00:fast:01
+detergent detergent%1:27:00::;1:06:00::
+testing testing%1:04:03::
+,
+and
+he
+has
+listed list%2:32:00::
+the
+commercially commercially%4:02:00::
+available available%3:00:00::
+standard standard%5:00:00:common:01
+soiled soiled%3:00:04::
+fabrics fabric%1:06:00::
+.
+Also also%4:02:00::
+given give%2:40:07::
+are
+several several%5:00:00:some(a):00
+laboratory laboratory%1:06:00::
+wash wash%1:04:01::
+procedures procedure%1:04:02::
+in
+general general%3:00:00::
+use use%1:04:00::
+.
+The
+soiled soiled%3:00:04::
+fabrics fabric%1:06:00::
+used use%2:34:01::
+for
+rapid rapid%5:00:00:fast:01
+testing testing%1:04:03::
+of
+detergent detergent%1:27:00::
+formulations formulation%1:27:00::
+are
+made make%2:36:01::
+in
+such such%5:00:01:specified:00
+a
+way way%1:07:01::
+that
+only only%4:02:02::
+part part%1:17:00::
+of
+the
+soil soil%1:26:00::
+is
+removed remove%2:30:00::
+by
+even even%4:02:00::
+the
+best best%3:00:00::
+detergent detergent%1:27:00::
+formulation formulation%1:27:00::
+in
+a
+single single%3:00:00::
+wash wash%1:04:01::
+.
+In
+this
+way way%1:07:01::
+,
+numerical numerical%5:00:00:quantitative:00
+values value%1:09:00::
+for
+the
+relative relative%3:00:00::
+efficacy efficacy%1:07:00::
+of
+various various%5:00:02:different:00
+detergent detergent%1:27:00::
+formulations formulation%1:27:00::
+can
+be
+obtained obtain%2:40:00::
+by
+measuring measure%2:30:00::
+the
+reflectance reflectance%1:23:00::
+(
+whiteness whiteness%1:07:00::
+)
+of
+the
+cloth cloth%1:06:00::
+swatches swatch%1:06:00::
+before before%4:02:03::
+and
+after
+washing washing%1:04:00::
+.
+Soil soil%1:26:00::
+redeposition redeposition%1:22:00::
+is
+evaluated evaluate%2:31:00::
+by
+washing wash%2:35:00::
+clean clean%3:00:01::
+swatches swatch%1:06:00::
+with
+the
+dirty dirty%3:00:01::
+ones
+.
+As_is
+the
+case case%1:26:00::
+with
+the
+surface-active_agent surface-active_agent%1:27:00::
+,
+the
+requirements requirement%1:09:01::
+for
+builders builder%1:27:00::
+to
+be
+used use%2:34:01::
+in
+detergent detergent%1:27:00::
+compositions composition%1:27:00::
+for
+washing washing%1:04:00::
+textiles textile%1:06:00::
+are be%2:42:03::
+also also%4:02:00::
+high high%3:00:02::
+.
+Large_numbers large_number%1:23:00::
+of
+potential potential%5:00:00:prospective:00
+builders builder%1:27:00::
+have
+been
+investigated investigate%2:32:00::
+,
+but
+none
+have
+been
+found find%2:32:00::
+to
+be be%2:42:03::
+as
+effective effective%5:00:00:efficacious:00;3:00:00::
+as
+the
+polyphosphates polyphosphate%1:27:00::
+over
+the
+relatively relatively%4:02:00::
+wide wide%3:00:00::
+range range%1:07:00::
+of
+conditions condition%1:26:00::
+met meet%2:38:01::
+in_practice in_practice%4:02:00::
+.
+The
+problems problem%1:26:00::
+of
+hard hard%3:00:01::
+surface surface%1:06:00::
+cleaning cleaning%1:04:00::
+are be%2:42:03::
+not not%4:02:00::
+nearly nearly%4:02:00::
+as
+complex complex%3:00:00::
+.
+In
+hard hard%3:00:01::
+surface surface%1:06:00::
+cleaning cleaning%1:04:00::
+,
+the
+inorganic inorganic%3:00:01::
+salts salt%1:27:00::
+are be%2:42:03::
+more more%4:02:00::
+important important%3:00:00::
+than
+the
+organic organic%3:00:01::
+active active%1:27:00::
+.
+Indeed indeed%4:02:03::
+,
+when
+the
+proper proper%3:00:00::
+inorganic inorganic%3:00:01::
+constituents constituent%1:06:00::
+are
+employed employ%2:34:00::
+,
+practically practically%4:02:00::
+any any%5:00:00:some(a):00
+wetting wetting%1:04:00::
+or
+surface-active_agent surface-active_agent%1:27:00::
+will
+do do%2:41:04::
+a
+reasonably reasonably%4:02:00::
+good good%3:00:01::
+job job%1:04:01::
+when
+present present%3:00:02::
+in
+sufficient sufficient%3:00:00::
+amount amount%1:03:00::
+in
+a
+hard hard%3:00:01::
+surface surface%1:06:00::
+cleaning cleaning%1:04:00::
+formulation formulation%1:27:00::
+.
+Hydroxides hydroxide%1:27:00::
+,
+orthophosphates orthophosphate%1:27:00::
+,
+borates borate%1:27:00::
+,
+carbonates carbonate%1:27:00::
+,
+and
+silicates silicate%1:27:00::
+are be%2:42:03::
+important important%3:00:00::
+inorganic inorganic%3:00:01::
+ingredients ingredient%1:06:00::
+of
+hard hard%3:00:01::
+surface surface%1:06:00::
+cleaners cleaner%1:06:00::
+.
+In_addition in_addition%4:02:00::
+,
+the
+polyphosphates polyphosphate%1:27:00::
+are
+also also%4:02:00::
+used use%2:34:01::
+,
+probably probably%4:02:00::
+acting act_as%2:42:00::
+more more%4:02:00::
+as
+peptizing peptizing%3:44:00::
+agents agent%1:27:00::
+than
+anything
+else else%4:02:01::
+.
+The
+importance importance%1:07:00::
+of
+the
+inorganic inorganic%3:00:01::
+constituents constituent%1:06:00::
+in
+hard hard%3:00:01::
+surface surface%1:06:00::
+cleaning cleaning%1:04:00::
+has
+been
+emphasized emphasize%2:32:00::
+in
+a
+number number%1:07:00::
+of
+papers papers%1:10:00::
+.
+Although although%4:02:00::
+there
+is
+no no%4:02:02::
+question question%1:07:00::
+but
+that
+the
+process process%1:04:00::
+of
+washing washing%1:04:00::
+fabrics fabric%1:06:00::
+involves involve%2:42:02::
+a
+number number%1:07:00::
+of
+phenomena phenomenon%1:03:00::
+which
+are
+related relate%2:42:00::
+together together%4:02:04::
+in
+an
+extremely extremely%4:02:02::
+complicated complicated%5:00:00:complex:00
+way way%1:26:00::
+and
+that
+these
+phenomena phenomenon%1:03:00::
+and
+their
+interrelations interrelation%1:24:00::
+are
+not not%4:02:00::
+well well%4:02:00::
+understood understand%2:31:00::
+at
+the
+present present%1:28:00::
+,
+this
+section section%1:10:00::
+attempts attempt%2:41:00::
+to
+present present%2:32:00::
+briefly briefly%4:02:03::
+an
+up-to-date up-to-date%5:00:00:current:00
+picture picture%1:09:00::
+of
+the
+physical_chemistry physical_chemistry%1:09:00::
+of
+washing washing%1:04:00::
+either
+fabrics fabric%1:06:00::
+or
+hard hard%3:00:01::
+surfaces surface%1:06:00::
+.
+The
+purpose purpose%1:09:00::
+of
+washing washing%1:04:00::
+is be%2:42:06::
+,
+obviously obviously%4:02:00::
+,
+to
+remove remove%2:30:00::
+soils soil%1:26:00::
+which
+are
+arbitrarily arbitrarily%4:02:00::
+classed class%2:31:00::
+in
+the
+four four%5:00:00:cardinal:00
+major major%3:00:06::
+categories category%1:14:00::
+given give%2:40:07::
+below below%4:02:00::
+:
+Dirt dirt%1:26:00::
+,
+which
+is
+here here%4:02:02::
+defined define%2:32:00::
+as
+particulate particulate%3:00:00::
+material material%1:27:00::
+which
+is be%2:42:03::
+usually usually%4:02:00::
+inorganic inorganic%3:00:01::
+and
+is be%2:42:03::
+very very%4:02:01::
+often often%4:02:00::
+extremely extremely%4:02:02::
+finely finely%4:02:02::
+divided divide%2:35:00::
+so
+as
+to
+exhibit exhibit%2:42:00::
+colloidal colloidal%3:01:00::
+properties property%1:07:00::
+.
+Greasy greasy%5:00:00:fatty:00
+soils soil%1:26:00::
+,
+which
+are
+typified typify%2:42:00::
+by
+hydrocarbons hydrocarbon%1:27:00::
+and
+fats fat%1:27:00::
+(
+esters ester%1:27:00::
+of
+glycerol glycerol%1:27:00::
+with
+long long%3:00:01::
+chain chain%1:17:00::
+organic organic%3:00:01::
+acids acid%1:27:00::
+)
+.
+Stains stain%1:07:00::
+,
+which
+include include%2:42:00::
+the
+wide wide%3:00:00::
+variety variety%1:14:01::
+of
+nonparticulate nonparticulate%3:00:00::
+materials material%1:27:00::
+which
+give give%2:36:01::
+color color%1:07:00::
+even even%4:02:00::
+when
+present present%3:00:02::
+in
+very very%4:02:00::
+low low%3:00:02::
+concentration concentration%1:07:02::
+on
+the
+soiled soiled%3:00:04::
+object object%1:03:00::
+.
+Miscellaneous miscellaneous%5:00:00:heterogeneous:00
+soils soil%1:26:00::
+,
+which
+primarily primarily%4:02:01::
+include include%2:42:00::
+sticky sticky%5:00:00:adhesive:00
+substances substance%1:03:00::
+and
+colorless colorless%3:00:01::
+liquids liquid%1:27:04::
+which
+evaporate evaporate%2:30:00::
+to
+leave leave%2:31:05::
+a
+residue residue%1:27:00::
+.
+The
+dirt dirt%1:26:00::
+on
+the
+soiled soiled%3:00:04::
+objects object%1:03:00::
+is
+mechanically mechanically%4:02:01::
+held hold%2:42:00::
+by
+surface surface%1:06:00::
+irregularities irregularity%1:07:04::
+to
+some some%3:00:00::
+extent extent%1:26:00::
+.
+However however%4:02:00::
+,
+a
+major major%3:00:02::
+factor factor%1:11:00::
+in
+binding bind%2:35:06::
+dirt dirt%1:26:00::
+is be%2:42:06::
+the
+attraction attraction%1:19:00::
+between
+surfaces surface%1:06:00::
+that
+goes_under_the_name_of
+van_der_Waal_'s_forces van_der_waal's_forces%1:19:00::
+.
+This
+is be%2:42:06::
+a
+theoretically theoretically%4:02:01::
+complicated complicated%5:00:00:complex:00
+dipole dipole%1:17:00::
+interaction interaction%1:04:00::
+which
+causes cause%2:36:00::
+any any%5:00:00:some(a):00
+extremely extremely%4:02:02::
+small small%3:00:00::
+uncharged uncharged%3:00:00::
+particle particle%1:27:01::
+to
+agglomerate agglomerate%2:35:00::
+with
+other other%3:00:00::
+small small%3:00:00::
+uncharged uncharged%3:00:00::
+particles particle%1:27:01::
+,
+or
+to
+stick_to stick_to%2:35:03::
+an
+uncharged uncharged%3:00:00::
+surface surface%1:06:00::
+.
+Obviously obviously%4:02:00::
+,
+if
+colloidal colloidal%3:01:00::
+particles particle%1:27:01::
+bear bear%2:42:14::
+charges charge%1:19:00::
+of
+opposite opposite%5:00:00:other:00
+sign sign%1:24:00::
+or
+,
+if
+one one%5:00:00:unspecified:00
+kind kind%1:09:00::
+is be%2:42:03::
+charged charged%3:00:00::
+and
+the
+other other%3:00:00::
+kind kind%1:09:00::
+is be%2:42:03::
+not not%4:02:00::
+,
+the
+attraction attraction%1:19:00::
+will
+be
+intensified intensify%2:30:00::
+and
+the
+tendency tendency%1:07:00::
+to
+agglomerate agglomerate%2:35:00::
+will
+be
+greatly greatly%4:02:00::
+reinforced reinforce%2:30:00::
+.
+Likewise likewise%4:02:00::
+,
+a
+charged charged%3:00:00::
+particle particle%1:27:01::
+will
+tend tend%2:42:01::
+to
+stick_to stick_to%2:35:03::
+an
+uncharged uncharged%3:00:00::
+surface surface%1:06:00::
+and
+vice_versa vice_versa%4:02:00::
+,
+and
+a
+charged charged%3:00:00::
+particle particle%1:27:01::
+will
+be
+very very%4:02:00::
+strongly strongly%4:02:00::
+attracted attract%2:35:00::
+to
+a
+surface surface%1:06:00::
+exhibiting exhibit%2:42:00::
+an
+opposite opposite%5:00:00:other:00
+charge charge%1:19:00::
+.
+In_addition in_addition%4:02:00::
+,
+dirt dirt%1:26:00::
+particles particle%1:27:01::
+can
+be
+held hold%2:42:00::
+onto
+a
+soiled soiled%3:00:04::
+surface surface%1:06:00::
+by
+sticky sticky%5:00:00:adhesive:00
+substances substance%1:03:00::
+or
+by
+the
+surface_tension surface_tension%1:19:00::
+of
+liquids liquid%1:27:04::
+,
+including include%2:42:00::
+liquid liquid%3:00:00::
+greases grease%1:27:00::
+.
+Greases grease%1:27:00::
+,
+stains stain%1:07:00::
+,
+and
+miscellaneous miscellaneous%5:00:00:heterogeneous:00
+soils soil%1:26:00::
+are
+usually usually%4:02:00::
+sorbed sorb%2:35:00::
+onto
+the
+soiled soiled%3:00:04::
+surface surface%1:06:00::
+.
+In
+most most%3:00:02::
+cases case%1:11:00::
+,
+these
+soils soil%1:26:00::
+are
+taken_up take_up%2:35:04::
+as
+liquids liquid%1:27:04::
+through
+capillary_action capillary_action%1:19:00::
+.
+In
+an
+essentially essentially%4:02:01::
+static static%5:00:00:undynamic:00
+system system%1:27:00::
+,
+an
+oil oil%1:27:00::
+cannot
+be
+replaced replace%2:41:00::
+by
+water water%1:27:00::
+on
+a
+surface surface%1:06:00::
+unless
+the
+interfacial_tensions interfacial_tension%1:19:00::
+of
+the
+water water%1:27:00::
+phase phase%1:26:00::
+are
+reduced reduce%2:30:00::
+by
+a
+surface-active_agent surface-active_agent%1:27:00::
+.
+The
+washing washing%1:04:00::
+process process%1:04:00::
+whereby
+soils soil%1:26:00::
+are
+removed remove%2:30:00::
+consists consist%2:42:00::
+basically basically%4:02:00::
+of
+applying apply%2:34:00::
+mechanical mechanical%3:00:00::
+action action%1:22:00::
+to
+loosen loosen%2:30:01::
+the
+dirt dirt%1:26:00::
+particles particle%1:27:01::
+and
+dried dried%5:00:00:dry:01
+matter matter%1:03:00::
+in
+the
+presence presence%1:26:00::
+of
+water water%1:27:00::
+which
+helps help%2:41:00::
+to
+float float%2:38:02::
+off
+the
+debris debris%1:27:00::
+and
+acts act_as%2:42:00::
+,
+to
+some some%3:00:00::
+extent extent%1:26:00::
+,
+as
+a
+dissolving dissolving_agent%1:27:00::
+and
+solvating solvating_agent%1:27:00::
+agent
+.
+Greasy greasy%5:00:00:fatty:00
+soils soil%1:26:00::
+are
+hardly hardly%4:02:00::
+removed remove%2:30:00::
+by
+washing washing%1:04:00::
+in
+plain plain%5:00:00:pure:02
+water water%1:27:00::
+;
+and
+natural natural%3:00:01::
+waters water%1:27:00::
+,
+in_addition in_addition%4:02:00::
+,
+often often%4:02:00::
+contain contain%2:42:00::
+impurities impurity%1:27:00::
+such_as
+calcium calcium%1:27:00::
+salts salt%1:27:00::
+which
+can
+react react%2:30:00::
+with
+soils soil%1:26:00::
+to
+make make%2:30:00::
+them
+more more%4:02:00::
+difficult difficult%3:00:00::
+to
+remove remove%2:30:00::
+.
+Therefore therefore%4:02:00::
+,
+detergents detergent%1:27:00::
+are
+used use%2:34:01::
+.
+The
+detergent detergent%1:27:00::
+active active%1:27:00::
+is be%2:42:06::
+that
+substance substance%1:03:00::
+which
+primarily primarily%4:02:01::
+acts act%2:41:00::
+to
+remove remove%2:30:00::
+greasy greasy%5:00:00:fatty:00
+soils soil%1:26:00::
+.
+The
+other other%3:00:00::
+constituents constituent%1:06:00::
+in
+a
+built built%5:00:00:improved:00
+detergent detergent%1:27:00::
+assist assist%2:41:02::
+in
+this
+and
+in
+the
+removal removal%1:04:00::
+of
+dirty dirty%3:00:01::
+stains stain%1:07:00::
+and
+the
+hydrophilic hydrophilic%3:00:00::
+sticky sticky%5:00:00:adhesive:00
+or
+dried dried%5:00:00:dry:01
+soils soil%1:26:00::
+.
+As_is
+well_known well_known%5:00:00:known:00
+,
+detergent detergent%1:27:00::
+actives active%1:27:00::
+belong_to belong_to%2:42:00::
+the
+chemical chemical%3:01:01::
+class class%1:14:00::
+consisting_of consist_of%2:42:01::
+moderately moderately%4:02:00::
+high high%3:00:02::
+molecular_weight molecular_weight%1:07:00::
+and
+highly highly%4:02:02::
+polar polar%5:00:00:charged:00
+molecules molecule%1:27:00::
+which
+exhibit exhibit%2:42:00::
+the
+property property%1:07:00::
+of
+forming form%2:30:01::
+micelles micelle%1:17:00::
+in
+solution solution%1:27:00::
+.
+Physicochemical physicochemical%3:01:00::
+investigations investigation%1:09:00::
+of
+anionic anionic%3:01:00::
+surfactants surfactant%1:27:00::
+,
+including include%2:42:00::
+the
+soaps soap%1:06:00::
+,
+have
+shown show%2:32:00::
+that
+there
+is be%2:42:04::
+little little%3:00:03::
+polymerization polymerization%1:22:00::
+or
+agglomeration agglomeration%1:14:00::
+of
+the
+chain chain%1:17:00::
+anions anion%1:17:00::
+below below%4:02:01::
+a
+certain certain%5:00:00:definite:00
+region region%1:15:00::
+of
+concentration concentration%1:07:02::
+called called%5:00:00:titled:00
+the
+critical critical%3:00:04::
+micelle micelle%1:17:00::
+concentration concentration%1:07:02::
+.
+(
+1
+)
+Below below%4:02:01::
+the
+critical critical%3:00:04::
+micelle micelle%1:17:00::
+concentration concentration%1:07:02::
+,
+monomers monomer%1:27:00::
+and
+some some%3:00:00::
+dimers dimer%1:27:00::
+are be%2:42:03::
+present present%3:00:02::
+.
+(
+2
+)
+In
+the
+critical critical%3:00:04::
+micelle micelle%1:17:00::
+region region%1:15:00::
+,
+there
+is be%2:42:04::
+a
+rapid rapid%5:00:00:fast:01
+agglomeration agglomeration%1:14:00::
+or
+polymerization polymerization%1:22:00::
+to
+give give%2:36:00::
+the
+micelles micelle%1:17:00::
+,
+which
+have have%2:42:00::
+a
+degree degree%1:07:00::
+of
+polymerization polymerization%1:22:00::
+averaging average%2:42:00::
+around around%4:02:03::
+60 60%5:00:00:cardinal:00
+-
+80 80%5:00:00:cardinal:00
+.
+(
+3
+)
+For
+anionics anionic%1:27:00::
+,
+these
+micelles micelle%1:17:00::
+appear appear%2:39:00::
+to
+be be%2:42:03::
+roughly roughly%4:02:00::
+spherical spherical%5:00:00:round:00
+assemblages assemblage%1:06:00::
+in
+which
+the
+hydrocarbon hydrocarbon%1:27:00::
+tails tail%1:25:00::
+come come%2:38:00::
+together together%4:02:02::
+so
+that
+the
+polar polar%5:00:00:charged:00
+groups group%1:27:00::
+(
+the
+ionized ionized%3:00:00::
+ends end%1:15:02::
+)
+face face%2:42:01::
+outward outward%4:02:00::
+towards
+the
+aqueous aqueous%3:01:00::
+continuous continuous%3:00:01::
+phase phase%1:26:00::
+.
+Obviously obviously%4:02:00::
+hydrophobic hydrophobic%3:00:00::
+(
+oleophilic oleophilic%3:00:00::
+)
+substances substance%1:03:00::
+such_as such_as%5:00:00:specified:00
+greases grease%1:27:00::
+,
+oils oil%1:27:00::
+,
+or
+particles particle%1:27:01::
+having have%2:42:00::
+a
+greasy greasy%5:00:00:fatty:00
+or
+oily oily%5:00:00:fatty:00
+surface surface%1:06:00::
+are be%2:42:03::
+more more%4:02:00::
+at_home at_home%5:00:00:settled:01
+in
+the
+center center%1:15:01::
+of
+a
+micelle micelle%1:17:00::
+than
+in
+the
+aqueous aqueous%3:01:00::
+phase phase%1:26:00::
+.
+Micelles micelle%1:17:00::
+can
+imbibe imbibe%2:35:01::
+and
+hold hold%2:42:13::
+a
+considerable considerable%3:00:00::
+amount amount%1:03:00::
+of
+oleophilic oleophilic%3:00:00::
+substances substance%1:03:00::
+so
+that
+the
+micelle micelle%1:17:00::
+volume volume%1:23:00::
+may
+be
+increased increase%2:30:00::
+as_much_as
+approximately approximately%4:02:00::
+two-fold twofold%5:00:01:multiple:00
+.
+Although although%4:02:00::
+the
+matter matter%1:09:00::
+has
+not not%4:02:00::
+been
+unequivocally unequivocally%4:02:01::
+demonstrated demonstrate%2:31:00::
+,
+the
+available available%3:00:00::
+data data%1:14:00::
+show show%2:32:01::
+that
+micelles micelle%1:17:00::
+in
+themselves
+do
+not not%4:02:00::
+contribute contribute%2:40:00::
+significantly significantly%4:02:03::;4:02:04::
+to
+the
+detergency detergency%1:07:00::
+process process%1:04:00::
+.
+Related_to related_to%3:00:00::
+micelle micelle%1:17:00::
+formation formation%1:04:01::
+is be%2:42:05::
+the
+technologically technologically%4:02:00::
+important important%3:00:00::
+ability ability%1:07:00::
+of
+detergent detergent%1:27:00::
+actives active%1:27:00::
+to
+congregate congregate%2:38:00::
+at
+oil_water_interfaces oil-water_interface%1:17:00::
+in
+such such%5:00:01:specified:00
+a
+manner manner%1:07:02::
+that
+the
+polar polar%5:00:00:charged:00
+(
+or
+ionized ionized%3:00:00::
+)
+end end%1:15:02::
+of
+the
+molecule molecule%1:27:00::
+is
+directed direct%2:38:01::
+towards
+the
+aqueous aqueous%3:01:00::
+phase phase%1:26:00::
+and
+the
+hydrocarbon hydrocarbon%1:27:00::
+chain chain%1:17:00::
+towards
+the
+oily oily%5:00:00:fatty:00
+phase phase%1:26:00::
+.
+In
+the
+cleaning cleaning%1:04:00::
+process process%1:04:00::
+,
+sorbed sorbed%5:00:00:combined:00
+greasy greasy%5:00:00:fatty:00
+soils soil%1:26:00::
+become become%2:30:00::
+coated coated%3:00:00::
+in
+this
+manner manner%1:07:02::
+with
+an
+oriented oriented%3:00:00::
+film film%1:06:00::
+of
+surfactant surfactant%1:27:00::
+.
+Then then%4:02:01::
+during
+washing washing%1:04:00::
+,
+the
+greasy greasy%5:00:00:fatty:00
+soil soil%1:26:00::
+rolls roll%2:38:00::
+back back%4:02:00::
+at
+the
+edges edge%1:15:00::
+so
+that
+emulsified emulsified%5:00:00:blended:00
+droplets droplet%1:23:00::
+can
+disengage disengage%2:35:00::
+themselves
+from
+the
+sorbed sorbed%5:00:00:combined:00
+oil oil%1:27:00::
+mass mass%1:07:00::
+,
+with
+the
+aid aid%1:04:00::
+of
+mechanical mechanical%3:00:00::
+action action%1:22:00::
+,
+and
+enter enter%2:38:00::
+the
+aqueous aqueous%3:01:00::
+phase phase%1:26:00::
+.
+Obviously obviously%4:02:00::
+,
+a
+substance substance%1:03:00::
+which
+is
+permanently permanently%4:02:00::
+or
+temporarily temporarily%4:02:00::
+sorbed sorb%2:35:00::
+on
+the
+surface surface%1:06:00::
+in_place_of
+the
+soil soil%1:26:00::
+will
+tend tend%2:42:01::
+to
+accelerate accelerate%2:30:00::
+this
+process process%1:04:00::
+and
+effectively effectively%4:02:01::
+push push%2:38:00::
+off
+the
+greasy greasy%5:00:00:fatty:00
+soil soil%1:26:00::
+.
+Substances substance%1:03:00::
+other_than other_than%5:00:00:other:00
+detergent detergent%1:27:00::
+actives active%1:27:00::
+also also%4:02:00::
+tend tend%2:42:01::
+to
+be
+strongly strongly%4:02:00::
+sorbed sorb%2:35:00::
+from
+aqueous aqueous%3:01:00::
+media medium%1:15:01::
+onto
+surfaces surface%1:06:00::
+of
+other other%3:00:00::
+contiguous contiguous%5:00:00:close:01
+condensed condensed%3:00:01::
+phases phase%1:26:00::
+.
+This
+is be%2:42:03::
+particularly particularly%4:02:00::
+true true%3:00:00::
+of
+highly highly%4:02:02::
+charged charged%3:00:00::
+ions ion%1:17:00::
+,
+especially especially%4:02:00::
+those
+ions ion%1:17:00::
+which
+fall_into fall_into%2:42:00::
+the
+class class%1:14:00::
+of
+polyelectrolytes polyelectrolyte%1:27:00::
+.
+Whereas
+the
+usual usual%3:00:00::
+organic organic%3:00:01::
+surface-active_agent surface-active_agent%1:27:00::
+is
+strongly strongly%4:02:00::
+sorbed sorb%2:35:00::
+at
+oil-water_interfaces oil-water_interface%1:17:00::
+,
+the
+highly highly%4:02:02::
+charged charged%3:00:00::
+ions ion%1:17:00::
+are
+most most%4:02:00::
+strongly strongly%4:02:00::
+sorbed sorb%2:35:00::
+at
+interfaces interface%1:06:00::
+between
+water water%1:27:00::
+and
+insoluble insoluble%3:00:01::
+materials material%1:27:00::
+exhibiting exhibit%2:42:00::
+an
+ionic ionic%3:01:00::
+structure structure%1:07:00::
+(
+see see%4:02:00::
+Table table%1:14:00::
+26 26%5:00:00:cardinal:00
+-
+2 2%5:00:00:cardinal:00
+on
+p. page%1:10:00::
+1678
+)
+.
+Thus thus%4:02:00::
+,
+for
+aqueous aqueous%3:01:00::
+media medium%1:15:01::
+,
+we
+can
+think_of think_of%2:31:01::
+the
+idealized idealized%5:00:00:perfect:00
+organic organic%3:00:01::
+active active%1:27:00::
+as
+an
+oleophilic oleophilic%3:00:00::
+or
+hydrophobic hydrophobic%3:00:00::
+surface-active_agent surface-active_agent%1:27:00::
+,
+and
+of
+an
+idealized idealized%5:00:00:perfect:00
+builder builder%1:27:00::
+as
+a
+oleophobic oleophobic%3:00:00::
+or
+hydrophilic hydrophilic%3:00:00::
+surface-active_agent surface-active_agent%1:27:00::
+.
+From
+the
+equilibrium equilibrium%1:22:00::
+sorption sorption%1:22:00::
+data data%1:14:00::
+which
+are be%2:42:03::
+available available%3:00:00::
+,
+it
+seems seem%2:39:00::
+logical logical%5:00:00:valid:00
+to
+expect expect%2:31:00::
+that
+polyphosphate polyphosphate%1:27:00::
+ions ion%1:17:00::
+would
+be
+strongly strongly%4:02:00::
+sorbed sorb%2:35:00::
+on
+the
+surface surface%1:06:00::
+of
+the
+dirt dirt%1:26:00::
+(
+especially especially%4:02:00::
+clay clay%1:27:00::
+soils soil%1:26:00::
+)
+so
+as
+to
+give give%2:40:03::
+it
+a
+greatly greatly%4:02:00::
+increased increased%3:00:00::
+negative_charge negative_charge%1:19:00::
+.
+The
+charged charged%3:00:00::
+particles particle%1:27:01::
+then then%4:02:00::
+repel repel%2:35:00::
+each
+other
+and
+are
+also also%4:02:00::
+repelled repel%2:35:00::
+from
+the
+charged charged%3:00:00::
+surface surface%1:06:00::
+,
+which
+almost almost%4:02:00::
+invariably invariably%4:02:00::
+bears bear%2:42:14::
+a
+negative_charge negative_charge%1:19:00::
+under
+washing washing%1:04:00::
+conditions condition%1:26:00::
+.
+The
+negatively_charged negatively_charged%5:00:00:charged:00
+dirt dirt%1:26:00::
+particles particle%1:27:01::
+then then%4:02:00::
+leave leave%2:38:01::
+the
+surface surface%1:06:00::
+and
+go_into go_into%2:38:00::
+the
+aqueous aqueous%3:01:00::
+phase phase%1:26:00::
+.
+This
+hypothesis hypothesis%1:09:00::
+is
+evolved evolve%2:36:00::
+in
+analogy analogy%1:04:00::
+to
+the
+demonstrated demonstrated%5:00:00:incontestable:00
+action action%1:22:00::
+of
+organic organic%3:00:01::
+actives active%1:27:00::
+in
+detergency detergency%1:07:00::
+.
+It
+does
+not not%4:02:00::
+consider consider%2:32:00::
+the
+kinetic kinetic%3:01:00::
+effects effect%1:19:00::
+of
+the
+phosphate phosphate%1:27:00::
+builders builder%1:27:00::
+on
+sorption sorption%1:22:00::
+desorption desorption%1:22:00::
+phenomena phenomenon%1:03:00::
+which
+will
+be
+discussed discuss%2:32:01::
+later later%4:02:02::
+(
+see see%4:02:00::
+pp. page%1:10:00::
+1746
+-
+1748
+)
+.
+The
+crude crude%5:00:01:unskilled:00
+picture picture%1:09:00::
+of
+the
+detergency detergency%1:07:00::
+process process%1:04:00::
+thus_far thus_far%4:02:00::
+developed develop%2:32:00::
+can
+be
+represented represent%2:42:02::
+as
+:
+*
+*
+f
+The
+influence influence%1:19:00::
+of
+mechanical mechanical%3:00:00::
+action action%1:22:00::
+on
+the
+particles particle%1:27:01::
+of
+free free%3:00:02::
+soil soil%1:26:00::
+may
+be
+compared compare%2:31:00::
+to
+that
+of
+kinetic_energy kinetic_energy%1:19:00::
+on
+a
+molecular molecular%3:01:00::
+scale scale%1:24:00::
+.
+Freed freed%5:00:00:free:00
+soil soil%1:26:00::
+must
+be
+dispersed disperse%2:30:00::
+and
+protected protect%2:33:00::
+against
+flocculation flocculation%1:22:00::
+.
+Cleaned cleaned%5:00:00:clean:01
+cloth cloth%1:06:00::
+must
+be
+protected protect%2:33:00::
+against
+the
+redeposition redeposition%1:22:00::
+of
+dispersed dispersed%5:00:00:distributed:00
+soil soil%1:26:00::
+.
+It
+is be%2:42:03::
+evident evident%5:00:00:obvious:00
+that
+the
+requirements requirement%1:09:01::
+imposed impose%2:41:00::
+by
+these
+effects effect%1:19:00::
+upon
+any
+one one%5:00:00:unspecified:00
+detergent detergent%1:27:00::
+constituent constituent%1:06:00::
+acting act%2:41:00::
+alone alone%4:02:00::
+are be%2:42:03::
+severe severe%5:00:00:intense:00
+.
+Upon
+consideration consideration%1:09:00::
+of
+the
+variety variety%1:14:01::
+of
+soils soil%1:26:00::
+and
+fabrics fabric%1:06:00::
+normally normally%4:02:00::
+encountered encounter%2:40:00::
+in
+the
+washing washing%1:04:00::
+process process%1:04:00::
+,
+it
+is be%2:42:03::
+little little%3:00:03::
+wonder wonder%1:09:00::
+that
+the
+use use%1:04:00::
+of
+a
+number number%1:07:00::
+of
+detergent detergent%1:27:00::
+constituents constituent%1:06:00::
+having have%2:42:00::
+``
+synergistic synergistic%3:00:00::
+''
+properties property%1:07:00::
+has
+gained gain%2:40:01::
+widespread widespread%5:00:00:general:00
+acceptance acceptance%1:04:00::
+.
+In
+the
+over-all overall%5:00:00:general:00
+process process%1:04:00::
+,
+it
+is be%2:42:03::
+difficult difficult%3:00:00::
+to
+assign assign%2:31:00::
+a
+``
+pure pure%5:00:00:unmitigated:00
+''
+role role%1:07:00::
+to
+each each%5:00:00:all(a):00
+constituent constituent%1:06:00::
+of
+a
+built built%5:00:00:improved:00
+detergent detergent%1:27:00::
+formulation formulation%1:27:00::
+;
+and
+,
+indeed indeed%4:02:03::
+,
+there
+is
+no_more no_more%4:02:05::
+reason reason%1:16:00::
+to
+separate separate%2:31:00::
+the
+interrelated interrelated%5:00:00:reticulate:00
+roles role%1:07:00::
+of
+the
+active active%1:27:00::
+,
+builder builder%1:27:00::
+,
+antiredeposition antiredeposition%1:22:00::
+agent agent%1:27:00::
+,
+etc. etc.%4:02:00::
+than
+there
+is
+to
+assign assign%2:31:00::
+individual individual%5:00:00:unshared:00
+actions action%1:22:00::
+to
+each
+of
+the
+numerous numerous%5:00:00:many:00
+isomers isomer%1:27:00::
+making_up make_up%2:42:00::
+a
+given given%5:00:00:specified:00
+commercial commercial%3:00:00::
+organic organic%3:00:01::
+active active%1:27:00::
+.

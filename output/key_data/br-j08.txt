@@ -1,0 +1,2144 @@
+Biological_warfare biological_warfare%1:04:00::
+is be%2:42:06::
+the
+intentional intentional%5:00:00:intended:00
+use use%1:04:00::
+of
+living living%5:00:01:alive(p):01
+microorganisms microorganism%1:05:00::
+or
+their
+toxic toxic%3:00:00::
+products product%1:06:00::
+for
+the
+purpose purpose%1:09:00::
+of
+destroying destroy%2:36:00::
+or
+reducing reduce%2:30:00::
+the
+military military%3:00:02::
+effectiveness effectiveness%1:07:01::
+of
+man man%1:05:01::
+.
+It
+is be%2:42:06::
+the
+exploitation exploitation%1:04:01::
+of
+the
+inherent inherent%5:00:00:intrinsic:00
+potential potential%1:26:00::
+of
+infectious_disease infectious_disease%1:26:00::
+agents agent%1:17:00::
+by
+scientific scientific%3:01:00::
+research research%1:04:00::
+and
+development development%1:04:01::
+,
+resulting result%2:42:02::
+in
+the
+production production%1:04:00::
+of
+BW bw%1:04:00::
+weapons_systems weapons_system%1:06:00::
+.
+Man man%1:05:01::
+may
+also also%4:02:00::
+be
+injured injure%2:29:00::
+secondarily secondarily%4:02:00::
+by
+damage damage%1:11:00::
+to
+his
+food food%1:03:00::
+crops crop%1:20:00::
+or
+domestic_animals domestic_animal%1:05:00::
+.
+Biological_warfare biological_warfare%1:04:00::
+is
+considered consider%2:31:00::
+to
+be be%2:42:03::
+primarily primarily%4:02:01::
+a
+strategic strategic%3:01:00::
+weapon weapon%1:06:00::
+.
+The
+major major%3:00:06::
+reason reason%1:10:01::
+for
+this
+is be%2:42:06::
+that
+it
+has have%2:40:00::
+no
+quick quick%5:00:00:fast:01
+kill kill%1:04:00::
+effect effect%1:19:00::
+.
+The
+incubation_period incubation_period%1:28:00::
+of
+infectious_disease infectious_disease%1:26:00::
+,
+plus
+a
+variable variable%3:00:00::
+period period%1:28:00::
+of
+illness illness%1:26:00::
+even even%4:02:00::
+before
+a
+lethal lethal%5:00:00:fatal:00
+effect effect%1:19:00::
+,
+render render%2:30:00::
+this
+weapon weapon%1:06:00::
+unsuitable unsuitable%5:00:00:unfit:02
+for
+hand-to-hand hand-to-hand%5:00:00:close:01
+encounter encounter%1:04:00::
+.
+A
+man man%1:05:01::
+can
+be be%2:42:03::
+an
+effective effective%3:00:00::
+fighting fighting%5:00:00:operational:00
+machine machine%1:18:00::
+throughout
+the
+incubation_period incubation_period%1:28:00::
+of
+most most%3:00:02::
+infectious_diseases infectious_disease%1:26:00::
+.
+Thus thus%4:02:00::
+,
+an
+enemy enemy%1:14:00::
+would
+probably probably%4:02:00::
+use use%2:34:01::
+this
+weapon weapon%1:06:00::
+for
+attack attack%1:04:00::
+on
+static static%5:00:00:undynamic:00
+population population%1:14:00::
+centers center%1:15:01::
+such_as
+large large%3:00:00::
+cities city%1:15:00::
+.
+An
+important important%3:00:00::
+operational operational%3:00:00::
+procedure procedure%1:04:00::
+in
+BW bw%1:04:00::
+for
+an
+enemy enemy%1:14:00::
+would
+be be%2:42:06::
+to
+create create%2:36:00::
+an
+aerosol aerosol%1:19:00::
+or
+cloud cloud%1:19:01::
+of
+agent agent%1:17:00::
+over
+the
+target_area target_area%1:15:00::
+.
+This
+concept concept%1:09:00::
+has
+stimulated stimulate%2:32:01::
+much much%3:00:00::
+basic basic%3:00:00::
+research research%1:04:00::
+concerning concern%2:42:00::
+the
+behavior behavior%1:26:00::
+of
+particulate particulate%3:00:00::
+biological biological%3:01:00::
+materials material%1:27:00::
+,
+the
+pathogenesis pathogenesis%1:22:00::
+of
+respiratory respiratory%3:01:00::
+infections infection%1:26:00::
+,
+the
+medical medical%3:01:00::
+management management%1:04:00::
+of
+such such%5:00:01:specified:00
+diseases disease%1:26:00::
+and
+defense defense%1:04:03::
+against
+their
+occurrence occurrence%1:26:00::
+.
+The
+biological biological%3:01:00::
+and
+physical_properties physical_property%1:07:00::
+of
+infectious infectious%5:00:00:septic:00
+particles particle%1:27:01::
+have
+been
+studied study%2:31:02::
+intensively intensively%4:02:00::
+during
+the
+past past%3:00:00::
+fifteen fifteen%5:00:00:cardinal:00
+years year%1:28:01::
+.
+Much much%3:00:00::
+new new%3:00:00::
+equipment equipment%1:06:00::
+and
+many many%3:00:00::
+unique unique%5:00:00:incomparable:00
+techniques technique%1:09:01::
+have
+been
+developed develop%2:36:01::
+for
+the
+quantitative quantitative%3:00:00::
+exposure exposure%1:10:00::
+of
+experimental experimental%3:01:00::
+animals animal%1:03:00::
+to
+aerosols aerosol%1:19:00::
+of
+infectious infectious%5:00:00:septic:00
+agents agent%1:17:00::
+contained contain%2:42:00::
+in
+particles particle%1:27:01::
+of
+specified specified%3:00:00::
+dimensional dimensional%3:01:00::
+characteristics characteristic%1:09:00::
+.
+Much much%3:00:00::
+information information%1:09:00::
+has
+been
+gathered gather%2:35:00::
+relative relative%3:00:00::
+to
+quantitative quantitative%3:00:00::
+sampling sampling%1:04:00::
+and
+assessment assessment%1:09:00::
+techniques technique%1:09:00::
+.
+Much much%3:00:00::
+of
+the
+older old%3:00:01::
+experimental experimental%3:01:00::
+work work%1:09:00::
+on
+respiratory respiratory%3:01:00::
+infections infection%1:26:00::
+was
+accomplished accomplish%2:36:00::
+by
+very very%4:02:00::
+artificial artificial%3:00:00::
+procedures procedure%1:04:00::
+.
+The
+intra intra%3:00:00::
+nasal nasal%3:01:00::
+instillation instillation%1:04:00::
+of
+a
+fluid fluid%1:27:02::
+suspension suspension%1:27:00::
+of
+infectious infectious%5:00:00:septic:00
+agent agent%1:17:00::
+in
+an
+anesthetized anesthetized%5:00:00:insensible:00
+animal animal%1:03:00::
+is be%2:42:03::
+far far%4:02:02::
+different different%3:00:00::
+from
+exposure exposure%1:10:00::
+,
+through
+natural natural%3:00:02::
+respiration respiration%1:04:00::
+,
+to
+aerosolized aerosolized%5:00:00:gaseous:00
+organisms organism%1:03:00::
+.
+The
+importance importance%1:07:00::
+of
+particle particle%1:27:01::
+size size%1:07:00::
+in
+such such%5:00:01:specified:00
+aerosols aerosol%1:19:00::
+has
+been be%2:42:03::
+thoroughly thoroughly%4:02:01::
+demonstrated demonstrate%2:39:01::
+.
+The
+natural natural%3:00:02::
+anatomical anatomical%3:01:00::
+and
+physiological physiological%3:01:00::
+defensive defensive%3:00:00::
+features feature%1:09:00::
+of
+the
+upper upper%5:00:00:top(a):00
+respiratory_tract respiratory_tract%1:08:00::
+,
+such_as
+the
+turbinates turbinate%1:08:00::
+of
+the
+nose nose%1:08:00::
+and
+the
+cilia cilium%1:05:00::
+of
+the
+trachea trachea%1:08:01::
+and
+larger larger%5:00:00:large:00
+bronchi bronchus%1:08:00::
+,
+are be%2:42:03::
+capable capable%3:00:00::
+of
+impinging impinging%1:11:00::
+out
+the
+larger larger%5:00:00:large:00
+particles particle%1:27:01::
+to
+which
+we
+are be%2:42:03::
+ordinarily ordinarily%4:02:00::
+exposed exposed%5:00:00:unprotected:00
+in
+our
+daily daily%5:00:00:regular:00
+existence existence%1:26:00::
+.
+Very very%4:02:00::
+small small%3:00:00::
+particles particle%1:27:01::
+,
+however however%4:02:00::
+,
+in
+a
+size size%1:07:00::
+range range%1:07:00::
+of
+1 1%5:00:00:cardinal:00
+to
+4 4%5:00:00:cardinal:00
+microns micron%1:23:00::
+in
+diameter diameter%1:07:00::
+are be%2:42:03::
+capable capable%3:00:00::
+of
+passing pass%2:38:01::
+these
+impinging impinging%1:11:00::
+barriers barrier%1:06:00::
+and
+entering enter%2:38:00::
+the
+alveolar_bed alveolar_bed%1:08:00::
+of
+the
+lungs lung%1:08:00::
+.
+This
+area area%1:08:00::
+is be%2:42:03::
+highly highly%4:02:02::
+susceptible susceptible%3:00:00::
+to
+infection infection%1:26:00::
+.
+The
+entrance entrance%1:11:00::
+and
+retention retention%1:04:00::
+of
+infectious infectious%5:00:00:septic:00
+particles particle%1:27:01::
+in
+the
+alveoli alveolus%1:08:00::
+amounts amount%2:42:03::
+almost almost%4:02:00::
+to
+an
+intra intra%3:00:00::
+tissue tissue%1:08:00::
+inoculation inoculation%1:04:00::
+.
+The
+relationship relationship%1:24:00::
+between
+particle particle%1:27:01::
+size size%1:07:00::
+and
+infectious infectious%5:00:00:septic:00
+dose dose%1:23:00::
+is
+illustrated illustrate%2:32:00::
+in
+Table table%1:14:00::
+1 1%5:00:00:cardinal:00
+.
+In
+considering consider%2:39:00::
+BW bw%1:04:00::
+defense defense%1:04:03::;1:04:00::
+,
+it
+must
+be
+recognized recognize%2:31:01::
+that
+a
+number number%1:07:00::
+of
+critical critical%5:00:00:indispensable:00
+meteorological meteorological%3:01:00::
+parameters parameter%1:09:00::
+must
+be
+met meet%2:42:01::
+for
+an
+aerosol aerosol%1:19:00::
+to
+exhibit exhibit%2:39:00::
+optimum optimum%5:00:00:best:00
+effect effect%1:19:00::
+.
+For_example for_example%4:02:00::
+,
+bright bright%3:00:00::
+sunlight sunlight%1:19:00::
+is be%2:42:03::
+rapidly rapidly%4:02:00::
+destructive destructive%3:00:00::
+for
+living living%5:00:01:alive(p):01
+microorganisms microorganism%1:05:00::
+suspended suspend%2:35:00::
+in
+air air%1:27:00::
+.
+There
+are be%2:42:00::
+optimal optimal%5:00:00:best:00
+humidity humidity%1:26:00::
+requirements requirement%1:17:00::
+for
+various various%5:00:00:individual:00
+agents agent%1:17:00::
+when
+airborne airborne%5:00:00:mobile:00
+.
+Neutral neutral%3:00:03::
+or
+inversion inversion%1:19:00::
+meteorological_conditions meteorological_conditions%1:26:00::
+are be%2:42:03::
+necessary necessary%3:00:00::
+for
+a
+cloud cloud%1:19:01::
+to
+travel_along travel_along%2:38:00::
+the
+surface surface%1:17:00::
+.
+It
+will
+rise rise%2:38:00::
+during
+lapse lapse%1:04:00::
+conditions condition%1:26:00::
+.
+There
+are be%2:42:04::
+,
+of_course of_course%4:02:00::
+,
+certain certain%5:00:00:definite:00
+times time%1:11:00::
+during
+the
+24 24%5:00:00:cardinal:00
+-
+hour hour%1:28:01::
+daily daily%5:00:00:regular:00
+cycle cycle%1:28:00::
+when
+most_of
+these
+conditions condition%1:26:00::
+will
+be
+met meet%2:42:01::
+.
+Certain certain%5:00:00:definite:00
+other other%3:00:00::
+properties property%1:07:00::
+of
+small small%3:00:00::
+particles particle%1:27:01::
+,
+in_addition_to
+those
+already already%4:02:00::
+mentioned mention%2:32:02::
+in_connection_with
+penetration penetration%1:04:02::
+of
+the
+respiratory_tract respiratory_tract%1:08:00::
+,
+are be%2:42:03::
+noteworthy noteworthy%5:00:00:worthy:00
+in
+defense defense%1:04:03::;1:04:00::
+considerations consideration%1:09:00::
+.
+The
+smaller smaller%5:00:00:small:00
+the
+particle particle%1:27:01::
+the
+further further%5:00:00:far:00
+it
+will
+travel travel%2:38:00::
+downwind downwind%4:02:00::
+before
+settling settle%2:38:07::
+out out%4:02:01::
+.
+An
+aerosol aerosol%1:19:00::
+of
+such such%5:00:01:specified:00
+small small%3:00:00::
+particles particle%1:27:01::
+.
+moreover moreover%4:02:00::
+,
+diffuses diffuse%2:35:00::
+through
+structures structure%1:08:00::
+in
+much much%4:02:01::
+the
+same same%3:00:00::
+manner manner%1:07:02::
+as
+a
+gas gas%1:26:00::
+.
+There
+may
+be be%2:42:04::
+a
+number number%1:07:00::
+of
+secondary secondary%3:00:01::
+effects effect%1:19:00::
+resulting result%2:42:00::
+from
+diffusion diffusion%1:22:00::
+through
+buildings building%1:06:00::
+such_as
+widespread widespread%5:00:00:general:00
+contamination contamination%1:26:00::
+of
+kitchens kitchen%1:06:00::
+,
+restaurants restaurant%1:06:00::
+,
+food food%1:03:00::
+stores store%1:06:00::
+,
+hospitals hospital%1:06:00::
+,
+etc. etc.%4:02:00::
+.
+Depending_on depending_on%5:00:00:conditional:00
+the
+organism organism%1:03:00::
+,
+there
+may
+be be%2:42:04::
+multiplication multiplication%1:04:01::
+in
+some
+food food%1:03:00::
+or
+beverage beverage%1:13:00::
+products product%1:06:00::
+,
+i.e. i.e.%4:02:00::
+,
+in
+milk milk%1:13:01::
+for_example for_example%4:02:00::
+.
+The
+secondary secondary%3:00:01::
+consequences consequence%1:19:00::
+from
+this
+could
+be be%2:42:03::
+very very%4:02:00::
+serious serious%3:00:00::
+and
+must
+be
+taken
+into
+consideration consideration%1:09:00::
+in
+planning planning%1:04:00::
+for
+defense defense%1:04:03::;1:04:00::
+.
+Something
+of
+the
+behavior behavior%1:26:00::
+of
+clouds cloud%1:19:01::
+of
+small small%3:00:00::
+particles particle%1:27:01::
+can
+be
+illustrated illustrate%2:32:00::
+by
+the
+following following%5:00:01:succeeding(a):00
+field_trials field_trial%1:09:00::
+:
+In
+the
+first first%5:00:00:ordinal:00
+trial trial%1:04:00::
+an
+inert inert%5:00:00:unreactive:00
+substance substance%1:03:00::
+was
+disseminated disseminate%2:32:00::
+from
+a
+boat boat%1:06:00::
+travelling travel%2:38:00::
+some
+ten ten%5:00:00:cardinal:00
+miles mile%1:23:04::
+off
+shore shore%1:17:00::
+under
+appropriately appropriately%4:02:00::
+selected select%2:31:00::
+meteorological_conditions meteorological_conditions%1:26:00::
+.
+Zinc_cadmium_sulfide zinc_cadmium_sulfide%1:27:00::
+in
+particles particle%1:27:01::
+of
+2 2%5:00:00:cardinal:00
+microns micron%1:23:00::
+in
+size size%1:07:00::
+were
+disseminated disseminate%2:32:00::
+.
+This
+material material%1:27:00::
+fluoresces fluoresce%2:39:00::
+under
+ultraviolet_light ultraviolet_light%1:19:00::
+which
+facilitates facilitate%2:30:00::
+its
+sampling sampling%1:04:00::
+and
+assessment assessment%1:09:00::
+.
+Four_hundred four_hundred%1:14:00::
+and
+fifty fifty%5:00:00:cardinal:00
+pounds pound%1:23:09::
+was
+disseminated disseminate%2:32:00::
+while
+the
+ship ship%1:06:00::
+was
+traveling travel%2:38:00::
+a
+distance distance%1:07:00::
+of
+156
+miles mile%1:23:04::
+.
+Figure figure%1:10:00::
+1 1%5:00:00:cardinal:00
+describes describe%2:32:00::
+the
+results result%1:19:00::
+obtained obtain%2:40:00::
+in
+this
+trial trial%1:04:00::
+.
+The
+particles particle%1:27:01::
+traveled travel%2:38:00::
+a
+maximum maximum%3:00:00::
+detected detected%3:00:00::
+distance distance%1:07:00::
+of
+some
+450
+miles mile%1:23:01::
+.
+From
+these
+dosage dosage%1:23:00::
+isopleths isopleth%1:15:00::
+it
+can
+be
+seen see%2:32:00::
+that
+an
+area area%1:15:01::
+of
+over
+34000
+square_miles square_mile%1:23:00::
+was
+covered cover%2:42:01::
+.
+These
+dosages dosage%1:23:00::
+could
+have
+been
+increased increase%2:30:00::
+by
+increasing increase%2:30:00::
+the
+source source%1:15:00::
+strength strength%1:07:00::
+which
+was be%2:42:03::
+small small%3:00:00::
+in
+this
+case case%1:26:00::
+.
+The
+behavior behavior%1:26:00::
+of
+a
+biological biological%3:01:00::
+aerosol aerosol%1:19:00::
+,
+on
+a
+much much%4:02:00::
+smaller smaller%5:00:00:small:00
+scale scale%1:24:00::
+,
+is
+illustrated illustrate%2:32:00::
+by
+a
+specific specific%5:00:00:specified:00
+field_trial field_trial%1:09:00::
+conducted conduct%2:41:00::
+with
+a
+non non%5:00:00:negative:02
+pathogenic pathogenic%5:00:00:unhealthful:00
+organism organism%1:03:00::
+.
+An
+aqueous aqueous%3:01:00::
+suspension suspension%1:27:00::
+of
+the
+spores spore%1:20:00::
+of
+B. b%1:05:00::
+subtilis
+,
+var. var.%1:14:00::
+niger
+,
+generally generally%4:02:02::
+known known%3:00:00::
+as
+Bacillus_globigii
+,
+was
+aerosolized aerosolize%2:35:00::
+using use%2:34:01::
+commercially commercially%4:02:00::
+available available%3:00:00::
+nozzles nozzle%1:06:00::
+.
+A
+satisfactory satisfactory%3:00:00::
+cloud cloud%1:19:01::
+was
+produced produce%2:36:00::
+even_though
+these
+nozzles nozzle%1:06:00::
+were be%2:42:03::
+only only%4:02:02::
+about
+5 5%5:00:00:cardinal:00
+per_cent percent%1:24:00::
+efficient efficient%3:00:00::
+in
+producing produce%2:36:00::
+an
+initial initial%5:00:00:first:00
+cloud cloud%1:19:01::
+in
+the
+size size%1:07:00::
+range range%1:07:00::
+of
+1 1%5:00:00:cardinal:00
+to
+5 5%5:00:00:cardinal:00
+microns micron%1:23:00::
+.
+In
+this
+test test%1:09:02::
+,
+130
+gallons gallon%1:23:01::
+of
+a
+suspension suspension%1:27:00::
+,
+having have%2:42:00::
+a
+count count%1:23:00::
+of
+*
+*
+f
+organisms organism%1:03:00::
+per
+ml ml%1:23:00::
+,
+or
+a
+total total%1:06:00::
+of
+approximately approximately%4:02:00::
+*
+*
+f
+spores spore%1:20:00::
+,
+was
+aerosolized aerosolize%2:35:00::
+.
+The
+spraying spraying%1:04:03::
+operation operation%1:04:02::
+was
+conducted conduct%2:41:00::
+from
+the
+rear rear%5:00:00:back(a):00
+deck deck%1:06:00::
+of
+a
+small small%3:00:00::
+Naval naval%3:01:00::
+vessel vessel%1:06:00::
+,
+cruising cruise%2:38:02::
+two two%1:23:00::
+miles mile%1:23:04::
+off-shore offshore%4:02:00::
+and
+vertical vertical%3:00:00::
+to
+an
+on-shore onshore%3:00:04::
+breeze breeze%1:19:00::
+.
+Spraying spraying%1:04:03::
+continued continue%2:38:00::
+along
+a
+two two%1:23:00::
+mile mile%1:23:04::
+course course%1:15:00::
+.
+This
+operation operation%1:04:02::
+was
+started start%2:36:01::
+at
+5 5%5:00:00:cardinal:00
+:
+00
+p.m. pm%5:00:00:postmeridian:00
+and
+lasted last%2:42:00::
+for
+29 29%5:00:00:cardinal:00
+minutes minute%1:28:00::
+.
+There
+was be%2:42:04::
+a
+slight slight%5:00:00:little(a):03
+lapse lapse%1:04:00::
+condition condition%1:26:00::
+,
+a
+moderate moderate%3:00:00::
+fog fog%1:19:00::
+,
+and
+100 100%5:00:00:cardinal:00
+per_cent percent%1:24:00::
+relative_humidity relative_humidity%1:24:00::
+.
+A
+network network%1:06:00::
+of
+sampling_stations sampling_station%1:06:00::
+had
+been
+set_up set_up%2:36:00::
+on
+shore shore%1:17:00::
+.
+These
+were be%2:42:03::
+located located%5:00:00:settled:01
+at
+the
+homes home%1:15:04::
+of
+Government government%1:14:00::
+employees employee%1:18:00::
+,
+in
+Government_Offices government_office%1:06:00::
+,
+buildings building%1:06:00::
+and
+reservations reservation%1:15:00::
+within
+the
+trial trial%1:09:00::
+area area%1:15:01::
+.
+A
+rough rough%3:00:00::
+attempt attempt%1:04:00::
+was
+made make%2:41:00::
+to
+characterize characterize%2:32:00::
+the
+vertical vertical%3:00:00::
+profile profile%1:15:01::
+of
+the
+cloud cloud%1:19:01::
+by
+taking take%2:40:00::
+samples sample%1:09:00::
+from
+outside outside%4:02:01::
+the
+windows window%1:06:00::
+on
+the
+first first%5:00:00:ordinal:00
+,
+ninth ninth%5:00:00:ordinal:00
+,
+and
+fifteenth fifteenth%5:00:00:ordinal:00
+floors floor%1:06:01::
+of
+a
+Government_office government_office%1:06:00::
+building building%1:06:00::
+.
+All
+samplers sampler%1:06:01::
+were
+operated operate%2:35:00::
+for
+a
+period period%1:28:00::
+of
+two two%5:00:00:cardinal:00
+hours hour%1:28:00::
+except
+one one%1:23:00::
+,
+which
+was
+operated operate%2:35:00::
+for
+four four%5:00:00:cardinal:00
+hours hour%1:28:00::
+.
+In
+this
+instance instance%1:11:00::
+,
+there
+was be%2:42:04::
+a
+dosage dosage%1:23:00::
+of
+562
+during
+the
+first first%5:00:00:ordinal:00
+two two%5:00:00:cardinal:00
+hours hour%1:28:00::
+and
+a
+total total%1:06:00::
+dosage dosage%1:23:00::
+of
+1980
+for
+the
+four four%5:00:00:cardinal:00
+hour hour%1:28:00::
+period period%1:28:00::
+,
+a
+four-fold fourfold%5:00:01:multiple:00
+increase increase%1:07:00::
+.
+This
+suggests suggest%2:32:03::
+that
+the
+sampling sampling%1:04:00::
+period period%1:28:00::
+,
+particularly particularly%4:02:00::
+at
+the
+more more%3:00:01::
+distant distant%3:00:01::
+locations location%1:03:00::
+,
+should
+have
+been
+increased increase%2:30:00::
+.
+As
+can
+be
+seen see%2:32:00::
+from
+Figure figure%1:10:00::
+2 2%5:00:00:cardinal:00
+,
+an
+extensive extensive%5:00:00:large:00
+area area%1:15:01::
+was
+covered cover%2:42:01::
+by
+this
+aerosol aerosol%1:19:00::
+.
+The
+maximum maximum%3:00:00::
+distance distance%1:07:00::
+sampled sample%2:34:00::
+was be%2:42:03::
+23 23%5:00:00:cardinal:00
+miles mile%1:23:01::
+from
+the
+source source%1:15:00::
+.
+As
+can
+be be%2:42:03::
+seen see%2:32:00::
+from
+these
+dosage dosage%1:23:00::
+isopleths isopleth%1:15:00::
+,
+approximately approximately%4:02:00::
+100 100%5:00:00:cardinal:00
+square_miles square_mile%1:23:00::
+was
+covered cover%2:42:01::
+within
+the
+area area%1:15:01::
+sampled sample%2:34:00::
+.
+It
+is be%2:42:03::
+quite quite%4:02:02::
+likely likely%3:00:00::
+that
+an
+even even%4:02:00::
+greater greater%3:00:00::
+area area%1:15:01::
+was
+covered cover%2:42:01::
+,
+particularly particularly%4:02:00::
+downwind downwind%4:02:00::
+.
+The
+dosages dosage%1:23:00::
+in
+the
+three three%5:00:00:cardinal:00
+levels level%1:26:01::
+of
+the
+vertical vertical%3:00:00::
+profile profile%1:15:01::
+were be%2:42:07::
+:
+*
+*
+f
+This
+was be%2:42:03::
+not not%4:02:00::
+,
+of_course of_course%4:02:00::
+,
+enough enough%4:02:00::
+sampling sample%2:34:00::
+to
+give give%2:36:00::
+a
+satisfactory satisfactory%3:00:00::
+description description%1:10:01::
+of
+the
+vertical vertical%3:00:00::
+diffusion diffusion%1:22:00::
+of
+the
+aerosol aerosol%1:19:00::
+.
+A
+number number%1:07:00::
+of
+unique unique%5:00:00:incomparable:00
+medical medical%3:01:00::
+problems problem%1:26:00::
+might
+be
+created create%2:36:00::
+when
+man man%1:05:01::
+is
+exposed expose%2:39:02::
+to
+an
+infectious infectious%5:00:00:septic:00
+agent agent%1:17:00::
+through
+the
+respiratory respiratory%3:01:00::
+route route%1:15:00::
+rather_than
+by
+the
+natural natural%5:00:00:normal:01
+portal portal%1:06:01::
+of
+entry entry%1:06:00::
+.
+Some
+agents agent%1:17:00::
+have have%2:42:00::
+been
+shown show%2:32:00::
+to
+be be%2:42:03::
+much much%4:02:00::
+more more%3:00:01::
+toxic toxic%3:00:00::
+or
+infectious infectious%5:00:00:septic:00
+to
+experimental experimental%3:01:00::
+animals animal%1:03:00::
+when
+exposed exposed%5:00:00:unprotected:00
+to
+aerosols aerosol%1:19:00::
+of
+optimum optimum%5:00:00:best:00
+particle particle%1:27:01::
+size size%1:07:00::
+than
+by
+the
+natural natural%3:00:02::
+portal portal%1:06:01::
+.
+Botulinal botulinal%3:01:00::
+toxin toxin%1:27:00::
+,
+for_example for_example%4:02:00::
+,
+is be%2:42:03::
+several several%5:00:00:some(a):00
+thousand-fold thousand-fold%4:02:00::
+more more%3:00:01::
+toxic toxic%3:00:00::
+by
+this
+route route%1:15:00::
+than
+when
+given give%2:40:13::
+per
+os os%1:08:01::
+.
+In
+some some%3:00:00::
+instances instance%1:11:00::
+a
+different different%5:00:00:other:00
+clinical clinical%3:01:00::
+disease disease%1:26:00::
+picture picture%1:06:00::
+may
+result result%2:42:00::
+from
+this
+route route%1:15:00::
+of
+exposure exposure%1:07:00::
+,
+making make%2:30:00::
+diagnosis diagnosis%1:04:00::
+difficult difficult%3:00:00::
+.
+In
+tularemia tularemia%1:26:00::
+produced produce%2:36:00::
+by
+aerosol aerosol%1:19:00::
+exposure exposure%1:07:00::
+,
+one
+would
+not not%4:02:00::
+expect expect%2:31:00::
+to
+find find%2:39:02::
+the
+classical classical%3:00:00::
+ulcer ulcer%1:26:00::
+of
+``
+rabbit_fever rabbit_fever%1:26:00::
+''
+on
+a
+finger finger%1:08:00::
+.
+An
+enemy enemy%1:14:00::
+would
+obviously obviously%4:02:00::
+choose choose%2:31:00::
+an
+agent agent%1:17:00::
+that
+is
+believed believe%2:31:04::
+to
+be be%2:42:03::
+highly highly%4:02:02::
+infectious infectious%3:00:00::
+.
+Agents agent%1:27:00::
+that
+are
+known know%2:31:06::
+to
+cause cause%2:36:00::
+frequent frequent%3:00:00::
+infections infection%1:26:00::
+among
+laboratory laboratory%1:06:00::
+workers worker%1:18:00::
+such_as
+those
+causing cause%2:36:00::
+Q_fever q_fever%1:26:00::
+,
+tularemia tularemia%1:26:00::
+,
+brucellosis brucellosis%1:26:01::
+,
+glanders glanders%1:26:00::
+,
+coccidioidomycosis coccidioidomycosis%1:26:00::
+,
+etc.
+,
+belong belong%2:42:00::
+in
+this
+category category%1:14:00::
+.
+An
+agent agent%1:17:00::
+would
+likely likely%4:02:00::
+be
+selected select%2:31:00::
+which
+would
+possess possess%2:42:00::
+sufficient sufficient%3:00:00::
+viability viability%1:07:00::
+and
+virulence virulence%1:07:00::
+stability stability%1:07:00::
+to
+meet meet%2:42:01::
+realistic realistic%3:00:00::
+minimal minimal%3:00:00::
+logistic logistic%3:01:00::
+requirements requirement%1:17:00::
+.
+It
+is be%2:42:03::
+,
+obviously obviously%4:02:00::
+,
+a
+proper proper%3:00:00::
+goal goal%1:09:00::
+of
+research research%1:04:00::
+to
+improve improve%2:30:01::
+on
+this
+property property%1:07:00::
+.
+In
+this
+connection connection%1:24:00::
+it
+should
+be be%2:42:03::
+capable capable%3:00:00::
+of
+being
+disseminated disseminate%2:32:00::
+without
+excessive excessive%5:00:00:immoderate:00
+destruction destruction%1:04:00::
+.
+Moreover moreover%4:02:00::
+,
+it
+should
+not not%4:02:00::
+be be%2:42:03::
+so so%4:02:02::
+fastidious fastidious%3:00:00::
+in
+its
+growth growth%1:22:00::
+requirements requirement%1:17:00::
+as
+to
+make make%2:30:00::
+production production%1:04:00::
+on
+a
+militarily militarily%4:02:00::
+significant significant%3:00:00::
+scale scale%1:24:00::
+improbable improbable%3:00:00::
+.
+An
+aggressor aggressor%1:18:00::
+would
+use use%2:34:01::
+an
+agent agent%1:17:00::
+against
+which
+there
+was be%2:42:00::
+a
+minimal minimal%3:00:00::
+naturally naturally%4:02:01::
+acquired acquire%2:40:00::
+or
+artificially artificially%4:02:00::
+induced induce%2:32:00::
+immunity immunity%1:26:00::
+in
+a
+target target%1:15:00::
+population population%1:14:00::
+.
+A
+solid solid%5:00:00:good:01
+immunity immunity%1:26:00::
+is be%2:42:06::
+the
+one one%5:00:00:cardinal:00
+effective effective%3:00:00::
+circumstance circumstance%1:26:01::
+whereby
+attack attack%1:04:00::
+by
+a
+specific specific%5:00:00:specified:00
+agent agent%1:17:00::
+can
+be be%2:42:03::
+neutralized neutralize%2:30:01::
+.
+It
+must
+be
+remembered remember%2:31:01::
+,
+however however%4:02:00::
+,
+that
+there
+are be%2:42:00::
+many many%3:00:00::
+agents agent%1:17:00::
+for
+which
+there
+is be%2:42:00::
+no
+solid solid%5:00:00:wholesome:00
+immunity immunity%1:26:00::
+and
+a
+partial partial%5:00:00:incomplete:00
+or
+low-grade low-grade%5:00:00:inferior:02
+immunity immunity%1:26:00::
+may
+be
+broken break%2:30:06::
+by
+an
+appropriate appropriate%3:00:00::
+dose dose%1:23:00::
+of
+agent agent%1:17:00::
+.
+There
+is be%2:42:00::
+a
+broad broad%5:00:00:comprehensive:00
+spectrum spectrum%1:07:00::
+of
+organisms organism%1:03:00::
+from
+which
+selection selection%1:04:00::
+for
+a
+specified specified%3:00:00::
+military military%3:00:02::
+purpose purpose%1:07:00::
+might
+be
+made make%2:41:00::
+.
+An
+enemy enemy%1:14:00::
+might
+choose choose%2:31:00::
+an
+acutely acutely%4:02:00::
+debilitating debilitating%3:00:00::
+microorganism microorganism%1:05:00::
+,
+a
+chronic chronic%3:00:00::
+disease disease%1:26:00::
+producer producer%1:11:00::
+or
+one one%5:00:00:cardinal:00
+causing cause%2:36:00::
+a
+high high%3:00:02::
+rate rate%1:28:00::
+of
+lethality lethality%1:07:00::
+.
+It
+is be%2:42:03::
+possible possible%3:00:00::
+that
+certain certain%5:00:00:definite:00
+mutational mutational%3:01:00::
+forms form%1:14:02::
+may
+be
+produced produce%2:36:00::
+such_as
+antibiotic antibiotic%3:01:00::
+resistant resistant%5:00:00:unsusceptible:00
+strains strain%1:14:00::
+.
+Mutants mutant%1:18:00::
+may
+also also%4:02:00::
+be
+developed develop%2:36:01::
+with
+changes change%1:24:00::
+in
+biochemical biochemical%3:01:00::
+properties property%1:07:00::
+that
+are be%2:42:03::
+of
+importance importance%1:07:00::
+in
+identification identification%1:04:00::
+.
+All_of all_of%3:00:00::
+these
+considerations consideration%1:09:01::
+are be%2:42:03::
+of
+critical critical%5:00:00:indispensable:00
+importance importance%1:07:00::
+in
+considering consider%2:39:00::
+defense defense%1:04:03::
+and
+medical medical%3:01:00::
+management management%1:04:00::
+.
+Biological biological%3:01:00::
+agents agent%1:17:00::
+are be%2:42:03::
+,
+of_course of_course%4:02:00::
+,
+highly highly%4:02:02::
+host host%1:05:00::
+specific specific%3:00:00::
+.
+They
+do
+not not%4:02:00::
+destroy destroy%2:35:00::
+physical_structures physical_structure%1:08:00::
+as
+is be%2:42:03::
+true true%3:00:00::
+of
+high_explosives high_explosive%1:27:00::
+.
+This
+may
+be be%2:42:03::
+of
+overriding overriding%5:00:00:dominant:01
+importance importance%1:07:00::
+in
+considering consider%2:39:00::
+military military%3:00:02::
+objectives objective%1:09:00::
+.
+The
+question question%1:10:01::
+of
+epidemic epidemic%3:00:00::
+disease disease%1:26:00::
+merits merit%2:42:04::
+some
+discussion discussion%1:10:00::
+.
+Only only%4:02:02::
+a
+limited limited%3:00:00::
+effort effort%1:04:00::
+has
+been
+devoted devote%2:32:00::
+to
+this
+problem problem%1:10:00::
+.
+Some
+of
+those
+who
+question question%2:32:01::
+the
+value value%1:07:00::
+of
+BW bw%1:04:00::
+have
+assumed assume%2:31:00::
+that
+the
+only only%5:00:00:single(a):00
+potential potential%1:26:00::
+would
+be be%2:42:00::
+in
+the
+establishment establishment%1:04:00::
+of
+epidemics epidemic%1:11:00::
+.
+They
+then then%4:02:00::
+point_out point_out%2:32:01::
+that
+with
+our
+present present%3:00:01::
+lack lack%1:26:00::
+of
+knowledge knowledge%1:03:00::
+of
+all
+the
+factors factor%1:11:00::
+concerned concerned%3:00:00::
+in
+the
+rise rise%1:11:00::
+and
+fall fall%1:11:01::
+of
+epidemics epidemic%1:11:00::
+,
+it
+is be%2:42:03::
+unlikely unlikely%3:00:00::
+that
+a
+planned planned%3:00:00::
+episode episode%1:11:00::
+could
+be
+initiated initiate%2:36:00::
+.
+They
+argue argue%2:32:00::
+further further%4:02:02::
+(
+and
+somewhat somewhat%4:02:01::
+contradictorily contradictorily%4:02:00::
+)
+that
+our
+knowledge knowledge%1:03:00::
+and
+resources resource%1:09:00::
+in
+preventive_medicine preventive_medicine%1:04:00::
+would
+make make%2:30:00::
+it
+possible possible%3:00:00::
+to
+control control%2:41:01::
+such such%5:00:01:specified:00
+an
+outbreak outbreak%1:11:00::
+of
+disease disease%1:26:00::
+.
+this
+is be%2:42:06::
+why
+this
+approach approach%1:04:02::
+to
+BW bw%1:04:00::
+defense defense%1:04:03::;1:04:00::
+has
+not not%4:02:00::
+been
+given give%2:32:01::
+major major%3:00:06::
+attention attention%1:09:00::
+.
+Our
+major major%3:00:06::
+problem problem%1:10:00::
+is be%2:42:06::
+what
+an
+enemy enemy%1:14:00::
+might
+accomplish accomplish%2:41:00::
+in
+an
+initial initial%5:00:00:first:00
+attack attack%1:04:00::
+on
+a
+target target%1:15:00::
+.
+This
+,
+of_course of_course%4:02:00::
+,
+does
+not not%4:02:00::
+eliminate eliminate%2:30:01::
+from
+consideration consideration%1:09:00::
+for
+this
+purpose purpose%1:07:00::
+agents agent%1:17:00::
+that
+are
+associated associate%2:31:00::
+naturally naturally%4:02:00::
+with
+epidemic epidemic%3:00:00::
+disease disease%1:26:00::
+.
+A
+hypothetical hypothetical%5:00:00:theoretical:00
+example example%1:09:02::
+will
+illustrate illustrate%2:32:00::
+this
+point point%1:10:01::
+.
+Let let%2:41:00::
+us
+assume assume%2:31:00::
+that
+it
+would
+be be%2:42:03::
+possible possible%3:00:00::
+for
+an
+enemy enemy%1:14:00::
+to
+create create%2:36:00::
+an
+aerosol aerosol%1:19:00::
+of
+the
+causative causative%3:00:00::
+agent agent%1:17:00::
+of
+epidemic epidemic%3:00:00::
+typhus typhus%1:26:00::
+(
+Rickettsia_prowazwki
+)
+over
+City city%1:15:00::
+A
+and
+that
+a
+large_number large_number%1:23:00::
+of
+cases case%1:11:00::
+of
+typhus_fever typhus_fever%1:26:00::
+resulted result%2:42:00::
+therefrom therefrom%4:02:02::
+.
+No
+epidemic epidemic%1:11:00::
+was
+initiated initiate%2:36:00::
+nor
+was
+one one%5:00:00:cardinal:00
+expected expect%2:31:00::
+because
+the
+population population%1:14:00::
+in
+City city%1:15:00::
+A
+was be%2:42:03::
+not not%4:02:00::
+lousy lousy%5:00:00:dirty:01
+.
+Lousiness lousiness%1:26:00::
+is be%2:42:06::
+a
+prerequisite prerequisite%1:09:00::
+for
+epidemic epidemic%3:00:00::
+typhus typhus%1:26:00::
+.
+In
+this
+case case%1:11:00::
+,
+then then%4:02:02::
+,
+the
+military military%3:00:02::
+objective objective%1:09:00::
+was
+accomplished accomplish%2:36:00::
+with
+an
+epidemic epidemic%3:00:00::
+agent agent%1:17:00::
+solely solely%4:02:00::
+through
+the
+results result%1:19:00::
+secured secure%2:40:00::
+in
+the
+initial initial%5:00:00:first:00
+attack attack%1:04:00::
+.
+This
+was
+done
+with
+full full%5:00:01:whole:00
+knowledge knowledge%1:03:00::
+that
+there
+would
+be be%2:42:04::
+no
+epidemic epidemic%1:11:00::
+.
+On_the_other_hand on_the_other_hand%4:02:00::
+,
+a
+similar similar%3:00:00::
+attack attack%1:04:00::
+might
+have
+been
+made make%2:41:00::
+on
+City_B location%1:03:00::
+whose
+population population%1:14:00::
+was
+known know%2:31:06::
+to
+be be%2:42:03::
+lousy lousy%5:00:00:dirty:01
+.
+One
+might
+expect expect%2:31:00::
+some
+spread spread%1:11:00::
+of
+the
+disease disease%1:26:00::
+in
+this
+case case%1:11:00::
+resulting result%2:42:02::
+in
+increased increased%3:00:00::
+effectiveness effectiveness%1:07:00::
+of
+the
+attack attack%1:04:00::
+.
+The
+major major%3:00:02::
+defensive defensive%3:00:00::
+problems problem%1:10:00::
+are
+concerned concerned%3:00:00::
+with
+the
+possibility possibility%1:26:00::
+of
+overt overt%3:00:00::
+military military%3:00:02::
+delivery delivery%1:04:04::
+of
+biological biological%3:01:00::
+agents agent%1:17:00::
+from
+appropriate appropriate%3:00:00::
+disseminating disseminating%5:00:00:distributive:00
+devices device%1:06:00::
+.
+It
+should
+be be%2:42:03::
+no_more no_more%4:02:05::
+difficult difficult%3:00:00::
+to
+deliver deliver%2:35:00::
+such such%5:00:01:specified:00
+devices device%1:06:00::
+than
+other other%3:00:00::
+weapons weapon%1:06:00::
+.
+The
+same same%3:00:02::
+delivery delivery%1:04:04::
+vehicles vehicle%1:06:00::
+-
+whether
+they
+be be%2:42:06::
+airplanes airplane%1:06:00::
+,
+submarines submarine%1:06:00::
+or
+guided_missiles guided_missile%1:06:00::
+-
+should
+be be%2:42:03::
+usable usable%5:00:00:useful:00
+.
+If
+it
+is be%2:42:03::
+possible possible%3:00:00::
+for
+an
+enemy enemy%1:14:00::
+to
+put put%2:35:00::
+an
+atomic_bomb atomic_bomb%1:06:00::
+on
+a
+city city%1:15:00::
+,
+it
+should
+be be%2:42:03::
+equally equally%4:02:01::
+possible possible%3:00:00::
+to
+put put%2:35:00::
+a
+cloud cloud%1:19:01::
+of
+biological biological%3:01:00::
+agent agent%1:17:00::
+over
+that
+city city%1:15:00::
+.
+Biological biological%3:01:00::
+agents agent%1:17:00::
+are be%2:42:03::
+,
+moreover moreover%4:02:00::
+,
+suitable suitable%5:00:00:good:01
+for
+delivery delivery%1:04:04::
+through
+enemy enemy%1:14:00::
+sabotage sabotage%1:04:00::
+which
+imposes impose%2:40:00::
+many many%3:00:00::
+problems problem%1:26:00::
+in
+defense defense%1:04:03::;1:04:00::
+.
+A_few a_few%5:00:00:few:00
+obvious obvious%3:00:00::
+target_areas target_area%1:15:00::
+of
+great great%5:00:00:high:02
+importance importance%1:07:00::
+might
+be
+mentioned mention%2:32:00::
+.
+The
+air_conditioning air-conditioning%1:06:00::
+and
+ventilating_systems ventilating_system%1:06:00::
+of
+large large%3:00:00::
+buildings building%1:06:00::
+are be%2:42:03::
+subject_to subject_to%5:00:00:susceptible:00
+attack attack%1:04:00::
+.
+America america%1:15:00::
+is
+rapidly rapidly%4:02:00::
+becoming become%2:42:01::
+a
+nation nation%1:14:01::
+that
+uses use%2:34:01::
+processed processed%5:00:00:prepared:00
+,
+precooked precooked%5:00:00:prepared:00
+and
+even even%4:02:00::
+predigested predigested%5:00:00:digestible:00
+foods food%1:03:00::
+.
+This
+is be%2:42:03::
+an
+enormous enormous%5:00:00:large:00
+industry industry%1:04:00::
+that
+is
+subject_to subject_to%5:00:00:susceptible:00
+sabotage sabotage%1:04:00::
+.
+One
+must
+include include%2:31:00::
+the
+preparation preparation%1:04:02::
+of
+soft_drinks soft_drink%1:13:00::
+and
+the
+processing processing%1:22:00::
+of
+milk milk%1:13:01::
+and
+milk milk%1:13:01::
+products product%1:06:00::
+.
+Huge huge%5:00:01:large:00
+industries industry%1:04:00::
+are be%2:42:03::
+involved involved%3:00:00::
+also also%4:02:00::
+in
+the
+production production%1:04:00::
+of
+biological biological%3:01:00::
+products product%1:06:00::
+,
+drugs drug%1:06:00::
+and
+cosmetics cosmetics%1:06:00::
+which
+are be%2:42:03::
+liable liable%5:00:00:susceptible:00
+to
+this
+type type%1:09:00::
+of
+attack attack%1:04:00::
+.

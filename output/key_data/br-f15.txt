@@ -1,0 +1,2130 @@
+In
+Poughkeepsie location%1:03:00::
+,
+N._Y. location%1:03:00::
+,
+in
+1952
+,
+a
+Roman_Catholic roman_catholic%1:14:00::
+hospital hospital%1:06:00::
+presented present%2:32:00::
+seven seven%5:00:00:cardinal:00
+Protestant protestant%3:01:00::
+physicians physician%1:18:00::
+with
+an
+ultimatum ultimatum%1:10:00::
+to
+quit quit%2:41:00::
+the
+Planned_Parenthood_Federation group%1:03:00::
+or
+to
+resign resign%2:41:00::
+from
+the
+hospital hospital%1:06:00::
+staff staff%1:14:01::
+.
+Three three%5:00:00:cardinal:00
+agreed agree%2:32:01::
+,
+but
+four four%5:00:00:cardinal:00
+declined decline%2:40:00::
+and
+were
+suspended suspend%2:41:00::
+.
+After
+a
+flood flood%1:23:00::
+of
+protests protest%1:10:00::
+,
+they
+were
+reinstated reinstate%2:41:00::
+at
+the
+beginning beginning%1:28:00::
+of
+1953
+.
+The
+peace peace%1:26:01::
+of
+the
+community community%1:14:00::
+was
+badly badly%4:02:02::
+disturbed disturb%2:35:00::
+,
+and
+people people%1:14:00::
+across_the_nation across_the_nation%4:02:00::
+,
+reading read%2:31:00::
+of
+the
+incident incident%1:11:00::
+,
+felt feel%2:37:00::
+uneasy uneasy%3:00:00::
+.
+In
+New_York_City new_york_city%1:15:00::
+in
+1958
+,
+the
+city city%1:15:00::
+'s
+Commissioner commissioner%1:18:00::
+of
+Hospitals hospital%1:06:00::
+refused refuse%2:32:00::
+to
+permit permit%2:32:00::
+a
+physician physician%1:18:00::
+to
+provide provide%2:34:00::
+a
+Protestant protestant%3:01:00::
+mother mother%1:18:00::
+with
+a
+contraceptive_device contraceptive_device%1:06:00::
+.
+He
+thereby thereby%4:02:00::
+precipitated precipitate%2:36:00::
+a
+bitter bitter%5:00:00:resentful:00
+controversy controversy%1:10:00::
+involving involve%2:42:04::
+Protestants protestant%1:18:00::
+,
+Jews jew%1:18:00::
+and
+Roman_Catholics roman_catholic%1:18:00::
+that
+continued continue%2:42:01::
+for
+two two%5:00:00:cardinal:00
+months month%1:28:00::
+,
+until
+the
+city city%1:15:00::
+'s
+Board board%1:14:00::
+of
+Hospitals hospital%1:06:00::
+lifted lift%2:32:00::
+the
+ban ban%1:10:00::
+on
+birth-control birth_control%1:04:00::
+therapy therapy%1:04:00::
+.
+A
+year year%1:28:01::
+later later%4:02:01::
+in
+Albany albany%1:15:00::
+,
+N._Y. location%1:03:00::
+,
+a
+Roman_Catholic roman_catholic%1:14:00::
+hospital hospital%1:06:00::
+barred bar%2:41:00::
+an
+orthopedic orthopedic%3:01:00::
+surgeon surgeon%1:18:00::
+because
+of
+his
+connection connection%1:24:00::
+with
+the
+Planned_Parenthood_Association group%1:03:00::
+.
+Immediately immediately%4:02:00::
+,
+the
+religious religious%3:01:00::
+groups group%1:03:00::
+of
+the
+city city%1:15:00::
+were
+embroiled embroil%2:42:00::
+in
+an
+angry angry%3:00:00::
+dispute dispute%1:10:00::
+over
+the
+alleged alleged%5:00:00:declared:00
+invasion invasion%1:11:00::
+of
+a
+man man%1:18:04::
+'s
+right right%1:07:00::
+to
+freedom freedom%1:26:00::
+of
+religious_belief religious_belief%1:09:00::
+and
+conscience conscience%1:16:00::
+.
+These
+incidents incident%1:11:00::
+,
+typical typical%3:00:00::
+of
+many many%3:00:00::
+others
+,
+dramatize dramatize%2:32:01::
+the
+distressing distressing%5:00:00:heavy:02
+fact fact%1:10:01::
+that
+no
+controversy controversy%1:10:00::
+during
+the
+last last%5:00:00:past:00
+several several%5:00:00:some(a):00
+decades decade%1:28:00::
+has
+caused cause%2:36:00::
+more more%3:00:01::
+tension tension%1:26:03::
+,
+rancor rancor%1:12:00::
+and
+strife strife%1:04:00::
+among
+religious religious%3:01:00::
+groups group%1:03:00::
+in
+this
+country country%1:14:00::
+than
+the
+birth-control birth_control%1:04:00::
+issue issue%1:09:01::
+.
+It
+has
+flared_up flare_up%2:30:00::
+periodically periodically%4:02:00::
+on
+the
+front front%3:00:00::
+pages page%1:10:00::
+of
+newspapers newspaper%1:10:00::
+in
+communities community%1:14:00::
+divided divided%3:00:00::
+over
+birth birth%1:28:00::
+prevention prevention%1:04:00::
+regulations regulation%1:10:00::
+in
+municipal municipal%3:01:00::
+hospitals hospital%1:06:00::
+and
+health health%1:26:00::
+and
+family family%1:14:00::
+welfare welfare%1:04:00::
+agencies agency%1:14:00::
+.
+It
+has
+erupted erupt%2:30:02::
+on
+the
+national national%3:01:00::
+level level%1:26:00::
+in
+the
+matter matter%1:09:00::
+of
+including include%2:41:03::
+birth-control birth_control%1:04:00::
+information information%1:10:00::
+and
+material material%1:06:01::
+in
+foreign foreign%3:00:02::
+aid aid%1:21:00::
+to
+underdeveloped underdeveloped%5:00:00:nonindustrial:00
+countries country%1:14:00::
+.
+Where
+it
+is
+not not%4:02:00::
+actually actually%4:02:01::
+erupting erupt%2:30:02::
+,
+it
+rumbles rumble%2:32:00::
+and
+smolders smolder%2:30:00::
+in
+sullen sullen%5:00:00:ill-natured:00
+resentment resentment%1:12:00::
+like
+a
+volcano volcano%1:17:01::
+,
+ready ready%3:00:00::
+to
+explode explode%2:30:00::
+at
+any
+moment moment%1:28:00::
+.
+The
+time time%1:28:06::
+has
+come come%2:30:01::
+for
+citizens citizen%1:18:00::
+of
+all
+faiths faith%1:14:00::
+to
+unite unite%2:41:00::
+in
+an
+effort effort%1:04:00::
+to
+remove remove%2:30:00::
+this
+divisive divisive%5:00:00:discordant:00
+and
+nettlesome nettlesome%5:00:00:disagreeable:00
+issue issue%1:09:01::
+from
+the
+political political%3:00:00::
+and
+social social%3:01:00::
+life life%1:26:01::
+of
+our
+nation nation%1:14:00::
+.
+The
+first_step first_step%1:04:00::
+toward
+the
+goal goal%1:09:00::
+is be%2:42:06::
+the
+establishment establishment%1:04:00::
+of
+a
+new new%5:00:00:unprecedented:00
+atmosphere atmosphere%1:26:01::
+of
+mutual mutual%5:00:00:reciprocal:00
+good_will good_will%1:07:00::
+and
+friendly friendly%3:00:01::
+communication communication%1:10:01::
+on
+other_than other_than%5:00:00:other:00
+the
+polemical polemical%5:00:00:controversial:00
+level level%1:26:00::
+.
+Instead instead%4:02:01::
+of
+emotional emotional%3:00:02::
+recrimination recrimination%1:10:00::
+,
+loaded loaded%5:00:00:prejudiced:00
+phrases phrase%1:10:00::
+and
+sloganeering sloganeering%1:10:00::
+,
+we
+need need%2:37:00::
+a
+dispassionate dispassionate%5:00:00:impartial:00
+study study%1:04:00::
+of
+the
+facts fact%1:09:01::
+,
+a
+better better%3:00:02::
+understanding understanding%1:09:01::
+of
+the
+opposite opposite%5:00:00:different:00
+viewpoint viewpoint%1:09:00::
+and
+a
+more more%4:02:00::
+serious serious%3:00:00::
+effort effort%1:04:00::
+to
+extend extend%2:30:01::
+the
+areas area%1:09:00::
+of
+agreement agreement%1:26:01::
+until
+a
+solution solution%1:10:00::
+is
+reached reach%2:41:00::
+.
+``
+All_too all_too%4:02:00::
+frequently frequently%4:02:00::
+''
+,
+points_out point_out%2:32:01::
+James_O'_Gara person%1:03:00::
+,
+managing_editor managing_editor%1:18:00::
+of
+Commonweal
+,
+``
+Catholics catholic%1:18:00::
+run_roughshod run_roughshod%2:41:00::
+over
+Protestant protestant%3:01:00::
+sensibilities sensibility%1:12:00::
+in
+this
+matter matter%1:09:00::
+,
+by
+failure failure%1:04:00::
+to
+consider consider%2:32:00::
+the
+reasoning reasoning%1:09:00::
+behind
+the
+Protestant protestant%3:01:00::
+position position%1:09:00::
+and
+,
+particularly particularly%4:02:00::
+,
+by
+their
+jibes jibe%1:10:00::
+at
+the
+fact fact%1:10:01::
+that
+Protestant protestant%3:01:00::
+opinion opinion%1:09:00::
+on
+birth_control birth_control%1:04:00::
+has
+changed change%2:30:00::
+in
+recent recent%5:00:00:past:00
+decades decade%1:28:00::
+''
+.
+All_too all_too%4:02:00::
+often often%4:02:00::
+our
+language language%1:10:01::
+is be%2:42:03::
+unduly unduly%4:02:00::
+harsh harsh%5:00:01:unpleasant:00
+.
+The
+second second%5:00:00:ordinal:00
+step step%1:04:02::
+is be%2:42:06::
+to
+recognize recognize%2:31:02::
+the
+substantial substantial%5:00:00:considerable:00
+agreement agreement%1:26:01::
+-
+frequently frequently%4:02:00::
+blurred blur%2:31:00::
+by
+emotionalism emotionalism%1:07:00::
+and
+inaccurate inaccurate%3:00:00::
+newspaper newspaper%1:10:00::
+reporting reporting%1:10:00::
+-
+already already%4:02:00::
+existing exist%2:42:00::
+between
+Catholics catholic%1:18:00::
+and
+non-Catholics non-catholic%1:18:00::
+concerning concern%2:42:00::
+the
+over-all overall%5:00:00:general:00
+objectives objective%1:09:00::
+of
+family_planning family_planning%1:04:00::
+.
+Instead instead%4:02:01::
+of
+Catholics catholic%1:18:00::
+'
+being be%2:42:03::
+obliged obliged%5:00:00:obligated(p):00
+or
+even even%4:02:00::
+encouraged encourage%2:41:00::
+to
+beget beget%2:29:00::
+the
+greatest greatest%5:00:00:large:00
+possible possible%3:00:00::
+number number%1:07:00::
+of
+offspring offspring%1:18:00::
+,
+as
+many many%3:00:00::
+non-Catholics non-catholic%1:18:00::
+imagine imagine%2:31:01::
+,
+the
+ideal ideal%1:09:00::
+of
+responsible responsible%3:00:00::
+parenthood parenthood%1:26:00::
+is
+stressed stress%2:32:00::
+.
+Family_planning family_planning%1:04:00::
+is
+encouraged encourage%2:41:00::
+,
+so so%4:02:06::
+that
+parents parent%1:18:00::
+will
+be be%2:42:03::
+able able%3:00:00::
+to
+provide provide%2:34:00::
+properly properly%4:02:00::
+for
+their
+offspring offspring%1:18:00::
+.
+Pope_Pius_12 person%1:03:00::
+,
+declared declare%2:32:05::
+in
+1951
+that
+it
+is be%2:42:03::
+possible possible%3:00:00::
+to
+be be%2:42:03::
+exempt exempt%3:00:00::
+from
+the
+normal normal%3:00:01::
+obligation obligation%1:04:00::
+of
+parenthood parenthood%1:26:00::
+for
+a
+long_time long_time%1:28:00::
+and
+even even%4:02:00::
+for
+the
+whole whole%3:00:00::
+duration duration%1:28:02::
+of
+married married%3:00:00::
+life life%1:26:01::
+,
+if
+there
+are be%2:42:00::
+serious serious%3:00:00::
+reasons reason%1:16:00::
+,
+such_as such_as%5:00:00:specified:00
+those
+often often%4:02:00::
+mentioned mention%2:32:02::
+in
+the
+so-called so-called%5:00:00:questionable:00
+medical medical%3:00:00::
+,
+eugenic eugenic%3:01:00::
+,
+economic economic%3:01:01::
+and
+social social%3:01:00::
+``
+indications indication%1:10:00::
+''
+.
+This
+means mean%2:42:00::
+that
+such such%5:00:01:specified:00
+factors factor%1:11:00::
+as
+the
+health health%1:26:00::
+of
+the
+parents parent%1:18:00::
+,
+particularly particularly%4:02:00::
+the
+mother mother%1:18:00::
+,
+their
+ability ability%1:07:00::
+to
+provide provide%2:34:00::
+their
+children child%1:18:01::
+with
+the
+necessities necessity%1:17:00::
+of
+life life%1:09:00::
+,
+the
+degree degree%1:07:00::
+of
+population population%1:14:01::
+density density%1:07:00::
+of
+a
+country country%1:14:00::
+and
+the
+shortage shortage%1:07:00::
+of
+housing housing%1:06:00::
+facilities facility%1:06:00::
+may
+legitimately legitimately%4:02:01::
+be
+taken take%2:30:01::
+into
+consideration consideration%1:09:00::
+in
+determining determine%2:31:00::
+the
+number number%1:23:00::
+of
+offspring offspring%1:18:00::
+.
+These
+are be%2:42:02::
+substantially substantially%4:02:01::
+the
+same same%3:00:00::
+factors factor%1:11:00::
+considered consider%2:32:00::
+by
+non-Catholics non-catholic%1:18:00::
+in
+family_planning family_planning%1:04:00::
+.
+The
+laws law%1:14:00::
+of
+many many%3:00:00::
+states state%1:15:01::
+permit permit%2:32:00::
+birth_control birth_control%1:04:00::
+only only%4:02:01::
+for
+medical medical%3:00:00::
+reasons reason%1:16:00::
+.
+The
+Roman_Catholic_Church roman_catholic_church%1:14:00::
+,
+however however%4:02:00::
+,
+sanctions sanction%2:32:01::
+a
+much much%4:02:00::
+more more%4:02:00::
+liberal liberal%5:00:00:broad-minded:00
+policy policy%1:09:00::
+on
+family_planning family_planning%1:04:00::
+.
+Catholics catholic%1:18:00::
+,
+Protestants protestant%1:18:00::
+and
+Jews jew%1:18:00::
+are be%2:42:03::
+in_agreement in_agreement%4:02:00::
+over
+the
+objectives objective%1:09:00::
+of
+family_planning family_planning%1:04:00::
+,
+but
+disagree disagree%2:32:00::
+over
+the
+methods method%1:09:00::
+to
+be
+used use%2:34:01::
+.
+The
+Roman_Catholic_Church roman_catholic_church%1:14:00::
+sanctions sanction%2:32:01::
+only only%4:02:01::
+abstention abstention%1:07:00::
+or
+the
+rhythm_method rhythm_method%1:04:00::
+,
+also_known_as also_known_as%4:02:00::
+the
+use use%1:04:00::
+of
+the
+infertile infertile%3:00:00::
+or
+safe safe%3:00:01::
+period period%1:28:00::
+.
+The
+Church roman_catholic_church%1:14:00::
+considers consider%2:31:00::
+this
+to
+be be%2:42:06::
+the
+method method%1:09:00::
+provided provide%2:34:00::
+by
+nature nature%1:17:00::
+and
+its
+divine divine%5:00:02:heavenly:00
+Author author%1:18:01::
+:
+It
+involves involve%2:42:00::
+no
+frustration frustration%1:04:02::
+of
+nature nature%1:17:00::
+'s
+laws law%1:09:00::
+,
+but
+simply simply%4:02:00::
+an
+intelligent intelligent%5:00:00:reasonable:00
+and
+disciplined disciplined%5:00:00:controlled:00
+use use%1:04:00::
+of
+them
+.
+With
+the
+exception exception%1:09:00::
+of
+the
+Roman_Catholic roman_catholic_church%1:14:00::
+and
+the
+Orthodox_Catholic_Churches orthodox_catholic_church%1:14:00::
+,
+most most%3:00:02::
+churches church%1:14:00::
+make make%2:31:00::
+no
+moral moral%3:01:00::
+distinction distinction%1:09:00::
+between
+rhythm rhythm%1:04:00::
+and
+mechanical mechanical%3:00:00::
+or
+chemical chemical%3:01:01::
+contraceptives contraceptive%1:06:00::
+,
+allowing allow%2:40:00::
+the
+couple couple%1:14:01::
+free free%3:00:00::
+choice choice%1:04:00::
+.
+Here here%4:02:02::
+is be%2:42:05::
+a
+difference difference%1:07:00::
+in
+theological theological%3:01:00::
+belief belief%1:10:01::
+where
+there
+seems seem%2:39:00::
+little little%3:00:03::
+chance chance%1:26:00::
+of
+agreement agreement%1:26:01::
+.
+The
+grounds ground%1:16:00::
+for
+the
+Church roman_catholic_church%1:14:00::
+'s
+position position%1:09:00::
+are be%2:42:03::
+Scriptural scriptural%3:01:00::
+(
+Old_Testament old_testament%1:10:00::
+)
+,
+the
+teachings teaching%1:09:00::
+of
+the
+fathers father%1:18:04::
+and
+doctors doctor%1:18:02::
+of
+the
+early early%5:00:00:past:00
+Church roman_catholic_church%1:14:00::
+,
+the
+unbroken unbroken%3:00:02::
+tradition tradition%1:09:01::
+of
+nineteen nineteen%5:00:00:cardinal:00
+centuries century%1:28:00::
+,
+the
+decisions decision%1:09:00::
+of
+the
+highest highest%5:00:00:ultimate:00
+ecclesiastical ecclesiastical%3:01:00::
+authority authority%1:18:01::
+and
+the
+natural_law natural_law%1:09:00::
+.
+The
+latter latter%3:00:00::
+plays play%2:41:12::
+a
+prominent prominent%5:00:00:conspicuous:00
+role role%1:04:00::
+in
+Roman_Catholic roman_catholic%1:14:00::
+theology theology%1:09:00::
+and
+is
+considered consider%2:31:00::
+decisive decisive%3:00:00::
+,
+entirely entirely%4:02:00::
+apart apart%4:02:01::
+from
+Scripture scripture%1:10:00::
+,
+in
+determining determine%2:31:01::
+the
+ethical ethical%3:01:00::
+character character%1:09:00::
+of
+birth-prevention birth_prevention%1:04:00::
+methods method%1:09:00::
+.
+The
+Roman_Catholic roman_catholic%1:14:00::
+natural-law natural_law%1:09:00::
+tradition tradition%1:09:01::
+regards regard%2:31:00::
+as
+self-evident self-evident%5:00:00:obvious:00
+that
+the
+primary primary%5:00:00:important:00
+objective objective%3:00:00::
+purpose purpose%1:07:00::
+of
+the
+conjugal conjugal%3:01:00::
+act act%1:03:00::
+is be%2:42:06::
+procreation procreation%1:04:00::
+and
+that
+the
+fostering fostering%1:10:00::
+of
+the
+mutual mutual%5:00:00:reciprocal:00
+love love%1:12:00::
+of
+the
+spouses spouse%1:18:00::
+is be%2:42:06::
+the
+secondary secondary%3:00:01::
+and
+subjective subjective%3:00:00::
+end end%1:09:02::
+.
+This
+conclusion conclusion%1:09:00::
+is
+based base%2:31:00::
+on
+two two%5:00:00:cardinal:00
+propositions proposition%1:10:00::
+:
+that
+man man%1:18:04::
+by
+the
+use use%1:04:00::
+of
+his
+reason reason%1:09:00::
+can
+ascertain ascertain%2:32:01::
+God god%1:18:00::
+'s
+purpose purpose%1:09:00::
+in
+the
+universe universe%1:17:00::
+and
+that
+God god%1:18:00::
+makes make%2:36:00::
+known known%3:00:00::
+His
+purpose purpose%1:09:00::
+by
+certain certain%5:00:00:definite:00
+``
+given given%5:00:00:specified:00
+''
+physical physical%3:00:00::
+arrangements arrangement%1:09:00::
+.
+Thus thus%4:02:00::
+,
+man man%1:18:04::
+can
+readily readily%4:02:00::
+deduce deduce%2:31:00::
+that
+the
+primary primary%5:00:00:important:00
+objective objective%3:00:00::
+end end%1:09:02::
+of
+the
+conjugal conjugal%3:01:00::
+act act%1:03:00::
+is be%2:42:06::
+procreation procreation%1:04:00::
+,
+the
+propagation propagation%1:04:00::
+of
+the
+race human_race%1:14:00::
+.
+Moreover moreover%4:02:00::
+,
+man man%1:18:04::
+may_not may_not%2:42:00::
+supplant supplant%2:41:00::
+or
+frustrate frustrate%2:41:00::
+the
+physical physical%3:00:00::
+arrangements arrangement%1:09:00::
+established establish%2:36:00::
+by
+God god%1:18:00::
+,
+who
+through
+the
+law law%1:09:01::
+of
+rhythm rhythm%1:07:01::
+has
+provided provide%2:34:00::
+a
+natural natural%3:00:02::
+method method%1:09:00::
+for
+the
+control control%1:04:02::
+of
+conception conception%1:04:01::
+.
+Believing believe%2:31:00::
+that
+God god%1:18:00::
+is be%2:42:06::
+the
+Author author%1:18:01::
+of
+this
+law law%1:09:01::
+and
+of
+all
+laws_of_nature law_of_nature%1:09:00::
+,
+Roman_Catholics roman_catholic%1:18:00::
+believe believe%2:31:00::
+that
+they
+are be%2:42:03::
+obliged obliged%5:00:00:obligated(p):00
+to
+obey obey%2:41:00::
+those
+laws law%1:09:00::
+,
+not not%4:02:00::
+frustrate frustrate%2:41:00::
+or
+mock mock%2:32:00::
+them
+.
+Let let%2:41:00::
+it
+be
+granted granted%5:00:00:acknowledged:00
+then then%4:02:02::
+that
+the
+theological theological%3:01:00::
+differences difference%1:07:00::
+in
+this
+area area%1:09:00::
+between
+Protestants protestant%1:18:00::
+and
+Roman_Catholics roman_catholic%1:18:00::
+appear appear%2:39:00::
+to
+be be%2:42:03::
+irreconcilable irreconcilable%3:00:00::
+.
+But
+people people%1:14:00::
+differ differ%2:42:00::
+in
+their
+religious_beliefs religious_belief%1:09:00::
+on
+scores scores%1:23:00::
+of
+doctrines doctrine%1:09:00::
+,
+without
+taking_up_arms take_up_arms%2:33:00::
+against
+those
+who
+disagree disagree%2:32:00::
+with
+them
+.
+Why
+is be%2:42:03::
+it
+so so%4:02:02::
+different different%3:00:00::
+in
+regard_to regard_to%1:24:00::
+birth_control birth_control%1:04:00::
+?
+It
+is be%2:42:03::
+because
+each
+side side%1:14:00::
+has
+sought seek%2:41:00::
+to
+implement implement%2:41:00::
+its
+distinctive distinctive%5:00:00:characteristic:00
+theological theological%3:01:00::
+belief belief%1:10:01::
+through
+legislation legislation%1:04:00::
+and
+thus thus%4:02:01::
+indirectly indirectly%4:02:00::
+force force%2:32:00::
+its
+belief belief%1:10:01::
+,
+or
+at_least at_least%4:02:00::
+the
+practical practical%3:00:00::
+consequences consequence%1:19:00::
+thereof thereof%4:02:00::
+,
+upon
+others
+.
+It
+is be%2:42:03::
+always always%4:02:00::
+a
+temptation temptation%1:09:00::
+for
+a
+religious religious%3:01:00::
+organization organization%1:14:00::
+,
+especially especially%4:02:00::
+a
+powerful powerful%5:00:00:influential:00
+or
+dominant dominant%3:00:01::
+one
+,
+to
+impose impose%2:41:00::
+through
+the
+clenched_fist
+of
+the
+law law%1:14:00::
+its
+creedal creedal%3:01:00::
+viewpoint viewpoint%1:09:00::
+upon
+others
+.
+Both
+Roman_Catholics roman_catholic%1:18:00::
+and
+Protestants protestant%1:18:00::
+have
+succumbed succumb%2:32:00::
+to
+this
+temptation temptation%1:09:00::
+in
+the
+past past%1:28:00::
+.
+Consider consider%2:31:01::
+what
+happened happen%2:30:00::
+during
+World_War_1
+,
+,
+when
+the
+Protestant protestant%3:01:00::
+churches church%1:14:00::
+united unite%2:41:00::
+to
+push push%2:38:00::
+the
+Prohibition prohibition%1:10:02::
+law law%1:10:00::
+through
+Congress congress%1:14:01::
+.
+Many_of
+them
+sincerely sincerely%4:02:00::
+believe believe%2:31:00::
+that
+the
+use use%1:04:00::
+of
+liquor liquor%1:13:00::
+in
+any
+form form%1:09:01::
+or
+in
+any
+degree degree%1:07:00::
+is be%2:42:03::
+intrinsically intrinsically%4:02:00::
+evil evil%5:00:00:malign:00
+and
+sinful sinful%5:00:00:wicked:00
+.
+With
+over
+four four%5:00:00:cardinal:00
+million million%5:00:00:cardinal:00
+American american%3:01:01::
+men man%1:18:00::
+away away%4:02:00::
+at
+war war%1:04:00::
+,
+Protestants protestant%1:18:00::
+forced force%2:32:00::
+their
+distinctive distinctive%5:00:00:characteristic:00
+theological theological%3:01:00::
+belief belief%1:10:01::
+upon
+the
+general general%3:00:00::
+public public%1:14:01::
+.
+With
+the
+return return%1:04:01::
+of
+our
+soldiers soldier%1:18:00::
+,
+it
+soon soon%4:02:00::
+became become%2:30:00::
+apparent apparent%5:00:00:obvious:00
+that
+the
+belief belief%1:10:01::
+was
+not not%4:02:00::
+shared share%2:42:00::
+by
+the
+great great%5:00:01:large:00
+majority majority%1:07:00::
+of
+citizens citizen%1:18:00::
+.
+The
+attempt attempt%1:04:00::
+to
+enforce enforce%2:41:01::
+that
+belief belief%1:10:01::
+ushered_in usher_in%2:30:00::
+a
+reign reign%1:28:01::
+of
+bootleggers bootlegger%1:18:00::
+,
+racketeers racketeer%1:18:00::
+,
+hijackers hijacker%1:18:00::
+and
+gangsters gangster%1:18:00::
+that
+led lead%2:42:04::
+to
+a
+breakdown breakdown%1:04:02::
+of
+law law%1:14:00::
+unparalleled unparalleled%5:00:00:incomparable:00
+in
+our
+history history%1:28:02::
+.
+The
+so-called so-called%5:00:00:questionable:00
+``
+noble noble%5:00:00:honorable:00
+experiment experiment%1:04:01::
+''
+came come%2:30:03::
+to
+an
+inglorious inglorious%5:00:00:dishonorable:00
+end end%1:26:00::
+.
+That
+tumultuous tumultuous%5:00:00:unquiet:00
+,
+painful painful%3:00:00::
+and
+costly costly%5:00:02:expensive:00
+experience experience%1:11:00::
+shows show%2:31:00::
+clearly clearly%4:02:00::
+that
+a
+law law%1:10:00::
+expressing express%2:32:01::
+a
+moral moral%3:01:00::
+judgment judgment%1:09:04::
+cannot
+be
+enforced enforce%2:41:01::
+when
+it
+has have%2:42:00::
+little little%3:00:03::
+correspondence correspondence%1:07:02::
+with
+the
+general general%5:00:00:common:01
+view view%1:09:02::
+of
+society society%1:14:00::
+.
+That
+experience experience%1:11:00::
+holds hold%2:42:07::
+a
+lesson lesson%1:10:00::
+for
+us
+all all%3:00:00::
+in
+regard_to regard_to%1:24:00::
+birth_control birth_control%1:04:00::
+today today%1:28:00::
+.
+Up_to
+the
+turn_of_the_century turn_of_the_century%1:28:00::
+,
+contraception contraception%1:04:00::
+was
+condemned condemn%2:32:00::
+by
+all
+Christian_churches christian_church%1:14:00::
+as
+immoral immoral%3:00:00::
+,
+unnatural unnatural%3:00:00::
+and
+contrary contrary%5:00:00:different:00
+to
+divine_law divine_law%1:09:00::
+.
+This
+was
+generally generally%4:02:02::
+reflected reflect%2:39:01::
+in
+the
+civil_laws civil_law%1:14:00::
+of
+Christian christian%3:01:00::
+countries country%1:14:00::
+.
+Today today%1:28:00::
+,
+the
+Roman_Catholic roman_catholic_church%1:14:00::
+and
+Orthodox_Churches orthodox_church%1:14:00::
+stand stand%2:42:00::
+virtually virtually%4:02:00::
+alone alone%4:02:01::
+in
+holding hold%2:37:00::
+that
+conviction conviction%1:09:00::
+.
+The
+various various%5:00:00:individual:00
+Lambeth_Conferences
+,
+expressing express%2:32:01::
+the
+Anglican anglican%3:01:00::
+viewpoint viewpoint%1:09:00::
+,
+mirror mirror%2:43:00::
+the
+gradual gradual%3:00:01::
+change change%1:11:00::
+that
+has
+taken_place take_place%2:30:00::
+among
+Protestants protestant%1:18:00::
+generally generally%4:02:01::
+.
+In
+1920
+,
+the
+Lambeth_Conference
+repeated repeat%2:32:00::
+its
+1908
+condemnation condemnation%1:10:00::
+of
+contraception contraception%1:04:00::
+and
+issued issue%2:32:01::
+``
+an
+emphatic emphatic%5:00:00:stressed:00
+warning warning%1:10:01::
+against
+the
+use use%1:04:00::
+of
+unnatural unnatural%3:00:00::
+means means%1:06:00::
+for
+the
+avoidance avoidance%1:04:00::
+of
+conception conception%1:04:01::
+,
+together_with
+the
+grave grave%5:00:00:critical:03
+dangers danger%1:04:00::
+-
+physical physical%3:00:00::
+,
+moral moral%3:01:00::
+,
+and
+religious religious%3:01:00::
+-
+thereby thereby%4:02:00::
+incurred incur%2:42:00::
+,
+and
+against
+the
+evils evil%1:07:02::
+which
+the
+extension extension%1:10:01::
+of
+such such%5:00:01:specified:00
+use use%1:04:00::
+threaten threaten%2:42:00::
+the
+race human_race%1:14:00::
+''
+.
+Denouncing denounce%2:32:00::
+the
+view view%1:09:02::
+that
+the
+sexual_union sexual_union%1:04:00::
+is be%2:42:02::
+an
+end end%1:09:02::
+in
+itself
+,
+the
+Conference
+declared declare%2:32:05::
+:
+``
+We
+steadfastly steadfastly%4:02:00::
+uphold uphold%2:32:00::
+what
+must
+always always%4:02:00::
+be
+regarded_as regard_as%2:31:00::
+the
+governing governing%5:00:00:dominant:01
+considerations consideration%1:09:01::
+of
+Christian christian%3:01:00::
+marriage marriage%1:26:00::
+.
+One one%5:00:01:single(a):00
+is be%2:42:06::
+the
+primary primary%5:00:00:important:00
+purpose purpose%1:07:00::
+for
+which
+marriage marriage%1:26:00::
+exists exist%2:42:00::
+,
+namely namely%4:02:00::
+,
+the
+continuance continuance%1:04:00::
+of
+the
+race human_race%1:14:00::
+through
+the
+gift gift%1:21:00::
+and
+heritage heritage%1:07:00::
+of
+children child%1:18:01::
+;
+the
+other other%3:00:00::
+is be%2:42:06::
+the
+paramount paramount%5:00:00:dominant:01
+importance importance%1:26:00::
+in
+married married%3:00:00::
+life life%1:26:01::
+of
+deliberate deliberate%5:00:00:intended:00
+and
+thoughtful thoughtful%5:00:00:serious:00
+self-control self-control%1:04:00::
+''
+.
+The
+Conference
+called_for call_for%2:32:04::
+a
+vigorous vigorous%5:00:00:energetic:00
+campaign campaign%1:04:02::
+against
+the
+open open%5:00:00:public:00
+or
+secret secret%5:00:00:unacknowledged:00
+sale sale%1:04:02::
+of
+contraceptives contraceptive%1:06:00::
+.
+In
+1930
+,
+the
+Lambeth_Conference
+again again%4:02:00::
+affirmed affirm%2:32:00::
+the
+primary primary%5:00:00:important:00
+purpose purpose%1:07:00::
+of
+marriage marriage%1:26:00::
+to
+be be%2:42:06::
+the
+procreation procreation%1:04:00::
+of
+children child%1:18:01::
+,
+but
+conceded concede%2:32:01::
+that
+,
+in
+certain certain%5:00:00:definite:00
+limited limited%3:00:00::
+circumstances circumstance%1:26:02::
+,
+contraception contraception%1:04:00::
+might
+be be%2:42:03::
+morally morally%4:02:01::
+legitimate legitimate%5:00:00:legal:00
+.
+In
+1958
+,
+the
+Conference
+endorsed endorse%2:41:00::
+birth_control birth_control%1:04:00::
+as
+the
+responsibility responsibility%1:04:00::
+laid lay%2:40:00::
+by
+God god%1:18:00::
+on
+parents parent%1:18:00::
+everywhere everywhere%4:02:00::
+.
+Many many%3:00:00::
+other other%3:00:00::
+Protestant_denominations protestant_denomination%1:14:00::
+preceded precede%2:42:00::
+the
+Anglicans anglican%1:18:00::
+in
+such such%5:00:01:specified:00
+action action%1:04:02::
+.
+In
+March march%1:28:00::
+,
+1931
+,
+22 22%5:00:00:cardinal:00
+out
+of
+28 28%5:00:00:cardinal:00
+members member%1:18:00::
+of
+a
+committee committee%1:14:00::
+of
+the
+Federal_Council_of_Churches group%1:03:00::
+ratified ratify%2:41:00::
+artificial artificial%3:00:00::
+methods method%1:09:00::
+of
+birth_control birth_control%1:04:00::
+.
+``
+As_to
+the
+necessity necessity%1:26:00::
+''
+,
+the
+committee committee%1:14:00::
+declared declare%2:32:05::
+,
+``
+for
+some
+form form%1:09:01::
+of
+effective effective%5:00:00:competent:00
+control control%1:24:00::
+of
+the
+size size%1:07:00::
+of
+the
+family family%1:14:00::
+and
+the
+spacing spacing%1:28:00::
+of
+children child%1:18:01::
+,
+and
+consequently consequently%4:02:00::
+of
+control control%1:04:02::
+of
+conception conception%1:04:01::
+,
+there
+can
+be be%2:42:00::
+no
+question question%1:07:00::
+.
+There
+is be%2:42:00::
+general_agreement general_agreement%1:26:00::
+also also%4:02:00::
+that
+sex sex%1:04:00::
+union union%1:04:02::
+between
+husbands husband%1:18:00::
+and
+wives wife%1:18:00::
+as
+an
+expression expression%1:10:02::
+of
+mutual_affection mutual_affection%1:24:00::
+without
+relation_to relation_to%1:24:00::
+procreation procreation%1:04:00::
+is be%2:42:03::
+right right%3:00:01::
+''
+.
+Since
+then then%4:02:02::
+,
+many many%3:00:00::
+Protestant_denominations protestant_denomination%1:14:00::
+have
+made
+separate separate%5:00:01:individual:00
+pronouncements pronouncement%1:10:00::
+,
+in
+which
+they
+not_only not_only%4:02:00::
+approved approve%2:32:00::
+birth_control birth_control%1:04:00::
+,
+but
+declared declare%2:32:05::
+it
+at_times at_times%4:02:00::
+to
+be be%2:42:07::
+a
+religious religious%3:01:00::
+duty duty%1:04:00::
+.
+What
+determines determine%2:31:01::
+the
+morality morality%1:07:00::
+,
+they
+state state%2:32:00::
+,
+is be%2:42:06::
+not not%4:02:00::
+the
+means means%1:04:00::
+used use%2:34:01::
+,
+but
+the
+motive motive%1:03:00::
+.
+In_general in_general%4:02:00::
+,
+the
+means means%1:04:00::
+(
+excluding exclude%2:31:01::
+abortion abortion%1:04:00::
+)
+that
+prove prove%2:42:00::
+most most%4:02:00::
+effective effective%5:00:00:efficacious:00
+are
+considered consider%2:31:00::
+the
+most most%4:02:00::
+ethical ethical%5:00:00:right:01
+.
+This
+development development%1:11:01::
+is
+reflected reflect%2:39:00::
+in
+the
+action action%1:04:02::
+taken take%2:41:04::
+in
+February february%1:28:00::
+,
+1961
+,
+by
+the
+general general%3:00:00::
+board board%1:14:00::
+of
+the
+National_Council_of_Churches group%1:03:00::
+,
+the
+largest largest%5:00:00:large:00
+Protestant protestant%3:01:00::
+organization organization%1:14:01::
+in
+the
+US us%1:15:00::
+.
+The
+board board%1:14:00::
+approved approve%2:32:00::
+and
+commended commend%2:32:00::
+the
+use use%1:04:00::
+of
+birth-control birth_control%1:04:00::
+devices device%1:06:00::
+as
+a
+part part%1:24:00::
+of
+Christian christian%3:01:00::
+responsibility responsibility%1:04:00::
+in
+family_planning family_planning%1:04:00::
+.
+It
+called_for call_for%2:32:04::
+opposition opposition%1:04:01::
+to
+laws law%1:14:00::
+and
+institutional institutional%3:01:00::
+practices practice%1:04:00::
+restricting restrict%2:30:02::
+the
+information information%1:09:00::
+or
+availability availability%1:07:00::
+of
+contraceptives contraceptive%1:06:00::
+.
+The
+general general%3:00:00::
+board board%1:14:00::
+declared declare%2:32:05::
+:
+``
+Most_of
+the
+Protestant protestant%1:14:00::
+churches church%1:14:00::
+hold hold%2:37:00::
+contraception contraception%1:04:00::
+and
+periodic periodic%5:00:00:rhythmical:00
+continence continence%1:07:00::
+to
+be be%2:42:03::
+morally morally%4:02:01::
+right right%3:00:01::
+when
+the
+motives motive%1:03:00::
+are be%2:42:03::
+right right%3:00:01::
+.
+The
+general general%3:00:00::
+Protestant protestant%1:14:00::
+conviction conviction%1:09:00::
+is be%2:42:06::
+that
+motives motive%1:03:00::
+,
+rather rather%4:02:02::
+than
+methods method%1:09:00::
+,
+form form%2:42:00::
+the
+primary primary%5:00:00:important:00
+moral moral%3:01:00::
+issue issue%1:09:01::
+,
+provided
+the
+methods method%1:09:00::
+are
+limited limit%2:30:00::
+to
+the
+prevention prevention%1:04:00::
+of
+conception conception%1:04:01::
+''
+.
+An
+action action%1:04:02::
+once once%4:02:01::
+universally universally%4:02:00::
+condemned condemn%2:32:00::
+by
+all
+Christian_churches christian_church%1:14:00::
+and
+forbidden forbid%2:32:00::
+by
+the
+civil_law civil_law%1:14:00::
+is
+now now%4:02:00::
+not_only not_only%4:02:00::
+approved approve%2:32:00::
+by
+the
+overwhelming overwhelming%5:00:00:irresistible:00
+majority majority%1:07:00::
+of
+Protestant_denominations protestant_denomination%1:14:00::
+,
+but
+also also%4:02:00::
+deemed deem%2:31:00::
+,
+at
+certain certain%5:00:00:definite:00
+times time%1:11:00::
+,
+to
+be be%2:42:03::
+a
+positive positive%5:00:00:undeniable:00
+religious religious%3:01:00::
+duty duty%1:04:00::
+.
+This
+viewpoint viewpoint%1:09:00::
+has
+now now%4:02:00::
+been
+translated translate%2:30:01::
+into
+action action%1:04:02::
+by
+the
+majority majority%1:07:00::
+of
+people people%1:14:00::
+in
+this
+country country%1:14:00::
+.
+Repeated repeated%5:00:00:continual:00
+polls poll%1:09:00::
+have
+disclosed disclose%2:32:00::
+that
+most most%3:00:02::
+married_couples married_couple%1:14:00::
+are
+now now%4:02:00::
+using use%2:34:01::
+contraceptives contraceptive%1:06:00::
+in
+the
+practice practice%1:04:00::
+of
+birth_control birth_control%1:04:00::
+.
+For
+all
+concerned concerned%3:00:00::
+with
+social-welfare social_welfare%1:04:00::
+legislation legislation%1:10:00::
+,
+the
+significance significance%1:09:01::
+of
+this
+radical radical%5:00:00:new:00
+and
+revolutionary revolutionary%5:00:00:new:00
+change change%1:24:00::
+in
+the
+thought thought%1:09:02::
+and
+habits habit%1:09:00::
+of
+the
+vast vast%5:00:00:large:00
+majority majority%1:07:00::
+of
+the
+American american%3:01:01::
+people people%1:14:00::
+is be%2:42:03::
+clear clear%3:00:00::
+,
+profound profound%3:00:00::
+and
+far far%3:00:00::
+reaching reach%2:35:00::
+.
+To
+try try%2:41:00::
+to
+oppose oppose%2:33:01::
+the
+general general%3:00:00::
+religious religious%3:01:00::
+and
+moral moral%3:01:00::
+conviction conviction%1:09:00::
+of
+such such%5:00:01:specified:00
+a
+majority majority%1:07:00::
+by
+a
+legislative legislative%3:01:00::
+fiat fiat%1:10:00::
+would
+be be%2:42:07::
+to
+invite invite%2:37:01::
+the
+same same%3:00:02::
+breakdown breakdown%1:04:02::
+of
+law law%1:14:00::
+and
+order order%1:26:00::
+that
+was
+occasioned occasion%2:36:00::
+by
+the
+ill-starred ill-starred%5:00:00:unfortunate:00
+Prohibition prohibition%1:10:02::
+experiment experiment%1:04:01::
+.
+This
+brings bring%2:38:00::
+us
+to
+the
+fact fact%1:10:01::
+that
+the
+realities reality%1:26:02::
+we
+are
+dealing deal%2:31:10::
+with
+lie lie%2:42:02::
+not not%4:02:00::
+in
+the
+field field%1:26:00::
+of
+civil civil%5:00:00:civilian:00
+legislation legislation%1:10:00::
+,
+but
+in
+the
+realm realm%1:26:01::
+of
+conscience conscience%1:16:00::
+and
+religion religion%1:09:00::
+:
+They
+are be%2:42:03::
+moral moral%3:01:00::
+judgments judgment%1:09:04::
+and
+matters matter%1:09:00::
+of
+theological theological%3:01:00::
+belief belief%1:10:01::
+.
+Conscience conscience%1:16:00::
+and
+religion religion%1:09:00::
+are be%2:42:03::
+concerned concerned%3:00:00::
+with
+private private%3:00:00::
+sin sin%1:04:00::
+:
+The
+civil_law civil_law%1:14:00::
+is be%2:42:03::
+concerned concerned%5:00:00:involved:00
+with
+public public%3:00:00::
+crimes crime%1:04:00::
+.
+Only only%4:02:01::
+confusion confusion%1:26:01::
+,
+failure failure%1:04:00::
+and
+anarchy anarchy%1:26:00::
+result result%2:42:00::
+when
+the
+effort effort%1:04:00::
+is
+made make%2:41:00::
+to
+impose impose%2:32:00::
+upon
+the
+civil_authority civil_authority%1:18:00::
+the
+impossible impossible%3:00:00::
+task task%1:04:00::
+of
+policing police%2:41:00::
+private private%3:00:00::
+homes home%1:15:04::
+to
+preclude preclude%2:41:00::
+the
+possibility possibility%1:09:01::
+of
+sin sin%1:04:00::
+.
+Among
+the
+chief chief%5:00:02:important:00
+victims victim%1:18:00::
+of
+such such%5:00:01:specified:00
+an
+ill_conceived ill-conceived%5:00:00:foolish:00
+imposition imposition%1:04:02::
+would
+be be%2:42:06::
+religion religion%1:14:00::
+itself
+.

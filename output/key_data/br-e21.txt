@@ -1,0 +1,2157 @@
+Most most%3:00:02::
+recreation recreation%1:04:00::
+work work%1:04:00::
+calls_for call_for%2:42:00::
+a
+good_deal good_deal%1:23:00::
+of
+pre pre%5:00:00:preceding(a):00
+planning planning%1:04:00::
+.
+This
+is be%2:42:03::
+particularly particularly%4:02:00::
+true true%3:00:00::
+in
+site site%1:15:00::
+selection selection%1:04:00::
+.
+You
+must
+know know%2:31:01::
+before before%4:02:03::
+you
+start start%2:36:01::
+what
+the
+needs need%1:17:00::
+and
+objectives objective%1:09:00::
+of
+your
+organization organization%1:14:00::
+are be%2:42:06::
+;
+you
+must
+have have%2:40:00::
+a
+list list%1:10:00::
+of
+requirements requirement%1:17:00::
+on
+where
+,
+how
+many
+,
+and
+what
+type type%1:09:00::
+sites site%1:15:00::
+are
+needed need%2:34:00::
+.
+With
+such such%5:00:01:specified:00
+a
+program program%1:09:00::
+you
+can
+make make%2:41:00::
+constructive constructive%3:00:00::
+selections selection%1:04:00::
+of
+the
+best best%3:00:00::
+sites site%1:15:00::
+available available%3:00:00::
+.
+Begin begin%2:30:00::
+the
+examination examination%1:04:00::
+of
+a
+site site%1:15:00::
+with
+a
+good good%3:00:01::
+map map%1:06:00::
+and
+aerial aerial%5:00:02:air(a):00
+photos photo%1:06:00::
+if
+possible possible%3:00:00::
+.
+These
+are
+becoming become%2:30:00::
+more_and_more more_and_more%4:02:00::
+available available%3:00:00::
+through
+the
+work work%1:04:00::
+of
+counties county%1:15:00::
+and
+other other%3:00:00::
+government government%1:14:00::
+agencies agency%1:14:00::
+.
+The
+new_editions new_edition%1:10:00::
+of
+topographic topographical%3:01:00::
+maps map%1:06:00::
+being
+made make%2:36:01::
+by
+the
+federal_government federal_government%1:14:00::
+are be%2:42:03::
+excellent excellent%5:00:00:superior:02
+for
+orienting orient%2:39:00::
+yourself
+to
+the
+natural natural%3:00:02::
+features feature%1:09:00::
+of
+the
+site site%1:15:00::
+.
+These
+are be%2:42:03::
+inexpensive inexpensive%3:00:00::
+and
+available available%3:00:00::
+from
+the
+U._S._Geological_Society group%1:03:00::
+,
+washington washington%1:15:01::
+25
+,
+D._C. location%1:03:00::
+.
+In
+recent recent%5:00:00:new:00
+years year%1:28:01::
+many many%3:00:00::
+counties county%1:15:00::
+and
+the
+U._S._Forest_Service group%1:03:00::
+have
+taken take%2:32:02::
+aerial aerial%5:00:02:air(a):00
+photos photo%1:06:00::
+which
+show show%2:32:01::
+features feature%1:09:00::
+in_detail in_detail%4:02:00::
+and
+are be%2:42:03::
+very very%4:02:00::
+good good%3:00:01::
+for
+planning planning%1:04:00::
+use use%1:04:00::
+.
+Most most%3:00:02::
+counties county%1:15:00::
+also also%4:02:00::
+have have%2:40:00::
+maps map%1:06:00::
+available available%3:00:00::
+from
+the
+county county%1:15:00::
+engineer engineer%1:18:00::
+showing show%2:32:01::
+roads road%1:06:00::
+and
+other other%3:00:00::
+features feature%1:09:00::
+and
+from
+the
+assessor assessor%1:18:00::
+'s
+office office%1:06:00::
+showing show%2:32:01::
+ownerships ownership%1:21:00::
+of
+land land%1:21:01::
+.
+Inspect inspect%2:39:00::
+the
+site site%1:15:00::
+in
+the
+field field%1:15:01::
+during
+the
+time time%1:28:00::
+of
+the
+year year%1:28:01::
+when
+the
+area area%1:15:01::
+will
+be
+most most%4:02:01::
+heavily heavily%4:02:00::
+used use%2:34:01::
+for
+recreation recreation%1:04:00::
+.
+This
+gives give%2:40:05::
+you
+a
+better better%3:00:00::
+opportunity opportunity%1:26:00::
+to
+get get%2:39:00::
+the
+feel feel%1:09:00::
+of
+the
+climate climate%1:26:00::
+conditions condition%1:26:00::
+,
+the
+exposure exposure%1:09:00::
+to
+the
+sun sun%1:17:00::
+and
+wind wind%1:19:00::
+,
+the
+water water%1:17:00::
+interests interest%1:07:02::
+,
+etcetera etcetera%1:06:00::
+,
+which
+vary vary%2:30:01::
+greatly greatly%4:02:00::
+with
+the
+seasons season%1:28:00::
+.
+It
+is be%2:42:03::
+usually usually%4:02:00::
+helpful helpful%3:00:00::
+to
+make make%2:36:00::
+a
+sketch_map sketch_map%1:06:00::
+in
+the
+field field%1:15:01::
+,
+showing show%2:32:01::
+the
+size size%1:07:00::
+and
+location location%1:03:00::
+of
+the
+features feature%1:09:00::
+of
+interest interest%1:07:02::
+and
+to
+take take%2:32:02::
+photographs photograph%1:06:00::
+at
+the
+site site%1:15:00::
+.
+These
+are be%2:42:03::
+a
+great great%5:00:00:high:02
+aid aid%1:21:00::
+for
+planning planning%1:04:00::
+use use%1:04:00::
+back back%4:02:04::
+at
+the
+office office%1:06:00::
+.
+For
+site site%1:15:00::
+planning planning%1:04:00::
+work work%1:04:00::
+,
+it
+is be%2:42:03::
+best best%3:00:00::
+to
+have have%2:41:00::
+a
+qualified qualified%3:00:01::
+and
+experienced experienced%3:00:00::
+park park%1:15:00::
+planner planner%1:18:00::
+to
+carry_through carry_through%2:36:00::
+the
+study study%1:04:00::
+.
+However however%4:02:00::
+,
+there
+is be%2:42:00::
+also also%4:02:00::
+much much%3:00:00::
+to
+be
+gained gain%2:40:03::
+by
+making make%2:41:00::
+use use%1:04:00::
+of
+the
+abilities ability%1:09:00::
+of
+the
+local local%5:00:00:native:01
+people people%1:14:00::
+who
+are be%2:42:03::
+available available%3:00:00::
+and
+interested interest%2:42:00::
+in
+recreation recreation%1:04:00::
+.
+County county%1:15:00::
+judges judge%1:18:00::
+,
+commissioners commissioner%1:18:00::
+,
+engineers engineer%1:18:00::
+,
+assessors assessor%1:18:00::
+,
+and_others and_others%4:02:00::
+who
+have
+lived live%2:42:08::
+in
+the
+area area%1:15:01::
+for
+a
+long_time long_time%1:28:00::
+may
+have have%2:40:00::
+valuable valuable%3:00:00::
+knowledge knowledge%1:03:00::
+regarding regard%2:42:00::
+the
+site site%1:15:00::
+or
+opinions opinion%1:10:01::
+to
+offer offer%2:40:02::
+from
+their
+varied varied%3:00:00::
+professional professional%3:00:02::
+experiences experience%1:09:01::
+.
+A
+visit visit%1:04:02::
+to
+the
+site site%1:15:00::
+by
+a
+group group%1:03:00::
+of
+several several%5:00:00:some(a):00
+persons person%1:03:00::
+can
+usually usually%4:02:00::
+bring_out bring_out%2:39:00::
+new new%3:00:00::
+ideas idea%1:09:00::
+or
+verify verify%2:31:01::
+opinions opinion%1:09:00::
+most most%4:02:01::
+helpful helpful%3:00:00::
+to
+the
+planning planning%1:04:00::
+study study%1:04:00::
+of
+any
+recreation recreation%1:04:00::
+area area%1:15:01::
+.
+How
+much much%3:00:00::
+study study%1:09:04::
+is
+required require%2:42:00::
+?
+This
+,
+of_course of_course%4:02:00::
+,
+depends_on depend_on%2:42:00::
+the
+character character%1:09:00::
+of
+the
+site site%1:15:00::
+itself
+,
+the
+previous previous%5:00:00:preceding(a):00
+experience experience%1:09:01::
+of
+the
+investigator investigator%1:18:00::
+,
+and
+the
+number number%1:23:00::
+of
+factors factor%1:11:00::
+needed
+to
+arrive_at arrive_at%2:38:00::
+a
+good good%3:00:01::
+decision decision%1:04:00::
+.
+It
+is be%2:42:03::
+too too%4:02:00::
+easy easy%3:00:01::
+for
+the
+inexperienced_person inexperienced_person%1:18:00::
+to
+make make%2:31:00::
+a
+quick quick%5:00:00:hurried:00
+judgment judgment%1:04:02::
+of
+a_few a_few%5:00:00:few:00
+values value%1:07:00::
+of
+the
+area area%1:15:01::
+and
+base base%2:31:00::
+a
+decision decision%1:04:00::
+on
+these
+alone alone%4:02:00::
+.
+Usually usually%4:02:00::
+there
+are be%2:42:04::
+more more%3:00:02::
+factors factor%1:11:00::
+to
+good good%3:00:01::
+site site%1:15:00::
+planning planning%1:04:00::
+than
+first first%3:00:00::
+impressions impression%1:07:00::
+.
+A
+site site%1:15:00::
+may
+be be%2:42:03::
+a
+rundown run-down%5:00:00:worn:00
+slum slum%1:15:00::
+or
+a
+desolate desolate%5:00:00:inhospitable:00
+piece piece%1:17:00::
+of
+desert desert%1:15:00::
+in
+appearance appearance%1:07:00::
+today today%4:02:01::
+but
+have have%2:40:00::
+excellent excellent%5:00:00:superior:02
+potentials potential%1:26:00::
+for
+the
+future future%1:28:00::
+with
+a_little a_little%4:02:00::
+development development%1:04:02::
+or
+water water%1:27:02::
+.
+The
+same same%3:00:02::
+is be%2:42:03::
+true true%5:00:00:accurate:00
+of
+areas area%1:15:01::
+which
+at_first at_first%4:02:00::
+look look%2:39:01::
+good good%3:00:01::
+because
+of
+a_few a_few%5:00:00:few:00
+existing existing%5:00:00:present(a):01
+recreation recreation%1:04:00::
+features feature%1:09:00::
+but
+may
+actually actually%4:02:01::
+be be%2:42:03::
+poor poor%5:00:00:inferior:02
+areas area%1:15:01::
+to
+develop develop%2:30:04::
+for
+general general%3:00:00::
+public public%3:00:00::
+use use%1:04:00::
+.
+In
+looking_for look_for%2:35:00::
+the
+best best%3:00:00::
+sites site%1:15:00::
+available available%3:00:00::
+that
+meet meet%2:42:01::
+the
+requirements requirement%1:17:00::
+,
+you
+need
+information information%1:09:00::
+to
+compare compare%2:31:00::
+the
+site site%1:15:00::
+with
+others
+.
+You
+need need%2:34:00::
+answers answer%1:10:01::
+to
+four four%5:00:00:cardinal:00
+important important%3:00:00::
+questions question%1:10:00::
+.
+What
+are be%2:42:06::
+the
+existing existing%5:00:00:present(a):01
+recreation recreation%1:04:00::
+features feature%1:09:00::
+?
+How
+well well%4:02:08::
+can
+the
+site site%1:15:00::
+be
+developed develop%2:30:04::
+?
+How
+useful useful%3:00:00::
+will
+it
+be
+to
+the
+public public%1:14:00::
+?
+Is be%2:42:03::
+this
+site site%1:15:00::
+available available%3:00:00::
+?
+Check check%2:31:00::
+the
+quantity quantity%1:03:00::
+and
+quality quality%1:07:00::
+of
+all_of all_of%3:00:00::
+the
+recreation recreation%1:04:00::
+interests interest%1:07:02::
+already already%4:02:00::
+existing existing%5:00:00:present:02
+at
+the
+site site%1:15:00::
+.
+Naturally naturally%4:02:00::
+,
+a
+park park%1:15:00::
+site site%1:15:00::
+with
+scenic scenic%5:00:00:beautiful:00
+views view%1:09:01::
+,
+a
+good good%3:00:01::
+lake lake%1:17:00::
+,
+trees tree%1:20:00::
+,
+and
+sand_dunes sand_dune%1:17:00::
+,
+will
+attract attract%2:37:01::
+more more%3:00:02::
+people people%1:14:00::
+than
+a
+nearby nearby%5:00:00:near:00
+area area%1:15:01::
+with
+only only%4:02:02::
+trees tree%1:20:00::
+and
+dunes dune%1:17:00::
+.
+Quality quality%1:07:00::
+is be%2:42:03::
+vitally vitally%4:02:00::
+important important%3:00:00::
+.
+Frontage frontage%1:07:00::
+on
+a
+body body%1:17:00::
+of
+clear clear%3:00:02::
+,
+clean clean%5:00:00:pure:02
+water water%1:27:00::
+will
+be be%2:42:03::
+vastly vastly%4:02:00::
+different different%3:00:00::
+from
+the
+same same%3:00:04::
+amount amount%1:07:00::
+of
+frontage frontage%1:07:00::
+on
+polluted polluted%5:00:00:impure:02
+water water%1:17:00::
+.
+Some some%5:00:00:unspecified:00
+recreation recreation%1:04:00::
+features feature%1:09:00::
+,
+such such%5:00:01:specified:00
+as
+scenic scenic%5:00:00:beautiful:00
+values value%1:07:00::
+and
+water water%1:17:00::
+interest interest%1:07:02::
+,
+also also%4:02:00::
+have have%2:40:00::
+greater great%5:00:00:high:02
+overall overall%5:00:00:gross:00
+value value%1:07:00::
+than
+other other%3:00:00::
+interests interest%1:07:02::
+.
+One
+of
+the
+most most%4:02:00::
+desirable desirable%3:00:00::
+features feature%1:09:00::
+for
+a
+park park%1:15:00::
+are be%2:42:06::
+beautiful beautiful%3:00:00::
+views view%1:09:01::
+or
+scenery scenery%1:15:00::
+.
+It
+may
+be be%2:42:06::
+distant distant%3:00:01::
+views view%1:09:01::
+of
+a
+valley valley%1:17:00::
+or
+the
+mountains mountain%1:17:00::
+or
+natural natural%3:00:02::
+features feature%1:09:00::
+such such%5:00:01:specified:00
+as
+a
+small small%3:00:00::
+lake lake%1:17:00::
+,
+colorful colorful%3:00:00::
+rock rock%1:17:01::
+formations formation%1:17:00::
+,
+or
+unusual unusual%3:00:00::
+trees tree%1:20:00::
+.
+A
+site site%1:15:00::
+which
+overlooks overlook%2:42:01::
+a
+harbor harbor%1:15:00::
+or
+river river%1:17:00::
+may
+offer offer%2:40:02::
+interest interest%1:07:02::
+in
+the
+activities activity%1:04:00::
+of
+boating boating%1:04:00::
+traffic traffic%1:14:00::
+.
+An
+area area%1:15:01::
+on
+the
+coast coast%1:17:00::
+may
+have have%2:42:00::
+relaxing relaxing%5:00:00:quiet:02
+views view%1:09:01::
+of
+the
+surf surf%1:11:00::
+rolling roll%2:42:00::
+in
+on
+a
+beach beach%1:17:00::
+.
+A
+site site%1:15:00::
+may
+also also%4:02:00::
+be be%2:42:03::
+attractive attractive%3:00:01::
+just just%4:02:00::
+through
+the
+beauty beauty%1:07:00::
+of
+its
+trees tree%1:20:00::
+and
+shrubs shrub%1:20:00::
+.
+Note note%2:39:00::
+extent extent%1:07:00::
+of
+these
+interests interest%1:07:02::
+and
+how
+available available%3:00:00::
+they
+will
+be be%2:42:03::
+for
+the
+public public%1:14:00::
+to
+enjoy enjoy%2:37:00::
+.
+Water water%1:17:00::
+interest interest%1:07:02::
+is be%2:42:06::
+one one%5:00:00:cardinal:00
+of
+the
+most most%4:02:00::
+valuable valuable%3:00:00::
+factors factor%1:11:00::
+you
+can
+find find%2:40:02::
+for
+a
+recreation recreation%1:04:00::
+site site%1:15:00::
+.
+Most most%3:00:02::
+park park%1:15:00::
+planners planner%1:18:00::
+look_to look_to%2:31:00::
+water water%1:17:00::
+frontage frontage%1:07:00::
+for
+basic basic%5:00:00:essential:00
+park park%1:15:00::
+areas area%1:15:01::
+.
+This
+follows follow%2:42:05::
+naturally naturally%4:02:00::
+since
+frontage frontage%1:07:00::
+on
+an
+ocean ocean%1:17:00::
+,
+stream stream%1:17:00::
+,
+or
+lake lake%1:17:00::
+provides provide%2:40:00::
+scenic scenic%5:00:00:beautiful:00
+values value%1:07:00::
+and
+opportunities opportunity%1:26:00::
+for
+the
+very very%4:02:00::
+popular popular%3:00:00::
+recreation recreation%1:04:00::
+activities activity%1:04:00::
+of
+bathing bathing%1:04:00::
+,
+fishing fishing%1:04:00::
+,
+boating boating%1:04:00::
+,
+and
+other other%3:00:00::
+water_sports water_sport%1:04:00::
+.
+A
+body_of_water body_of_water%1:17:00::
+is be%2:42:03::
+usually usually%4:02:00::
+the
+center center%1:09:01::
+of
+interest interest%1:09:00::
+at
+parks park%1:15:00::
+which
+attract attract%2:35:00::
+the
+greatest greatest%5:00:00:maximal:00
+picnic picnic%1:28:00::
+and
+camping camping%1:04:00::
+use use%1:04:00::
+.
+It
+also also%4:02:00::
+cools cool%2:30:01::
+the
+air air%1:19:00::
+in
+summer summer%1:28:00::
+and
+nourishes nourish%2:34:01::
+the
+trees tree%1:20:00::
+and
+wildlife wildlife%1:14:00::
+.
+The
+amount amount%1:07:00::
+of
+water water%1:17:00::
+frontage frontage%1:07:00::
+,
+the
+quantity quantity%1:03:00::
+and
+quality quality%1:07:00::
+of
+the
+water water%1:17:00::
+,
+and
+the
+recreation recreation%1:04:00::
+afforded afford%2:40:00::
+by
+it
+are be%2:42:03::
+important important%3:00:00::
+.
+A
+restricted restricted%3:00:00::
+frontage frontage%1:07:00::
+may
+be be%2:42:03::
+too too%4:02:00::
+crowded crowded%3:00:00::
+an
+area area%1:15:01::
+for
+public public%1:14:00::
+use use%1:04:00::
+.
+The
+quantity quantity%1:03:00::
+of
+water water%1:17:00::
+flow flow%1:22:00::
+may
+be be%2:42:03::
+critical critical%5:00:00:crucial:00
+;
+a
+stream stream%1:17:00::
+or
+pond pond%1:17:00::
+which
+is be%2:42:03::
+attractive attractive%3:00:01::
+in
+the
+springtime springtime%1:28:00::
+may
+become become%2:30:00::
+stagnant stagnant%5:00:00:standing(a):02
+or
+dry dry%3:00:01::
+in
+late late%3:00:00::
+summer summer%1:28:00::
+.
+If
+the
+site site%1:15:00::
+is be%2:42:05::
+on
+a
+reservoir reservoir%1:06:01::
+,
+the
+level level%1:07:01::
+of
+the
+water water%1:17:00::
+at
+various various%5:00:02:different:00
+seasons season%1:28:00::
+as
+it
+affects affect%2:30:00::
+recreation recreation%1:04:00::
+should
+be
+studied study%2:39:00::
+.
+Check check%2:31:00::
+the
+quality quality%1:07:00::
+of
+the
+water water%1:27:00::
+.
+A
+stream stream%1:17:00::
+which
+has have%2:40:00::
+all_of all_of%3:00:00::
+its
+watershed watershed%1:15:00::
+within
+a
+national national%5:00:00:public:00
+forest forest%1:14:00::
+or
+other other%3:00:00::
+lands land%1:21:01::
+under
+good good%3:00:01::
+conservation conservation%1:11:00::
+practices practice%1:04:00::
+is be%2:42:03::
+less less%4:02:00::
+likely likely%3:00:00::
+to
+be
+affected affect%2:30:00::
+by
+pollution pollution%1:26:00::
+than
+one
+passing_through pass_through%2:38:00::
+unrestricted unrestricted%3:00:00::
+logging logging%1:04:00::
+or
+past
+an
+industrial industrial%3:01:00::
+area area%1:15:01::
+.
+Other other%3:00:00::
+factors factor%1:11:00::
+,
+such such%5:00:01:specified:00
+as
+water water%1:17:00::
+temperature temperature%1:07:00::
+,
+depth depth%1:07:00::
+of
+water water%1:17:00::
+,
+the
+fish fish%1:05:00::
+life life%1:03:00::
+it
+supports support%2:35:00::
+,
+wave wave%1:11:01::
+action action%1:22:00::
+,
+flooding flood%2:30:00::
+,
+etcetera etcetera%1:06:00::
+,
+will
+affect affect%2:30:00::
+its
+recreation recreation%1:04:00::
+value value%1:07:00::
+.
+Other other%3:00:00::
+natural natural%3:00:02::
+features feature%1:09:00::
+which
+can
+be be%2:42:03::
+of
+high high%3:00:02::
+interest interest%1:09:00::
+are be%2:42:06::
+the
+forests forest%1:14:00::
+,
+canyons canyon%1:17:00::
+,
+mountains mountain%1:17:00::
+,
+deserts desert%1:15:00::
+,
+seacoast seacoast%1:17:00::
+,
+beaches beach%1:17:00::
+,
+sand_dunes sand_dune%1:17:00::
+,
+waterfalls waterfall%1:17:00::
+,
+springs spring%1:17:00::
+,
+etcetera etcetera%1:06:00::
+with
+which
+the
+area area%1:15:01::
+is
+blessed bless%2:32:02::
+.
+Just_as
+the
+national national%5:00:00:public:00
+and
+state state%5:00:02:public:00
+parks park%1:15:00::
+place place%2:35:00::
+emphasis emphasis%1:26:00::
+on
+features feature%1:09:00::
+which
+are be%2:42:03::
+of
+national national%3:01:00::
+or
+state state%5:00:01:public:00
+significance significance%1:07:00::
+,
+counties county%1:15:00::
+should
+seek_out seek_out%2:35:00::
+these
+features feature%1:09:00::
+which
+are be%2:42:03::
+distinctive distinctive%5:00:00:characteristic:00
+of
+their
+area area%1:15:01::
+.
+Although
+the
+site site%1:15:00::
+may
+not not%4:02:00::
+contain contain%2:42:13::
+the
+features feature%1:09:00::
+themselves
+,
+there
+are be%2:42:04::
+often often%4:02:00::
+opportunities opportunity%1:26:00::
+to
+include include%2:42:00::
+them
+as
+additional additional%5:00:00:added:00
+interest interest%1:09:00::
+to
+the
+site site%1:15:00::
+.
+The
+route route%1:06:00::
+to
+the
+park park%1:15:00::
+may
+lead lead%2:38:01::
+people people%1:14:00::
+past
+them
+or
+display display%2:39:00::
+views view%1:09:01::
+of
+them
+.
+A
+group group%1:03:00::
+of
+native native%3:00:01::
+trees tree%1:20:00::
+or
+plants plant%1:03:00::
+which
+are be%2:42:03::
+outstanding outstanding%5:00:00:conspicuous:00
+in
+a
+particular particular%5:00:00:specific:00
+county county%1:15:00::
+can
+be
+featured feature%2:42:00::
+at
+the
+site site%1:15:00::
+.
+The
+fish fish%1:05:00::
+,
+animals animal%1:03:00::
+,
+and
+birds bird%1:05:00::
+which
+may
+be
+found find%2:40:02::
+at
+the
+site site%1:15:00::
+are be%2:42:02::
+another another%5:00:00:other:00
+interest interest%1:09:00::
+.
+Fishing fishing%1:04:00::
+interest interest%1:09:00::
+calls_for call_for%2:42:00::
+a
+check check%1:09:00::
+of
+the
+species species%1:14:00::
+found find%2:39:02::
+,
+quantity quantity%1:03:00::
+and
+size size%1:07:00::
+,
+the
+season season%1:28:00::
+they
+are be%2:42:03::
+available available%3:00:00::
+,
+and
+the
+stocking stocking%1:04:00::
+program program%1:09:00::
+of
+the
+fish fish%1:05:00::
+commission commission%1:14:00::
+.
+Animals animal%1:03:00::
+may
+be be%2:42:04::
+present present%3:00:02::
+at
+the
+site site%1:15:00::
+or
+provide provide%2:40:00::
+hunting hunting%1:04:01::
+in
+nearby nearby%5:00:00:near:00
+areas area%1:15:01::
+.
+The
+site site%1:15:00::
+may
+be be%2:42:05::
+on
+one
+of
+the
+major major%3:00:06::
+flyways flyway%1:15:00::
+of
+migratory migratory%3:01:00::
+birds bird%1:05:00::
+or
+have have%2:42:00::
+its
+own own%5:00:00:personal:00
+resident resident%3:00:04::
+bird bird%1:05:00::
+life life%1:03:00::
+.
+Clams clam%1:05:00::
+,
+crabs crab%1:05:00::
+,
+and
+other other%3:00:00::
+marine marine%3:01:00::
+life life%1:03:00::
+may
+add add%2:40:00::
+interest interest%1:07:02::
+at
+coastal coastal%3:00:00::
+areas area%1:15:01::
+.
+Each each%5:00:00:all(a):00
+area area%1:15:01::
+has have%2:42:00::
+its
+own own%5:00:00:personal:00
+historical historical%5:00:00:past:00
+interests interest%1:07:02::
+with
+which
+much much%3:00:00::
+can
+be
+done do%2:41:01::
+.
+Park park%1:15:00::
+visitors visitor%1:18:00::
+are be%2:42:03::
+always always%4:02:00::
+eager eager%3:00:00::
+to
+learn learn%2:31:00::
+more more%4:02:01::
+about
+the
+area area%1:15:01::
+they
+are be%2:42:05::
+in
+.
+The
+historical historical%3:01:01::
+sign sign%1:10:00::
+tells tell%2:32:01::
+its
+story story%1:10:03::
+,
+but
+nothing
+gets get_across%2:32:00::
+interest interest%1:09:00::
+across
+as
+well well%5:00:00:fortunate:00
+as
+some
+of
+the
+original original%5:00:00:primary:00
+historical historical%5:00:00:past:00
+items item%1:06:00::
+or
+places place%1:15:00::
+themselves
+which
+still still%4:02:01::
+have have%2:42:00::
+the
+character character%1:09:00::
+of
+the
+period period%1:28:00::
+covered cover%2:32:01::
+.
+Notice take_notice%2:39:00::
+should
+be
+taken_of
+unusual unusual%3:00:00::
+rock rock%1:17:01::
+formations formation%1:17:00::
+,
+deposits deposit%1:19:00::
+,
+or
+shapes shape%1:07:00::
+of
+the
+earth earth%1:17:00::
+'s
+crust crust%1:17:00::
+in
+your
+region region%1:15:00::
+.
+Those
+which
+tell tell%2:32:01::
+a
+story story%1:10:03::
+of
+the
+earth earth%1:17:00::
+'s
+formation formation%1:17:00::
+in
+each each%5:00:00:all(a):00
+area area%1:15:01::
+can
+add add%2:40:00::
+geological geological%3:01:00::
+interest interest%1:07:02::
+to
+the
+recreation recreation%1:04:00::
+sites site%1:15:00::
+.
+An
+old old%3:00:01::
+shipwreck shipwreck%1:06:00::
+,
+a
+high high%3:00:01::
+dam dam%1:06:00::
+,
+an
+old old%3:00:01::
+covered covered%3:00:00::
+bridge bridge%1:06:00::
+,
+a
+place place%1:15:00::
+to
+find find%2:40:01::
+agates agate%1:27:00::
+or
+other other%3:00:00::
+semi-precious semiprecious%5:00:00:valuable:00
+stones stone%1:17:00::
+or
+a
+place place%1:15:00::
+to
+pan pan%2:35:00::
+gold gold%1:21:00::
+,
+etcetera etcetera%1:06:00::
+may
+be be%2:42:03::
+of
+interest interest%1:09:00::
+.
+Some
+areas area%1:15:01::
+may
+provide provide%2:40:00::
+archeological archeological%3:01:00::
+values value%1:07:00::
+such such%5:00:01:specified:00
+as
+ancient ancient%5:00:00:past:00
+Indian indian%3:01:01::
+village village%1:14:00::
+sites site%1:15:00::
+or
+hunting hunting%1:04:00::
+areas area%1:15:01::
+,
+caves cave%1:17:00::
+,
+artifacts artifact%1:03:00::
+,
+etcetera etcetera%1:06:00::
+.
+How
+well well%4:02:08::
+can
+the
+site site%1:15:00::
+be
+developed develop%2:30:04::
+?
+Look look%2:39:00::
+at
+the
+physical physical%5:00:00:natural:03
+features feature%1:09:00::
+of
+the
+land land%1:21:01::
+to
+determine determine%2:32:00::
+how
+desirable desirable%3:00:00::
+it
+is be%2:42:03::
+for
+use use%1:04:00::
+,
+what
+can
+be
+done do%2:41:01::
+to
+correct correct%2:30:00::
+the
+faults fault%1:26:00::
+,
+and
+what
+it
+will
+cost cost%2:42:00::
+to
+make make%2:32:00::
+the
+area area%1:15:01::
+meet meet%2:42:01::
+your
+needs need%1:17:00::
+in_comparison_to
+other other%3:00:00::
+sites site%1:15:00::
+.
+Many many%3:00:00::
+things thing%1:09:02::
+need
+to
+be
+checked check%2:31:00::
+.
+The
+size size%1:07:00::
+of
+the
+area area%1:15:01::
+alone alone%5:00:00:unsocial:00
+can
+be be%2:42:02::
+a
+determining_factor determining_factor%1:09:00::
+.
+An
+area area%1:15:01::
+may
+be be%2:42:03::
+too too%4:02:00::
+small small%3:00:00::
+for
+the
+needs need%1:17:00::
+of
+the
+project project%1:04:00::
+.
+Areas area%1:15:01::
+should
+be be%2:42:03::
+large large%3:00:00::
+enough enough%4:02:00::
+to
+include include%2:42:00::
+the
+attractions attraction%1:10:00::
+,
+have have%2:42:00::
+ample ample%3:00:00::
+space space%1:15:00::
+for
+the
+use use%1:04:00::
+of
+facilities facility%1:06:00::
+needed needed%5:00:00:necessary:00
+,
+and
+have have%2:42:00::
+room room%1:23:00::
+around
+the
+edges edge%1:15:00::
+to
+protect protect%2:33:00::
+the
+values value%1:21:00::
+of
+the
+area area%1:15:01::
+from
+encroachment encroachment%1:11:00::
+by
+private private%3:00:00::
+developments development%1:15:00::
+.
+Acreage acreage%1:07:00::
+in_excess_of
+the
+minimum minimum%1:23:00::
+is be%2:42:03::
+good good%3:00:01::
+practice practice%1:04:00::
+as
+recreation recreation%1:04:00::
+areas area%1:15:01::
+are be%2:42:03::
+never never%4:02:00::
+too too%4:02:00::
+large large%3:00:00::
+for
+the
+future future%1:28:00::
+and
+it
+is be%2:42:03::
+often often%4:02:00::
+more more%4:02:00::
+economical economical%5:00:00:efficient:00
+to
+operate operate%2:41:00::
+one one%5:00:00:cardinal:00
+large large%3:00:00::
+area area%1:15:01::
+than
+several several%5:00:00:some(a):00
+small small%3:00:00::
+ones
+.
+Shape shape%1:07:00::
+of
+the
+area area%1:15:01::
+is
+also also%4:02:00::
+related_to related_to%3:00:00::
+the
+use use%1:04:00::
+attractions attraction%1:10:00::
+and
+needs need%1:17:00::
+of
+the
+development development%1:15:00::
+.
+A
+large large%3:00:00::
+picnic_area picnic_area%1:15:00::
+or
+camping camping%1:04:00::
+development development%1:15:00::
+is be%2:42:03::
+most most%4:02:00::
+efficient efficient%3:00:00::
+in
+shape shape%1:07:00::
+as
+a
+square square%1:25:00::
+or
+rectangle rectangle%1:25:00::
+several several%5:00:00:some(a):00
+hundred hundred%5:00:00:cardinal:00
+feet foot%1:23:00::
+in_width in_width%5:00:00:wide:00
+in_preference_to
+a
+long long%3:00:01::
+narrow narrow%3:00:00::
+area area%1:15:01::
+less_than less_than%4:02:00::
+one_hundred one_hundred%5:00:00:cardinal:00
+feet foot%1:23:00::
+wide wide%3:00:00::
+.
+This
+is be%2:42:03::
+true true%3:00:00::
+because
+of
+savings saving%1:04:00::
+in
+utility utility%1:14:00::
+lines line%1:06:01::
+and
+the
+fact fact%1:09:01::
+that
+your
+buildings building%1:06:00::
+have have%2:42:00::
+a
+useful useful%3:00:00::
+radius radius%1:15:00::
+equal equal%3:00:00::
+in
+all all%3:00:00::
+directions direction%1:15:00::
+.
+However however%4:02:00::
+,
+a
+narrow narrow%3:00:00::
+strip strip%1:17:00::
+may
+be be%2:42:03::
+very very%4:02:00::
+practical practical%3:00:00::
+for
+small small%3:00:00::
+developments development%1:15:00::
+,
+or
+to
+provide provide%2:40:00::
+additional additional%5:00:00:added:00
+stream stream%1:17:00::
+frontage frontage%1:07:00::
+for
+a
+fisherman fisherman%1:18:00::
+'s
+trail trail%1:06:00::
+,
+or
+include include%2:42:00::
+scenic scenic%5:00:00:beautiful:00
+strips strip%1:17:00::
+within
+the
+park park%1:15:00::
+unit unit%1:06:00::
+.
+The
+values value%1:21:00::
+of
+the
+site site%1:15:00::
+may
+be
+affected affect%2:30:00::
+by
+the
+appearance appearance%1:07:00::
+of
+the
+adjoining adjoining%5:00:00:connected:00
+lands land%1:21:01::
+,
+ownership ownership%1:04:00::
+and
+use use%1:04:00::
+of
+the
+land land%1:21:01::
+,
+and
+the
+utilities utility%1:14:00::
+available available%3:00:00::
+there there%4:02:00::
+.
+For_instance for_instance%4:02:00::
+,
+a
+site site%1:15:00::
+adjoining adjoining%5:00:00:connected:00
+other other%3:00:00::
+publicly publicly%4:02:00::
+owned own%5:00:00:personal:00
+lands land%1:21:01::
+,
+such such%5:00:01:specified:00
+as
+a
+national national%5:00:00:public:00
+forest forest%1:14:00::
+or
+a
+public public%1:14:00::
+road road%1:06:00::
+,
+may
+be be%2:42:03::
+desirable desirable%3:00:00::
+,
+whereas
+a
+site site%1:15:00::
+next next%5:00:00:close:01
+to
+an
+industrial industrial%3:01:00::
+plant plant%1:06:01::
+might_not
+.
+The
+utilities utility%1:14:00::
+available available%3:00:00::
+nearby nearby%5:00:00:near:00
+may
+provide provide%2:40:00::
+a
+savings saving%1:04:00::
+in
+the
+cost cost%1:21:00::
+of
+extending extend%2:30:01::
+electricity electricity%1:19:01::
+or
+water water%1:06:00::
+to
+the
+site site%1:15:00::
+.
+-
+Topography topography%1:07:00::
+is be%2:42:03::
+very very%4:02:00::
+important important%3:00:00::
+.
+Check check%1:09:00::
+the
+elevation elevation%1:24:00::
+of
+the
+ground ground%1:17:00::
+,
+degree degree%1:23:00::
+and
+direction direction%1:24:00::
+of
+slopes slope%1:17:00::
+,
+drainage drainage%1:04:00::
+,
+rock_outcrops rock_outcrop%1:17:00::
+,
+topsoil topsoil%1:27:00::
+types type%1:09:00::
+and
+quality quality%1:07:00::
+,
+as_well_as
+subsoil subsoil%1:27:00::
+.
+Nearly nearly%4:02:00::
+level level%5:00:01:even:01
+areas area%1:15:01::
+are
+required require%2:42:00::
+for
+parking_areas parking_area%1:15:00::
+,
+beaches beach%1:17:00::
+,
+camp camp%1:06:01::
+areas area%1:06:00::
+,
+ball_fields ball_field%1:06:00::
+,
+etcetera etcetera%1:06:00::
+.
+Determine determine%2:32:00::
+how
+much
+topography topography%1:07:00::
+limits limit%2:30:00::
+useful useful%3:00:00::
+area area%1:15:01::
+or
+what
+the
+costs cost%1:21:00::
+of
+earth earth%1:27:00::
+moving move%2:38:01::
+or
+grading grading%1:04:00::
+might
+be
+.
+-
+In_addition_to
+its
+recreation recreation%1:04:00::
+interests interest%1:07:02::
+,
+water water%1:27:00::
+is
+needed need%2:42:00::
+for
+drinking drinking%1:04:00::
+,
+sanitation sanitation%1:04:00::
+,
+and
+irrigation irrigation%1:04:00::
+.
+The
+quantity quantity%1:03:00::
+and
+quality quality%1:07:00::
+of
+water water%1:27:00::
+sources source%1:15:00::
+is be%2:42:03::
+often often%4:02:00::
+a
+big big%5:00:00:important:00
+factor factor%1:11:00::
+in
+site site%1:15:00::
+selection selection%1:04:00::
+.
+The
+area area%1:15:01::
+may
+provide provide%2:40:00::
+good good%3:00:01::
+springs spring%1:17:00::
+or
+opportunities opportunity%1:26:00::
+for
+a
+well well%1:06:00::
+or
+be be%2:42:05::
+near near%3:00:00::
+to
+municipal municipal%3:01:00::
+water_lines water_line%1:15:00::
+.
+Figure figure%2:31:01::
+the
+cost cost%1:21:00::
+of
+providing provide%2:40:00::
+water water%1:27:00::
+to
+the
+use use%1:04:00::
+areas area%1:15:01::
+.
+-
+The
+existing existing%5:00:00:present(a):01
+plant plant%1:03:00::
+growth growth%1:14:00::
+calls_for call_for%2:42:00::
+thorough thorough%5:00:00:careful:00
+checking check%2:31:00::
+.
+Look look%2:39:00::
+at
+the
+trees tree%1:20:00::
+as
+to
+size size%1:07:00::
+and
+interest interest%1:07:02::
+,
+the
+amount amount%1:07:00::
+of
+shade shade%1:26:00::
+they
+provide provide%2:40:00::
+,
+how
+healthy healthy%3:00:00::
+they
+are be%2:42:03::
+,
+the
+problems problem%1:26:00::
+of
+maintenance maintenance%1:04:00::
+,
+fire fire%1:11:00::
+hazards hazard%1:26:00::
+,
+wind wind%1:19:00::
+throw throw%1:04:00::
+,
+etcetera etcetera%1:06:00::
+.
+An
+area area%1:15:01::
+may
+have
+been
+partially partially%4:02:00::
+logged log%2:35:00::
+and
+requires require%2:42:00::
+removal removal%1:04:00::
+of
+stumps stump%1:20:00::
+or
+clean_up clean_up%2:30:03::
+.
+Some some%5:00:00:unspecified:00
+shrubs shrub%1:20:00::
+may
+be be%2:42:03::
+of
+good good%3:00:01::
+landscaping landscaping%1:04:00::
+value value%1:07:00::
+,
+other other%3:00:00::
+areas area%1:15:01::
+of
+brush brush%1:14:00::
+may
+need
+to
+be
+cleared clear%2:30:01::
+.
+The
+extent extent%1:07:00::
+and
+location location%1:03:00::
+of
+open open%3:00:01::
+areas area%1:15:01::
+is
+noted note%2:39:02::
+.
+-
+How
+much much%4:02:00::
+will
+wind wind%1:19:00::
+,
+rain rain%1:19:00::
+,
+sun sun%1:19:00::
+,
+and
+temperature temperature%1:07:00::
+affect affect%2:30:00::
+the
+use use%1:04:00::
+?
+An
+area area%1:15:01::
+sheltered sheltered%5:00:00:protected:00
+from
+strong strong%3:00:00::
+winds wind%1:19:00::
+may
+be be%2:42:03::
+highly highly%4:02:02::
+desirable desirable%3:00:00::
+for
+recreation recreation%1:04:00::
+use use%1:04:00::
+.
+The
+direction direction%1:24:00::
+,
+velocity velocity%1:28:00::
+,
+and
+season season%1:28:00::
+of
+these
+winds wind%1:19:00::
+should
+be
+noted note%2:39:02::
+as
+to
+just just%4:02:05::
+how
+they
+will
+affect affect%2:30:00::
+the
+recreation recreation%1:04:00::
+use use%1:04:00::
+and
+your
+maintenance maintenance%1:04:00::
+and
+operation operation%1:04:03::
+of
+the
+area area%1:15:01::
+.
+Lack lack%1:26:00::
+of
+rainfall rainfall%1:19:00::
+and
+extreme extreme%5:00:00:immoderate:00
+temperatures temperature%1:07:00::
+may
+call_for call_for%2:42:00::
+the
+development development%1:04:02::
+of
+shade shade%1:26:00::
+and
+irrigation irrigation%1:04:00::
+of
+a
+site site%1:15:00::
+to
+make make%2:30:00::
+it
+useable useable%5:00:00:serviceable:00
+.
+Sometimes sometimes%4:02:01::
+,
+you
+have have%2:40:00::
+a
+choice choice%1:04:00::
+of
+exposure exposure%1:09:00::
+for
+sites site%1:15:00::
+where
+the
+topography topography%1:07:00::
+or
+trees tree%1:20:00::
+of
+the
+area area%1:15:01::
+will
+provide provide%2:40:00::
+afternoon afternoon%1:28:00::
+shade shade%1:26:00::
+,
+morning morning%1:28:00::
+sun sun%1:19:00::
+,
+or
+whatever
+may
+be be%2:42:03::
+most_desirable most_desirable%5:00:00:best:00
+for
+the
+use use%1:04:00::
+intended intended%3:00:00::
+.
+-
+Some
+areas area%1:15:01::
+may
+already already%4:02:00::
+have
+been
+improved improve%2:30:01::
+and
+contain contain%2:42:13::
+buildings building%1:06:00::
+,
+roads road%1:06:00::
+,
+utilities utility%1:14:00::
+,
+cleared clear%5:00:00:unobstructed:00
+land land%1:21:01::
+,
+etcetera etcetera%1:06:00::
+which
+may
+raise raise%2:30:01::
+the
+cost cost%1:21:00::
+of
+the
+site site%1:15:00::
+.

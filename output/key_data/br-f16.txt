@@ -1,0 +1,2224 @@
+On
+April april%1:28:00::
+17 17th%5:00:00:ordinal:00
+,
+1610
+,
+the
+sturdy sturdy%5:00:00:robust:00
+little little%3:00:01::
+three three%5:00:00:cardinal:00
+masted masted%3:01:00::
+bark bark%1:06:00::
+,
+Discovery
+,
+weighed_anchor weigh_anchor%2:35:00::
+in
+St._Katherine's_Pool location%1:03:00::
+,
+London london%1:15:00::
+,
+and
+floated float%2:38:00::
+down
+the
+Thames location%1:03:00::
+toward_the_sea toward_the_sea%4:02:00::
+.
+She
+carried carry%2:35:02::
+,
+besides
+her
+captain captain%1:18:03::
+,
+a
+crew crew%1:14:01::
+of
+twenty-one twenty-one%5:00:00:cardinal:00
+and
+provisions provisions%1:13:00::
+for
+a
+voyage voyage%1:04:01::
+of
+exploration exploration%1:04:02::
+of
+the
+Arctic arctic%1:15:00::
+waters water%1:17:00::
+of
+North_America north_america%1:17:00::
+.
+Seventeen seventeen%5:00:00:cardinal:00
+months month%1:28:01::
+later later%4:02:02::
+,
+on
+September september%1:28:00::
+6 6th%5:00:00:ordinal:00
+,
+1611
+,
+an
+Irish irish%3:01:00::
+fishing_boat fishing_boat%1:06:00::
+sighted sight%2:39:00::
+the
+Discovery
+limping limp%2:38:01::
+eastward eastward%4:02:00::
+outside
+Galway_Bay location%1:03:00::
+.
+When
+she
+reached reach%2:38:01::
+port port%1:15:00::
+,
+she
+was
+found find%2:39:02::
+to
+have have%2:40:00::
+on_board onboard%4:02:00::
+only only%4:02:02::
+eight eight%5:00:00:cardinal:00
+men men%1:14:00::
+,
+all
+near
+starvation starvation%1:26:00::
+.
+The
+captain captain%1:18:03::
+was be%2:42:03::
+gone gone%5:00:00:absent:00
+,
+and
+the
+mate mate%1:18:02::
+was
+gone gone%5:00:00:absent:00
+.
+The
+man man%1:18:00::
+who
+now now%4:02:05::
+commanded command%2:32:01::
+her
+had
+started start%2:30:00::
+the
+voyage voyage%1:04:01::
+as
+an
+ordinary ordinary%5:00:02:common:01
+seaman seaman%1:18:00::
+.
+What
+disaster disaster%1:11:00::
+struck strike%2:35:02::
+the
+Discovery
+during
+those
+seventeen seventeen%5:00:00:cardinal:00
+months month%1:28:01::
+?
+What
+happened happen%2:30:02::
+to
+the
+fourteen fourteen%5:00:00:cardinal:00
+missing missing%5:00:00:lost:01
+men men%1:14:00::
+?
+These
+questions question%1:10:00::
+have
+remained remain%2:42:05::
+one
+of
+the
+great great%5:00:00:major:06
+sea sea%1:17:00::
+mysteries mystery%1:09:00::
+of_all_time of_all_time%4:02:00::
+.
+For
+hundreds hundred%1:23:00::
+of
+years year%1:28:01::
+,
+the
+evidence evidence%1:10:01::
+available available%3:00:00::
+consisted_of consist_of%2:42:01::
+(
+1
+)
+the
+captain captain%1:18:03::
+'s
+fragmentary fragmentary%5:00:00:fractional:00
+journal journal%1:10:01::
+,
+(
+2
+)
+a
+highly highly%4:02:02::
+prejudiced prejudiced%5:00:00:subjective:00
+account account%1:10:00::
+by
+one
+of
+the
+survivors survivor%1:18:03::
+,
+(
+3
+)
+a
+note note%1:10:03::
+found find%2:40:02::
+in
+a
+dead dead%3:00:01::
+man man%1:18:00::
+'s
+desk desk%1:06:00::
+on_board onboard%4:02:00::
+,
+and
+(
+4
+)
+several several%5:00:00:some(a):00
+second-hand secondhand%5:00:00:secondary:01
+reports report%1:10:01::
+.
+All_told all_told%4:02:00::
+,
+they
+offered offer%2:40:02::
+a
+highly highly%4:02:02::
+confused confused%5:00:00:incoherent:00
+picture picture%1:26:00::
+.
+But
+since
+1927
+,
+researchers researcher%1:18:00::
+digging_into dig_into%2:35:00::
+ancient ancient%5:00:00:old:02
+court court%1:14:01::;1:14:00::
+records record%1:10:02::
+and
+legal legal%3:01:01::
+files file%1:10:00::
+have
+been be%2:42:03::
+able able%5:00:00:competent:00
+to
+find find%2:40:02::
+illuminating illuminating%3:00:00::
+pieces piece%1:11:00::
+of
+information information%1:10:00::
+.
+Not not%4:02:00::
+enough
+to
+do do%2:41:01::
+away away%4:02:09::
+with
+all all%3:00:00::
+doubts doubt%1:09:00::
+,
+but
+sufficient sufficient%3:00:00::
+to
+give give%2:40:05::
+a
+fairly fairly%4:02:02::
+accurate accurate%3:00:00::
+picture picture%1:10:03::
+of
+the
+events event%1:03:00::
+of
+the
+voyage voyage%1:04:01::
+.
+Historians historian%1:18:00::
+have
+had have%2:40:00::
+two two%5:00:00:cardinal:00
+reasons reason%1:16:00::
+for
+persisting persist%2:30:01::
+so so%4:02:02::
+long long%4:02:00::
+in
+their
+investigations investigation%1:04:00::
+.
+First first%4:02:00::
+,
+they
+wanted want%2:37:00::
+to
+clarify clarify%2:32:00::
+a
+tantalizing tantalizing%5:00:02:inviting:00
+,
+bizarre bizarre%5:00:00:unconventional:01
+enigma enigma%1:09:00::
+.
+Second second%4:02:00::
+,
+they
+believed believe%2:31:04::
+it
+important important%3:00:00::
+to
+determine determine%2:32:00::
+the
+fate fate%1:11:00::
+of
+the
+captain captain%1:18:03::
+-
+a
+man man%1:18:00::
+whose
+name name%1:10:00::
+is
+permanently permanently%4:02:00::
+stamped stamp%2:35:01::
+on
+our
+maps map%1:06:00::
+,
+on
+American american%3:01:01::
+towns town%1:15:00::
+and
+counties county%1:15:00::
+,
+on
+a
+great great%5:00:00:major:06;5:00:01:large:00
+American american%3:01:01::
+river river%1:17:00::
+,
+and
+on
+half half%1:23:00::
+a_million a_million%5:00:00:cardinal:00
+square_miles square_mile%1:23:00::
+of
+Arctic arctic%1:15:00::
+seas sea%1:17:00::
+.
+The
+name name%1:10:00::
+:
+Henry_Hudson person%1:03:00::
+.
+This
+is be%2:42:06::
+the
+story story%1:10:04::
+of
+his
+last last%5:00:00:closing:00
+tragic tragic%5:00:00:sad:00
+voyage voyage%1:04:01::
+,
+as_nearly_as
+we
+are be%2:42:03::
+able able%3:00:00::
+-
+or
+ever ever%4:02:04::
+,
+probably probably%4:02:00::
+,
+will
+be be%2:42:03::
+able able%3:00:00::
+-
+to
+determine determine%2:32:00::
+:
+The
+sailing sailing%1:04:02::
+in
+the
+spring spring%1:28:00::
+of
+1610
+was be%2:42:06::
+Hudson person%1:03:00::
+'s
+fourth fourth%5:00:00:ordinal:00
+in
+four four%5:00:00:cardinal:00
+years year%1:28:01::
+.
+Each
+time time%1:11:00::
+his
+objective objective%1:09:00::
+had
+been be%2:42:03::
+the
+same same%5:00:00:unchanged:00
+-
+a
+direct direct%3:00:00::
+water water%1:17:00::
+passage passage%1:06:00::
+from
+Western western%3:00:01::
+Europe europe%1:17:00::
+to
+the
+Far_East far_east%1:15:00::
+.
+In
+1607
+and
+1608
+,
+the
+English english%3:01:00::
+Muscovy_Company group%1:03:00::
+had
+sent send%2:38:01::
+him
+northward northward%4:02:00::
+to
+look_for look_for%2:35:00::
+a
+route route%1:15:00::
+over
+the
+North_Pole north_pole%1:15:00::
+or
+across
+the
+top top%1:15:01::
+of
+Russia russia%1:15:00::
+.
+Twice twice%4:02:00::
+he
+had
+failed fail%2:41:00::
+,
+and
+the
+Muscovy_Company group%1:03:00::
+indicated indicate%2:32:00::
+it
+would
+not not%4:02:00::
+back back%2:40:00::
+him
+again again%4:02:00::
+.
+In
+1609
+,
+the
+Dutch_East_India_Company group%1:03:00::
+hired hire%2:41:00::
+Hudson person%1:03:00::
+,
+gave give%2:40:03::
+him
+two two%5:00:00:cardinal:00
+learned learned%5:00:00:scholarly:00
+geographers geographer%1:18:00::
+,
+fitted fit_out%2:40:00::
+him
+out
+with
+a
+ship ship%1:06:00::
+called called%5:00:00:titled:00
+the
+Half_Moon
+,
+and
+supplied supply%2:40:00::
+him
+with
+Dutch dutch%3:01:00::
+sailors sailor%1:18:00::
+.
+This
+time time%1:11:00::
+he
+turned turn%2:38:00::
+westward westward%4:02:00::
+,
+to
+the
+middle_Atlantic middle_atlantic%5:00:00:eastern:02
+coast coast%1:17:00::
+of
+North_America north_america%1:17:00::
+.
+His
+chief chief%5:00:02:important:00
+discovery discovery%1:10:00::
+was be%2:42:03::
+important important%3:00:00::
+-
+the
+Great_North location%1:03:00::
+(
+later later%4:02:01::
+,
+the
+Hudson hudson%1:17:00::
+)
+River
+-
+but
+it
+produced produce%2:39:01::
+no
+northwest northwest%5:00:01:north:00
+passage passage%1:06:00::
+.
+When
+the
+Half_Moon
+put put%2:35:05::
+in
+at
+Dartmouth location%1:03:00::
+,
+England england%1:15:00::
+,
+in
+the
+fall fall%1:28:00::
+of
+1609
+,
+word word%1:10:02::
+of
+Hudson person%1:03:00::
+'s
+findings finding%1:04:00::
+leaked_out leak_out%2:32:00::
+,
+and
+English english%3:01:00::
+interest interest%1:09:00::
+in
+him
+revived revive%2:30:00::
+.
+The
+government government%1:14:00::
+forbade forbid%2:32:00::
+Hudson person%1:03:00::
+to
+return return%2:38:00::
+to
+Amsterdam amsterdam%1:15:00::
+with
+his
+ship ship%1:06:00::
+.
+He
+thereupon thereupon%4:02:00::
+went go%2:38:00::
+to
+London london%1:15:00::
+and
+spent spend%2:42:00::
+the
+winter winter%1:28:00::
+talking talk%2:32:01::
+to
+men man%1:18:00::
+of
+wealth wealth%1:26:00::
+.
+By
+springtime springtime%1:28:00::
+,
+he
+was
+supported support%2:40:00::
+by
+a
+rich rich%3:00:00::
+merchant merchant%1:18:00::
+syndicate syndicate%1:14:00::
+under
+the
+patronage patronage%1:04:00::
+of
+Henry person%1:03:00::
+,
+Prince_of_Wales prince_of_wales%1:18:00::
+.
+He
+had
+obtained obtain%2:40:00::
+and
+provisioned provision%2:40:00::
+a
+veteran veteran%5:00:00:experienced:00
+ship ship%1:06:00::
+called called%5:00:00:titled:00
+the
+Discovery
+and
+had
+recruited recruit%2:40:00::
+a
+crew crew%1:14:01::
+of
+twenty-one twenty-one%5:00:00:cardinal:00
+,
+the
+largest large%3:00:00::
+he
+had
+ever ever%4:02:04::
+commanded command%2:32:01::
+.
+The
+purpose purpose%1:09:00::
+of
+this
+fourth fourth%5:00:00:ordinal:00
+voyage voyage%1:04:01::
+was be%2:42:03::
+clear clear%5:00:00:clearheaded:00;3:00:00::
+.
+A
+century century%1:28:00::
+of
+exploration exploration%1:04:02::
+had
+established establish%2:31:00::
+that
+a
+great great%5:00:01:large:00
+land_mass landmass%1:17:00::
+,
+North north%3:00:00::
+and
+South south%3:00:00::
+America america%1:17:00::
+,
+lay lie%2:42:00::
+between
+Europe europe%1:17:00::
+and
+the_Indies the_indies%1:15:00::
+.
+One_by_one one_by_one%4:02:02::
+,
+the
+openings opening%1:17:00::
+in
+the
+coast coast%1:17:00::
+that
+promised promise%2:42:00::
+a
+passage passage%1:06:00::
+through
+had
+been
+explored explore%2:31:01::
+and
+discarded discard%2:40:00::
+.
+In_fact in_fact%4:02:00::
+,
+Hudson person%1:03:00::
+'s
+sail sail%1:04:00::
+up
+the
+Great_North_River
+had
+disposed dispose%2:40:00::
+of
+one
+of
+the
+last last%3:00:00::
+hopes hope%1:18:00::
+.
+But
+there
+remained remain%2:42:05::
+one one%5:00:01:single(a):00
+mysterious mysterious%5:00:00:inexplicable:00
+,
+unexplored unexplored%5:00:00:unknown:00
+gap gap%1:17:00::
+,
+far far%4:02:00::
+to_the_north to_the_north%4:02:00::
+.
+Nearly nearly%4:02:00::
+twenty-five twenty-five%5:00:00:cardinal:00
+years year%1:28:01::
+before before%4:02:03::
+,
+Captain_John_Davis person%1:03:00::
+had
+noted note%2:39:02::;2:32:00::
+,
+as
+he
+sailed sail%2:38:03::
+near
+the
+Arctic_Circle arctic_circle%1:15:00::
+,
+``
+a
+very very%4:02:00::
+great great%5:00:01:large:00
+gulf gulf%1:17:01::
+,
+the
+water water%1:17:00::
+whirling whirl%2:38:00::
+and
+roaring roar%2:32:01::
+,
+as_it_were as_it_were%4:02:00::
+the
+meeting meeting%1:04:02::
+of
+tides tide%1:11:00::
+''
+.
+He
+named name%2:32:03::
+this
+opening opening%1:17:00::
+,
+between
+Baffin_Island baffin_island%1:15:00::
+and
+Labrador labrador%1:15:00::
+,
+the
+``
+Furious_Overfall location%1:03:00::
+''
+.
+(
+Later later%4:02:01::
+,
+it
+was
+to
+be
+called call%2:32:02::
+Hudson_Strait location%1:03:00::
+.
+)
+In
+1602
+,
+George_Waymouth person%1:03:00::
+,
+in
+the
+same same%3:00:02::
+little little%3:00:01::
+Discovery
+that
+Hudson person%1:03:00::
+now now%4:02:05::
+commanded command%2:32:01::
+,
+had
+sailed sail%2:38:03::
+300
+miles mile%1:23:04::;1:23:01::
+up
+the
+strait strait%1:17:00::
+before
+his
+frightened frightened%5:00:00:afraid(p):00
+men men%1:14:00::
+turned turn%2:38:00::
+the
+ship ship%1:06:00::
+back back%4:02:04::
+.
+Hudson person%1:03:00::
+now now%4:02:05::
+proposed propose%2:32:00::
+to
+sail sail%2:38:03::;2:38:01::
+all_the_way all_the_way%4:02:03::
+through through%4:02:01::
+and
+test test%2:41:00::
+the
+seas sea%1:17:00::
+beyond
+for
+the
+long long%3:00:02::
+sought sought%3:44:00::
+waterway waterway%1:17:00::
+.
+Even even%4:02:00::
+Hudson person%1:03:00::
+,
+experienced experienced%3:00:00::
+in
+Arctic arctic%5:00:00:polar:00
+sailing sailing%1:04:01::
+and
+determined determined%5:00:00:resolute:00
+as
+he
+was be%2:42:03::
+,
+must
+have
+had have%2:39:06::
+qualms qualm%1:12:00::
+as
+he
+slid slide%2:38:00::
+down
+the
+Thames location%1:03:00::
+.
+Ahead ahead%4:02:00::
+were be%2:42:04::
+perilous perilous%5:00:00:dangerous:00
+,
+ice ice%1:27:00::
+filled filled%5:00:01:full:00
+waters water%1:17:00::
+.
+On
+previous previous%5:00:00:past:00
+voyages voyage%1:04:01::
+,
+it
+had
+been be%2:42:04::
+in
+precisely precisely%4:02:00::
+such such%5:00:01:specified:00
+dangerous dangerous%3:00:00::
+situations situation%1:26:01::
+that
+he
+had
+failed fail%2:41:00::
+as
+a
+leader leader%1:18:00::
+and
+captain captain%1:18:03::
+.
+On
+the
+second second%5:00:00:ordinal:00
+voyage voyage%1:04:01::
+,
+he
+had
+turned_back turn_back%2:38:00::
+at
+the
+frozen frozen%3:00:00::
+island island%1:17:00::
+of
+Novaya_Zemlya location%1:03:00::
+and
+meekly meekly%4:02:00::
+given give%2:40:00::
+the
+crew crew%1:14:01::
+a
+certificate certificate%1:10:00::
+stating state%2:32:00::
+that
+he
+did
+so so%4:02:05::
+of
+his
+own own%5:00:00:personal:00
+free_will free_will%1:07:00::
+-
+which
+was be%2:42:03::
+obviously obviously%4:02:00::
+not not%4:02:00::
+the
+case case%1:26:00::
+.
+On
+the
+third third%5:00:00:ordinal:00
+voyage voyage%1:04:01::
+,
+a
+near near%3:00:00::
+mutiny mutiny%1:04:00::
+rising rise%2:42:01::
+from
+a
+quarrel quarrel%1:10:00::
+between
+Dutch dutch%3:01:00::
+and
+English english%3:01:00::
+crew_members crew_member%1:18:00::
+on
+the
+Half_Moon
+had
+almost almost%4:02:00::
+forced force%2:41:00::
+him
+to
+head head%2:38:01::
+the
+ship ship%1:06:00::
+back back%4:02:04::
+to
+Amsterdam amsterdam%1:15:00::
+in
+mid middle%5:00:01:central:01
+Atlantic atlantic%1:17:00::
+.
+Worse worse%3:00:00::
+,
+his
+present present%3:00:01::
+crew crew%1:14:01::
+included include%2:42:00::
+five five%5:00:00:cardinal:00
+men man%1:18:00::
+who
+had
+sailed sail%2:38:03::
+with
+him
+before before%4:02:03::
+.
+Of
+only only%4:02:01::
+one
+could
+he
+be be%2:42:03::
+sure sure%3:00:00::
+-
+young young%3:00:00::
+John_Hudson person%1:03:00::
+,
+his
+second second%5:00:00:ordinal:00
+son son%1:18:00::
+.
+The
+mate mate%1:18:02::
+,
+Robert_Juet person%1:03:00::
+,
+who
+had
+kept keep%2:40:01::
+the
+journal journal%1:10:01::
+on
+the
+half_Moon
+,
+was be%2:42:03::
+experienced experienced%3:00:00::
+-
+but
+he
+was be%2:42:03::
+a
+bitter bitter%5:00:00:resentful:00
+old_man old_man%1:18:02::
+,
+ready ready%3:00:00::
+to
+complain complain%2:32:00::
+or
+desert desert%2:41:00::
+at
+any
+opportunity opportunity%1:26:00::
+.
+Philip_Staffe person%1:03:00::
+,
+the
+ship ship%1:06:00::
+'s
+carpenter carpenter%1:18:00::
+,
+was be%2:42:03::
+a
+good good%3:00:01::
+worker worker%1:18:00::
+,
+but
+perversely perversely%4:02:00::
+independent independent%3:00:00::
+.
+Arnold_Lodley person%1:03:00::
+and
+Michael_Perse person%1:03:00::
+were be%2:42:03::
+like
+the
+rest rest%1:24:00::
+-
+lukewarm lukewarm%5:00:00:unenthusiastic:00
+,
+ready ready%3:00:00::
+to
+swing swing%2:41:01::
+against
+Hudson person%1:03:00::
+in
+a
+crisis crisis%1:26:00::
+.
+But
+men man%1:18:00::
+willing willing%3:00:00::
+to
+sail sail%2:38:03::
+at_all at_all%4:02:00::
+into
+waters water%1:17:00::
+where
+wooden wooden%5:00:00:woody:00
+ships ship%1:06:00::
+could
+be
+crushed crush%2:30:00::
+like
+eggs eggs%1:13:00::
+were be%2:42:03::
+hard hard%3:00:06::
+to
+find find%2:40:01::
+.
+Hudson person%1:03:00::
+knew know%2:31:01::
+he
+had have%2:42:08::
+to
+use use%2:34:01::
+these
+men man%1:18:00::
+as_long_as
+he
+remained remain%2:42:03::
+an
+explorer explorer%1:18:00::
+.
+And
+he
+refused refuse%2:32:00::
+to
+be be%2:42:06::
+anything
+else else%4:02:01::
+.
+It
+is
+believed believe%2:31:00::
+that
+Hudson person%1:03:00::
+was be%2:42:03::
+related related%3:00:01::
+to
+other other%3:00:00::
+seafaring seafaring%5:00:00:sea(a):00
+men man%1:18:00::
+of
+the
+Muscovy_Company group%1:03:00::
+and
+was
+trained train%2:41:00::
+on
+company company%1:14:01::
+ships ship%1:06:00::
+.
+He
+was be%2:42:03::
+a
+Londoner londoner%1:18:00::
+,
+married married%3:00:00::
+,
+with
+three three%5:00:00:cardinal:00
+sons son%1:18:00::
+.
+(
+The
+common common%3:00:02::
+misconception misconception%1:09:00::
+that
+he
+was be%2:42:03::
+Dutch dutch%3:01:00::
+and
+that
+his
+first_name first_name%1:10:00::
+was be%2:42:06::
+Hendrik person%1:03:00::
+stem stem%2:42:00::
+from
+Dutch dutch%3:01:00::
+documents document%1:10:00::
+of
+his
+third third%5:00:00:ordinal:00
+voyage voyage%1:04:01::
+.
+)
+In
+1610
+,
+Hudson person%1:03:00::
+was be%2:42:03::
+probably probably%4:02:00::
+in
+his
+early early%5:00:00:young:00
+forties forties%1:28:00::
+,
+a
+good good%3:00:01::
+navigator navigator%1:18:02::
+,
+a
+stubborn stubborn%3:00:00::
+voyager voyager%1:18:00::
+,
+but
+otherwise otherwise%4:02:01::
+fatally fatally%4:02:00::
+unsuited unsuited%5:00:00:mismatched:00
+to
+his
+chosen chosen%5:00:00:selected:00
+profession profession%1:04:00::
+.
+Hudson person%1:03:00::
+'s
+first first%3:00:00::
+error error%1:04:02::
+of
+the
+fourth fourth%5:00:00:ordinal:00
+voyage voyage%1:04:01::
+occurred occur%2:30:00::
+only only%4:02:02::
+a_few a_few%5:00:00:few:00
+miles mile%1:23:01::
+down
+the
+Thames location%1:03:00::
+.
+There there%4:02:00::
+at
+the
+river river%1:17:00::
+'s
+edge edge%1:15:00::
+waited wait%2:42:00::
+one one%5:00:02:single(a):00
+Henry_Greene person%1:03:00::
+,
+whom
+Hudson person%1:03:00::
+listed list%2:41:00::
+as
+a
+``
+clerk clerk%1:18:00::
+''
+.
+Greene person%1:03:00::
+was be%2:42:03::
+in
+actuality actuality%1:26:00::
+a
+young young%3:00:00::
+ruffian ruffian%1:18:00::
+from
+Kent kent%1:15:00::
+,
+who
+had
+broken_with break_with%2:41:00::
+his
+parents parent%1:18:00::
+in_order
+to
+keep keep_company%2:42:00::
+the
+company
+he
+preferred prefer%2:37:00::
+-
+pimps pimp%1:18:00::
+,
+panders pander%1:18:00::
+and
+whores whore%1:18:00::
+.
+He
+was be%2:42:03::
+not not%4:02:00::
+the
+sort sort%1:09:00::
+of
+sailor sailor%1:18:00::
+Hudson person%1:03:00::
+wanted want%2:37:00::
+his
+backers backer%1:18:00::
+to
+see see%2:39:00::
+on_board onboard%4:02:00::
+and
+he
+had
+Greene person%1:03:00::
+wait wait%2:42:00::
+at
+Gravesend location%1:03:00::
+,
+where
+the
+Discovery
+picked pick_up%2:40:01::
+him
+up
+.
+For
+the
+first first%3:00:00::
+three three%5:00:00:cardinal:00
+weeks week%1:28:00::
+,
+the
+ship ship%1:06:00::
+skirted skirt%2:38:00::
+up
+the
+east east%3:00:00::
+coast coast%1:17:00::
+of
+Great_Britain great_britain%1:15:00::
+,
+then then%4:02:00::
+turned turn%2:38:00::
+westward westward%4:02:00::
+.
+On
+May may%1:28:00::
+11 11th%5:00:00:ordinal:00
+,
+she
+reached reach%2:38:01::
+Iceland iceland%1:15:01::
+.
+Poor poor%5:00:00:low:02
+winds wind%1:19:00::
+and
+fog fog%1:26:01::;1:19:00::
+locked lock_up%2:35:00::
+her
+up
+in
+a
+harbor harbor%1:15:00::
+the
+crew crew%1:14:01::
+called call%2:32:02::
+``
+Lousie_Bay location%1:03:00::
+''
+.
+The
+subsequent subsequent%3:00:00::
+two-weeks two_weeks%1:28:00::
+wait wait%1:28:00::
+made make%2:30:00::
+the
+crew crew%1:14:01::
+quarrelsome quarrelsome%5:00:00:argumentative:00
+.
+With
+Hudson person%1:03:00::
+looking_on look_on%2:39:00::
+,
+his
+protege protege%1:18:00::
+Greene person%1:03:00::
+picked pick%2:36:00::
+a
+fight fight%2:33:00::
+with
+the
+ship ship%1:06:00::
+'s
+surgeon surgeon%1:18:00::
+,
+Edward_Wilson person%1:03:00::
+.
+The
+issue issue%1:09:01::
+was
+settled settle%2:31:00::
+on_shore onshore%4:02:00::
+,
+Greene person%1:03:00::
+winning win%2:33:00::
+and
+Wilson person%1:03:00::
+remaining remain%2:42:03::
+ashore ashore%4:02:00::
+,
+determined determined%5:00:00:resolute:00
+to
+catch catch%2:38:00::
+the
+next next%5:00:00:succeeding(a):00
+fishing_boat fishing_boat%1:06:00::
+back back%4:02:04::
+to
+England england%1:15:00::
+.
+With
+difficulty difficulty%1:04:00::
+,
+Hudson person%1:03:00::
+persuaded persuade%2:32:00::
+him
+to
+rejoin rejoin%2:41:00::
+the
+ship ship%1:06:00::
+,
+and
+they
+sailed sail%2:38:03::
+from
+Iceland iceland%1:15:01::
+.
+Early early%4:02:01::
+in
+June june%1:28:00::
+,
+the
+Discovery
+passed pass%2:38:05::
+``
+Desolation location%1:03:00::
+''
+(
+southern southern%5:00:02:south:00
+Greenland greenland%1:15:00::
+)
+and
+in
+mid-June mid-june%1:28:00::
+entered enter%2:38:00::
+the
+``
+Furious_Overfall location%1:03:00::
+''
+.
+Floating floating%5:00:00:afloat(p):00
+ice ice%1:27:00::
+bore_down bear_down%2:35:00::
+from
+the
+north north%1:24:00::
+and
+west west%1:24:00::
+.
+Fog fog%1:19:00::
+hung hang%2:35:03::
+over
+the
+route route%1:15:00::
+constantly constantly%4:02:02::
+.
+Turbulent turbulent%5:00:00:agitated:02
+tides tide%1:11:00::
+rose rise%2:38:00::
+as_much_as
+fifty fifty%5:00:00:cardinal:00
+feet foot%1:23:00::
+.
+The
+ship ship%1:06:00::
+'s
+compass compass%1:06:00::
+was be%2:42:03::
+useless useless%3:00:00::
+because
+of
+the
+nearness nearness%1:07:00::
+of
+the
+magnetic magnetic%3:01:00::
+North_Pole north_pole%1:15:00::
+.
+As
+the
+bergs berg%1:17:00::
+grew grow%2:30:00::
+larger large%3:00:00::
+,
+Hudson person%1:03:00::
+was
+forced force%2:41:00::
+to
+turn turn%2:38:00::
+south south%4:02:00::
+into
+what
+is be%2:42:06::
+now now%4:02:00::
+Ungava_Bay location%1:03:00::
+,
+an
+inlet inlet%1:17:00::
+of
+the
+great great%5:00:01:large:00
+strait strait%1:17:00::
+.
+After
+finding find%2:32:00::
+that
+its
+coasts coast%1:17:00::
+led lead%2:42:00::
+nowhere nowhere%4:02:00::
+,
+however
+,
+he
+turned turn%2:38:00::
+north north%4:02:00::
+again again%4:02:00::
+,
+toward
+the
+main main%5:00:00:important:00
+,
+ice ice%1:27:00::
+filled filled%5:00:01:full:00
+passageway passageway%1:08:00::
+-
+and
+the
+crew crew%1:14:01::
+,
+at_first at_first%4:02:00::
+uneasy uneasy%3:00:00::
+,
+then then%4:02:00::
+frightened frightened%5:00:00:afraid(p):00
+,
+rebelled rebel%2:41:00::
+.
+The
+trouble trouble%1:11:01::
+was be%2:42:03::
+at_least at_least%4:02:01::
+partly partly%4:02:00::
+Juet person%1:03:00::
+'s
+doing doing%1:04:00::
+.
+For
+weeks week%1:28:00::
+he
+had
+been
+saying say%2:32:00::
+that
+Hudson person%1:03:00::
+'s
+idea idea%1:09:00::
+of
+sailing sail%2:38:03::
+through through%4:02:01::
+to
+Java java%1:15:00::
+was be%2:42:03::
+absurd absurd%5:00:00:foolish:00;5:00:00:illogical:00
+.
+The
+great great%5:00:01:large:00
+,
+crushing crushing%5:00:00:destructive:00
+ice ice%1:27:00::
+masses mass%1:17:00::
+coming come%2:38:00::
+into
+view view%1:15:00::
+made make%2:30:00::
+him
+sound sound%2:39:06::
+like
+the
+voice voice%1:10:01::
+of
+pure pure%3:00:02::
+reason reason%1:26:00::
+.
+A
+group group%1:03:00::
+of
+sailors sailor%1:18:00::
+announced announce%2:32:00::
+to
+Hudson person%1:03:00::
+that
+they
+would
+sail sail%2:38:03::
+no
+farther far%4:02:00::
+.
+Instead instead%4:02:00::
+of
+quelling quell%2:30:00::
+the
+dissension dissension%1:10:00::
+,
+as
+many many%3:00:00::
+captains captain%1:18:03::
+of
+the
+era era%1:28:00::
+would
+have
+done do%2:41:01::
+(
+Sir_Francis_Drake person%1:03:00::
+lopped lop_off%2:35:00::
+a
+man man%1:18:00::
+'s
+head head%1:08:00::
+off
+under
+similar similar%3:00:00::
+circumstances circumstance%1:26:01::
+)
+,
+Hudson person%1:03:00::
+decided decide%2:31:00::
+to
+be be%2:42:03::
+reasonable reasonable%3:00:00::
+.
+He
+went_to go_to%2:38:00::
+his
+cabin cabin%1:06:01::
+and
+emerged emerge%2:30:02::
+carrying carry%2:35:02::
+a
+large large%3:00:00::
+chart chart%1:06:00::
+,
+which
+he
+set_up set_up%2:35:00::
+in_view in_view%5:00:00:visible:00
+of
+the
+crew crew%1:14:01::
+.
+Patiently patiently%4:02:00::
+,
+he
+explained explain%2:32:00::
+what
+he
+knew know%2:31:01::
+about
+their
+course course%1:17:00::
+and
+their
+objectives objective%1:09:00::
+.
+When
+Hudson person%1:03:00::
+had
+finished finish%2:30:02::
+,
+the
+``
+town_meeting town_meeting%1:14:01::
+''
+broke_down break_down%2:38:00::
+into
+a
+general general%3:00:00::
+,
+wordy wordy%5:00:02:prolix:00
+argument argument%1:10:03::
+.
+One one%5:00:01:single(a):00
+man man%1:18:00::
+remarked remark%2:32:00::
+that
+if
+he
+had have%2:40:00::
+a_hundred a_hundred%5:00:00:cardinal:00
+pounds pound%1:23:01::
+,
+he
+would
+give give%2:40:10::
+ninety ninety%5:00:00:cardinal:00
+of
+them
+to
+be be%2:42:05::
+back back%4:02:04::
+in
+England england%1:15:00::
+.
+Up
+spoke speak%2:32:00::
+carpenter carpenter%1:18:00::
+Staffe person%1:03:00::
+,
+who
+said say%2:32:00::
+he
+would
+n't n't%4:02:00::
+give give%2:40:10::
+ten ten%5:00:00:cardinal:00
+pounds pound%1:23:01::
+to
+be be%2:42:05::
+home home%4:02:01::
+.
+The
+statement statement%1:10:00::
+was be%2:42:03::
+effective effective%3:00:00::
+.
+The
+meeting meeting%1:14:00::
+broke_up break_up%2:38:00::
+.
+Hudson person%1:03:00::
+was be%2:42:03::
+free free%3:00:00::
+to
+sail sail%2:38:03::
+on on%4:02:00::
+.
+All
+through
+July july%1:28:00::
+the
+Discovery
+picked pick%2:31:00::
+her
+way way%1:06:00::
+along
+the
+450
+-
+mile mile%1:23:01::
+long long%3:00:01::
+strait strait%1:17:00::
+,
+avoiding avoid%2:32:00::
+ice ice%1:27:00::
+and
+rocky rocky%5:00:00:rough:00
+islands island%1:17:00::
+.
+On
+August august%1:28:00::
+3 3rd%5:00:00:ordinal:00
+,
+two two%5:00:00:cardinal:00
+massive massive%5:00:00:large:00
+headlands headland%1:17:00::
+reared rear%2:42:00::
+out
+of
+the
+mists mist%1:19:00::
+-
+great great%5:00:01:large:00
+gateways gateway%1:06:00::
+never never%4:02:00::
+before before%4:02:03::
+,
+so_far
+as
+Hudson person%1:03:00::
+knew know%2:31:01::
+,
+seen see%2:39:00::
+by
+Europeans european%1:18:00::
+.
+To
+starboard starboard%1:06:00::
+was be%2:42:04::
+a
+cape cape%1:17:00::
+a_thousand a_thousand%5:00:00:cardinal:00
+feet foot%1:23:00::
+high high%3:00:01::
+,
+patched patch%2:40:00::
+with
+ice ice%1:27:00::
+and
+snow snow%1:27:00::
+,
+populated populate%2:42:00::
+by
+thousands thousand%1:23:00::
+of
+screaming screaming%5:00:00:noisy:00
+sea_birds sea_bird%1:05:00::
+.
+To
+port port%1:06:02::
+was be%2:42:04::
+a
+point point%1:17:02::
+200
+feet foot%1:23:00::
+high high%3:00:01::
+rising rise%2:42:00::
+behind behind%4:02:00::
+to
+a
+precipice precipice%1:17:00::
+of
+2000
+feet foot%1:23:00::
+.
+Hudson person%1:03:00::
+named name%2:32:03::
+the
+capes cape%1:17:00::
+Digges person%1:03:00::
+and
+Wolstenholme person%1:03:00::
+,
+for
+two two%1:23:00::
+of
+his
+backers backer%1:18:00::
+.
+Hudson person%1:03:00::
+pointed point%2:38:05::
+the
+Discovery
+down
+the
+east east%3:00:00::
+coast coast%1:17:00::
+of
+the
+newly newly%4:02:00::
+discovered discovered%5:00:00:unconcealed:00
+sea sea%1:17:00::
+(
+now now%4:02:00::
+called called%5:00:00:titled:00
+Hudson_Bay hudson_bay%1:17:00::
+)
+,
+confident confident%3:00:00::
+he
+was be%2:42:03::
+on_his_way on_the_way%4:02:00::
+to
+the
+warm warm%3:00:01::
+waters water%1:17:00::
+of
+the
+Pacific pacific%1:17:00::
+.
+After
+three three%5:00:00:cardinal:00
+weeks week%1:28:00::
+'
+swift swift%5:00:00:fast:01
+sailing sailing%1:04:01::
+,
+however
+,
+the
+ship ship%1:06:00::
+entered enter%2:38:00::
+an
+area area%1:15:01::
+of
+shallow shallow%3:00:01::
+marshes marsh%1:17:00::
+and
+river river%1:17:00::
+deltas delta%1:17:00::
+.
+The
+ship ship%1:06:00::
+halted halt%2:38:05::
+.
+The
+great great%5:00:01:large:00
+``
+sea sea%1:17:00::
+to
+the
+westwards westwards%4:02:00::
+''
+was be%2:42:03::
+a
+dead_end dead_end%1:06:00::
+.
+This
+must
+have
+been be%2:42:03::
+Hudson person%1:03:00::
+'s
+blackest black%5:00:00:unfortunate:00
+discovery discovery%1:10:00::
+.
+For
+he
+seemed seem%2:39:00::
+to
+sense sense%2:39:00::
+at_once at_once%4:02:00::
+that
+before
+him
+was be%2:42:04::
+no
+South_Sea south_sea%1:17:00::
+,
+but
+the
+solid solid%5:00:00:unbroken:02
+bulk bulk%1:07:00::
+of
+the
+North_American north-american%3:01:00::
+continent continent%1:17:00::
+.
+This
+was
+the
+bitter_end bitter_end%1:26:00::
+,
+and
+Hudson person%1:03:00::
+seemed seem%2:39:00::
+to
+know know%2:31:01::
+he
+was
+destined destine%2:32:00::
+to
+failure failure%1:04:00::
+.
+Feverishly feverishly%4:02:00::
+,
+he
+tried try%2:41:00::
+to
+brush brush%2:30:00::
+away away%4:02:03::
+this
+intuition intuition%1:09:01::
+.
+North north%4:02:00::
+and
+south south%4:02:00::
+,
+east east%4:02:00::
+and
+west west%3:00:00::
+,
+back_and_forth back_and_forth%4:02:00::
+he
+sailed sail%2:38:03::
+in
+the
+land-locked landlocked%5:00:00:inland:00
+bay bay%1:17:00::
+,
+plowing plow%2:38:00::
+furiously furiously%4:02:00::
+forward forward%4:02:00::
+until
+land land%1:17:00::
+appeared appear%2:30:00::
+,
+then then%4:02:00::
+turning turn%2:38:00::
+to
+repeat repeat%2:41:00::
+the
+process process%1:04:00::
+,
+day_after_day day_after_day%4:02:00::
+,
+week_after_week week_after_week%4:02:00::
+.
+Hundreds hundred%1:23:00::
+of
+miles mile%1:23:01::
+to_the_north to_the_north%4:02:00::
+,
+the
+route route%1:15:00::
+back back%4:02:04::
+to
+England england%1:15:00::
+through
+the
+``
+Furious_Overfall location%1:03:00::
+''
+was
+again again%4:02:00::
+filling fill%2:30:00::
+with
+ice ice%1:27:00::
+.
+The
+men men%1:14:00::
+were be%2:42:03::
+at_first at_first%4:02:00::
+puzzled puzzle%2:31:00::
+,
+then then%4:02:00::
+angered anger%2:37:00::
+by
+the
+aimless aimless%5:00:00:purposeless:00
+tacking tack%2:38:00::
+.
+Once_more once_more%4:02:00::
+,
+Juet person%1:03:00::
+'s
+complaints complaint%1:10:00::
+were be%2:42:03::
+the
+loudest loud%3:00:00::
+.
+Hudson person%1:03:00::
+'s
+reply reply%1:10:01::
+was be%2:42:06::
+to
+accuse accuse%2:32:00::
+the
+mate mate%1:18:02::
+of
+disloyalty disloyalty%1:07:00::
+.
+Juet person%1:03:00::
+demanded demand%2:32:02::
+that
+Hudson person%1:03:00::
+prove prove%2:32:00::
+his
+charges charge%1:10:00::
+in
+an
+open open%5:00:00:public:00
+trial trial%1:04:01::
+.
+The
+trial trial%1:04:01::
+was
+held hold%2:36:00::
+September september%1:28:00::
+10 tenth%5:00:00:ordinal:00
+.
+Hudson person%1:03:00::
+,
+presiding preside%2:41:01::
+,
+heard hear%2:41:00::
+Juet person%1:03:00::
+'s
+defense defense%1:10:01::
+,
+then then%4:02:00::
+called_for call_for%2:32:03::;2:32:04::
+testimony testimony%1:10:00::
+from
+crew_members crew_member%1:18:00::
+.
+Juet person%1:03:00::
+had
+made make%2:36:00::
+plentiful plentiful%5:00:02:abundant:00
+enemies enemy%1:18:00::
+,
+several several%5:00:00:some(a):00
+men man%1:18:00::
+stepped_forward step_forward%2:38:00::
+.
+Hands hand%1:08:00::
+on
+Bible bible%1:10:00::
+,
+seaman seaman%1:18:00::
+Lodley person%1:03:00::
+and
+carpenter carpenter%1:18:00::
+Staffe person%1:03:00::
+swore swear%2:32:00::
+that
+Juet person%1:03:00::
+had
+tried try%2:41:00::
+to
+persuade persuade%2:32:00::
+them
+to
+keep keep%2:40:00::
+muskets musket%1:06:00::
+and
+swords sword%1:06:00::
+in
+their
+cabins cabin%1:06:01::
+.
+Cook_Bennett_Mathues person%1:03:00::
+said say%2:32:00::
+Juet person%1:03:00::
+had
+predicted predict%2:32:00::
+bloodshed bloodshed%1:04:01::
+on
+the
+ship ship%1:06:00::
+.
+Others
+added add%2:32:01::
+that
+Juet person%1:03:00::
+had
+wanted want%2:37:00::
+to
+turn turn%2:38:00::
+the
+ship ship%1:06:00::
+homeward homeward%4:02:00::
+.
+Hudson person%1:03:00::
+deposed depose%2:41:00::
+Juet person%1:03:00::
+and
+cut cut%2:30:06::
+his
+pay pay%1:21:01::
+.
+The
+new new%3:00:00::
+mate mate%1:18:02::
+was be%2:42:06::
+Robert_Bylot person%1:03:00::
+,
+talented talented%5:00:00:precocious:00
+but
+inexperienced inexperienced%3:00:00::
+.
+There
+were be%2:42:04::
+other other%5:00:00:added:00
+shifts shift%1:04:01::
+and
+pay_cuts pay_cut%1:04:00::
+according
+to
+the
+way way%1:07:01::
+individuals individual%1:03:00::
+had
+conducted conduct%2:41:00::
+themselves
+.
+The
+important important%3:00:00::
+result result%1:11:00::
+,
+however
+,
+was be%2:42:06::
+that
+Juet person%1:03:00::
+and
+Francis_Clemens person%1:03:00::
+,
+the
+deposed deposed%3:44:00::
+boatswain boatswain%1:18:00::
+,
+became become%2:42:01::
+Hudson person%1:03:00::
+'s
+sworn sworn%5:00:00:committed:00
+enemies enemy%1:18:00::
+.
+As
+Hudson person%1:03:00::
+resumed resume%2:30:00::
+his
+desperate desperate%5:00:00:hopeless:00
+criss-crossing crisscross%2:38:00::
+of
+the
+little little%3:00:01::
+bay bay%1:17:00::
+,
+every
+incident incident%1:11:00::
+lessened lessen%2:30:02::
+the
+crew crew%1:14:01::
+'s
+respect respect%1:26:00::
+for
+him
+.
+Once once%4:02:00::
+,
+after
+the
+Discovery
+lay lie%2:42:00::
+for
+a
+week week%1:28:00::
+in
+rough rough%5:00:00:stormy:00
+weather weather%1:19:00::
+,
+Hudson person%1:03:00::
+ordered order%2:32:01::
+the
+anchor anchor%1:06:00::
+raised raise%2:38:00::
+before
+the
+sea sea%1:17:00::
+had
+calmed calm%2:30:00::
+.
+Just just%4:02:01::
+as
+it
+was
+being
+hauled haul%2:35:01::
+inboard inboard%3:00:00::
+,
+a
+sea sea%1:17:00::
+hit hit%2:35:01::
+the
+ship ship%1:06:00::
+.
+Michael_Butt person%1:03:00::
+and
+Adame_Moore person%1:03:00::
+were
+thrown throw%2:35:00::
+off
+the
+capstan capstan%1:06:00::
+and
+badly badly%4:02:02::
+injured injure%2:29:00::
+.
+The
+anchor anchor%1:06:00::
+cable cable%1:06:00::
+would
+have
+been be%2:42:03::
+lost lost%3:00:01::
+overboard overboard%4:02:00::
+,
+but
+Philip_Staffe person%1:03:00::
+was be%2:42:03::
+on_hand on_hand%5:00:00:available:00
+to
+sever sever%2:35:00::
+it
+with
+his
+axe axe%1:06:00::
+.

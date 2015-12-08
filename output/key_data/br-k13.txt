@@ -1,0 +1,2267 @@
+In
+the
+dim dim%5:00:00:dark:01
+underwater underwater%5:00:00:subsurface:00
+light light%1:15:00::
+they
+dressed dress%2:29:01::
+and
+straightened straighten%2:30:00::
+up
+the
+room room%1:06:00::
+,
+and
+then then%4:02:00::
+they
+went go%2:38:00::
+across
+the
+hall hall%1:06:03::
+to
+the
+kitchen kitchen%1:06:00::
+.
+She
+was
+intimidated intimidate%2:37:01::
+by
+the
+stove stove%1:06:01::
+.
+He
+found find%2:40:00::
+the
+pilot_light pilot_light%1:06:01::
+and
+turned_on turn_on%2:35:00::
+one
+of
+the
+burners burner%1:06:00::
+for
+her
+.
+The
+gas gas%1:27:02::
+flamed_up flame_up%2:43:00::
+two two%5:00:00:cardinal:00
+inches inch%1:23:00::
+high high%4:02:02::
+.
+They
+found find%2:40:00::
+the
+teakettle teakettle%1:06:00::
+and
+put put%2:35:05::
+water water%1:27:00::
+on
+to
+boil boil%2:30:01::
+and
+then then%4:02:00::
+searched search%2:39:00::
+through
+the
+icebox icebox%1:06:00::
+.
+Several several%5:00:00:some(a):00
+sections section%1:06:00::
+of
+a
+loaf loaf%1:13:00::
+of
+dark_bread dark_bread%1:13:00::
+;
+butter butter%1:13:00::
+;
+jam jam%1:13:00::
+;
+a
+tiny tiny%5:00:00:small:00
+cake cake%1:06:00::
+of
+ice ice%1:27:00::
+.
+In
+their
+search search%1:04:00::
+for
+what
+turned_out turn_out%2:42:00::
+to
+be be%2:42:03::
+the
+right right%5:00:01:proper:00
+breakfast breakfast%1:13:00::
+china china%1:06:00::
+but
+the
+wrong wrong%3:00:01::
+table table%1:06:02::
+silver silver%1:06:00::
+,
+they
+opened open%2:35:00::
+every every%5:00:00:all(a):00
+cupboard cupboard%1:06:00::
+door door%1:06:00::
+in
+the
+kitchen kitchen%1:06:00::
+and
+pantry pantry%1:06:00::
+.
+While
+she
+was
+settling settle%2:35:01::
+the
+teacart teacart%1:06:00::
+,
+he
+went_back go_back%2:38:00::
+across
+the
+hall hall%1:06:03::
+to
+their
+bedroom bedroom%1:06:00::
+,
+opened open%2:35:00::
+one
+of
+the
+suitcases suitcase%1:06:00::
+,
+and
+took_out take_out%2:35:01::
+powdered powdered%5:00:00:fine:00
+coffee coffee%1:13:00::
+and
+sugar sugar%1:13:00::
+.
+She
+appeared appear%2:30:00::
+with
+the
+teacart teacart%1:06:00::
+and
+he
+opened open%2:35:00::
+the
+windows window%1:06:00::
+.
+``
+Do
+you
+want
+to
+call call%2:32:01::
+Eugene person%1:03:00::
+''
+?
+He
+did
+n't n't%4:02:00::
+,
+but
+it
+was be%2:42:06::
+not not%4:02:00::
+really really%4:02:03::
+a
+question question%1:10:00::
+,
+and
+so
+he
+left leave%2:38:01::
+the
+room room%1:06:00::
+,
+walked walk%2:38:00::
+down
+the
+hall hall%1:06:03::
+to
+the
+front front%1:15:00::
+of
+the
+apartment apartment%1:06:00::
+,
+hesitated hesitate%2:42:01::
+,
+and
+then then%4:02:00::
+knocked knock%2:35:01::
+lightly lightly%4:02:01::
+on
+the
+closed closed%3:00:01::
+door door%1:06:00::
+of
+the
+study study%1:06:00::
+.
+A
+sleepy sleepy%5:00:00:asleep(p):00
+voice voice%1:10:00::
+answered answer%2:32:00::
+.
+``
+Le
+petit_dejeuner petit_dejeuner%1:13:00::
+''
+,
+Harold person%1:03:00::
+said say%2:32:00::
+,
+in
+an
+accent accent%1:10:01::
+that
+did do%2:36:02::
+credit credit%1:10:00::
+to
+Miss_Sloan person%1:03:00::
+,
+his
+high-school high_school%1:14:00::
+French_teacher french_teacher%1:18:00::
+.
+At_the_same_time at_the_same_time%5:00:00:synchronous:00
+,
+his
+voice voice%1:10:00::
+betrayed betray%2:32:01::
+uncertainty uncertainty%1:09:00::
+about
+their
+being be%2:42:05::
+here here%4:02:00::
+,
+and
+conveyed convey%2:32:00::
+an
+appeal appeal%1:10:00::
+to
+whatever
+is be%2:42:03::
+reasonable reasonable%3:00:00::
+,
+peace-loving peace-loving%5:00:00:peaceful:00
+,
+and
+dependable dependable%5:00:00:trustworthy:00
+in
+everybody
+.
+Since
+ordinary ordinary%3:00:00::
+breakfast-table breakfast_table%1:06:00::
+conversation conversation%1:10:00::
+was be%2:42:03::
+impossible impossible%3:00:00::
+,
+it
+was
+at_least at_least%4:02:01::
+something
+that
+they
+were be%2:42:03::
+able able%3:00:00::
+to
+offer offer%2:40:00::
+Eugene person%1:03:00::
+the
+sugar_bowl sugar_bowl%1:06:00::
+with
+their
+sugar sugar%1:13:00::
+in
+it
+,
+and
+the
+plate plate%1:06:00::
+of
+bread_and_butter bread_and_butter%1:21:00::
+,
+and
+that
+Eugene person%1:03:00::
+could
+return return%2:40:08::
+the
+pitcher pitcher%1:06:00::
+of
+hot hot%3:00:01::
+milk milk%1:13:01::
+to
+them
+handle handle%1:06:00::
+first first%4:02:01::
+.
+Eugene person%1:03:00::
+put put%2:35:05::
+a
+spoonful spoonful%1:23:00::
+of
+powdered powdered%5:00:00:fine:00
+coffee coffee%1:13:00::
+into
+his
+cup cup%1:06:00::
+and
+then then%4:02:00::
+filled fill%2:30:01::
+it
+with
+hot hot%3:00:01::
+water water%1:27:00::
+.
+Stirring stir%2:35:00::
+,
+he
+said say%2:32:00::
+:
+``
+I
+am be%2:42:03::
+sorry sorry%3:00:02::;5:00:00:unhappy:00
+that
+my
+work work%1:04:01::
+prevents prevent%2:41:00::
+me
+from
+doing
+anything
+with
+you
+today today%4:02:00::
+''
+.
+They
+assured assure%2:32:01::
+him
+that
+they
+did
+not not%4:02:00::
+expect expect%2:32:00::
+or
+need
+to
+be
+entertained entertain%2:41:00::
+.
+Harold person%1:03:00::
+put put%2:35:05::
+a
+teaspoonful teaspoonful%1:23:01::
+of
+powdered powdered%5:00:00:fine:00
+coffee coffee%1:13:00::
+in
+his
+cup cup%1:06:00::
+and
+filled fill%2:30:01::
+it
+with
+hot hot%3:00:01::
+water water%1:27:00::
+,
+and
+then then%4:02:00::
+,
+stirring stir%2:38:01::
+,
+he
+sat_back sit_back%2:29:00::
+in
+his
+chair chair%1:06:00::
+.
+The
+chair chair%1:06:00::
+creaked creak%2:39:00::
+.
+Every
+time time%1:11:00::
+he
+moved move%2:38:01::
+or
+said say%2:32:00::
+something
+,
+the
+chair chair%1:06:00::
+creaked creak%2:39:00::
+again again%4:02:00::
+.
+Eugene person%1:03:00::
+was be%2:42:03::
+not not%4:02:00::
+entirely entirely%4:02:00::
+silent silent%5:00:00:quiet:01
+,
+or
+openly openly%4:02:00::
+rude rude%5:00:00:unrefined:01
+-
+unless
+asking ask%2:32:01::
+Harold person%1:03:00::
+to
+move move%2:38:01::
+to
+another
+chair chair%1:06:00::
+and
+placing place%2:35:00::
+himself
+in
+the
+fauteuil fauteuil%1:06:00::
+that
+creaked creak%2:39:00::
+so so%4:02:02::
+alarmingly alarmingly%4:02:00::
+was be%2:42:02::
+an
+act act%1:03:00::
+of
+rudeness rudeness%1:07:00::
+.
+It
+went go_on%2:42:00::
+right right%4:02:04::
+on
+creaking creak%2:39:00::
+under
+his
+own own%5:00:00:personal:00
+considerable considerable%3:00:00::
+weight weight%1:07:00::
+,
+and
+all
+it
+needed need%2:42:00::
+,
+Harold person%1:03:00::
+thought think%2:31:03::
+,
+was be%2:42:06::
+for
+somebody
+to
+fling fling%2:38:00::
+himself
+back back%4:02:00::
+in
+a
+fit fit%1:26:00::
+of
+laughter laughter%1:10:00::
+and
+that
+would
+be be%2:42:06::
+the
+end end%1:28:00::
+of_it
+.
+Through
+the
+open open%3:00:01::
+window window%1:06:00::
+they
+heard hear%2:39:00::
+sounds sound%1:19:00::
+below below%4:02:01::
+in
+the
+street street%1:06:00::
+:
+cartwheels cartwheel%1:06:00::
+,
+a
+tired tired%3:00:00::
+horse horse%1:05:00::
+'s
+plodding plodding%5:00:00:effortful:00
+step step%1:23:00::
+,
+voices voice%1:10:00::
+.
+Harold person%1:03:00::
+indicated indicate%2:32:03::
+the
+photograph photograph%1:06:00::
+on
+the
+wall wall%1:06:00::
+and
+asked ask%2:32:00::
+what
+church church%1:06:00::
+the
+stone stone%1:06:00::
+sculpture sculpture%1:06:00::
+was be%2:42:05::
+in
+.
+Eugene person%1:03:00::
+told tell%2:32:00::
+him
+and
+he
+promptly promptly%4:02:01::
+forgot forget%2:31:01::
+.
+They
+passed pass%2:40:00::
+the
+marmalade marmalade%1:13:00::
+,
+the
+bread bread%1:13:00::
+,
+the
+black-market black-market%5:00:00:illegal:00
+butter butter%1:13:00::
+,
+back_and_forth back_and_forth%4:02:00::
+.
+Nothing nothing%1:23:00::
+was
+said say%2:32:00::
+about
+hotels hotel%1:06:00::
+or
+train train%1:06:00::
+journeys journey%1:04:00::
+.
+Eugene person%1:03:00::
+offered offer%2:40:00::
+Harold person%1:03:00::
+his
+car car%1:06:00::
+,
+to
+use use%2:34:01::
+at
+any
+time time%1:28:00::
+he
+cared care%2:37:00::
+to
+,
+and
+when
+this
+offer offer%2:40:00::
+was
+not not%4:02:00::
+accepted accept%2:40:00::
+,
+the
+armchair armchair%1:06:00::
+creaked creak%2:39:00::
+.
+They
+all
+three
+had have%2:34:00::
+another
+cup cup%1:23:01::
+of
+coffee coffee%1:13:00::
+.
+Eugene person%1:03:00::
+was be%2:42:03::
+in
+his
+pajamas pajamas%1:06:00::
+and
+dressing_gown dressing_gown%1:06:00::
+,
+and
+on
+his
+large large%3:00:00::
+feet foot%1:08:01::
+he
+wore wear%2:29:00::
+yellow yellow%5:00:00:chromatic:00
+Turkish turkish%3:01:00::
+slippers slipper%1:06:00::
+that
+turned_up turn_up%2:35:00::
+at
+the
+toes toe%1:08:01::
+.
+``
+Ex-cuse excuse%1:10:00::
+me
+''
+,
+he
+said say%2:32:02::
+in
+Berlitz_English
+,
+and
+got_up get_up%2:29:00::
+and
+left leave%2:38:01::
+them
+,
+to
+bathe bathe%2:29:00::
+and
+dress dress%2:29:00::
+.
+The
+first first%3:00:00::
+shrill shrill%5:00:00:high:03
+ring ring%2:39:00::
+of
+the
+telephone telephone%1:06:00::
+brought bring%2:38:00::
+Harold person%1:03:00::
+out
+into
+the
+hall hall%1:06:03::
+.
+He
+realized realize%2:31:01::
+that
+he
+had have%2:39:06::
+no
+idea idea%1:09:00::
+where
+the
+telephone telephone%1:06:00::
+was be%2:42:05::
+.
+At
+that
+moment moment%1:28:00::
+the
+bathroom bathroom%1:06:00::
+door door%1:06:00::
+flew_open fly_open%2:35:00::
+and
+Eugene person%1:03:00::
+came_out come_out%2:30:00::
+,
+with
+his
+face face%1:08:00::
+lathered lather%2:35:00::
+for
+shaving shaving%1:04:00::
+,
+and
+strode stride%2:38:04::
+down
+the
+hall hall%1:06:03::
+,
+tying tie%2:35:00::
+the
+sash sash%1:06:01::
+of
+his
+dressing_gown dressing_gown%1:06:00::
+as
+he
+went go%2:38:00::
+.
+The
+telephone telephone%1:06:00::
+was be%2:42:05::
+in
+the
+study study%1:06:00::
+but
+the
+ringing ringing%1:11:00::
+came come%2:30:04::;2:42:04::
+from
+the
+hall hall%1:06:03::
+.
+Between
+the
+telephone telephone%1:06:00::
+and
+the
+wall_plug wall_plug%1:06:00::
+there
+was be%2:42:00::
+sixty sixty%5:00:00:cardinal:00
+feet foot%1:23:00::
+of
+cord cord%1:06:00::
+,
+and
+when
+the
+conversation conversation%1:10:00::
+came come%2:38:04::
+to
+an
+end end%1:28:00::
+,
+Eugene person%1:03:00::
+carried carry%2:35:02::
+the
+instrument instrument%1:06:00::
+with
+him
+the
+whole whole%3:00:00::
+length length%1:07:01::
+of
+the
+apartment apartment%1:06:00::
+,
+to
+his
+bathroom bathroom%1:06:00::
+,
+where
+it
+rang ring%2:39:00::
+three three%5:00:00:cardinal:00
+more more%3:00:02::
+times time%1:11:00::
+while
+he
+was
+shaving shaving%1:04:00::
+and
+in
+the
+tub tub%1:06:01::
+.
+Before
+he
+left leave%2:38:01::
+the
+apartment apartment%1:06:00::
+he
+knocked knock%2:35:01::
+on
+their
+door door%1:06:00::
+and
+asked ask%2:32:00::
+if
+there
+was be%2:42:00::
+anything
+he
+could
+do do%2:41:01::
+for
+them
+.
+Harold person%1:03:00::
+shook shake%2:38:00::
+his
+head head%1:08:00::
+.
+``
+Sabine person%1:03:00::
+called call%2:32:01::
+a_few a_few%5:00:00:few:00
+minutes minute%1:28:00::
+ago ago%4:02:00::
+''
+,
+Eugene person%1:03:00::
+said say%2:32:00::
+.
+``
+She
+wants want%2:37:00::
+you
+and
+Barbara person%1:03:00::
+to
+have have%2:34:00::
+dinner dinner%1:13:00::
+with
+her
+tomorrow tomorrow%1:28:00::
+night night%1:28:00::
+''
+.
+He
+handed hand%2:40:00::
+Harold person%1:03:00::
+a
+key key%1:06:00::
+to
+the
+front_door front_door%1:06:00::
+,
+and
+cautioned caution%2:32:00::
+him
+against
+leaving leave%2:31:02::
+it
+unlocked unlocked%5:00:00:unfastened:00
+while
+they
+were be%2:42:05::
+out
+of
+the
+apartment apartment%1:06:00::
+.
+When
+enough enough%5:00:00:sufficient:00
+time time%1:28:05::
+had
+elapsed elapse%2:38:00::
+so_that
+there
+was be%2:42:04::
+little little%3:00:03::
+likelihood likelihood%1:07:00::
+of
+his
+returning return%2:30:00::
+for
+something
+he
+had
+forgotten forget%2:31:03::
+,
+Harold person%1:03:00::
+went_out go_out%2:38:00::
+into
+the
+hall hall%1:06:03::
+and
+stood stand%2:35:00::
+looking look%2:39:00::
+into
+one one%5:00:00:cardinal:00
+room room%1:06:00::
+after
+another
+.
+In
+the
+room room%1:06:00::
+next next%5:00:00:close:01
+to
+theirs
+was be%2:42:05::
+a
+huge huge%5:00:01:large:00
+cradle cradle%1:06:00::
+,
+of
+mahogany mahogany%1:20:02::
+,
+ornately ornately%4:02:00::
+carved carve%2:35:01::
+and
+decorated decorate%2:36:00::
+with
+gold_leaf gold_leaf%1:06:00::
+.
+It
+was be%2:42:03::
+the
+most most%4:02:00::
+important-looking important-looking%5:00:00:impressive:00
+cradle cradle%1:06:00::
+he
+had
+ever ever%4:02:04::
+seen see%2:39:00::
+.
+Then then%4:02:00::
+came come%2:42:05::
+their
+bathroom bathroom%1:06:00::
+,
+and
+then then%4:02:00::
+a
+bedroom bedroom%1:06:00::
+that
+,
+judging judge%2:31:01::
+by
+the
+photographs photograph%1:06:00::
+on
+the
+walls wall%1:06:00::
+,
+must
+belong_to belong_to%2:42:00::
+Mme_Cestre person%1:03:00::
+.
+A
+young_woman young_woman%1:18:00::
+who
+looked_like look_like%2:42:00::
+Alix person%1:03:00::
+,
+with
+her
+two two%5:00:00:cardinal:00
+children child%1:18:01::
+.
+Alix person%1:03:00::
+and
+Eugene person%1:03:00::
+on
+their
+wedding_day wedding_day%1:28:00::
+.
+Matching matching%5:00:01:matched:00
+photographs photograph%1:06:00::
+in
+oval oval%5:00:00:rounded:00
+frames frame%1:06:02::
+of
+Mme_Bonenfant person%1:03:00::
+and
+an
+elderly elderly%5:00:00:old:02
+man man%1:18:00::
+who
+must
+be be%2:42:06::
+Alix person%1:03:00::
+'s
+grandfather grandfather%1:18:00::
+.
+Mme_Vienot person%1:03:00::
+,
+considerably considerably%4:02:01::
+younger young%3:00:00::
+and
+very very%4:02:01::
+different different%5:00:00:unusual:00
+.
+The
+schoolboy schoolboy%1:18:00::
+.
+And
+a
+gray-haired gray-haired%5:00:00:old:02
+man man%1:18:00::
+whose
+glance glance%1:04:00::
+-
+direct direct%3:00:00::
+,
+lifelike lifelike%5:00:00:unaffected:01
+,
+and
+mildly mildly%4:02:00::
+accusing accusing%5:00:00:inculpatory:00
+-
+was
+contradicted contradict%2:42:00::
+by
+the
+gilt gilt%5:00:00:chromatic:00
+and
+black black%3:00:01::
+frame frame%1:06:02::
+.
+It
+was be%2:42:03::
+the
+kind kind%1:09:00::
+of
+frame frame%1:06:02::
+that
+is
+only only%4:02:01::
+put put%2:35:00::
+around
+the
+photograph photograph%1:06:00::
+of
+a
+dead_person dead_person%1:18:00::
+.
+Professor_Cestre person%1:03:00::
+,
+could
+it
+be be%2:42:06::
+?
+With
+the
+metal metal%1:27:00::
+shutters shutter%1:06:00::
+closed closed%3:00:01::
+,
+the
+dining_room dining_room%1:06:00::
+was be%2:42:03::
+so so%4:02:02::
+dark dark%3:00:01::
+that
+it
+seemed seem%2:39:00::
+still still%4:02:01::
+night night%1:28:00::
+in
+there there%4:02:00::
+.
+One
+of
+the
+drawing-room drawing_room%1:06:00::
+shutters shutter%1:06:00::
+was be%2:42:03::
+partly partly%4:02:00::
+open open%3:00:01::
+and
+he
+made_out make_out%2:39:00::
+the
+shapes shape%1:03:00::
+of
+chairs chair%1:06:00::
+and
+sofas sofa%1:06:00::
+,
+which
+seemed seem%2:39:00::
+to
+be
+upholstered upholster%2:40:00::
+in
+brown brown%5:00:00:chromatic:00
+or
+russet russet%1:06:00::
+velvet velvet%1:06:00::
+.
+The
+curtains curtain%1:06:00::
+were be%2:42:03::
+of
+the
+same same%3:00:00::
+material material%1:06:00::
+,
+and
+there
+were be%2:42:04::
+some some%3:00:00::
+big big%3:00:01::
+oil_paintings oil_painting%1:06:00::
+-
+portraits portrait%1:06:01::
+in
+the
+style style%1:09:00::
+of
+Lancret person%1:03:00::
+and
+Boucher person%1:03:00::
+.
+Though though%4:02:00::
+,
+taken take%2:31:03::
+individually individually%4:02:00::
+,
+the
+big big%3:00:01::
+rooms room%1:06:00::
+were be%2:42:03::
+,
+or
+seemed seem%2:39:00::
+to
+be be%2:42:03::
+,
+square square%1:25:00::
+,
+the
+apartment apartment%1:06:00::
+as
+a
+whole whole%1:09:00::
+formed form%2:42:00::
+a
+triangle triangle%1:25:00::
+.
+The
+apex apex%1:15:00::
+,
+the
+study study%1:06:00::
+where
+Eugene person%1:03:00::
+slept sleep%2:29:00::
+,
+was be%2:42:03::
+light light%3:00:06::
+and
+bright bright%3:00:00::
+and
+airy airy%5:00:00:ventilated:00
+and
+cheerful cheerful%3:00:00::
+.
+The
+window window%1:06:00::
+looked_out_on look_out_on%2:42:00::
+the
+Place_Redoute location%1:03:00::
+-
+it
+was be%2:42:03::
+the
+only only%5:00:00:single(a):00
+window window%1:06:00::
+of
+the
+apartment apartment%1:06:00::
+that
+did
+.
+Looking_around look_around%2:39:00::
+slowly slowly%4:02:02::
+,
+he
+saw see%2:39:00::
+a
+marble marble%1:27:00::
+fireplace fireplace%1:06:01::
+,
+a
+desk desk%1:06:00::
+,
+a
+low low%3:00:01::
+bookcase bookcase%1:06:00::
+of
+mahogany mahogany%1:20:02::
+with
+criss-crossed crisscrossed%5:00:00:reticulate:00
+brass brass%1:27:00::
+wire wire%1:06:00::
+instead instead%4:02:00::
+of
+glass glass%1:27:00::
+panes pane%1:06:00::
+in
+the
+doors door%1:06:00::
+.
+The
+daybed daybed%1:06:01::
+Eugene person%1:03:00::
+had
+slept sleep%2:29:00::
+in
+,
+made_up make_up%2:30:00::
+now now%4:02:05::
+with
+its
+dark-brown dark-brown%5:00:00:chromatic:00
+velours velours%1:06:00::
+cover cover%1:06:01::
+and
+pillows pillow%1:06:00::
+.
+The
+portable portable%3:00:00::
+record_player record_player%1:06:00::
+with
+a
+pile pile%1:14:00::
+of
+classical classical%3:00:00::
+records record%1:06:00::
+beside
+it
+.
+Beethoven person%1:03:00::
+'s
+Fifth
+was be%2:42:06::
+the
+one
+on
+top top%1:15:00::
+.
+Da-da-da-dum
+.
+Music music%1:10:00::
+could
+not not%4:02:00::
+be be%2:42:06::
+Eugene person%1:03:00::
+'s
+passion passion%1:09:00::
+.
+Besides besides%4:02:01::
+,
+the
+records record%1:06:00::
+were be%2:42:03::
+dusty dusty%5:00:00:dirty:01
+.
+He
+tried try%2:41:00::
+the
+doors door%1:06:00::
+of
+the
+bookcase bookcase%1:06:00::
+.
+Locked lock%2:35:00::
+.
+The
+titles title%1:10:00::
+he
+could
+read read%2:31:00::
+easily easily%4:02:01::
+through
+the
+criss-crossed crisscrossed%5:00:00:reticulate:00
+wires wire%1:06:00::
+:
+works work%1:06:00::
+on
+theology theology%1:09:01::
+,
+astral astral%3:01:00::
+physics physics%1:09:00::
+,
+history history%1:28:00::
+,
+biology biology%1:09:00::
+,
+political_science political_science%1:09:00::
+.
+No
+poetry poetry%1:10:02::
+.
+No
+novels novel%1:10:00::
+.
+He
+moved_over move_over%2:38:00::
+to
+the
+desk desk%1:06:00::
+and
+stood stand%2:35:00::
+looking look%2:39:00::
+at
+the
+papers paper%1:27:00::
+on_it on_it%4:02:00::
+but
+not not%4:02:00::
+touching touch%2:39:00::
+anything
+.
+The
+clock clock%1:06:00::
+on
+the
+mantel_piece mantel%1:06:00::
+was
+scandalized scandalize%2:37:00::
+and
+ticked tick%2:39:01::
+so so%4:02:02::
+loudly loudly%4:02:00::
+that
+he
+glanced glance%2:38:00::
+at
+it
+over
+his
+shoulder shoulder%1:08:00::
+and
+then then%4:02:00::
+quickly quickly%4:02:02::
+left leave%2:38:01::
+the
+room room%1:06:00::
+.
+The
+concierge concierge%1:18:00::
+called_out call_out%2:32:00::
+to
+them
+as
+they
+were
+passing_through pass_through%2:38:00::
+the
+foyer foyer%1:06:00::
+.
+Her
+quarters quarters%1:06:00::
+were be%2:42:05::
+on
+the
+right right%1:15:00::
+as
+you
+walked walk%2:38:00::
+into
+the
+building building%1:06:00::
+,
+and
+her
+small small%3:00:00::
+front_room front_room%1:06:00::
+was
+clogged clog%2:35:00::
+with
+heavy heavy%3:00:01::
+furniture furniture%1:06:00::
+-
+a
+big big%3:00:01::
+,
+round round%3:00:00::
+,
+oak oak%1:20:02::
+dining_table dining_table%1:06:00::
+and
+chairs chair%1:06:00::
+,
+a
+buffet buffet%1:06:00::
+,
+with
+a
+row row%1:14:00::
+of
+unclaimed unclaimed%5:00:00:unwanted:00
+letters letter%1:10:00::
+inserted insert%2:35:01::
+between
+the
+mirror mirror%1:06:00::
+and
+its
+frame frame%1:06:02::
+.
+The
+suitcases suitcase%1:06:00::
+had
+come come%2:38:04::
+while
+they
+were be%2:42:05::
+out out%4:02:00::
+,
+and
+had
+been
+put put%2:35:00::
+in
+their
+room room%1:06:00::
+,
+the
+concierge concierge%1:18:00::
+said say%2:32:00::
+.
+He
+waited wait%2:42:01::
+until
+they
+were be%2:42:05::
+inside
+the
+elevator elevator%1:06:00::
+and
+then then%4:02:00::
+said say%2:32:00::
+:
+``
+Now now%1:28:00::
+what
+do
+we
+do do%2:41:01::
+''
+?
+``
+Call call%2:32:01::
+the
+Vouillemont person%1:03:00::
+,
+I
+guess guess%2:31:00::
+''
+.
+``
+I
+guess guess%2:31:00::
+''
+.
+Rather_than
+sit sit%2:42:00::
+around
+waiting wait%2:42:00::
+for
+the
+suitcases suitcase%1:06:00::
+to
+be
+delivered deliver%2:41:00::
+,
+they
+had
+gone go%2:38:00::
+sight-seeing sightseeing%1:04:00::
+.
+They
+went go%2:38:00::
+to
+the
+Flea_Market flea_market%1:15:00::
+,
+expecting expect%2:32:00::
+to
+find find%2:40:02::
+the
+treasures treasure%1:21:00::
+of
+Europe location%1:03:00::
+,
+and
+found find%2:40:02::
+instead instead%4:02:00::
+a
+duplication duplication%1:06:00::
+of
+that
+long long%3:00:01::
+double double%5:00:02:multiple:00
+row row%1:14:00::
+of
+booths booth%1:06:00::
+in
+Tours location%1:03:00::
+.
+Cheap cheap%3:00:00::
+clothing clothing%1:06:00::
+and
+junk junk%1:27:00::
+of
+every every%5:00:00:all(a):00
+sort sort%1:09:00::
+,
+as
+far far%4:02:00::
+as
+the
+eye eye%1:08:00::
+could
+see see%2:39:00::
+.
+They
+looked look%2:39:00::
+,
+even_so even_so%4:02:00::
+.
+Looked look%2:39:00::
+at
+everything
+.
+Barbara person%1:03:00::
+bought buy%2:40:00::
+some
+cotton cotton%1:27:01::
+aprons apron%1:06:00::
+,
+and
+Harold person%1:03:00::
+bought buy%2:40:00::
+shoestrings shoestring%1:06:00::
+.
+They
+had have%2:34:00::
+lunch lunch%1:13:00::
+at
+a
+sidewalk sidewalk%1:06:00::
+cafe cafe%1:06:00::
+overlooking overlook%2:42:01::
+the
+intersection intersection%1:06:00::
+of
+two two%5:00:00:cardinal:00
+broad broad%3:00:04::
+,
+busy busy%3:00:00::
+,
+unpicturesque unpicturesque%5:00:00:ugly:00
+streets street%1:06:00::
+,
+and
+coming come%2:38:04::
+home home%4:02:01::
+they
+got get%2:30:00::
+lost lost%5:00:00:unoriented:00
+in
+the
+Metro metro%1:06:00::
+;
+it
+took take%2:40:06::
+them
+over
+an
+hour hour%1:28:00::
+to
+get_back get_back%2:38:00::
+to
+the
+station station%1:06:00::
+where
+they
+should
+have
+changed change%2:38:00::
+,
+in_order
+to
+take take%2:38:02::
+the
+line line%1:06:05::
+that
+went go%2:42:00::
+to
+the
+Place_Redoute location%1:03:00::
+.
+It
+was be%2:42:06::
+the
+end end%1:28:00::
+of
+the
+afternoon afternoon%1:28:00::
+when
+he
+took take%2:30:00::
+the
+huge huge%5:00:01:large:00
+key key%1:06:00::
+out
+of
+his
+pocket pocket%1:25:00::
+and
+inserted insert%2:35:01::
+it
+into
+the
+keyhole keyhole%1:06:00::
+.
+When
+he
+opened open%2:35:00::
+the
+door door%1:06:00::
+,
+there there%4:02:00::
+stood stand%2:35:00::
+Eugene person%1:03:00::
+,
+on
+his
+way way%1:04:02::
+out_of
+the
+apartment apartment%1:06:00::
+.
+He
+was
+wearing wear%2:29:00::
+sneakers sneaker%1:06:00::
+and
+shorts shorts%1:06:02::
+and
+an
+open-collared open-collared%5:00:00:unbuttoned:00
+shirt shirt%1:06:00::
+,
+and
+in
+his
+hand hand%1:08:00::
+he
+carried carry%2:35:02::
+a
+little little%3:00:01::
+black black%3:00:01::
+bag bag%1:06:00::
+.
+He
+did
+not not%4:02:00::
+explain explain%2:32:00::
+where
+he
+was
+going go%2:38:01::
+,
+and
+they
+did
+not not%4:02:00::
+ask ask%2:32:00::
+.
+Instead instead%4:02:00::
+,
+they
+went_on go_on%2:38:00::
+down
+the
+hall hall%1:06:03::
+to
+their
+room room%1:06:00::
+.
+``
+Do
+you
+think think%2:31:03::
+he
+could
+be
+having have%2:41:00::
+an
+affair affair%1:26:00::
+''
+?
+Barbara person%1:03:00::
+asked ask%2:32:00::
+,
+as
+they
+heard hear%2:39:00::
+the
+front_door front_door%1:06:00::
+close close%2:35:06::
+.
+``
+Oh_no
+''
+,
+Harold person%1:03:00::
+said say%2:32:00::
+,
+shocked shock%2:37:01::
+.
+``
+Well
+,
+this
+is be%2:42:06::
+France france%1:15:00::
+,
+after_all after_all%4:02:00::
+''
+.
+``
+I
+know know%2:31:01::
+,
+but
+there
+must
+be be%2:42:00::
+some
+other other%3:00:00::
+explanation explanation%1:10:00::
+.
+He
+'s
+probably probably%4:02:00::
+spending spend%2:42:00::
+the
+evening evening%1:28:00::
+with
+friends friend%1:18:00::
+''
+.
+``
+And
+for
+that
+he
+needs need%2:34:00::
+a
+little little%3:00:01::
+bag bag%1:06:00::
+''
+?
+They
+went go%2:41:00::
+shopping shopping%1:04:00::
+in
+the
+neighborhood neighborhood%1:15:00::
+,
+and
+bought buy%2:40:00::
+two two%5:00:00:cardinal:00
+loaves_of_bread loaf_of_bread%1:13:00::
+with
+the
+ration ration%1:21:00::
+coupons coupon%1:10:00::
+they
+had
+been
+given give%2:40:06::
+in
+Blois location%1:03:00::
+,
+and
+some some%3:00:00::
+cheese cheese%1:13:00::
+,
+and
+a
+dozen dozen%1:23:00::
+eggs eggs%1:13:00::
+,
+and
+a
+bag bag%1:23:00::
+of
+oranges orange%1:13:00::
+from
+a
+peddler peddler%1:18:00::
+in
+the
+Place_Redoute location%1:03:00::
+-
+the
+first first%3:00:00::
+oranges orange%1:13:00::
+they
+had
+seen see%2:39:00::
+since
+they
+landed land%2:38:00::
+.
+They
+had have%2:34:00::
+Vermouth vermouth%1:13:00::
+,
+sitting sit%2:35:00::
+in_front_of
+a
+cafe cafe%1:06:00::
+.
+When
+they
+got get%2:38:00::
+home home%1:15:04::
+Harold person%1:03:00::
+was be%2:42:03::
+grateful grateful%3:00:00::
+for
+the
+stillness stillness%1:07:00::
+in
+the
+apartment apartment%1:06:00::
+,
+and
+thought think%2:31:00::
+how
+,
+under
+different different%5:00:00:other:00
+circumstances circumstance%1:26:01::
+,
+they
+might
+have
+stayed_on stay_on%2:42:00::
+here here%4:02:00::
+,
+in
+these
+old-fashioned old-fashioned%5:00:00:nonmodern:00
+,
+high-ceilinged high-ceilinged%5:00:00:ceilinged:00
+rooms room%1:06:00::
+that
+reminded remind%2:31:00::
+him
+of
+the
+Irelands person%1:03:00::
+'
+apartment apartment%1:06:00::
+in
+the
+East_Eighties location%1:03:00::
+.
+They
+could
+have
+been be%2:42:03::
+perfectly perfectly%4:02:00::
+happy happy%3:00:00::
+here here%4:02:00::
+for
+ten ten%5:00:00:cardinal:00
+whole whole%3:00:00::
+days day%1:28:00::
+.
+He
+went go%2:38:00::
+down
+the
+hall hall%1:06:03::
+to
+Eugene person%1:03:00::
+'s
+bathroom bathroom%1:06:00::
+,
+to
+turn_on turn_on%2:35:00::
+the
+hot-water_heater hot-water_heater%1:06:00::
+,
+and
+on
+the
+side side%1:06:00::
+of
+the
+tub tub%1:06:01::
+he
+saw see%2:39:00::
+a
+pair pair%1:23:00::
+of
+blue blue%5:00:00:chromatic:00
+wool wool%1:06:00::
+swimming_trunks swimming_trunks%1:06:00::
+.
+He
+felt feel%2:35:00::
+them
+.
+They
+were be%2:42:03::
+damp damp%5:00:00:wet:01
+.
+He
+reached_out reach_out%2:42:00::
+and
+felt feel%2:35:00::
+the
+bath_towel bath_towel%1:06:00::
+hanging_on hang_on%2:35:00::
+the
+towel_rack towel_rack%1:06:00::
+over
+the
+tub tub%1:06:01::
+.
+Damp damp%5:00:00:wet:01
+also also%4:02:00::
+.
+He
+looked_around look_around%2:39:00::
+the
+room room%1:06:00::
+and
+then then%4:02:00::
+called_out call_out%2:32:00::
+:
+``
+Come come%2:38:00::
+here here%4:02:00::
+,
+quick quick%4:02:00::
+''
+?
+``
+What
+is be%2:42:06::
+it
+''
+?
+Barbara person%1:03:00::
+asked ask%2:32:00::
+,
+standing stand%2:35:00::
+in
+the
+doorway doorway%1:06:00::
+.
+``
+I
+'ve
+solved solve%2:31:00::
+the
+mystery mystery%1:09:00::
+of
+the
+little little%3:00:01::
+bag bag%1:06:00::
+.
+There
+it
+is be%2:42:04::
+*
+*
+h
+and
+there
+is be%2:42:04::
+what
+was be%2:42:05::
+in
+it
+.
+But
+where
+do
+people people%1:14:00::
+go
+swimming swim%2:38:00::
+in
+Paris location%1:03:00::
+?
+That
+boat boat%1:06:00::
+in
+the
+river river%1:17:00::
+,
+maybe maybe%4:02:00::
+''
+.
+``
+What
+boat boat%1:06:00::
+''
+?
+``
+There
+'s
+a
+big big%3:00:01::
+boat boat%1:06:00::
+anchored anchor%2:35:00::
+near near%4:02:01::
+the
+Place_de_la_Concorde location%1:03:00::
+,
+with
+a
+swimming_pool swimming_pool%1:06:00::
+in
+it
+-
+did
+n't n't%4:02:00::
+you
+notice notice%2:39:04::
+it
+?
+But
+if
+he
+has have%2:40:00::
+time time%1:28:05::
+to
+go
+swimming swim%2:38:00::
+,
+he
+had have%2:40:00::
+time time%1:28:05::
+to
+be be%2:42:04::
+with
+us
+''
+.
+She
+looked look%2:39:00::
+at
+him
+in
+surprise surprise%1:12:00::
+.
+``
+I
+know know%2:31:01::
+''
+,
+he
+said say%2:32:00::
+,
+reading read%2:31:02::
+her
+mind mind%1:09:00::
+.
+``
+I
+do
+n't n't%4:02:00::
+know know%2:31:01::
+what
+I'm
+going_to
+do do%2:41:01::
+with
+you
+''
+.
+``
+It
+'s
+because
+we
+are be%2:42:05::
+in
+France location%1:03:00::
+''
+,
+he
+said say%2:32:00::
+,
+``
+and
+know know%2:31:00::
+so so%4:02:02::
+few few%3:00:00::
+people people%1:14:00::
+.
+So
+something
+like like%3:00:00::
+this
+matters matter%2:42:00::
+more_than more_than%4:02:00::
+it
+would
+at
+home home%1:15:02::
+.
+Also also%4:02:00::
+,
+he
+was be%2:42:03::
+so so%4:02:02::
+nice nice%5:00:00:respectable:00
+when
+he
+was be%2:42:03::
+nice nice%5:00:00:respectable:00
+''
+.
+``
+All
+because
+I
+did
+n't n't%4:02:00::
+feel_like feel_like%2:37:00::
+dancing dance%2:36:00::
+''
+.
+``
+I
+do
+n't n't%4:02:00::
+think think%2:31:01::
+it
+was be%2:42:06::
+that
+,
+really really%4:02:03::
+''
+.
+``
+Then then%4:02:02::
+what
+was be%2:42:06::
+it
+''
+?
+``
+I
+do
+n't n't%4:02:00::
+know know%2:31:01::
+.
+I
+wish wish%2:32:02::
+I
+did
+.
+The
+tweed tweed%1:06:00::
+coat coat%1:06:00::
+,
+maybe maybe%4:02:00::
+.
+The
+thing thing%1:07:00::
+about
+Eugene person%1:03:00::
+is be%2:42:06::
+that
+he
+'s
+very very%4:02:00::
+proud proud%3:00:00::
+''
+.
+And
+the
+thing thing%1:07:00::
+about
+hurt hurt%5:00:02:injured:00
+feelings feelings%1:12:00::
+,
+the
+wet wet%3:00:01::
+bathing_suit bathing_suit%1:06:00::
+pointed_out point_out%2:32:03::
+,
+is be%2:42:06::
+that
+the
+person person%1:03:00::
+who
+has have%2:40:00::
+them
+is be%2:42:03::
+not not%4:02:00::
+quite quite%4:02:01::
+the
+innocent innocent%3:00:00::
+party party%1:14:02::
+he
+believes believe%2:31:04::
+himself
+to
+be be%2:42:03::
+.
+For_instance for_instance%4:02:00::
+-
+what
+about
+all
+those
+people people%1:14:00::
+Harold_Rhodes person%1:03:00::
+went go%2:38:00::
+toward
+unhesitatingly unhesitatingly%4:02:00::
+,
+as
+if
+this
+were be%2:42:03::
+the
+one one%5:00:00:cardinal:00
+moment moment%1:28:00::
+they
+would
+ever ever%4:02:04::
+have have%2:40:00::
+together together%4:02:03::
+,
+their
+one one%5:00:00:cardinal:00
+chance chance%1:26:00::
+of
+knowing know%2:31:00::
+each
+other
+?
+Fortunately fortunately%4:02:00::
+,
+the
+embarrassing embarrassing%5:00:00:difficult:00
+questions question%1:10:00::
+raised raise%2:36:01::
+by
+objects object%1:03:00::
+do
+not not%4:02:00::
+need
+to
+be
+answered answer%2:32:00::
+,
+or
+we
+would
+all
+have_to
+go
+sleep sleep%2:29:00::
+in
+the
+open open%3:00:02::
+fields field%1:15:00::
+.
+And
+in_any_case in_any_case%4:02:00::
+,
+answers answer%1:10:00::
+may
+clarify clarify%2:31:00::
+but
+they
+do
+not not%4:02:00::
+change change%2:30:01::
+anything
+.

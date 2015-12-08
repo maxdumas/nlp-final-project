@@ -1,0 +1,2153 @@
+As
+cells cell%1:03:00::
+coalesced coalesce%2:35:00::
+into
+organisms organism%1:03:00::
+,
+they
+built build%2:36:00::
+new new%3:00:00::
+``
+unnatural unnatural%3:00:00::
+''
+and
+internally internally%4:02:00::
+controlled control%2:35:00::
+environments environment%1:26:00::
+to
+cope cope%2:41:00::
+even even%4:02:00::
+more more%4:02:00::
+successfully successfully%4:02:00::
+with
+the
+entropy entropy%1:19:00::
+increasing increasing%3:00:00::
+properties property%1:07:00::
+of
+the
+external external%5:00:00:extrinsic:00
+world world%1:17:00::
+.
+The
+useful useful%5:00:00:practical:00
+suggestion suggestion%1:09:00::
+of
+Professor_David_Hawkins person%1:03:00::
+which
+considers consider%2:31:00::
+culture culture%1:14:00::
+as
+a
+third third%5:00:00:ordinal:00
+stage stage%1:26:00::
+in
+biological biological%3:01:00::
+evolution evolution%1:22:01::
+fits fit%2:42:04::
+quite quite%4:02:02::
+beautifully beautifully%4:02:00::
+then then%4:02:02::
+with
+our
+suggestion suggestion%1:09:00::
+that
+science science%1:09:01::
+has
+provided provide%2:40:00::
+us
+with
+a
+rather rather%4:02:04::
+successful successful%3:00:00::
+technique technique%1:09:00::
+for
+building build%2:36:00::
+protective protective%3:00:00::
+artificial artificial%3:00:00::
+environments environment%1:15:00::
+.
+One
+wonders wonder%2:32:01::
+about
+its
+applicability applicability%1:24:00::
+to
+people people%1:14:00::
+.
+Will will%2:42:00::
+advances advance%1:11:01::
+in
+human human%3:01:00::
+sciences science%1:09:00::
+help help%2:41:00::
+us
+build build%2:30:00::
+social_structures social_structure%1:14:00::
+and
+governments government%1:09:00::
+which
+will
+enable enable%2:30:00::
+us
+to
+cope_with cope_with%2:41:00::
+people people%1:14:00::
+as_effectively_as
+the
+primitive primitive%5:00:00:natural:01
+combination combination%1:11:00::
+of
+protein protein%1:27:00::
+and
+nucleic_acid nucleic_acid%1:27:00::
+built build%2:36:00::
+a
+structure structure%1:06:00::
+of
+molecules molecule%1:27:00::
+which
+enabled enable%2:30:00::
+it
+to
+adapt adapt%2:30:02::
+to
+a
+sea sea%1:17:00::
+of
+molecular molecular%3:01:00::
+interaction interaction%1:04:00::
+?
+The
+answer answer%1:10:00::
+is be%2:42:06::
+of_course of_course%4:02:00::
+yes
+.
+For
+the
+family family%1:14:00::
+is be%2:42:03::
+the
+simplest simple%3:00:02::
+example example%1:09:02::
+of
+just just%4:02:05::
+such such%5:00:01:specified:00
+a
+unit unit%1:17:00::
+,
+composed compose%2:42:00::
+of
+people people%1:14:00::
+,
+which
+gives give%2:40:03::
+us
+both
+some
+immunity immunity%1:26:00::
+from
+,
+and
+a
+way way%1:04:01::
+of
+dealing deal%2:41:00::
+with
+,
+other other%3:00:00::
+people people%1:14:00::
+.
+Social social%3:01:00::
+invention invention%1:06:00::
+did
+not not%4:02:00::
+have
+to
+await await%2:31:00::
+social social%3:01:00::
+theory theory%1:09:00::
+any
+more more%4:02:01::
+than
+use use%1:04:00::
+of
+the
+warmth warmth%1:09:00::
+of
+a
+fire fire%1:06:00::
+had
+to
+await await%2:31:00::
+Lavoisier person%1:03:00::
+or
+the
+buoyant buoyant%5:00:00:light:01
+protection protection%1:21:00::
+of
+a
+boat boat%1:06:00::
+the
+formulations formulation%1:04:00::
+of
+Archimedes person%1:03:00::
+.
+But
+it
+has
+been
+during
+the
+last last%5:00:00:past:00
+two two%5:00:00:cardinal:00
+centuries century%1:28:00::
+,
+during
+the
+scientific scientific%3:01:00::
+revolution revolution%1:11:01::
+,
+that
+our
+independence independence%1:26:00::
+from
+the
+physical physical%5:00:00:natural:03
+environment environment%1:26:00::
+has
+made make%2:41:00::
+the
+most most%4:02:00::
+rapid rapid%5:00:00:fast:01
+strides stride%1:23:00::
+.
+We
+have have%2:40:00::
+ample ample%3:00:00::
+light light%1:26:00::
+when
+the
+sun sun%1:17:00::
+sets set%2:38:00::
+;
+the
+temperature temperature%1:07:00::
+of
+our
+homes home%1:06:00::
+is be%2:42:03::
+independent independent%5:00:00:unconditional:00
+of
+the
+seasons season%1:28:00::
+;
+we
+fly fly%2:38:00::
+through
+the
+air air%1:15:00::
+,
+although
+gravity gravity%1:19:00::
+pulls pull%2:35:02::
+us
+down down%4:02:00::
+;
+the
+range range%1:07:00::
+of
+our
+voice voice%1:10:00::
+ignores ignore%2:32:00::
+distance distance%1:07:01::
+.
+At
+what
+stage stage%1:26:00::
+are be%2:42:05::
+social_sciences social_science%1:09:00::
+then then%4:02:02::
+?
+Is be%2:42:03::
+the
+future future%1:28:00::
+of
+psychology psychology%1:09:00::
+akin akin%5:00:00:similar:00
+to
+the
+rich rich%5:00:02:productive:00
+future future%1:28:00::
+of
+physics physics%1:09:00::
+at
+the
+time time%1:28:00::
+of
+Newton newton%1:18:00::
+?
+There
+is be%2:42:00::
+a
+haunting haunting%5:00:00:unforgettable:00
+resemblance resemblance%1:07:00::
+between
+the
+notion notion%1:09:00::
+of
+cause cause%1:11:00::
+in
+Copernicus person%1:03:00::
+and
+in
+Freud freud%1:18:00::
+.
+And
+it
+is be%2:42:02::
+certainly certainly%4:02:00::
+no no%3:00:00::
+slight slight%1:04:00::
+to
+either
+of
+them
+to
+compare compare%2:31:00::
+both
+their
+achievements achievement%1:04:00::
+and
+their
+impact impact%1:19:00::
+.
+Political political%3:00:00::
+theoretical theoretical%3:00:00::
+understanding understanding%1:09:01::
+,
+although
+almost almost%4:02:00::
+at
+a
+standstill standstill%1:26:00::
+during
+this
+century century%1:28:00::
+,
+did
+develop develop%2:36:00::
+during
+the
+eighteenth eighteenth%5:00:00:ordinal:00
+and
+nineteenth nineteenth%5:00:00:ordinal:00
+centuries century%1:28:00::
+,
+and
+resulted result%2:42:02::
+in
+a
+flood flood%1:04:01::
+of
+inventions invention%1:06:00::
+which
+increased increase%2:30:00::
+the
+possibility possibility%1:26:00::
+for
+man man%1:14:00::
+to
+coexist coexist%2:42:01::
+with
+man man%1:14:00::
+.
+Constitutional constitutional%3:01:01::
+government government%1:14:00::
+,
+popular popular%5:00:00:democratic:00
+vote vote%1:04:01::
+,
+trial trial%1:04:01::
+by
+jury jury%1:14:00::
+,
+public public%3:00:00::
+education education%1:09:00::
+,
+labor_unions labor_union%1:14:00::
+,
+cooperatives cooperative%1:14:00::
+,
+communes commune%1:14:00::
+,
+socialized socialized%5:00:00:liberal:00
+ownership ownership%1:21:00::
+,
+world_courts world_court%1:14:00::
+,
+and
+the
+veto veto%1:04:00::
+power power%1:07:00::
+in
+world_councils world_council%1:14:00::
+are be%2:42:06::
+but
+a_few a_few%5:00:00:few:00
+examples example%1:09:01::
+.
+Most_of
+these
+,
+with
+horrible horrible%5:00:00:alarming:00
+exceptions exception%1:09:00::
+,
+were
+conceived conceive%2:36:00::
+as
+is
+a
+ship ship%1:06:00::
+,
+not not%4:02:00::
+as
+an
+attempt attempt%1:04:00::
+to
+quell quell%2:30:00::
+the
+ocean ocean%1:17:00::
+of
+mankind mankind%1:14:00::
+,
+nor
+to
+deny deny%2:32:01::
+its
+force force%1:07:01::
+,
+but
+as
+a
+means means%1:04:00::
+to
+survive survive%2:42:02::
+and
+enjoy enjoy%2:37:00::
+it
+.
+The
+most most%4:02:00::
+effective effective%5:00:00:competent:00
+political political%3:00:00::
+inventions invention%1:06:00::
+seem seem%2:39:00::
+to
+make make%2:41:00::
+maximum maximum%3:00:00::
+use use%1:04:00::
+of
+natural natural%3:00:01::
+harbors harbor%1:15:00::
+and
+are be%2:42:03::
+aware aware%3:00:00::
+that
+restraining restrain%2:41:01::
+breakwaters breakwater%1:06:00::
+can
+play play%2:41:12::
+only only%4:02:02::
+a
+minor minor%3:00:06::
+part part%1:04:01::
+in
+the
+whole whole%3:00:00::
+scheme scheme%1:09:00::
+.
+Just just%4:02:05::
+as
+present present%3:00:01::
+technology technology%1:09:00::
+had
+to
+await await%2:31:00::
+the
+explanations explanation%1:09:00::
+of
+physics physics%1:09:00::
+,
+so so%4:02:05::
+one
+might
+expect expect%2:31:00::
+that
+social social%3:01:00::
+invention invention%1:06:00::
+will
+follow follow%2:42:00::
+growing growing%5:00:00:increasing:00
+sociological sociological%3:01:00::
+understanding understanding%1:09:01::
+.
+We
+are be%2:42:03::
+desperately desperately%4:02:00::
+in
+the
+need need%1:26:00::
+of
+such such%5:00:01:specified:00
+invention invention%1:04:00::
+,
+for
+man man%1:14:00::
+is be%2:42:03::
+still still%4:02:01::
+very_much very_much%4:02:01::
+at
+the
+mercy mercy%1:04:00::
+of
+man man%1:14:00::
+.
+In_fact in_fact%4:02:00::
+the
+accumulation accumulation%1:22:00::
+of
+the
+hardware hardware%1:06:02::
+of
+destruction destruction%1:11:00::
+is
+day_by_day day_by_day%4:02:00::
+increasing increase%2:30:00::
+our
+fear fear%1:12:00::
+of
+each
+other
+.
+I
+want want%2:37:00::
+,
+therefore therefore%4:02:00::
+,
+to
+discuss discuss%2:32:01::
+a
+second second%5:00:00:ordinal:00
+and
+quite quite%4:02:02::
+different different%5:00:00:other:00
+fruit fruit%1:06:00::
+of
+science science%1:09:01::
+,
+the
+connection connection%1:24:00::
+between
+scientific scientific%3:01:00::
+understanding understanding%1:09:01::
+and
+fear fear%1:12:00::
+.
+There
+are be%2:42:00::
+certainly certainly%4:02:00::
+large large%3:00:00::
+areas area%1:09:00::
+of
+understanding understanding%1:09:01::
+in
+the
+human human%3:01:00::
+sciences science%1:09:00::
+which
+in
+themselves
+and
+even even%4:02:00::
+without
+political political%3:00:00::
+invention invention%1:04:00::
+can
+help help%2:41:00::
+to
+dispel dispel%2:38:00::
+our
+present present%3:00:01::
+fears fear%1:12:00::
+.
+Lucretius person%1:03:00::
+has
+remarked remark%2:32:00::
+:
+``
+The
+reason reason%1:16:00::
+why
+all
+Mortals mortal%1:03:00::
+are
+so so%4:02:02::
+gripped grip%2:37:00::
+by
+fear fear%1:12:00::
+is be%2:42:06::
+that
+they
+see see%2:39:02::
+all
+sorts sort%1:09:00::
+of
+things thing%1:11:00::
+happening happen%2:30:00::
+in
+the
+earth earth%1:17:01::
+and
+sky sky%1:17:00::
+with
+no
+discernable discernable%3:00:00::
+cause cause%1:11:00::
+,
+and
+these
+they
+attribute attribute%2:31:00::
+to
+the
+will will%1:09:01::
+of
+God god%1:18:00::
+''
+.
+Perhaps perhaps%4:02:00::
+things thing%1:26:00::
+were be%2:42:03::
+even even%4:02:00::
+worse worse%3:00:00::
+then then%4:02:01::
+.
+It
+is be%2:42:03::
+difficult difficult%3:00:00::
+to
+reconstruct reconstruct%2:31:00::
+the
+primeval primeval%5:00:00:early:00
+fears fear%1:12:00::
+of
+man man%1:14:00::
+.
+We
+get get%2:30:03::
+some
+clue clue%1:10:00::
+from
+a_few a_few%5:00:00:few:00
+remembrances remembrance%1:09:00::
+of
+childhood childhood%1:28:00::
+and
+from
+the
+circumstance circumstance%1:26:01::
+that
+we
+are be%2:42:03::
+probably probably%4:02:00::
+not not%4:02:00::
+much much%4:02:00::
+more more%4:02:00::
+afraid afraid%3:00:00::
+of
+people people%1:14:00::
+now now%4:02:00::
+than
+man man%1:05:01::
+ever ever%4:02:04::
+was be%2:42:03::
+.
+We
+are be%2:42:03::
+not not%4:02:00::
+now now%4:02:00::
+afraid afraid%3:00:00::
+of
+atomic_bombs atomic_bomb%1:06:00::
+in
+the
+same same%3:00:00::
+way way%1:07:01::
+that
+people people%1:14:00::
+once once%4:02:01::
+feared fear%2:37:03::
+comets comet%1:17:00::
+.
+The
+bombs bomb%1:06:00::
+are be%2:42:03::
+as_harmless_as
+an
+automobile automobile%1:06:00::
+in
+a
+garage garage%1:06:00::
+.
+We
+are be%2:42:03::
+worried worried%5:00:00:troubled:00
+about
+what
+people people%1:14:00::
+may
+do do%2:41:01::
+with
+them
+-
+that
+some
+crazy crazy%5:00:00:insane:00
+fool fool%1:18:00::
+may
+``
+push push%2:38:00::
+the
+button button%1:06:01::
+''
+.
+I
+am be%2:42:03::
+certainly certainly%4:02:00::
+not not%4:02:00::
+adequately adequately%4:02:00::
+trained train%2:31:00::
+to
+describe describe%2:32:01::
+or
+enlarge enlarge%2:32:04::
+on
+human human%3:01:00::
+fears fear%1:12:00::
+,
+but
+there
+are be%2:42:00::
+certain certain%5:00:00:definite:00
+features feature%1:09:00::
+of
+the
+fears fear%1:12:00::
+dispelled dispel%2:38:00::
+by
+scientific scientific%3:01:00::
+explanations explanation%1:10:00::
+that
+stand_out stand_out%2:42:00::
+quite quite%4:02:01::
+clearly clearly%4:02:02::
+.
+They
+are be%2:42:03::
+in_general in_general%4:02:00::
+those
+fears fear%1:12:00::
+that
+once once%4:02:01::
+seemed seem%2:39:00::
+to
+have
+been be%2:42:03::
+amenable amenable%5:00:00:compliant:00
+to
+prayer prayer%1:04:00::
+or
+ritual ritual%1:04:01::
+.
+They
+include include%2:42:00::
+both
+individual individual%5:00:00:personal:00
+fears fear%1:12:00::
+and
+collective collective%5:00:00:joint:00
+ones
+.
+They
+arise arise%2:42:00::
+in
+situations situation%1:26:00::
+in
+which
+one
+believes believe%2:31:03::
+that
+what
+happens happen%2:30:00::
+depends depend%2:42:00::
+not_only not_only%4:02:00::
+on
+the
+external external%3:00:00::
+world world%1:17:00::
+,
+but
+also also%4:02:00::
+on
+the
+precise precise%3:00:00::
+pattern pattern%1:04:00::
+of
+behavior behavior%1:04:00::
+of
+the
+individual individual%1:03:00::
+or
+group group%1:03:00::
+.
+Often often%4:02:00::
+it
+is
+recognized recognize%2:31:02::
+that
+all
+the
+details detail%1:09:00::
+of
+the
+pattern pattern%1:04:00::
+may
+not not%4:02:00::
+be be%2:42:03::
+essential essential%5:00:00:important:00
+to
+the
+outcome outcome%1:19:00::
+but
+,
+because
+the
+pattern pattern%1:04:00::
+was
+empirically empirically%4:02:00::
+determined determine%2:32:03::
+and
+not not%4:02:00::
+developed develop%2:36:00::
+through
+theoretical theoretical%3:00:00::
+understanding understanding%1:09:01::
+,
+one
+is be%2:42:03::
+never never%4:02:00::
+quite quite%4:02:01::
+certain certain%3:00:02::
+which
+behavior behavior%1:04:00::
+elements element%1:09:00::
+are be%2:42:03::
+effective effective%5:00:00:efficacious:00
+,
+and
+the
+whole whole%3:00:00::
+pattern pattern%1:04:00::
+becomes become%2:30:00::
+ritualized ritualize%2:30:00::
+.
+Yet
+often often%4:02:00::
+fear fear%1:12:00::
+persists persist%2:42:00::
+because
+,
+even even%4:02:00::
+with
+the
+most most%4:02:00::
+rigid rigid%5:00:00:intolerant:00
+ritual ritual%1:04:01::
+,
+one
+is be%2:42:03::
+never never%4:02:00::
+quite quite%4:02:01::
+free free%3:00:00::
+from
+the
+uneasy uneasy%3:00:00::
+feeling feeling%1:09:03::
+that
+one
+might
+make make%2:41:00::
+some
+mistake mistake%1:04:00::
+or
+that
+in
+every
+previous previous%5:00:00:preceding(a):00
+execution execution%1:04:02::
+one
+had
+been be%2:42:03::
+unaware unaware%3:00:00::
+of
+the
+really really%4:02:03::
+decisive decisive%3:00:00::
+act act%1:03:00::
+.
+To
+say say%2:32:00::
+that
+science science%1:09:01::
+had
+reduced reduce%2:30:00::
+many many%3:00:00::
+such such%5:00:01:specified:00
+fears fear%1:12:00::
+merely merely%4:02:00::
+reiterates reiterate%2:32:00::
+the
+obvious obvious%3:00:00::
+and
+frequent frequent%5:00:00:common:01
+statement statement%1:10:00::
+that
+science science%1:09:01::
+eliminated eliminate%2:30:01::
+much much%3:00:00::
+of
+magic magic%1:09:00::
+and
+superstition superstition%1:09:00::
+.
+But
+a
+somewhat somewhat%4:02:00::
+more more%4:02:00::
+detailed detailed%5:00:00:careful:00
+analysis analysis%1:04:00::
+of
+this
+process process%1:04:00::
+may
+be be%2:42:03::
+illuminating illuminating%3:00:00::
+.
+The
+frequently frequently%4:02:00::
+postulated postulate%2:32:00::
+antique antique%5:00:00:unfashionable:00
+worry worry%1:09:00::
+that
+the
+daylight daylight%1:28:00::
+hours hour%1:28:00::
+might
+dwindle dwindle%2:30:00::
+to
+complete complete%3:00:00::
+darkness darkness%1:26:00::
+apparently apparently%4:02:00::
+gave_rise give_rise%2:36:01::
+to
+a
+ritual ritual%1:04:00::
+and
+celebration celebration%1:11:00::
+which
+we
+still still%4:02:01::
+recognize recognize%2:31:02::
+.
+It
+is be%2:42:03::
+curious curious%5:00:00:strange:00
+that
+even even%4:02:00::
+centuries century%1:28:00::
+of
+repetition repetition%1:11:00::
+of
+the
+yearly yearly%3:01:00::
+cycle cycle%1:11:01::
+did
+not not%4:02:00::
+induce induce%2:36:00::
+a
+sufficient sufficient%3:00:00::
+degree degree%1:07:00::
+of
+confidence confidence%1:12:00::
+to
+allow allow%2:41:00::
+people people%1:14:00::
+to
+abandon abandon%2:40:00::
+the
+ceremonies ceremony%1:11:00::
+of
+the
+winter_solstice winter_solstice%1:28:00::
+.
+This
+and
+other other%3:00:00::
+fears fear%1:12:00::
+of
+the
+solar_system solar_system%1:17:00::
+have
+disappeared disappear%2:30:00::
+gradually gradually%4:02:00::
+,
+first first%4:02:00::
+,
+with
+the
+Ptolemaic_system ptolemaic_system%1:09:00::
+and
+its
+built-in built-in%5:00:00:intrinsic:00
+concept concept%1:09:00::
+of
+periodicity periodicity%1:07:00::
+and_then and_then%4:02:00::
+,
+more more%4:02:00::
+firmly firmly%4:02:02::
+,
+with
+the
+Newtonian newtonian%3:01:00::
+innovation innovation%1:06:00::
+of
+an
+universal universal%5:00:00:comprehensive:00
+force force%1:19:00::
+that
+could
+account account_for%2:42:00::
+quantitatively quantitatively%4:02:00::
+for
+both
+terrestrial terrestrial%3:01:00::
+and
+celestial celestial%3:01:01::
+motions motion%1:11:00::
+.
+This
+understanding understanding%1:09:01::
+provides provide%2:40:00::
+a
+very very%4:02:00::
+simple simple%3:00:02::
+example example%1:09:02::
+of
+the
+fact fact%1:09:01::
+that
+one
+can
+eliminate eliminate%2:30:01::
+fear fear%1:12:00::
+without
+instituting institute%2:36:00::
+any
+controls control%1:24:00::
+.
+In_fact in_fact%4:02:00::
+,
+although
+we
+have
+dispelled dispel%2:38:00::
+the
+fear fear%1:12:00::
+,
+we
+have
+not not%4:02:00::
+necessarily necessarily%4:02:00::
+assured assure%2:32:01::
+ourselves
+that
+there
+are be%2:42:00::
+no
+dangers danger%1:26:01::
+.
+There
+is be%2:42:00::
+still still%4:02:01::
+the
+remote remote%5:00:00:unlikely:00
+possibility possibility%1:09:03::
+of
+planetoid planetoid%1:17:00::
+collision collision%1:11:01::
+.
+A
+meteor meteor%1:17:00::
+could
+fall fall%2:38:03::
+on
+San_Francisco san_francisco%1:15:00::
+.
+Solar solar%3:01:00::
+activities activity%1:26:00::
+could
+presumably presumably%4:02:00::
+bring bring%2:36:00::
+long long%3:00:02::
+periods period%1:28:00::
+of
+flood flood%1:19:00::
+or
+drought drought%1:26:00::
+.
+Our
+understanding understanding%1:09:01::
+of
+the
+solar_system solar_system%1:17:00::
+has
+taught teach%2:32:00::
+us
+to
+replace replace%2:30:00::
+our
+former former%5:00:02:past:00
+elaborate elaborate%5:00:00:fancy:00
+rituals ritual%1:04:00::
+with
+the
+appropriate appropriate%3:00:00::
+action action%1:04:02::
+which
+,
+in
+this
+case case%1:26:00::
+,
+amounts amount%2:42:03::
+to
+doing do%2:41:01::
+nothing nothing%1:23:00::
+.
+Yet
+we
+no_longer no_longer%4:02:00::
+feel feel%2:37:00::
+uneasy uneasy%3:00:00::
+.
+This
+almost almost%4:02:00::
+trivial trivial%5:00:00:ordinary:00
+example example%1:09:02::
+is be%2:42:03::
+nevertheless nevertheless%4:02:00::
+suggestive suggestive%5:00:00:meaningful:00
+,
+for
+there
+are be%2:42:00::
+some
+elements element%1:09:00::
+in_common in_common%4:02:00::
+between
+the
+antique antique%5:00:00:old:01
+fear fear%1:12:00::
+that
+the
+days day%1:28:02::
+would
+get get%2:30:00::
+shorter short%3:00:02::
+and
+shorter short%3:00:02::
+and
+our
+present present%3:00:01::
+fear fear%1:12:00::
+of
+war war%1:26:00::
+.
+We
+,
+in
+our
+country country%1:14:00::
+,
+think_of think_of%2:31:01::
+war war%1:26:00::
+as
+an
+external external%3:00:00::
+threat threat%1:26:00::
+which
+,
+if
+it
+occurs occur%2:30:00::
+,
+will
+not not%4:02:00::
+be be%2:42:03::
+primarily primarily%4:02:01::
+of
+our
+own own%5:00:00:personal:00
+doing doing%1:04:00::
+.
+And
+yet yet%4:02:02::
+we
+obviously obviously%4:02:00::
+also also%4:02:00::
+believe believe%2:31:03::
+that
+the
+avoidance avoidance%1:04:00::
+of
+the
+disaster disaster%1:26:00::
+depends depend%2:42:00::
+in
+some
+obscure obscure%5:00:00:unclear:00
+or
+at_least at_least%4:02:01::
+uncertain uncertain%3:00:01::
+way way%1:07:01::
+on
+the
+details detail%1:09:00::
+of
+how
+we
+behave behave%2:29:00::
+.
+What
+elements element%1:09:00::
+of
+our
+behavior behavior%1:04:00::
+are be%2:42:03::
+decisive decisive%3:00:00::
+?
+Our
+weapons weapon%1:06:00::
+production production%1:04:00::
+,
+our
+world world%1:14:00::
+prestige prestige%1:26:00::
+,
+our
+ideas idea%1:09:00::
+of
+democracy democracy%1:09:00::
+,
+our
+actions action%1:04:02::
+of
+trust trust%1:07:00::
+or
+stubbornness stubbornness%1:07:01::
+or
+secrecy secrecy%1:07:02::
+or
+espionage espionage%1:04:00::
+?
+We
+have
+staved_off stave_off%2:41:00::
+a
+war war%1:26:00::
+and
+,
+since
+our
+behavior behavior%1:04:00::
+has
+involved involve%2:42:04::
+all
+these
+elements element%1:09:00::
+,
+we
+can
+only only%4:02:02::
+keep keep%2:42:07::
+adding add%2:30:00::
+to
+our
+ritual ritual%1:04:00::
+without
+daring dare%2:41:00::
+to
+abandon abandon%2:40:00::
+any
+part part%1:24:00::
+of_it
+,
+since
+we
+have have%2:39:06::
+not not%4:02:00::
+the
+slightest slight%5:00:00:weak:00
+notion notion%1:09:02::
+which
+parts part%1:24:00::
+are be%2:42:03::
+effective effective%5:00:00:efficacious:00
+.
+I
+think think%2:31:01::
+that
+we
+are
+here here%4:02:02::
+also also%4:02:00::
+talking_of talk_about%2:32:00::
+the
+kind kind%1:09:00::
+of
+fear fear%1:12:00::
+that
+a
+young young%3:00:00::
+boy boy%1:18:00::
+has have%2:39:06::
+for
+a
+group group%1:03:00::
+of
+boys boy%1:18:00::
+who
+are
+approaching approach%2:38:00::
+at
+night night%1:28:00::
+along
+the
+streets street%1:06:00::
+of
+a
+large large%3:00:00::
+city city%1:15:00::
+.
+If
+an
+automobile automobile%1:06:00::
+were
+approaching approach%2:38:00::
+him
+,
+he
+would
+know know%2:31:01::
+what
+was
+required require%2:42:00::
+of
+him
+,
+even_though
+he
+might
+not not%4:02:00::
+be be%2:42:03::
+able able%3:00:00::
+to
+act act%2:41:00::
+quickly quickly%4:02:02::
+enough enough%4:02:00::
+.
+With
+the
+group group%1:03:00::
+of
+boys boy%1:18:00::
+it
+is be%2:42:03::
+different different%3:00:00::
+.
+He
+does
+not not%4:02:00::
+know know%2:31:01::
+whether
+to
+look look%2:39:00::
+up up%4:02:00::
+or
+look look%2:39:00::
+aside aside%4:02:00::
+,
+to
+put put%2:35:00::
+his
+hands hand%1:08:00::
+in
+his
+pockets pocket%1:25:00::
+or
+to
+clench clench%2:35:01::
+them
+at
+his
+side side%1:15:02::
+,
+to
+cross cross%2:38:00::
+the
+street street%1:06:00::
+,
+or
+to
+continue continue%2:38:00::
+on
+the
+same same%3:00:02::
+side side%1:15:02::
+.
+When
+confronted confront%2:32:00::
+with
+a
+drunk drunk%1:18:00::
+or
+an
+insane insane%3:00:00::
+person person%1:03:00::
+I
+have have%2:39:06::
+no
+notion notion%1:09:02::
+of
+what
+any
+one
+of
+them
+might
+do do%2:41:01::
+to
+me
+or
+to
+himself
+or
+to
+others
+.
+I
+believe believe%2:31:03::
+that
+what
+I
+do do%2:41:01::
+has have%2:39:06::
+some
+effect effect%1:19:00::
+on
+his
+actions action%1:04:02::
+and
+I
+have
+learned learn%2:31:00::
+,
+in_a_way in_a_way%4:02:02::
+,
+to
+commune commune%2:32:02::
+with
+drunks drunk%1:18:00::
+,
+but
+certainly certainly%4:02:00::
+my
+actions action%1:04:02::
+seem seem%2:39:00::
+to
+resemble resemble%2:42:00::
+more more%4:02:00::
+nearly nearly%4:02:00::
+the
+performance performance%1:10:00::
+of
+a
+rain_dance rain_dance%1:04:00::
+than
+the
+carrying_out carry_out%2:30:00::
+of
+an
+experiment experiment%1:04:00::
+in
+physics physics%1:09:00::
+.
+I
+am
+usually usually%4:02:00::
+filled fill%2:30:00::
+with
+an
+uneasiness uneasiness%1:12:02::
+that
+through
+some
+unwitting unwitting%5:00:00:unintended:00
+slip slip%1:04:05::
+all
+hell hell%1:15:01::
+may
+break_loose break_loose%2:30:00::
+.
+Our
+inability inability%1:09:00::
+to
+explain explain%2:32:00::
+why
+certain certain%5:00:00:definite:00
+people people%1:14:00::
+are be%2:42:03::
+fond fond%5:00:02:loving:00
+of
+us
+frequently frequently%4:02:00::
+induces induce%2:36:00::
+the
+same same%3:00:00::
+kind kind%1:09:00::
+of
+ritual ritual%1:04:00::
+and
+malaise malaise%1:26:00::
+.
+We
+are
+forced force%2:36:00::
+,
+in
+our
+behavior behavior%1:07:00::
+towards
+others
+,
+to
+adopt adopt%2:40:02::
+empirically empirically%4:02:00::
+successful successful%3:00:00::
+patterns pattern%1:04:00::
+in_toto in_toto%4:02:00::
+because
+we
+have have%2:39:06::
+such such%5:00:00:much(a):00
+a
+minimal minimal%3:00:00::
+understanding understanding%1:09:01::
+of
+their
+essential essential%3:00:00::
+elements element%1:09:00::
+.
+Our
+collective collective%5:00:00:joint:00
+policies policy%1:09:00::
+,
+group group%1:03:00::
+and
+national national%3:00:00::
+,
+are
+similarly similarly%4:02:00::
+based base%2:31:00::
+on
+voodoo voodoo%1:06:00::
+,
+but
+here here%4:02:02::
+we
+often often%4:02:00::
+lack lack%2:42:00::
+even even%4:02:00::
+the
+empirically empirically%4:02:00::
+successful successful%3:00:00::
+rituals ritual%1:04:01::
+and
+are
+still still%4:02:01::
+engaged engage%2:31:00::
+in
+determining determine%2:32:03::
+them
+.
+We
+use use%2:34:01::
+terms term%1:10:00::
+from
+our
+personal personal%5:00:00:subjective:00
+experience experience%1:09:00::
+with
+individuals individual%1:03:00::
+such_as
+``
+trust trust%1:07:00::
+''
+,
+``
+cheat cheat%2:41:01::
+''
+,
+and
+``
+get_tough get_tough%2:41:00::
+''
+.
+We
+talk_about talk_about%2:32:00::
+national national%3:01:00::
+character character%1:07:01::
+in
+the
+same same%3:00:00::
+way way%1:07:01::
+that
+Copernicus person%1:03:00::
+talked talk%2:32:01::
+of
+the
+compulsions compulsion%1:16:00::
+of
+celestial_bodies celestial_body%1:17:00::
+to
+move move%2:38:03::
+in
+circles circle%1:25:00::
+.
+We
+perform perform%2:41:02::
+elaborate elaborate%5:00:00:careful:00
+international international%3:00:00::
+exhortations exhortation%1:10:01::
+and
+ceremonies ceremony%1:04:00::
+with
+virtually virtually%4:02:00::
+no
+understanding understanding%1:09:01::
+of
+social social%3:01:00::
+cause cause%1:10:00::
+and
+effect effect%1:19:00::
+.
+Small small%3:00:00::
+wonder wonder%1:11:00::
+,
+then then%4:02:02::
+,
+that
+we
+fear fear%2:37:03::
+.
+The
+achievements achievement%1:04:00::
+which
+dispelled dispel%2:38:00::
+our
+fears fear%1:12:00::
+of
+the
+cosmos cosmos%1:17:00::
+took_place take_place%2:30:00::
+three three%5:00:00:cardinal:00
+centuries century%1:28:00::
+ago ago%4:02:00::
+.
+What
+additional additional%5:00:00:added:00
+roles role%1:04:00::
+has
+the
+scientific scientific%3:00:00::
+understanding understanding%1:09:01::
+of
+the
+19th 19th%5:00:00:ordinal:00
+and
+20th 20th%5:00:00:ordinal:00
+centuries century%1:28:00::
+played play%2:41:12::
+?
+In
+the
+physical_sciences physical_science%1:09:00::
+,
+these
+achievements achievement%1:04:00::
+concern concern%2:42:00::
+electricity electricity%1:19:00::
+,
+chemistry chemistry%1:09:00::
+,
+and
+atomic_physics atomic_physics%1:09:00::
+.
+In
+the
+life_sciences life_science%1:09:00::
+,
+there
+has
+been be%2:42:04::
+an
+enormous enormous%5:00:00:large:00
+increase increase%1:11:00::
+in
+our
+understanding understanding%1:09:01::
+of
+disease disease%1:26:00::
+,
+in
+the
+mechanisms mechanism%1:04:00::
+of
+heredity heredity%1:22:00::
+,
+and
+in
+bio biological%3:01:00::
+-
+and
+physiological physiological%3:01:00::
+chemistry chemistry%1:09:00::
+.
+The
+major major%3:00:02::
+effect effect%1:19:00::
+of
+these
+advances advance%1:11:01::
+appears appear%2:39:00::
+to
+lie_in lie_in%2:42:00::
+the
+part part%1:09:02::
+they
+have
+played play%2:41:12::
+in
+the
+industrial_revolution industrial_revolution%1:28:00::
+and
+in
+the
+tools tool%1:04:00::
+which
+scientific scientific%3:01:00::
+understanding understanding%1:09:01::
+has
+given give%2:40:03::
+us
+to
+build build%2:36:00::
+and
+manipulate manipulate%2:41:00::
+a
+more more%4:02:00::
+protective protective%3:00:00::
+environment environment%1:26:00::
+.
+In_addition in_addition%4:02:00::
+,
+our
+way way%1:04:00::
+of
+dealing deal%2:40:00::
+directly directly%4:02:05::
+with
+natural_phenomena natural_phenomenon%1:19:00::
+has
+also also%4:02:00::
+changed change%2:30:00::
+.
+Even even%4:02:00::
+in
+domains domain%1:26:00::
+where
+detailed detailed%5:00:00:careful:00
+and
+predictive predictive%5:00:00:prophetic:00
+understanding understanding%1:09:01::
+is be%2:42:03::
+still still%4:02:01::
+lacking lack%2:42:00::
+,
+but
+where
+some
+explanations explanation%1:10:00::
+are be%2:42:03::
+possible possible%3:00:00::
+,
+as
+with
+lightning lightning%1:19:00::
+and
+weather weather%1:19:00::
+and
+earthquakes earthquake%1:11:00::
+,
+the
+appropriate appropriate%3:00:00::
+kind kind%1:09:00::
+of
+human_action human_action%1:03:00::
+has
+been
+more more%4:02:00::
+adequately adequately%4:02:00::
+indicated indicate%2:32:04::
+.
+Apparently apparently%4:02:00::
+the
+population population%1:14:01::
+as_a_whole as_a_whole%5:00:00:general:00
+eventually eventually%4:02:00::
+acquires acquire%2:40:00::
+enough enough%4:02:00::
+confidence confidence%1:09:00::
+in
+the
+explanations explanation%1:10:00::
+of
+the
+scientists scientist%1:18:00::
+to
+modify modify%2:30:00::
+its
+procedures procedure%1:04:00::
+and
+its
+fears fear%1:12:00::
+.
+How
+and
+why
+this
+process process%1:04:00::
+occurs occur%2:30:00::
+would
+provide provide%2:40:00::
+an
+interesting interesting%3:00:00::
+separate separate%3:00:00::
+subject subject%1:10:00::
+for
+study study%2:31:02::
+.
+In
+some
+areas area%1:09:00::
+,
+the
+progress progress%1:04:00::
+is be%2:42:03::
+slower slow%3:00:01::
+than
+in
+others
+.
+In
+agriculture agriculture%1:04:00::
+,
+for_example for_example%4:02:00::
+,
+despite
+the
+advances advance%1:11:01::
+in
+biology biology%1:09:00::
+,
+elaborate elaborate%5:00:00:fancy:00
+rituals ritual%1:04:00::
+tend tend%2:42:01::
+to
+persist persist%2:30:01::
+along
+with
+a
+continued continued%3:00:00::
+sense sense%1:09:05::
+of
+the
+imminence imminence%1:26:00::
+of
+some
+natural natural%3:01:00::
+disaster disaster%1:26:00::
+.
+In
+child_care child_care%1:04:00::
+,
+the
+opposite opposite%5:00:00:other:00
+extreme extreme%1:15:00::
+prevails prevail%2:42:01::
+;
+procedures procedure%1:04:02::
+change change%2:30:00::
+rapidly rapidly%4:02:00::
+and
+parental parental%3:01:00::
+confidence confidence%1:09:00::
+probably probably%4:02:00::
+exceeds exceed%2:42:00::
+anything
+warranted warrant%2:32:00::
+by
+established established%5:00:00:orthodox:00
+psychological psychological%3:01:00::
+theory theory%1:09:00::
+.
+There
+are be%2:42:00::
+many many%3:00:00::
+domains domain%1:26:00::
+in
+which
+understanding understanding%1:09:01::
+has
+brought_about bring_about%2:42:00::
+widespread widespread%5:00:00:general:00
+and
+quite quite%4:02:02::
+appropriate appropriate%3:00:00::
+reduction reduction%1:04:00::
+in
+ritual ritual%1:04:00::
+and
+fear fear%1:12:00::
+.
+Much much%3:00:00::
+of
+the
+former former%3:00:00::
+extreme extreme%1:15:00::
+uneasiness uneasiness%1:12:02::
+associated associate%2:31:00::
+with
+visions vision%1:09:03::
+and
+hallucinations hallucination%1:26:00::
+and
+with
+death death%1:28:00::
+has
+disappeared disappear%2:30:00::
+.
+The
+persistent persistent%5:00:00:continual:00
+horror horror%1:12:01::
+of
+having have%2:29:00::
+a
+malformed malformed%5:00:00:unshapely:00
+child child%1:18:01::
+has
+,
+I
+believe believe%2:31:04::
+,
+been
+reduced reduce%2:30:00::
+,
+not not%4:02:00::
+because
+we
+have
+gained gain%2:40:02::
+any
+control control%1:24:00::
+over
+this
+misfortune misfortune%1:11:00::
+,
+but
+precisely precisely%4:02:00::
+because
+we
+have
+learned learn%2:31:00::
+that
+we
+have have%2:40:00::
+so so%4:02:02::
+little little%3:00:03::
+control control%1:24:00::
+over
+it
+.
+In_fact in_fact%4:02:00::
+,
+the
+recent recent%5:00:00:new:00
+warnings warning%1:10:01::
+about
+the
+use use%1:04:00::
+of
+X-rays x_ray%1:19:00::
+have
+introduced introduce%2:30:03::
+fears fear%1:12:00::
+and
+ambiguities ambiguity%1:07:00::
+of
+action action%1:04:02::
+which
+now now%4:02:00::
+require require%2:42:00::
+more more%4:02:00::
+detailed detailed%5:00:00:careful:00
+understanding understanding%1:09:01::
+,
+and
+thus thus%4:02:00::
+in_this in_this%4:02:00::
+instance instance%1:11:00::
+,
+science science%1:09:01::
+has
+momentarily momentarily%4:02:02::
+aggravated aggravate%2:30:00::
+our
+fears fear%1:12:00::
+.
+In_fact in_fact%4:02:00::
+,
+insofar insofar%4:02:00::
+as
+science science%1:09:01::
+generates generate%2:29:00::
+any
+fear fear%1:12:00::
+,
+it
+stems stem%2:42:00::
+not not%4:02:00::
+so so%4:02:02::
+much much%4:02:04::
+from
+scientific scientific%3:01:00::
+prowess prowess%1:09:00::
+and
+gadgets gadget%1:06:00::
+but
+from
+the
+fact fact%1:09:01::
+that
+new new%3:00:00::
+unanswered unanswered%5:00:00:nonreciprocal:00
+questions question%1:10:03::
+arise arise%2:42:00::
+,
+which
+,
+until
+they
+are
+understood understand%2:31:00::
+,
+create create%2:36:00::
+uncertainty uncertainty%1:09:00::
+.
+Perhaps perhaps%4:02:00::
+the
+most most%4:02:00::
+illuminating illuminating%3:00:00::
+example example%1:09:02::
+of
+the
+reduction reduction%1:04:00::
+of
+fear fear%1:12:00::
+through
+understanding understanding%1:09:01::
+is
+derived derive%2:30:01::
+from
+our
+increased increased%3:00:00::
+knowledge knowledge%1:03:00::
+of
+the
+nature nature%1:07:02::
+of
+disease disease%1:26:00::
+.
+The
+situation situation%1:26:00::
+with
+regard_to regard_to%1:24:00::
+our
+attitude attitude%1:09:00::
+and
+``
+control control%1:24:00::
+''
+of
+disease disease%1:26:00::
+contains contain%2:42:00::
+close close%3:00:02::
+analogies analogy%1:09:00::
+to
+problems problem%1:26:00::
+confronting confront%2:32:00::
+us
+with_respect_to with_respect_to%5:00:00:related:02
+people people%1:14:00::
+.
+The
+fear fear%1:12:00::
+of
+disease disease%1:26:00::
+was be%2:42:03::
+formerly formerly%4:02:00::
+very_much very_much%4:02:01::
+the
+kind kind%1:09:00::
+of
+fear fear%1:12:00::
+I
+have
+tried try%2:41:00::
+to
+describe describe%2:32:00::
+.

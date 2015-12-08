@@ -1,0 +1,2246 @@
+In
+attempting attempt%2:36:00::
+to
+improve improve%2:30:01::
+specificity specificity%1:07:02::
+of
+staining staining%1:04:00::
+,
+the
+fluorescein fluorescein%1:27:00::
+labeled labeled%3:00:00::
+antisera antiserum%1:08:00::
+used use%2:34:01::
+in
+both
+direct direct%5:00:00:immediate:00
+and
+indirect indirect%5:00:00:mediate:00
+methods method%1:09:00::
+were
+treated treat%2:30:01::
+in
+one one%5:00:00:cardinal:00
+of
+several several%5:00:00:some(a):00
+ways way%1:07:01::
+:
+(
+1
+)
+They
+were
+passed_through pass_through%2:38:02::
+Dowex-2-chloride
+twice twice%4:02:00::
+and
+treated treat%2:30:01::
+with
+acetone acetone%1:27:00::
+insoluble insoluble%3:00:01::
+powders powder%1:27:00::
+(
+Coons person%1:03:00::
+,
+1958
+)
+prepared prepare%2:36:01::
+from
+mouse mouse%1:05:00::
+liver liver%1:08:00::
+or
+from
+healthy healthy%3:00:00::
+sweet_clover sweet_clover%1:20:00::
+stems stem%1:20:00::
+or
+crown_gall crown_gall%1:26:00::
+tissue tissue%1:08:00::
+produced produce%2:36:00::
+by
+Agrobacterium_tumefaciens agrobacterium_tumefaciens%1:05:00::
+(
+E._F._Smith person%1:03:00::
++
+Townsend person%1:03:00::
+)
+Conn location%1:03:00::
+,
+on
+sweet_clover sweet_clover%1:20:00::
+stems stem%1:20:00::
+.
+(
+2
+)
+The
+conjugates conjugate%1:27:00::
+as_well_as
+the
+intermediate intermediate%3:00:00::
+sera serum%1:08:00::
+were
+absorbed absorb%2:35:00::
+for
+30_minutes 30_minutes%1:28:00::
+with
+20 20%5:00:00:cardinal:00
+-
+50 50%5:00:00:cardinal:00
+mg mg%1:23:00::
+of
+proteins protein%1:27:00::
+extracted extract%2:35:04::
+from
+healthy healthy%3:00:00::
+sweet_clover sweet_clover%1:20:00::
+stems stem%1:20:00::
+.
+The
+proteins protein%1:27:00::
+were
+extracted extract%2:35:04::
+with
+3 3%5:00:00:cardinal:00
+volumes volume%1:23:01::
+of
+*
+*
+f
+in
+*
+*
+f
+to
+give give%2:36:00::
+a
+nearly nearly%4:02:00::
+neutral neutral%5:00:00:unreactive:00
+extract extract%1:27:00::
+and
+precipitated precipitate%2:30:01::
+by
+80 80%5:00:00:cardinal:00
+%
+saturation saturation%1:04:00::
+with
+*
+*
+f
+.
+The
+precipitate precipitate%1:27:00::
+was
+washed wash%2:35:02::
+twice twice%4:02:00::
+with
+an
+80 80%5:00:00:cardinal:00
+%
+saturated saturated%3:00:01::
+solution solution%1:27:00::
+of
+*
+*
+f
+,
+dissolved dissolve%2:38:00::
+in
+a
+small small%3:00:00::
+quantity quantity%1:03:00::
+of
+0.1
+M m%1:07:00::
+neutral neutral%5:00:00:unreactive:00
+phosphate phosphate%1:27:00::
+buffer buffer%1:27:00::
+,
+dialyzed dialyze%2:30:00::
+against
+cold cold%3:00:01::
+distilled_water distilled_water%1:27:00::
+till
+free free%3:00:00::
+from
+ammonium_ions ammonium_ion%1:27:00::
+,
+and
+lyophilized lyophilize%2:30:00::
+using use%2:34:01::
+liquid_nitrogen liquid_nitrogen%1:27:00::
+.
+(
+3
+)
+In
+other other%3:00:00::
+experiments experiment%1:04:00::
+the
+indirect indirect%5:00:00:mediate:00
+conjugate conjugate%1:27:00::
+was
+treated treat%2:30:01::
+with
+3 3%5:00:00:cardinal:00
+volumes volume%1:23:01::
+of
+ethyl_acetate ethyl_acetate%1:27:00::
+as
+recommended recommend%2:32:01::
+by
+Dineen person%1:03:00::
+and
+Ade person%1:03:00::
+(
+1957
+)
+.
+(
+4
+)
+The
+conjugates conjugate%1:27:00::
+were
+passed_through pass_through%2:38:02::
+a
+diethylaminoethyl diethylaminoethyl_cellulose%1:27:00::
+(
+DEAE
+-
+)
+cellulose cellulose%1:27:00::
+column column%1:06:02::
+equilibrated equilibrate%2:30:00::
+with
+neutral neutral%5:00:00:unreactive:00
+phosphate phosphate%1:27:00::
+buffer buffer%1:27:00::
+(
+PBS pbs%1:27:00::
+)
+containing contain%2:42:00::
+*
+*
+f
+potassium potassium%1:27:00::
+phosphate phosphate%1:27:00::
+and
+*
+*
+f
+.
+The
+technique technique%1:09:00::
+of
+cutting cutting%1:04:01::
+sections section%1:17:00::
+was be%2:42:03::
+essentially essentially%4:02:01::
+the
+same same%3:00:00::
+as
+that
+described describe%2:32:01::
+by
+Coons person%1:03:00::
+et_al. et_al.%4:02:00::
+(
+1951
+)
+.
+Root root%1:20:00::
+and
+stem stem%1:20:00::
+tumors tumor%1:26:00::
+from
+sweet_clover sweet_clover%1:20:00::
+plants plant%1:03:00::
+infected infected%5:00:01:septic:00
+with
+WTV
+were be%2:42:03::
+quick-frozen quick-frozen%5:00:00:preserved:02
+in
+liquid_nitrogen liquid_nitrogen%1:27:00::
+,
+embedded embed%2:35:00::
+in
+ice ice%1:27:00::
+,
+and
+cut cut%2:35:00::
+at
+3 3%5:00:00:cardinal:00
+-
+6 6%5:00:00:cardinal:00
+|
+m m%1:23:00::
+in
+a
+cryostat cryostat%1:06:00::
+maintained maintain%2:42:00::
+at
+-
+16 16%5:00:00:cardinal:00
+`
+to
+-
+20 20%5:00:00:cardinal:00
+`
+.
+The
+sections section%1:17:00::
+were
+mounted mount%2:30:01::
+on
+cold cold%3:00:01::
+slides slide%1:06:02::
+smeared smear%2:35:00::
+with
+Haupts person%1:03:00::
+'
+adhesive adhesive%1:27:00::
+(
+Johansen person%1:03:00::
+,
+1940
+)
+in
+earlier earlier%5:00:00:past:00
+experiments experiment%1:04:00::
+,
+and
+in
+later later%5:00:00:subsequent:00
+experiments experiment%1:04:00::
+with
+a
+different different%5:00:00:other:00
+mixture mixture%1:14:00::
+of
+the
+same same%3:00:02::
+components component%1:24:00::
+reported report%2:32:00::
+by
+Schramm person%1:03:00::
+and
+Rottger person%1:03:00::
+(
+1959
+)
+.
+The
+latter latter%3:00:00::
+adhesive adhesive%1:27:00::
+was
+found find%2:32:00::
+to
+be be%2:42:03::
+much much%4:02:00::
+more more%4:02:00::
+satisfactory satisfactory%3:00:00::
+.
+The
+sections section%1:17:00::
+were
+then then%4:02:00::
+thawed thaw%2:30:00::
+by
+placing place%2:35:00::
+a
+finger finger%1:08:00::
+under
+the
+slide slide%1:06:02::
+and
+dried dry%2:30:01::
+under
+a
+fan fan%1:06:00::
+for
+30_minutes 30_minutes%1:28:00::
+;
+until
+used use%2:34:01::
+they
+were
+stored store%2:40:02::
+for
+as_long_as
+2 2%5:00:00:cardinal:00
+weeks week%1:28:00::
+.
+The
+sections section%1:17:00::
+were
+fixed fix%2:30:02::
+in
+acetone acetone%1:27:00::
+for
+15_minutes 15_minutes%1:28:00::
+and
+dried dry%2:30:00::
+at
+37
+`
+for
+30_minutes 30_minutes%1:28:00::
+.
+Some
+of
+them
+were
+then then%4:02:00::
+covered cover%2:35:00::
+with
+a
+drop drop%1:23:00::
+of
+*
+*
+f
+in
+a
+moist moist%5:00:00:wet:01
+chamber chamber%1:06:00::
+at
+24 24%5:00:00:cardinal:00
+`
+for
+30 30%5:00:00:cardinal:00
+-
+40 40%5:00:00:cardinal:00
+minutes minute%1:28:00::
+.
+As
+controls control%1:09:02::
+other other%3:00:00::
+sections section%1:17:00::
+were
+similarly similarly%4:02:00::
+covered cover%2:35:00::
+with
+NS
+.
+Sections section%1:06:00::
+were
+then then%4:02:00::
+washed wash%2:35:02::
+with
+PBS pbs%1:27:00::
+for
+15 15%5:00:00:cardinal:00
+-
+30_minutes 30_minutes%1:28:00::
+.
+After
+blotting_out blot_out%2:30:00::
+most most%3:00:01::
+of
+the
+saline saline%1:27:00::
+around
+the
+sections section%1:17:00::
+,
+a
+drop drop%1:23:00::
+of
+*
+*
+f
+was
+layered layer%2:35:00::
+over
+each
+of
+the
+sections section%1:17:00::
+,
+allowed allow%2:32:00::
+to
+react react%2:30:00::
+for
+30_minutes 30_minutes%1:28:00::
+,
+and
+then then%4:02:00::
+washed wash%2:35:02::
+with
+PBS pbs%1:27:00::
+for
+15 15%5:00:00:cardinal:00
+-
+30_minutes 30_minutes%1:28:00::
+.
+After
+blotting_out blot_out%2:30:00::
+most most%3:00:01::
+of
+the
+liquid liquid%1:27:04::
+around
+the
+sections section%1:17:00::
+,
+the
+latter latter%3:00:00::
+were
+mounted mount%2:30:01::
+in
+buffered buffer%2:30:00::
+glycerine glycerine%1:27:00::
+(
+7 7%5:00:00:cardinal:00
+parts part%1:06:00::
+glycerine glycerine%1:27:00::
+to
+3 3%5:00:00:cardinal:00
+parts part%1:06:00::
+of
+PBS pbs%1:27:00::
+)
+.
+After
+drying dry%2:30:01::
+the
+sections section%1:17:00::
+under
+the
+fan fan%1:06:00::
+,
+fixing fix%2:30:02::
+in
+acetone acetone%1:27:00::
+,
+and
+drying dry%2:30:01::
+at
+37
+`
+as
+in
+the
+indirect indirect%5:00:00:mediate:00
+method method%1:09:00::
+,
+the
+sections section%1:17:00::
+were
+treated treat%2:30:01::
+with
+conjugated conjugated%5:00:02:bound:03
+*
+*
+f
+or
+*
+*
+f
+(
+undiluted undiluted%3:00:00::
+unless
+mentioned mention%2:32:02::
+otherwise
+)
+for
+5 5%5:00:00:cardinal:00
+-
+30_minutes 30_minutes%1:28:00::
+.
+As
+controls control%1:09:02::
+,
+other other%3:00:00::
+sections section%1:17:00::
+were
+similarly similarly%4:02:00::
+treated treat%2:30:01::
+with
+*
+*
+f
+or
+conjugated conjugated%5:00:02:bound:03
+antiserum antiserum%1:08:00::
+to
+the
+New_York location%1:03:00::
+strain strain%1:14:00::
+of
+potato_yellow-dwarf_virus potato_yellow-dwarf_virus%1:05:00::
+(
+Wolcyrz person%1:03:00::
+and
+Black person%1:03:00::
+,
+1956
+)
+.
+The
+sections section%1:17:00::
+were
+then then%4:02:00::
+washed wash%2:35:02::
+with
+PBS pbs%1:27:00::
+for
+15 15%5:00:00:cardinal:00
+-
+30_minutes 30_minutes%1:28:00::
+and
+mounted mount%2:30:01::
+in
+buffered buffer%2:30:00::
+glycerine glycerine%1:27:00::
+.
+Stained stained%3:00:00::
+or
+unstained unstained%3:00:00::
+sections section%1:17:00::
+were
+examined examine%2:31:00::
+under
+dark_field_illumination dark_field_illumination%1:04:00::
+in
+a
+Zeiss
+fluorescence fluorescence%1:19:00::
+microscope microscope%1:06:00::
+equipped equip%2:40:00::
+with
+a
+mercury mercury%1:27:00::
+vapor vapor%1:27:01::
+lamp lamp%1:06:00::
+(
+Osram_HBO
+200
+)
+.
+The
+light_beam light_beam%1:19:00::
+from
+the
+lamp lamp%1:06:00::
+was
+filtered filter%2:35:00::
+through
+a
+half half%5:00:00:fractional:00
+standard standard%3:00:02::
+thickness thickness%1:07:01::
+Corning
+1840
+filter filter%1:06:00::
+.
+In
+the
+eyepiece eyepiece%1:06:00::
+a
+Wratten
+2
+B
+filter filter%1:06:00::
+was
+used use%2:34:01::
+to
+filter filter%2:35:00::
+off
+residual residual%3:01:00::
+ultra-violet_light ultraviolet_light%1:19:00::
+.
+A
+red red%5:00:01:chromatic:00
+filter filter%2:35:00::
+,
+Zeiss
+barrier barrier%1:06:00::
+filter filter%2:35:00::
+with
+the
+code code%1:10:00::
+(
+Schott
+)
+designation designation%1:10:01::
+BG
+23
+,
+was
+also also%4:02:00::
+used use%2:34:01::
+in
+the
+ocular ocular%3:01:00::
+lens lens%1:06:00::
+assembly assembly%1:06:00::
+as
+it
+improved improve%2:30:01::
+the
+contrast contrast%1:09:00::
+between
+specific specific%3:00:00::
+and
+nonspecific nonspecific%3:00:00::
+fluorescence fluorescence%1:19:00::
+.
+In
+the
+first first%5:00:00:ordinal:00
+few few%3:00:00::
+experiments experiment%1:04:00::
+*
+*
+f
+was
+passed_through pass_through%2:38:02::
+Dowex-2-chloride
+twice twice%4:02:00::
+and
+absorbed absorb%2:35:01::
+twice twice%4:02:00::
+with
+50 50%5:00:00:cardinal:00
+-
+100 100%5:00:00:cardinal:00
+mg mg%1:23:00::
+sweet_clover sweet_clover%1:20:00::
+tissue tissue%1:08:00::
+powder powder%1:27:00::
+.
+The
+intermediate intermediate%3:00:00::
+sera serum%1:08:00::
+were
+also also%4:02:00::
+similarly similarly%4:02:00::
+absorbed absorb%2:35:01::
+with
+tissue tissue%1:08:00::
+powder powder%1:27:00::
+.
+Sections section%1:06:00::
+of
+sweet_clover sweet_clover%1:20:00::
+stem stem%1:20:00::
+and
+root root%1:20:00::
+tumors tumor%1:26:00::
+were
+treated treat%2:30:01::
+with
+1 1%5:00:00:cardinal:00
+:
+10 10%5:00:00:cardinal:00
+solution solution%1:27:00::
+of
+*
+*
+f
+for
+30_minutes 30_minutes%1:28:00::
+,
+washed wash%2:35:02::
+in
+buffered buffer%2:30:00::
+saline saline%1:27:00::
+for
+15_minutes 15_minutes%1:28:00::
+,
+stained stain%2:30:01::
+with
+*
+*
+f
+for
+30_minutes 30_minutes%1:28:00::
+,
+and
+washed wash%2:35:02::
+for
+15_minutes 15_minutes%1:28:00::
+in
+PBS pbs%1:27:00::
+.
+Such such%5:00:01:specified:00
+sections section%1:17:00::
+showed show%2:39:02::
+bright bright%3:00:00::
+yellow-green yellow-green%5:00:00:chromatic:00
+specific specific%3:00:00::
+fluorescence fluorescence%1:19:00::
+in
+the
+cells cell%1:03:00::
+of
+the
+pseudophloem pseudophloem%1:20:00::
+tissue tissue%1:08:00::
+(
+Lee person%1:03:00::
+and
+Black person%1:03:00::
+,
+1955
+)
+.
+This
+specific specific%3:00:00::
+fluorescence fluorescence%1:19:00::
+was
+readily readily%4:02:00::
+distinguished distinguish%2:39:00::
+from
+the
+light_green light-green%5:00:00:chromatic:00
+nonspecific nonspecific%3:00:00::
+fluorescence fluorescence%1:19:00::
+in
+consecutive consecutive%5:00:00:succeeding(a):00
+sections section%1:17:00::
+stained stain%2:30:01::
+with
+1 1%5:00:00:cardinal:00
+:
+10 10%5:00:00:cardinal:00
+dilution dilution%1:27:00::
+of
+NS
+and
+*
+*
+f
+or
+with
+*
+*
+f
+alone alone%4:02:01::
+.
+Unstained unstained%3:00:00::
+sections section%1:17:00::
+mounted mount%2:30:01::
+in
+buffered buffer%2:30:00::
+glycerine glycerine%1:27:00::
+or
+sections section%1:17:00::
+treated treat%2:30:01::
+only only%4:02:01::
+with
+NS
+or
+*
+*
+f
+did
+not not%4:02:00::
+show show%2:39:02::
+such such%5:00:01:specified:00
+green green%5:00:00:chromatic:00
+fluorescence fluorescence%1:19:00::
+.
+Sections section%1:06:00::
+of
+crown_gall crown_gall%1:26:00::
+tissue tissue%1:08:00::
+similarly similarly%4:02:00::
+stained stain%2:30:01::
+with
+either
+*
+*
+f
+and
+*
+*
+f
+or
+NS
+and
+*
+*
+f
+also also%4:02:00::
+showed show%2:39:02::
+only only%4:02:01::
+the
+light_green light-green%5:00:00:chromatic:00
+nonspecific nonspecific%3:00:00::
+fluorescence fluorescence%1:19:00::
+.
+However however%4:02:00::
+,
+the
+nonspecific nonspecific%3:00:00::
+staining staining%1:04:00::
+by
+the
+*
+*
+f
+in
+tumor tumor%1:26:00::
+sections section%1:17:00::
+was
+considered consider%2:31:00::
+bright bright%3:00:00::
+enough enough%4:02:00::
+to
+be
+confused confuse%2:31:02::
+with
+the
+staining staining%1:04:00::
+of
+small small%3:00:00::
+amounts amount%1:07:00::
+of
+WTV
+antigen antigen%1:27:00::
+.
+Two two%5:00:00:cardinal:00
+absorptions absorption%1:22:00::
+of
+*
+*
+f
+with
+ethyl_acetate ethyl_acetate%1:27:00::
+or
+two two%5:00:00:cardinal:00
+absorptions absorption%1:22:00::
+of
+*
+*
+f
+(
+which
+had
+been
+passed_through pass_through%2:38:02::
+Dowex-2-chloride
+)
+,
+NS
+and
+*
+*
+f
+with
+crown_gall crown_gall%1:26:00::
+tissue tissue%1:08:00::
+powder powder%1:27:00::
+,
+or
+mouse mouse%1:05:00::
+liver liver%1:08:00::
+powder powder%1:27:00::
+did
+not not%4:02:00::
+further further%4:02:02::
+improve improve%2:30:01::
+the
+specificity specificity%1:07:01::
+of
+staining staining%1:04:00::
+.
+Treatment treatment%1:04:01::
+of
+all all%3:00:00::
+the
+sera serum%1:08:00::
+with
+sweet_clover sweet_clover%1:20:00::
+proteins protein%1:27:00::
+greatly greatly%4:02:00::
+reduced reduce%2:30:00::
+nonspecific nonspecific%3:00:00::
+fluorescence fluorescence%1:19:00::
+,
+especially especially%4:02:00::
+when
+the
+treated treated%5:00:00:stained:00
+conjugate conjugate%1:27:00::
+was
+diluted dilute%2:30:00::
+to
+1 1%5:00:00:cardinal:00
+:
+2 2%5:00:00:cardinal:00
+with
+0.85
+%
+saline saline%1:27:00::
+.
+In
+all all%3:00:00::
+the
+above above%5:00:00:preceding(a):00
+procedures procedure%1:04:00::
+,
+when
+the
+intermediate intermediate%3:00:00::
+sera serum%1:08:00::
+were
+diluted dilute%2:30:00::
+to
+1 1%5:00:00:cardinal:00
+:
+10 10%5:00:00:cardinal:00
+or
+1 1%5:00:00:cardinal:00
+:
+100 100%5:00:00:cardinal:00
+with
+0.85
+%
+saline saline%1:27:00::
+,
+the
+specific specific%3:00:00::
+and
+nonspecific nonspecific%3:00:00::
+fluorescence fluorescence%1:19:00::
+were
+not not%4:02:00::
+appreciably appreciably%4:02:01::
+reduced reduce%2:30:00::
+,
+whereas
+,
+a
+dilution dilution%1:27:00::
+of
+the
+intermediate intermediate%3:00:00::
+sera serum%1:08:00::
+to
+1 1%5:00:00:cardinal:00
+:
+500 500%5:00:00:cardinal:00
+or
+diluting dilute%2:30:00::
+the
+*
+*
+f
+to
+1 1%5:00:00:cardinal:00
+:
+5 5%5:00:00:cardinal:00
+greatly greatly%4:02:00::
+reduced reduce%2:30:00::
+specific specific%3:00:00::
+fluorescence fluorescence%1:19:00::
+.
+Rinsing rinse%2:35:02::
+the
+sections section%1:17:00::
+with
+PBS pbs%1:27:00::
+before
+layering layer%2:35:00::
+the
+intermediate intermediate%3:00:00::
+sera serum%1:08:00::
+did
+not not%4:02:00::
+improve improve%2:30:01::
+the
+staining staining%1:04:00::
+reaction reaction%1:22:00::
+.
+In_addition in_addition%4:02:00::
+to
+other other%3:00:00::
+treatments treatment%1:04:01::
+,
+treating treat%2:30:01::
+the
+sections section%1:17:00::
+with
+normal normal%3:00:01::
+sheep sheep%1:05:00::
+serum serum%1:08:00::
+for
+half half%5:00:00:fractional:00
+an
+hour hour%1:28:00::
+before
+layering layer%2:35:00::
+*
+*
+f
+did
+not not%4:02:00::
+reduce reduce%2:30:00::
+nonspecific nonspecific%3:00:00::
+staining staining%1:04:00::
+.
+The
+only only%5:00:00:single(a):00
+treatment treatment%1:04:01::
+by
+which
+nonspecific nonspecific%3:00:00::
+staining staining%1:04:00::
+could
+be be%2:42:03::
+satisfactorily satisfactorily%4:02:00::
+removed remove%2:30:00::
+was be%2:42:06::
+by
+passing pass_through%2:38:02::
+the
+conjugate conjugate%1:27:00::
+through
+a
+DEAE-cellulose deae_cellulose%1:27:00::
+column column%1:06:02::
+.
+When
+1 1%5:00:00:cardinal:00
+ml ml%1:23:00::
+of
+conjugate conjugate%1:27:00::
+was
+passed_through pass_through%2:38:02::
+a
+column column%1:06:02::
+(
+*
+*
+f
+)
+,
+the
+first first%5:00:00:ordinal:00
+and
+second second%5:00:00:ordinal:00
+milliliter milliliter%1:23:00::
+fractions fraction%1:27:00::
+collected collect%2:35:01::
+were be%2:42:03::
+the
+most most%4:02:00::
+specific specific%3:00:00::
+and
+gave give%2:40:05::
+no
+nonspecific nonspecific%3:00:00::
+staining staining%1:04:00::
+in
+some some%5:00:00:many:00
+experiments experiment%1:04:00::
+,
+and
+very very%4:02:00::
+little little%3:00:03::
+in
+others
+.
+In
+the
+latter latter%3:00:00::
+cases case%1:26:00::;1:11:00::
+an
+additional additional%5:00:00:added:00
+treatment treatment%1:04:01::
+of
+the
+DEAE
+cellulose cellulose%1:27:00::
+treated treated%5:00:00:stained:00
+*
+*
+f
+with
+50 50%5:00:00:cardinal:00
+mg mg%1:23:00::
+of
+sweet_clover sweet_clover%1:20:00::
+stem stem%1:20:00::
+tissue tissue%1:08:00::
+powder powder%1:27:00::
+further further%4:02:02::
+improved improve%2:30:01::
+the
+specificity specificity%1:07:01::
+.
+After
+these
+treatments treatment%1:04:01::
+the
+conjugate conjugate%1:27:00::
+did
+not not%4:02:00::
+stain stain%2:30:01::
+healthy healthy%3:00:00::
+or
+crown_gall crown_gall%1:26:00::
+sweet_clover sweet_clover%1:20:00::
+tissues tissue%1:08:00::
+or
+stained stain%2:30:01::
+them
+a
+very very%4:02:00::
+faint faint%5:00:00:indistinct:00
+green green%5:00:00:chromatic:00
+which
+was be%2:42:03::
+easily easily%4:02:01::
+distinguishable distinguishable%3:00:00::
+from
+the
+bright bright%3:00:00::
+yellow-green yellow-green%5:00:00:chromatic:00
+specific specific%3:00:00::
+staining staining%1:04:00::
+.
+With
+this
+purified purified%5:00:00:pure:02
+conjugate conjugate%1:27:00::
+the
+best best%3:00:00::
+staining staining%1:04:00::
+procedure procedure%1:04:00::
+consisted_of consist_of%2:42:01::
+treating treat%2:30:01::
+the
+sections section%1:17:00::
+with
+1 1%5:00:00:cardinal:00
+:
+10 10%5:00:00:cardinal:00
+dilution dilution%1:27:00::
+of
+*
+*
+f
+for
+30_minutes 30_minutes%1:28:00::
+,
+washing wash%2:35:02::
+with
+PBS pbs%1:27:00::
+for
+15_minutes 15_minutes%1:28:00::
+,
+staining stain%2:30:01::
+with
+*
+*
+f
+for
+30_minutes 30_minutes%1:28:00::
+,
+and
+washing wash%2:35:02::
+with
+PBS pbs%1:27:00::
+for
+15_minutes 15_minutes%1:28:00::
+.
+The
+specificity specificity%1:07:01::
+of
+staining staining%1:04:00::
+in
+WTV
+tumors tumor%1:26:00::
+with
+*
+*
+f
+and
+*
+*
+f
+but
+not not%4:02:00::
+with
+NS
+and
+*
+*
+f
+or
+with
+antiserum antiserum%1:08:00::
+to
+potato_yellow-dwarf_virus potato_yellow-dwarf_virus%1:05:00::
+and
+*
+*
+f
+,
+and
+the
+absence absence%1:26:00::
+of
+such such%5:00:01:specified:00
+staining staining%1:04:00::
+in
+crown_gall crown_gall%1:26:00::
+tumor tumor%1:26:00::
+tissue tissue%1:08:00::
+from
+sweet-clover sweet_clover%1:20:00::
+,
+indicate indicate%2:32:01::
+that
+an
+antigen antigen%1:27:00::
+of
+WTV
+was
+being
+stained stain%2:30:01::
+.
+*
+*
+f
+was
+first first%4:02:02::
+conjugated conjugated%5:00:02:bound:03
+with
+50 50%5:00:00:cardinal:00
+mg mg%1:23:00::
+of
+FITC
+per
+gram gram%1:23:00::
+of
+globulin globulin%1:27:00::
+.
+This
+conjugate conjugate%1:27:00::
+was
+passed pass_through%2:38:02::
+twice twice%4:02:00::
+through
+Dowex-2-chloride
+and
+treated treat%2:30:01::
+with
+various various%5:00:02:different:00
+tissue tissue%1:08:00::
+powders powder%1:27:00::
+in
+the
+same same%3:00:00::
+manner manner%1:07:02::
+as
+described describe%2:32:01::
+for
+the
+indirect indirect%5:00:00:mediate:00
+method method%1:09:00::
+.
+In
+all all%3:00:00::
+cases case%1:11:00::
+a
+disturbing disturbing%5:00:00:heavy:02
+amount amount%1:07:00::
+of
+nonspecific nonspecific%3:00:00::
+staining staining%1:04:00::
+was be%2:42:03::
+still still%4:02:01::
+present present%3:00:02::
+although
+it
+was be%2:42:03::
+still still%4:02:01::
+distinguishable distinguishable%3:00:00::
+from
+specific specific%3:00:00::
+fluorescence fluorescence%1:19:00::
+.
+In
+later later%5:00:00:subsequent:00
+experiments experiment%1:04:00::
+,
+*
+*
+f
+and
+*
+*
+f
+were
+prepared prepare%2:30:00::
+by
+conjugating conjugate%2:30:00::
+8 8%5:00:00:cardinal:00
+mg mg%1:23:00::
+of
+FITC
+per
+gram gram%1:23:00::
+of
+globulin globulin%1:27:00::
+.
+These
+conjugates conjugate%1:27:00::
+*
+*
+f
+had have%2:40:00::
+much much%4:02:00::
+less less%4:02:00::
+nonspecific nonspecific%3:00:00::
+staining staining%1:04:00::
+than
+the
+previous previous%5:00:00:past:00
+conjugate conjugate%1:27:00::
+(
+with
+50 50%5:00:00:cardinal:00
+mg mg%1:23:00::
+FITC
+per
+gram gram%1:23:00::
+of
+globulin globulin%1:27:00::
+)
+while
+the
+specific specific%3:00:00::
+staining staining%1:04:00::
+was be%2:42:03::
+similar similar%3:00:00::
+in
+both
+cases case%1:11:00::
+.
+Nonspecific nonspecific%3:00:00::
+staining staining%1:04:00::
+could
+be be%2:42:03::
+satisfactorily satisfactorily%4:02:00::
+eliminated eliminate%2:30:01::
+by
+passing pass_through%2:38:02::
+these
+conjugates conjugate%1:27:00::
+through
+a
+DEAE-cellulose deae_cellulose%1:27:00::
+column column%1:06:02::
+as
+described describe%2:32:01::
+for
+*
+*
+f
+.
+The
+best best%3:00:00::
+staining staining%1:04:00::
+procedure procedure%1:04:00::
+with
+this
+purified purified%5:00:00:pure:02
+*
+*
+f
+consisted_of consist_of%2:42:01::
+staining stain%2:30:01::
+with
+the
+conjugate conjugate%1:27:00::
+for
+30_minutes 30_minutes%1:28:00::
+and
+washing wash%2:35:02::
+in
+PBS pbs%1:27:00::
+for
+15_minutes 15_minutes%1:28:00::
+.
+The
+specificity specificity%1:07:01::
+of
+staining staining%1:04:00::
+with
+*
+*
+f
+was
+established establish%2:31:00::
+as_follows as_follows%4:02:00::
+:
+*
+*
+f
+specifically specifically%4:02:00::
+stained stained%3:00:00::
+tumor tumor%1:26:00::
+sections section%1:17:00::
+but
+not not%4:02:00::
+sections section%1:17:00::
+of
+healthy healthy%3:00:00::
+sweet_clover sweet_clover%1:20:00::
+stems stem%1:20:00::
+or
+of
+crown_gall crown_gall%1:26:00::
+tumor tumor%1:26:00::
+tissue tissue%1:08:00::
+from
+sweet_clover sweet_clover%1:20:00::
+.
+Sections section%1:06:00::
+of
+tumors tumor%1:26:00::
+incited incite%2:36:00::
+by
+WTV
+were
+not not%4:02:00::
+similarly similarly%4:02:00::
+stained stain%2:30:01::
+with
+conjugated conjugated%5:00:02:bound:03
+normal normal%3:00:01::
+serum serum%1:08:00::
+or
+conjugated conjugated%5:00:02:bound:03
+antiserum antiserum%1:08:00::
+to
+potato_yellow-dwarf_virus potato_yellow-dwarf_virus%1:05:00::
+.
+After
+passing pass_through%2:38:02::
+*
+*
+f
+through
+DEAE-cellulose deae_cellulose%1:27:00::
+,
+the
+titer titer%1:07:00::
+of
+antibodies antibody%1:27:00::
+to
+WTV
+in
+the
+specific specific%3:00:00::
+fraction fraction%1:27:00::
+was be%2:42:07::
+1 1%5:00:00:cardinal:00
+:
+4 4%5:00:00:cardinal:00
+of
+the
+titer titer%1:07:00::
+before
+such such%5:00:01:specified:00
+passage passage%1:04:00::
+(
+precipitin precipitin%1:27:00::
+ring ring%1:25:00::
+tests test%1:09:02::
+by
+R._F._Whitcomb person%1:03:00::
+)
+;
+but
+mere mere%5:00:00:specified:00
+dilution dilution%1:04:00::
+of
+the
+conjugate conjugate%1:27:00::
+to
+1 1%5:00:00:cardinal:00
+:
+4 4%5:00:00:cardinal:00
+did
+not not%4:02:00::
+satisfactorily satisfactorily%4:02:00::
+remove remove%2:30:00::
+nonspecific nonspecific%3:00:00::
+staining staining%1:04:00::
+.
+This
+indicates indicate%2:32:01::
+that
+increase increase%1:22:00::
+in
+specificity specificity%1:07:01::
+of
+*
+*
+f
+after
+passing pass_through%2:38:02::
+it
+through
+DEAE-cellulose deae_cellulose%1:27:00::
+was be_due%2:42:00::
+not not%4:02:00::
+merely merely%4:02:00::
+due_to due_to%5:00:00:attributable:00
+dilution dilution%1:04:00::
+.
+Specific specific%3:00:00::
+staining staining%1:04:00::
+by
+DEAE-cellulose deae_cellulose%1:27:00::
+treated treat%2:30:01::
+*
+*
+f
+and
+*
+*
+f
+,
+although
+clearly clearly%4:02:02::
+distinguishable distinguishable%3:00:00::
+under
+the
+microscope microscope%1:06:00::
+from
+either
+nonspecific nonspecific%3:00:00::
+staining staining%1:04:00::
+or
+autofluorescence autofluorescence%1:19:00::
+of
+cells cell%1:03:00::
+,
+was
+not not%4:02:00::
+satisfactorily satisfactorily%4:02:00::
+photographed photograph%2:32:00::
+to
+show show%2:39:00::
+such such%5:00:01:specified:00
+differences difference%1:07:00::
+in_spite_of
+many many%3:00:00::
+attempts attempt%1:04:00::
+with
+black_and_white black_and_white%3:00:02::
+and
+color color%3:00:00::
+photography photography%1:04:00::
+.
+This
+was be%2:42:03::
+chiefly chiefly%4:02:00::
+because
+of
+the
+bluish bluish%5:00:00:chromatic:00
+white white%3:00:01::
+autofluorescence autofluorescence%1:19:00::
+from
+the
+cells cell%1:03:00::
+.
+The
+autofluorescence autofluorescence%1:19:00::
+from
+the
+walls wall%1:06:00::
+of
+the
+xylem xylem%1:20:00::
+cells cell%1:03:00::
+was be%2:42:03::
+particularly particularly%4:02:00::
+brilliant brilliant%5:00:00:bright:00
+.
+Results result%1:19:00::
+of
+specific specific%3:00:00::
+staining staining%1:04:00::
+by
+the
+direct direct%5:00:00:immediate:00
+and
+the
+indirect indirect%5:00:00:mediate:00
+methods method%1:09:00::
+were be%2:42:03::
+similar similar%3:00:00::
+and
+showed show%2:32:00::
+the
+localization localization%1:04:00::
+of
+WTV
+antigen antigen%1:27:00::
+in
+certain certain%5:00:00:definite:00
+tissues tissue%1:08:00::
+of
+tumors tumor%1:26:00::
+.
+The
+virus virus%1:05:00::
+antigen antigen%1:27:00::
+was
+concentrated concentrated%5:00:00:undiluted:00
+in
+the
+pseudophloem pseudophloem%1:20:00::
+tissue tissue%1:08:00::
+.
+Frequently frequently%4:02:00::
+a_few a_few%5:00:00:few:00
+isolated isolated%5:00:01:separate:00
+thick thick%3:00:01::
+walled walled%3:00:00::
+cells cell%1:03:00::
+or
+,
+rarely rarely%4:02:00::
+,
+groups group%1:03:00::
+of
+such such%5:00:01:specified:00
+cells cell%1:03:00::
+in
+the
+xylem xylem%1:20:00::
+region region%1:08:00::
+,
+were
+also also%4:02:00::
+specifically specifically%4:02:00::
+stained stain%2:30:01::
+,
+but
+there
+was be%2:42:04::
+no
+such such%5:00:01:specified:00
+staining staining%1:04:01::
+in
+epidermis epidermis%1:08:00::
+,
+cortex cortex%1:08:00::
+,
+most most%3:00:02::
+xylem xylem%1:20:00::
+cells cell%1:03:00::
+,
+ray ray%1:20:00::
+cells cell%1:03:00::
+,
+or
+pith pith%1:20:00::
+.
+Within
+the
+pseudophloem pseudophloem%1:20:00::
+cells cell%1:03:00::
+the
+distribution distribution%1:09:00::
+of
+WTV
+antigen antigen%1:27:00::
+was be%2:42:03::
+irregular irregular%3:00:00::
+in
+the
+cytoplasm cytoplasm%1:08:00::
+.
+No
+antigen antigen%1:27:00::
+was be%2:42:03::
+detectable detectable%5:00:00:perceptible:00
+in
+certain certain%5:00:00:definite:00
+dark dark%3:00:02::
+spherical spherical%3:01:00::
+areas area%1:08:00::
+in
+most most%3:00:02::
+cells cell%1:03:00::
+.
+These
+areas area%1:08:00::
+are be%2:42:03::
+thought think%2:31:01::
+to
+represent represent%2:42:02::
+the
+nuclei nucleus%1:08:00::
+.
+In
+some some%3:00:00::
+tumor tumor%1:26:00::
+sections section%1:17:00::
+small small%3:00:00::
+spherical spherical%3:01:00::
+bodies body%1:17:00::
+,
+possibly possibly%4:02:00::
+inclusion_bodies inclusion_body%1:17:00::
+(
+Littau person%1:03:00::
+and
+Black person%1:03:00::
+,
+1952
+)
+stained stain%2:30:01::
+more more%4:02:00::
+intensely intensely%4:02:00::
+than
+the
+rest rest%1:24:00::
+of
+cytoplasm cytoplasm%1:08:00::
+and
+probably probably%4:02:00::
+contained contain%2:42:00::
+more more%3:00:01::
+antigen antigen%1:27:00::
+.
+In
+all all%3:00:00::
+cases case%1:11:00::
+studied study%2:31:02::
+tissues tissue%1:08:00::
+of
+the
+stem stem%1:20:00::
+on
+which
+the
+tumor tumor%1:26:00::
+had
+developed develop%2:29:00::
+did
+not not%4:02:00::
+contain contain%2:42:13::
+detectable detectable%5:00:00:perceptible:00
+amounts amount%1:07:00::
+of
+WTV
+antigen antigen%1:27:00::
+.
+In
+both
+the
+direct direct%5:00:00:immediate:00
+and
+indirect indirect%5:00:00:mediate:00
+methods method%1:09:00::
+of
+staining staining%1:04:00::
+,
+the
+conjugates conjugate%1:27:00::
+had have%2:42:00::
+nonspecifically nonspecifically%4:02:00::
+staining staining%1:04:01::
+fractions fraction%1:27:00::
+.
+In
+the
+indirect indirect%5:00:00:mediate:00
+method method%1:09:00::
+,
+this
+was be%2:42:03::
+evident evident%5:00:00:obvious:00
+from
+the
+fact fact%1:10:01::
+that
+tumor tumor%1:26:00::
+sections section%1:17:00::
+were
+stained stain%2:30:00::
+light_green light-green%5:00:00:chromatic:00
+even even%4:02:00::
+when
+stained stain%2:30:01::
+with
+NS
+and
+*
+*
+f
+or
+with
+*
+*
+f
+only only%4:02:01::
+.
+In
+the
+direct direct%5:00:00:immediate:00
+method method%1:09:00::
+,
+*
+*
+f
+,
+not not%4:02:00::
+further further%4:02:02::
+treated treat%2:30:01::
+,
+stained stain%2:30:01::
+certain certain%5:00:00:definite:00
+tissues tissue%1:08:00::
+of
+healthy healthy%3:00:00::
+sweet_clover sweet_clover%1:20:00::
+stems stem%1:20:00::
+nonspecifically nonspecifically%4:02:00::
+and
+WTV
+tumor tumor%1:26:00::
+sections section%1:17:00::
+were
+similarly similarly%4:02:00::
+stained stain%2:30:01::
+by
+comparable comparable%3:00:00::
+*
+*
+f
+.
+After
+*
+*
+f
+and
+*
+*
+f
+were
+passed_through pass_through%2:38:02::
+Dowex-2-chloride
+twice twice%4:02:00::
+and
+treated treat%2:30:01::
+twice twice%4:02:00::
+with
+healthy healthy%3:00:00::
+sweet_clover sweet_clover%1:20:00::
+tissue tissue%1:08:00::
+powder powder%1:27:00::
+,
+nonspecific nonspecific%3:00:00::
+staining staining%1:04:01::
+was
+greatly greatly%4:02:00::
+reduced reduce%2:30:00::
+but
+a
+disturbing disturbing%5:00:00:heavy:02
+amount amount%1:07:00::
+of
+such such%5:00:01:specified:00
+staining staining%1:04:01::
+was be%2:42:03::
+still still%4:02:01::
+present present%3:00:02::
+.
+Treatment treatment%1:04:01::
+of
+the
+conjugates conjugate%1:27:00::
+with
+ethyl_acetate ethyl_acetate%1:27:00::
+,
+and
+the
+conjugates conjugate%1:27:00::
+(
+which
+had
+been
+passed_through pass_through%2:38:02::
+Dowex-2-chloride
+)
+with
+mouse mouse%1:05:00::
+liver liver%1:08:00::
+powder powder%1:27:00::
+,
+sweet_clover sweet_clover%1:20:00::
+crown_gall crown_gall%1:26:00::
+tissue tissue%1:08:00::
+powder powder%1:27:00::
+,
+or
+healthy healthy%3:00:00::
+sweet_clover sweet_clover%1:20:00::
+proteins protein%1:27:00::
+did
+not not%4:02:00::
+satisfactorily satisfactorily%4:02:00::
+remove remove%2:30:00::
+nonspecifically nonspecifically%4:02:00::
+staining staining%1:04:01::
+substances substance%1:03:00::
+in
+the
+conjugates conjugate%1:27:00::
+.
+Such such%5:00:01:specified:00
+treatments treatment%1:04:01::
+of
+the
+conjugates conjugate%1:27:00::
+have
+usually usually%4:02:00::
+been be%2:42:03::
+successful successful%3:00:00::
+in
+eliminating eliminate%2:30:01::
+nonspecific nonspecific%3:00:00::
+staining staining%1:04:01::
+in
+several several%5:00:00:some(a):00
+other other%3:00:00::
+systems system%1:27:00::
+(
+Coons person%1:03:00::
+,
+1958
+)
+.
+Schramm person%1:03:00::
+and
+Rottger person%1:03:00::
+(
+1959
+)
+did
+not not%4:02:00::
+report report%2:32:04::
+any
+such such%5:00:01:specified:00
+nonspecific nonspecific%3:00:00::
+staining staining%1:04:01::
+of
+plant_tissues plant_tissue%1:20:00::
+with
+fluorescein fluorescein%1:27:00::
+isocyanate isocyanate%1:27:00::
+labeled labeled%3:00:00::
+antiserum antiserum%1:08:00::
+to
+tobacco_mosaic_virus tobacco_mosaic_virus%1:05:00::
+.
+The
+reason reason%1:10:01::
+for
+the
+failure failure%1:11:00::
+of
+these
+treatments treatment%1:04:01::
+to
+eliminate eliminate%2:30:01::
+nonspecific nonspecific%3:00:00::
+staining staining%1:04:01::
+in
+the
+conjugates conjugate%1:27:00::
+in
+our
+system system%1:27:00::
+is
+not not%4:02:00::
+known know%2:31:01::
+.
+In
+our
+work work%1:04:00::
+the
+best best%3:00:00::
+procedure procedure%1:04:00::
+for
+removing remove%2:30:00::
+substances substance%1:03:00::
+causing cause%2:36:00::
+nonspecific nonspecific%3:00:00::
+staining staining%1:04:01::
+in_order
+to
+obtain obtain%2:40:00::
+specific specific%3:00:00::
+conjugates conjugate%1:27:00::
+was
+to
+pass pass_through%2:38:02::
+the
+conjugates conjugate%1:27:00::
+through
+a
+DEAE-cellulose deae_cellulose%1:27:00::
+column column%1:06:02::
+and
+in
+some some%3:00:00::
+cases case%1:11:00::
+to
+absorb absorb%2:35:01::
+the
+first first%5:00:00:ordinal:00
+and
+second second%5:00:00:ordinal:00
+milliliter milliliter%1:23:00::
+fractions fraction%1:27:00::
+with
+sweet_clover sweet_clover%1:20:00::
+tissue tissue%1:08:00::
+powder powder%1:27:00::
+.
+The
+specific specific%3:00:00::
+staining staining%1:04:01::
+by
+both
+direct direct%5:00:00:immediate:00
+and
+indirect indirect%5:00:00:mediate:00
+methods method%1:09:00::
+showed show%2:32:00::
+that
+WTV
+antigen antigen%1:27:00::
+was
+concentrated concentrated%5:00:00:undiluted:00
+in
+the
+pseudophloem pseudophloem%1:20:00::
+tissue tissue%1:08:00::
+and
+in
+a_few a_few%5:00:00:few:00
+thick thick%3:00:01::
+walled walled%3:00:00::
+cells cell%1:03:00::
+in
+the
+xylem xylem%1:20:00::
+region region%1:08:00::
+,
+but
+was be%2:42:03::
+not not%4:02:00::
+detectable detectable%5:00:00:perceptible:00
+in
+any
+other other%3:00:00::
+tissues tissue%1:08:00::
+of
+the
+root root%1:20:00::
+and
+stem stem%1:20:00::
+tumors tumor%1:26:00::
+.
+A
+study study%1:04:00::
+of
+the
+distribution distribution%1:09:00::
+of
+WTV
+antigen antigen%1:27:00::
+within
+the
+pseudophloem pseudophloem%1:20:00::
+cells cell%1:03:00::
+indicates indicate%2:32:01::
+that
+it
+is be%2:42:03::
+irregularly irregularly%4:02:01::
+distributed distribute%2:35:01::
+in
+the
+cytoplasm cytoplasm%1:08:00::
+.
+Wound_tumor_virus wound_tumor_virus%1:05:00::
+is be%2:42:03::
+a
+leafhopper leafhopper%1:05:00::
+transmitted transmit%2:38:00::
+virus virus%1:05:00::
+not not%4:02:00::
+easily easily%4:02:01::
+transmissible transmissible%5:00:00:infectious:00
+by
+mechanical mechanical%3:00:00::
+inoculation inoculation%1:04:00::
+(
+Black person%1:03:00::
+,
+1944
+;
+Brakke person%1:03:00::
+et_al. et_al.%4:02:00::
+,
+1954
+)
+.
+The
+concentration concentration%1:07:02::
+and
+apparent apparent%5:00:00:superficial:00
+localization localization%1:04:00::
+of
+the
+WTV
+antigen antigen%1:27:00::
+in
+pseudophloem pseudophloem%1:20:00::
+tissue tissue%1:08:00::
+of
+the
+tumor tumor%1:26:00::
+may
+indicate indicate%2:32:01::
+that
+the
+virus virus%1:05:00::
+preferentially preferentially%4:02:00::
+multiplies multiply%2:29:00::
+in
+the
+phloem phloem%1:20:00::
+and
+may
+need
+to
+be
+directly directly%4:02:00::
+placed place%2:35:00::
+in
+this
+tissue tissue%1:08:00::
+in_order_to
+infect infect%2:29:01::
+plants plant%1:03:00::
+.

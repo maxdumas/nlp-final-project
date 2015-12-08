@@ -1,0 +1,2146 @@
+Be
+it
+enacted enact%2:41:00::
+by
+the
+Senate senate%1:14:01::
+and
+House_of_Representatives house_of_representatives%1:14:00::
+of
+the
+United_States_of_America united_states_of_america%1:15:00::
+in
+Congress congress%1:14:01::
+assembled assemble%2:41:00::
+,
+That
+the
+Act act%1:10:01::
+of
+July july%1:28:00::
+3
+,
+1952
+(
+66
+Stat.
+328
+)
+as
+amended amend%2:32:00::
+(
+42
+U._S._C.
+1952
+-
+1958
+)
+,
+is
+further further%5:00:00:added:00
+amended amend%2:32:00::
+to
+read read%2:42:00::
+as_follows as_follows%4:02:00::
+:
+In_view_of
+the
+increasing increasing%3:00:00::
+shortage shortage%1:26:00::
+of
+usable usable%5:00:00:useful:00
+surface surface%1:17:00::
+and
+ground_water ground_water%1:27:00::
+in
+many many%3:00:00::
+parts part%1:15:00::
+of
+the
+Nation nation%1:15:00::
+and
+the
+importance importance%1:07:00::
+of
+finding find%2:40:00::
+new new%3:00:00::
+sources source%1:15:00::
+of
+supply supply%1:23:00::
+to
+meet meet%2:34:00::
+its
+present present%3:00:01::
+and
+future future%1:28:00::
+water water%1:27:00::
+needs need%1:17:00::
+,
+it
+is be%2:42:03::
+the
+policy policy%1:09:00::
+of
+the
+Congress congress%1:14:01::
+to
+provide_for provide_for%2:42:01::
+the
+development development%1:04:01::
+of
+practicable practicable%5:00:00:practical:00
+low-cost low-cost%5:00:00:cheap:00
+means means%1:04:00::
+for
+the
+large-scale large-scale%5:00:00:large:00
+production production%1:04:00::
+of
+water water%1:27:00::
+of
+a
+quality quality%1:07:02::
+suitable suitable%5:00:00:good:01
+for
+municipal municipal%3:01:00::
+,
+industrial industrial%3:01:00::
+,
+agricultural agricultural%3:01:00::
+,
+and
+other other%3:00:00::
+beneficial beneficial%5:00:00:advantageous:00
+consumptive consumptive%3:00:00::
+uses use%1:07:00::
+from
+saline saline%5:00:00:salt:00
+water water%1:27:00::
+,
+and
+for
+studies study%1:04:00::
+and
+research research%1:04:00::
+related related%3:00:02::
+thereto thereto%4:02:00::
+.
+As
+used use%2:34:01::
+in
+this
+Act act%1:10:01::
+,
+the
+term term%1:10:00::
+'
+saline saline%5:00:00:salt:00
+water water%1:27:00::
+'
+includes include%2:42:00::
+sea_water seawater%1:27:00::
+,
+brackish brackish%5:00:00:salt:00
+water water%1:27:00::
+,
+and
+other other%3:00:00::
+mineralized mineralized%5:00:01:mineral:00
+or
+chemically chemically%4:02:01::
+charged charge%2:35:00::
+water water%1:27:00::
+,
+and
+the
+term term%1:10:00::
+'
+United_States united_states%1:15:00::
+'
+extends extend%2:42:01::
+to
+and
+includes include%2:42:00::
+the
+District_of_Columbia district_of_columbia%1:15:00::
+,
+the
+Commonwealth commonwealth%1:15:00::
+of
+Puerto_Rico puerto_rico%1:15:00::
+,
+and
+the
+territories territory%1:21:01::
+and
+possessions possession%1:03:00::
+of
+the
+United_States united_states%1:14:00::
+.
+In_order
+to
+accomplish accomplish%2:41:00::
+the
+purposes purpose%1:09:00::
+of_this
+Act act%1:10:01::
+,
+the
+Secretary_of_the_Interior secretary_of_the_interior%1:04:00::
+shall
+-
+conduct conduct%2:41:00::
+,
+encourage encourage%2:41:00::
+,
+and
+promote promote%2:41:01::
+fundamental fundamental%5:00:00:basic:00
+scientific scientific%3:00:00::
+research research%1:04:00::
+and
+basic basic%3:00:00::
+studies study%1:04:00::
+to
+develop develop%2:36:01::;2:36:00::
+the
+best best%3:00:00::
+and
+most most%4:02:01::
+economical economical%5:00:00:efficient:00
+processes process%1:04:00::
+and
+methods method%1:09:00::
+for
+converting convert%2:30:03::
+saline saline%5:00:00:salt:00
+water water%1:27:00::
+into
+water water%1:27:00::
+suitable suitable%5:00:00:good:01
+for
+beneficial beneficial%5:00:00:advantageous:00
+consumptive consumptive%3:00:00::
+purposes purpose%1:09:00::
+;
+conduct conduct%2:41:00::
+engineering engineering%1:04:01::
+research research%1:04:00::
+and
+technical technical%3:00:00::
+development development%1:04:01::
+work work%1:04:00::
+to
+determine determine%2:32:00::
+,
+by
+laboratory laboratory%1:06:00::
+and
+pilot pilot%5:00:00:empirical:00
+plant plant%1:06:01::
+testing testing%1:04:00::
+,
+the
+results result%1:19:00::
+of
+the
+research research%1:04:00::
+and
+studies study%1:04:00::
+aforesaid aforesaid%5:00:00:same:02
+in_order
+to
+develop develop%2:36:01::;2:36:00::
+processes process%1:04:00::
+and
+plant plant%1:06:01::
+designs design%1:09:02::
+to
+the
+point point%1:26:00::
+where
+they
+can
+be
+demonstrated demonstrate%2:39:01::
+on
+a
+large large%3:00:00::
+and
+practical practical%3:00:00::
+scale scale%1:24:00::
+;
+recommend recommend%2:32:01::
+to
+the
+Congress congress%1:14:01::
+from_time_to_time from_time_to_time%4:02:00::
+authorization authorization%1:10:00::
+for
+construction construction%1:04:00::
+and
+operation operation%1:04:06::
+,
+or
+for
+participation participation%1:04:00::
+in
+the
+construction construction%1:04:00::
+and
+operation operation%1:04:06::
+,
+of
+a
+demonstration demonstration%1:04:00::
+plant plant%1:06:01::
+for
+any
+process process%1:04:00::
+which
+he
+determines determine%2:31:00::
+,
+on
+the
+basis basis%1:24:00::
+of
+subsections subsection%1:06:00::
+(
+a
+)
+and
+(
+b
+)
+above above%4:02:00::
+,
+has have%2:40:00::
+great great%5:00:00:high:02
+promise promise%1:09:00::
+of
+accomplishing accomplish%2:41:00::
+the
+purposes purpose%1:09:00::
+of_this
+Act act%1:10:01::
+,
+such such%5:00:00:specified:00
+recommendation recommendation%1:10:00::
+to
+be
+accompanied accompany%2:42:00::
+by
+a
+report report%1:10:03::
+on
+the
+size size%1:07:00::
+,
+location location%1:03:00::
+,
+and
+cost cost%1:21:00::
+of
+the
+proposed proposed%5:00:00:planned:00
+plant plant%1:06:01::
+and
+the
+engineering engineering%1:04:01::
+and
+economic economic%3:01:01::
+details detail%1:09:00::
+with_respect_thereto
+;
+study study%2:31:02::
+methods method%1:07:00::
+for
+the
+recovery recovery%1:11:00::
+and
+marketing marketing%1:04:00::
+of
+commercially commercially%4:02:00::
+valuable valuable%3:00:00::
+byproducts by-product%1:06:00::
+resulting result%2:42:00::
+from
+the
+conversion conversion%1:11:00::
+of
+saline saline%1:27:00::
+water water%1:27:00::
+;
+and
+undertake undertake%2:36:00::
+economic economic%3:01:00::
+studies study%1:04:00::
+and
+surveys survey%1:04:02::
+to
+determine determine%2:32:00::
+present present%3:00:01::
+and
+prospective prospective%3:00:00::
+costs cost%1:21:00::
+of
+producing produce%2:36:00::
+water water%1:27:00::
+for
+beneficial beneficial%5:00:00:advantageous:00
+consumptive consumptive%3:00:00::
+purposes purpose%1:07:00::
+in
+various various%5:00:02:different:00
+parts part%1:15:00::
+of
+the
+United_States united_states%1:15:00::
+by
+the
+leading leading%5:00:00:superior:01
+saline saline%1:27:00::
+water water%1:27:00::
+processes process%1:04:00::
+as
+compared compare%2:31:00::
+with
+other other%3:00:00::
+standard standard%3:00:01::
+methods method%1:09:00::
+.
+In
+carrying_out carry_out%2:36:00::
+his
+functions function%1:04:00::
+under
+section section%1:10:00::
+2 2%5:00:00:cardinal:00
+of_this
+Act act%1:10:01::
+,
+the
+Secretary secretary_of_the_interior%1:04:00::
+may
+-
+acquire acquire%2:40:00::
+the
+services service%1:04:08::
+of
+chemists chemist%1:18:00::
+,
+physicists physicist%1:18:00::
+,
+engineers engineer%1:18:00::
+,
+and
+other other%3:00:00::
+personnel personnel%1:14:00::
+by
+contract contract%1:10:00::
+or
+otherwise otherwise%4:02:03::
+;
+enter enter%2:38:00::
+into
+contracts contract%1:10:00::
+with
+educational_institutions educational_institution%1:14:00::
+,
+scientific scientific%3:00:00::
+organizations organization%1:14:00::
+,
+and
+industrial industrial%3:01:00::
+and
+engineering engineering%1:04:01::
+firms firm%1:14:00::
+;
+make make%2:36:00::
+research research%1:04:00::
+and
+training training%1:04:00::
+grants grant%1:21:00::
+;
+utilize utilize%2:34:00::
+the
+facilities facility%1:06:00::
+of
+Federal federal%5:00:00:national:01
+scientific scientific%3:00:00::
+laboratories laboratory%1:06:00::
+;
+establish establish%2:41:00::
+and
+operate operate%2:41:00::
+necessary necessary%3:00:00::
+facilities facility%1:06:00::
+and
+test test%5:00:00:empirical:00
+sites site%1:15:00::
+at
+which
+to
+carry_on carry_on%2:42:00::
+the
+continuous continuous%3:00:01::
+research research%1:04:00::
+,
+testing testing%1:04:00::
+,
+development development%1:04:01::
+,
+and
+programming programming%1:04:01::
+necessary necessary%3:00:00::
+to
+effectuate effectuate%2:36:00::
+the
+purposes purpose%1:09:00::
+of_this
+Act act%1:10:01::
+;
+acquire acquire%2:40:00::
+secret secret%5:00:00:concealed:00
+processes process%1:04:00::
+,
+technical technical%3:00:00::
+data data%1:14:00::
+,
+inventions invention%1:06:00::
+,
+patent patent%1:10:01::
+applications application%1:10:00::
+,
+patents patent%1:10:01::
+,
+licenses license%1:10:00::
+,
+land land%1:21:01::
+and
+interests interest%1:21:03::
+in
+land land%1:21:01::
+(
+including include%2:42:00::
+water_rights water_right%1:07:00::
+)
+,
+plants plant%1:06:01::
+and
+facilities facility%1:06:00::
+,
+and
+other other%3:00:00::
+property property%1:21:00::
+or
+rights right%1:07:00::
+by
+purchase purchase%1:04:00::
+,
+license license%1:10:00::
+,
+lease lease%1:10:00::
+,
+or
+donation donation%1:04:00::
+;
+assemble assemble%2:36:00::
+and
+maintain maintain%2:40:00::
+pertinent pertinent%5:00:00:relevant:00
+and
+current current%3:00:00::
+scientific scientific%3:00:00::
+literature literature%1:10:00::
+,
+both
+domestic domestic%3:00:00::
+and
+foreign foreign%3:00:02::
+,
+and
+issue issue%2:32:00::
+bibliographical bibliographical%3:01:00::
+data data%1:14:00::
+with_respect_thereto with_respect_to%5:00:00:related:02
+;
+cause cause%2:36:00::
+on-site on-site%3:00:00::
+inspections inspection%1:04:01::
+to
+be
+made make%2:41:00::
+of
+promising promising%5:00:00:likely:00
+projects project%1:04:00::
+,
+domestic domestic%3:00:00::
+and
+foreign foreign%3:00:02::
+,
+and
+,
+in
+the
+case case%1:26:00::
+of
+projects project%1:04:00::
+located located%5:00:00:settled:01
+in
+the
+United_States united_states%1:15:00::
+,
+cooperate cooperate%2:41:00::
+and
+participate participate%2:41:00::
+in
+their
+development development%1:04:01::
+in
+instances instance%1:11:00::
+in
+which
+the
+purposes purpose%1:09:00::
+of_this
+Act act%1:10:01::
+will
+be
+served serve%2:42:02::
+thereby thereby%4:02:00::
+;
+foster foster%2:41:00::
+and
+participate participate%2:41:00::
+in
+regional regional%3:01:00::
+,
+national national%3:00:00::
+,
+and
+international international%3:00:00::
+conferences conference%1:14:00::
+relating relate%2:42:00::
+to
+saline saline%1:27:00::
+water water%1:27:00::
+conversion conversion%1:11:00::
+;
+coordinate coordinate%2:30:00::
+,
+correlate correlate%2:42:00::
+,
+and
+publish publish%2:36:01::
+information information%1:09:00::
+with
+a
+view view%1:09:00::
+to
+advancing advance%2:41:01::
+the
+development development%1:04:01::
+of
+low-cost low-cost%5:00:00:cheap:00
+saline saline%1:27:00::
+water water%1:27:00::
+conversion conversion%1:11:00::
+projects project%1:04:00::
+;
+and
+cooperate cooperate%2:41:00::
+with
+other other%3:00:00::
+Federal_departments federal_department%1:14:00::
+and
+agencies agency%1:14:00::
+,
+with
+State state_department%1:14:01::
+and
+local_departments local_department%1:14:00::
+,
+agencies agency%1:14:00::
+,
+and
+instrumentalities instrumentality%1:14:00::
+,
+and
+with
+interested interested%3:00:00::
+persons person%1:03:00::
+,
+firms firm%1:14:00::
+,
+institutions institution%1:14:00::
+,
+and
+organizations organization%1:14:00::
+.
+Research research%1:04:00::
+and
+development development%1:04:01::
+activities activity%1:04:00::
+undertaken undertake%2:36:00::
+by
+the
+Secretary secretary_of_the_interior%1:04:00::
+shall
+be
+coordinated coordinate%2:30:00::
+or
+conducted conduct%2:41:00::
+jointly jointly%4:02:02::
+with
+the
+Department_of_Defense department_of_defense%1:14:00::
+to
+the
+end end%1:09:02::
+that
+developments development%1:26:00::
+under
+this
+Act act%1:10:01::
+which
+are be%2:42:03::
+primarily primarily%4:02:01::
+of
+a
+civil civil%5:00:00:civilian:00
+nature nature%1:07:02::
+will
+contribute contribute%2:40:00::
+to
+the
+defense defense%1:04:00::
+of
+the
+Nation nation%1:14:00::
+and
+that
+developments development%1:26:00::
+which
+are be%2:42:03::
+primarily primarily%4:02:01::
+of
+a
+military military%3:00:01::
+nature nature%1:07:02::
+will
+,
+to
+the
+greatest greatest%5:00:00:large:00
+practicable practicable%5:00:00:practical:00
+extent extent%1:07:00::
+compatible compatible%3:00:01::
+with
+military military%3:01:00::
+and
+security security%1:26:00::
+requirements requirement%1:09:01::
+,
+be be%2:42:03::
+available available%3:00:00::
+to
+advance advance%2:41:01::
+the
+purposes purpose%1:09:00::
+of_this
+Act act%1:10:01::
+and
+to
+strengthen strengthen%2:30:01::
+the
+civil civil%5:00:00:civilian:00
+economy economy%1:14:00::
+of
+the
+Nation nation%1:14:00::
+.
+The
+fullest full%5:00:00:complete:00
+cooperation cooperation%1:04:02::
+by
+and
+with
+Atomic_Energy_Commission atomic_energy_commission%1:14:00::
+,
+the
+Department_of_Health_Education_and_Welfare department_of_health_education_and_welfare%1:14:00::
+,
+the
+Department_of_State department_of_state%1:14:00::
+,
+and
+other other%3:00:00::
+concerned concerned%5:00:00:involved:00
+agencies agency%1:14:00::
+shall
+also also%4:02:00::
+be
+carried_out carry_out%2:30:00::
+in
+the
+interest interest%1:07:01::
+of
+achieving achieve%2:41:00::
+the
+objectives objective%1:09:00::
+of_this
+Act act%1:10:01::
+.
+All
+research research%1:04:00::
+within
+the
+United_States united_states%1:15:00::
+contracted contract%2:41:00::
+for
+,
+sponsored sponsor%2:40:00::
+,
+cosponsored cosponsor%2:40:00::
+,
+or
+authorized authorize%2:32:00::
+under
+authority authority%1:07:00::
+of_this
+Act act%1:10:01::
+,
+shall
+be
+provided provide%2:34:00::
+for
+in
+such such%5:00:00:specified:00
+manner manner%1:07:02::
+that
+all
+information information%1:09:00::
+,
+uses use%1:07:00::
+,
+products product%1:06:00::
+,
+processes process%1:04:00::
+,
+patents patent%1:10:01::
+,
+and
+other other%3:00:00::
+developments development%1:26:00::
+resulting result%2:42:00::
+from
+such such%5:00:00:specified:00
+research research%1:04:00::
+developed develop%2:36:01::
+by
+Government government%1:14:00::
+expenditure expenditure%1:04:00::
+will
+(
+with
+such such%5:00:00:specified:00
+exceptions exception%1:09:00::
+and
+limitations limitation%1:07:00::
+,
+if
+any
+,
+as
+the
+Secretary secretary_of_the_interior%1:04:00::
+may
+find find%2:32:00::
+to
+be be%2:42:03::
+necessary necessary%3:00:00::
+in
+the
+interest interest%1:07:01::
+of
+national national%3:01:00::
+defense defense%1:04:00::
+)
+be be%2:42:03::
+available available%3:00:00::
+to
+the
+general general%3:00:00::
+public public%1:14:00::
+.
+This
+subsection subsection%1:06:00::
+shall
+not not%4:02:00::
+be
+so so%4:02:05::
+construed construe%2:31:00::
+as
+to
+deprive deprive%2:40:00::
+the
+owner owner%1:18:00::
+of
+any
+background background%1:09:01::
+patent patent%1:10:01::
+relating relate%2:31:00::
+thereto thereto%4:02:00::
+of
+such such%5:00:00:specified:00
+rights right%1:07:00::
+as
+he
+may
+have have%2:40:00::
+thereunder thereunder%4:02:00::
+.
+The
+Secretary secretary_of_the_interior%1:04:00::
+may
+dispose dispose%2:40:00::
+of
+water water%1:27:00::
+and
+byproducts by-product%1:06:00::
+resulting result%2:42:00::
+from
+his
+operations operations%1:04:00::
+under
+this
+Act act%1:10:01::
+.
+All
+moneys money%1:21:02::
+received receive%2:40:00::
+from
+dispositions disposition%1:04:00::
+under
+this
+section section%1:10:00::
+shall
+be
+paid pay%2:40:00::
+into
+the
+Treasury treasury%1:14:00::
+as
+miscellaneous miscellaneous%5:00:00:general:00
+receipts receipts%1:21:00::
+)
+Nothing
+in
+the
+Act act%1:10:01::
+shall
+be
+construed construe%2:31:00::
+to
+alter alter%2:30:01::
+existing existing%5:00:00:present(a):01
+law law%1:14:00::
+with
+respect respect%1:09:00::
+to
+the
+ownership ownership%1:21:00::
+and
+control control%1:24:00::
+of
+water water%1:27:00::
+.
+The
+Secretary secretary_of_the_interior%1:04:00::
+shall
+make
+reports report%1:10:03::
+to
+the
+President president%1:18:04::
+and
+the
+Congress congress%1:14:01::
+at
+the
+beginning beginning%1:11:00::
+of
+each
+regular regular%5:00:00:frequent:00
+session session%1:10:00::
+of
+the
+action action%1:04:02::
+taken
+or
+instituted institute%2:36:00::
+by
+him
+under
+the
+provisions provision%1:10:00::
+of_this
+Act act%1:10:01::
+and
+of
+prospective prospective%3:00:00::
+action action%1:04:02::
+during
+the
+ensuing ensuing%5:00:00:succeeding(a):00
+year year%1:28:01::
+.
+The
+Secretary_of_the_Interior secretary_of_the_interior%1:04:00::
+may
+issue issue%2:32:01::
+rules rule%1:09:00::
+and
+regulations regulation%1:10:00::
+to
+effectuate effectuate%2:36:00::
+the
+purposes purpose%1:09:00::
+of_this
+Act act%1:10:01::
+.
+There
+are
+authorized authorize%2:32:00::
+to
+be
+appropriated appropriate%2:31:00::
+such such%5:00:00:specified:00
+sums sum%1:21:00::
+,
+to
+remain remain%2:30:00::
+available available%3:00:00::
+until
+expended expended%5:00:00:exhausted:00
+,
+as
+may
+be be%2:42:03::
+necessary necessary%3:00:00::
+,
+but
+not not%4:02:00::
+more_than more_than%4:02:00::
+$
+75000000
+in_all in_all%4:02:00::
+,
+(
+a
+)
+to
+carry_out carry_out%2:30:00::
+the
+provisions provision%1:10:00::
+of_this
+Act act%1:10:01::
+during
+the
+fiscal_years fiscal_year%1:28:00::
+1962
+to
+1967
+,
+inclusive inclusive%3:00:00::
+;
+(
+b
+)
+to
+finance finance%2:40:00::
+,
+for
+not not%4:02:00::
+more_than more_than%4:02:00::
+two two%5:00:00:cardinal:00
+years year%1:28:02::;1:28:01::
+beyond
+the
+end end%1:28:00::
+of
+said said%5:00:00:same:02
+period period%1:28:00::
+,
+such such%5:00:00:specified:00
+grants grant%1:21:00::
+,
+contracts contract%1:10:00::
+,
+cooperative cooperative%5:00:00:joint:00
+agreements agreement%1:10:01::
+,
+and
+studies study%1:04:00::
+as
+may
+theretofore theretofore%4:02:00::
+have
+been
+undertaken undertake%2:36:00::
+pursuant pursuant%5:00:00:consistent:00
+to
+this
+Act act%1:10:01::
+;
+and
+(
+c
+)
+to
+finance finance%2:40:00::
+,
+for
+not not%4:02:00::
+more_than more_than%4:02:00::
+three three%5:00:00:cardinal:00
+years year%1:28:02::;1:28:01::
+beyond
+the
+end end%1:28:00::
+of
+said said%5:00:00:same:02
+period period%1:28:00::
+,
+such such%5:00:00:specified:00
+activities activity%1:04:00::
+as
+are
+required require%2:42:00::
+to
+correlate correlate%2:42:00::
+,
+coordinate coordinate%2:30:00::
+,
+and
+round_out round_out%2:30:03::
+the
+results result%1:11:00::
+of
+studies study%1:04:00::
+and
+research research%1:04:00::
+undertaken undertake%2:36:00::
+pursuant pursuant%5:00:00:consistent:00
+to
+this
+Act act%1:10:01::
+:
+Provided provide%2:32:00::
+,
+That
+funds funds%1:21:00::
+available available%3:00:00::
+in
+any
+one one%5:00:00:unspecified:00
+year year%1:28:02::;1:28:01::
+for
+research research%1:04:00::
+and
+development development%1:04:01::
+may
+,
+subject_to subject_to%5:00:00:susceptible:00
+the
+approval approval%1:04:02::
+of
+the
+Secretary_of_State secretary_of_state%1:18:00::
+to
+assure assure%2:31:00::
+that
+such such%5:00:00:specified:00
+activities activity%1:04:00::
+are be%2:42:03::
+consistent consistent%3:00:00::
+with
+the
+foreign_policy foreign_policy%1:10:00::
+objectives objective%1:09:00::
+of
+the
+United_States united_states%1:14:00::
+,
+be
+expended expend%2:34:00::
+in_cooperation_with
+public public%3:00:00::
+or
+private private%3:00:00::
+agencies agency%1:14:00::;1:14:01::
+in
+foreign foreign%3:00:02::
+countries country%1:14:00::
+in
+the
+development development%1:04:01::
+of
+processes process%1:04:00::
+useful useful%3:00:00::
+to
+the
+program program%1:09:00::
+in
+the
+United_States united_states%1:15:00::
+:
+And
+provided provide%2:32:00::
+further further%4:02:02::
+,
+That
+every
+such such%5:00:00:specified:00
+contract contract%1:10:00::
+or
+agreement agreement%1:10:01::
+made make%2:36:00::
+with
+any
+public public%3:00:00::
+or
+private private%3:00:00::
+agency agency%1:14:00::;1:14:01::
+in
+a
+foreign foreign%3:00:02::
+country country%1:14:00::
+shall
+contain contain%2:42:00::
+provisions provision%1:10:00::
+effective effective%5:00:00:competent:00
+to
+insure insure%2:32:04::
+that
+the
+results result%1:19:00::
+or
+information information%1:09:00::
+developed develop%2:36:00::
+in
+connection connection%1:26:00::
+therewith therewith%4:02:00::
+shall
+be be%2:42:03::
+available available%3:00:00::
+without
+cost cost%1:21:00::
+to
+the
+United_States united_states%1:14:00::
+for
+the
+use use%1:04:00::
+of
+the
+United_States united_states%1:14:00::
+throughout
+the
+world world%1:17:00::
+and
+for
+the
+use use%1:04:00::
+of
+the
+general general%3:00:00::
+public public%1:14:00::
+within
+the
+United_States united_states%1:15:00::
+.
+Section section%1:10:00::
+4 4%5:00:00:cardinal:00
+of
+the
+joint_resolution joint_resolution%1:10:00::
+of
+September september%1:28:00::
+2
+,
+1958
+(
+72
+Stat.
+1707
+;
+42
+U._S._C.
+1958
+(
+d
+)
+)
+,
+is
+hereby hereby%4:02:00::
+amended amend%2:30:00::
+to
+read read%2:42:00::
+:
+The
+authority authority%1:07:00::
+of
+the
+Secretary_of_the_Interior secretary_of_the_interior%1:04:00::
+under
+this
+joint_resolution joint_resolution%1:10:00::
+to
+construct construct%2:36:00::
+,
+operate operate%2:41:00::
+,
+and
+maintain maintain%2:40:00::
+demonstration demonstration%1:04:00::
+plants plant%1:06:01::
+shall
+terminate terminate%2:42:00::
+upon
+the
+expiration expiration%1:28:00::
+of
+twelve twelve%5:00:00:cardinal:00
+years year%1:28:01::
+after
+the
+date date%1:28:00::
+on
+which
+this
+joint_resolution joint_resolution%1:10:00::
+is
+approved approve%2:32:00::
+.
+Upon
+the
+expiration expiration%1:28:00::
+of
+a
+period period%1:28:00::
+deemed deem%2:31:00::
+adequate adequate%5:00:00:sufficient:00
+for
+demonstration demonstration%1:04:00::
+purposes purpose%1:09:00::
+for
+each
+plant plant%1:06:01::
+,
+but
+not not%4:02:00::
+to
+exceed exceed%2:42:00::
+such such%5:00:00:specified:00
+twelve twelve%5:00:00:cardinal:00
+year year%1:28:01::
+period period%1:28:00::
+,
+the
+Secretary secretary_of_the_interior%1:04:00::
+shall
+proceed proceed%2:32:00::
+as
+promptly promptly%4:02:00::
+as
+practicable practicable%5:00:00:possible:00
+to
+dispose dispose%2:40:11::
+of
+any
+plants plant%1:06:01::
+so so%4:02:05::
+constructed construct%2:36:00::
+by
+sale sale%1:04:00::
+to
+the
+highest highest%5:00:00:maximal:00
+bidder bidder%1:18:00::
+,
+or
+as
+may
+otherwise otherwise%4:02:01::
+be
+directed direct%2:32:00::
+by
+Act act%1:10:01::
+of
+Congress congress%1:14:01::
+.
+Upon
+such such%5:00:00:specified:00
+sale sale%1:04:00::
+,
+there
+shall
+be
+returned return%2:40:08::
+to
+any
+State state%1:14:01::
+or
+public public%3:00:00::
+agency agency%1:14:00::;1:14:01::
+which
+has
+contributed contribute%2:40:02::
+financial financial%3:01:00::
+assistance assistance%1:04:00::
+under
+section section%1:10:00::
+3 3%5:00:00:cardinal:00
+of_this
+joint_resolution joint_resolution%1:10:00::
+a
+proper proper%3:00:00::
+share share%1:21:00::
+of
+the
+net net%3:00:00::
+proceeds proceeds%1:21:00::
+of
+the
+sale sale%1:04:00::
+.
+Approved
+September september%1:28:00::
+22
+,
+1961
+.
+Be
+it
+enacted enact%2:41:00::
+by
+the
+Senate senate%1:14:01::
+and
+House_of_Representatives house_of_representatives%1:14:00::
+of
+the
+United_States_of_America united_states_of_america%1:15:00::
+in
+Congress congress%1:14:01::
+assembled assemble%2:41:00::
+,
+That
+the
+Secretary_of_the_Interior secretary_of_the_interior%1:04:00::
+is
+hereby hereby%4:02:00::
+authorized authorize%2:32:00::
+and
+directed direct%2:32:00::
+to
+make make%2:41:00::
+or
+cause cause%2:36:00::
+to
+be
+made make%2:36:00::
+a
+study study%1:04:00::
+covering cover%2:32:01::
+-
+the
+causes cause%1:11:00::
+of
+injuries injury%1:26:00::
+and
+health health%1:26:00::
+hazards hazard%1:26:00::
+in
+metal metal%1:27:00::
+and
+nonmetallic nonmetallic%3:00:00::
+mines mine%1:06:01::
+(
+excluding exclude%2:31:01::
+coal coal%1:27:00::
+and
+lignite lignite%1:27:00::
+mines mine%1:06:01::
+)
+;
+the
+relative relative%3:00:00::
+effectiveness effectiveness%1:07:00::
+of
+voluntary voluntary%3:00:01::
+versus
+mandatory mandatory%5:00:00:obligatory:00
+reporting report%2:32:04::
+of
+accident accident%1:11:01::
+statistics statistic%1:09:00::
+;
+the
+relative relative%3:00:00::
+contribution contribution%1:04:02::
+to
+safety safety%1:26:00::
+of
+inspection inspection%1:04:01::
+programs program%1:09:00::
+embodying embody%2:42:01::
+-
+right-of-entry right_of_entry%1:07:00::
+only only%4:02:02::
+and
+right-of-entry right_of_entry%1:07:00::
+plus
+enforcement enforcement%1:04:00::
+authority authority%1:07:00::
+;
+the
+effectiveness effectiveness%1:07:00::
+of
+health health%1:26:00::
+and
+safety safety%1:26:00::
+education education%1:04:00::
+and
+training training%1:04:00::
+;
+the
+magnitude magnitude%1:07:00::
+of
+effort effort%1:04:00::
+and
+costs cost%1:21:00::
+of
+each
+of
+these
+possible possible%3:00:00::
+phases phase%1:28:00::
+of
+an
+effective effective%3:00:00::
+safety safety%1:26:00::
+program program%1:09:00::
+for
+metal metal%1:27:00::
+and
+nonmetallic nonmetallic%3:00:00::
+mines mine%1:06:01::
+(
+excluding exclude%2:31:01::
+coal coal%1:27:00::
+and
+lignite lignite%1:27:00::
+mines mine%1:06:01::
+)
+;
+and
+the
+scope scope%1:07:00::
+and
+adequacy adequacy%1:07:00::
+of
+State state%1:14:01::
+mine mine%1:06:01::
+safety safety%1:26:00::
+laws law%1:10:00::
+applicable applicable%5:00:00:relevant:00
+to
+such such%5:00:00:specified:00
+mines mine%1:06:01::
+and
+the
+enforcement enforcement%1:04:00::
+of
+such such%5:00:00:specified:00
+laws law%1:10:00::
+.
+The
+Secretary_of_the_Interior secretary_of_the_interior%1:04:00::
+or
+any any%5:00:00:some(a):00
+duly duly%4:02:00::
+authorized authorized%3:00:00::
+representative representative%1:18:00::
+shall
+be
+entitled entitle%2:41:00::
+to
+admission admission%1:04:00::
+to
+,
+and
+to
+require require%2:32:01::
+reports report%1:10:03::
+from
+the
+operator operator%1:18:00::
+of
+,
+any any%5:00:00:some(a):00
+metal metal%1:27:00::
+or
+nonmetallic nonmetallic%3:00:00::
+mine mine%1:06:01::
+which
+is be%2:42:05::
+in
+a
+State state%1:14:01::
+(
+excluding exclude%2:31:01::
+any any%5:00:00:some(a):00
+coal coal%1:27:00::
+or
+lignite lignite%1:27:00::
+mine mine%1:06:01::
+)
+,
+the
+products product%1:06:01::
+of_which
+regularly regularly%4:02:00::
+enter enter%2:38:00::
+commerce commerce%1:04:00::
+or
+the
+operations operation%1:04:05::
+of_which
+substantially substantially%4:02:01::
+affect affect%2:30:00::
+commerce commerce%1:04:00::
+,
+for
+the
+purpose purpose%1:09:00::
+of
+gathering gather%2:35:00::
+data datum%1:09:00::
+and
+information information%1:09:00::
+necessary necessary%3:00:00::
+for
+the
+study study%1:04:00::
+authorized authorize%2:32:00::
+in
+the
+first first%5:00:00:ordinal:00
+section section%1:10:00::
+of_this
+Act act%1:10:01::
+.
+As
+used use%2:34:01::
+in_this
+section section%1:10:00::
+-
+the
+term term%1:10:00::
+``
+State state%1:14:01::
+''
+includes include%2:42:00::
+the
+Commonwealth commonwealth%1:15:00::
+of
+Puerto_Rico puerto_rico%1:15:00::
+and
+any any%5:00:00:some(a):00
+possession possession%1:03:00::
+of
+the
+United_States united_states%1:14:00::
+;
+and
+the
+term term%1:10:00::
+``
+commerce commerce%1:04:00::
+''
+means mean%2:32:03::
+commerce commerce%1:04:00::
+between
+any any%5:00:00:some(a):00
+State state%1:14:01::
+and
+any any%5:00:00:some(a):00
+place place%1:15:00::
+outside outside%5:00:00:foreign:02
+thereof thereof%4:02:00::
+,
+or
+between
+points point%1:15:00::
+within
+the
+same same%3:00:02::
+State state%1:14:01::
+but
+through
+any any%5:00:00:some(a):00
+place place%1:15:00::
+outside outside%5:00:00:foreign:02
+thereof thereof%4:02:00::
+.
+The
+Secretary_of_the_Interior secretary_of_the_interior%1:04:00::
+shall
+submit submit%2:32:01::
+a
+report report%1:10:03::
+of
+his
+findings finding%1:04:00::
+,
+together together%4:02:04::
+with
+recommendations recommendation%1:10:00::
+for
+an
+effective effective%3:00:00::
+safety safety%1:26:00::
+program program%1:09:00::
+for
+metal metal%1:27:00::
+and
+nonmetallic nonmetallic%3:00:00::
+mines mine%1:06:01::
+(
+excluding exclude%2:31:01::
+coal coal%1:27:00::
+and
+lignite lignite%1:27:00::
+mines mine%1:06:01::
+)
+based base%2:31:00::
+upon
+such such%5:00:00:specified:00
+findings finding%1:04:00::
+,
+to
+the
+Congress congress%1:14:01::
+not not%4:02:00::
+more_than more_than%4:02:00::
+two two%5:00:00:cardinal:00
+years year%1:28:01::
+after
+the
+date date%1:28:00::
+of
+enactment enactment%1:04:01::
+of_this
+Act act%1:10:01::
+.
+Approved approve%2:32:00::
+September september%1:28:00::
+26
+,
+1961
+.
+Be
+it
+enacted enact%2:41:00::
+by
+the
+Senate senate%1:14:01::
+and
+House_of_Representatives house_of_representatives%1:14:00::
+of
+the
+United_States_of_America united_states_of_america%1:15:00::
+in
+Congress congress%1:14:01::
+assembled assemble%2:41:00::
+,
+That
+the
+Secretary_of_the_Interior secretary_of_the_interior%1:04:00::
+is
+hereby hereby%4:02:00::
+authorized authorize%2:32:00::
+and
+directed direct%2:32:00::
+to
+establish establish%2:36:00::
+and
+maintain maintain%2:40:00::
+a
+program program%1:09:00::
+of
+stabilization stabilization%1:04:00::
+payments payment%1:21:00::
+to
+small small%3:00:00::
+domestic domestic%3:00:00::
+producers producer%1:18:01::
+of
+lead lead%1:27:00::
+and
+zinc zinc%1:27:00::
+ores ore%1:27:00::
+and
+concentrates concentrate%1:27:00::
+in_order
+to
+stabilize stabilize%2:30:01::
+the
+mining mining%1:04:00::
+of
+lead lead%1:27:00::
+and
+zinc zinc%1:27:00::
+by
+small small%3:00:00::
+domestic domestic%3:00:00::
+producers producer%1:18:01::
+on
+public public%3:00:00::
+,
+Indian indian%1:18:00::
+,
+and
+other other%3:00:00::
+lands land%1:15:01::
+as
+provided provide%2:32:00::
+in_this
+Act act%1:10:01::
+.
+Subject_to subject_to%5:00:00:susceptible:00
+the
+limitations limitation%1:09:00::
+of_this
+Act act%1:10:01::
+,
+the
+Secretary secretary_of_the_interior%1:04:00::
+shall
+make make%2:41:00::
+stabilization stabilization%1:04:00::
+payments payment%1:21:00::
+to
+small small%3:00:00::
+domestic domestic%3:00:00::
+producers producer%1:18:01::
+upon
+presentation presentation%1:04:01::
+of
+evidence evidence%1:10:01::
+satisfactory satisfactory%3:00:00::
+to
+him
+of
+their
+status status%1:26:01::
+as
+such such%5:00:01:specified:00
+producers producer%1:18:01::
+and
+of
+the
+sale sale%1:04:00::
+by
+them
+of
+newly newly%4:02:00::
+mined mine%2:34:00::
+ores ore%1:27:00::
+,
+or
+concentrates concentrate%1:27:00::
+produced produce%2:36:00::
+therefrom therefrom%4:02:02::
+,
+as
+provided provide%2:32:00::
+in_this
+Act act%1:10:01::
+.
+Payments payment%1:21:00::
+shall
+be
+made make%2:41:00::
+only only%4:02:01::
+with_respect_to with_respect_to%5:00:00:related:02
+the
+metal metal%1:27:00::
+content content%1:24:00::
+as
+determined determine%2:32:00::
+by
+assay assay%1:09:00::
+.
+Such such%5:00:00:specified:00
+payments payment%1:21:00::
+shall
+be
+made make%2:41:00::
+to
+small small%3:00:00::
+domestic domestic%3:00:00::
+producers producer%1:18:01::
+of
+lead lead%2:38:00::
+as_long_as
+the
+market_price market_price%1:21:00::
+for
+common common%3:00:01::
+lead lead%1:27:00::
+at
+New_York new_york%1:15:01::
+,
+New_York new_york%1:15:00::
+,
+as
+determined determine%2:32:00::
+by
+the
+Secretary secretary_of_the_interior%1:04:00::
+,
+is be%2:42:03::
+below
+14
+-
+1
+2
+cents cent%1:23:00::
+per
+pound pound%1:23:09::
+,
+and
+such such%5:00:00:specified:00
+payments payment%1:21:00::
+shall
+be be%2:42:07::
+75
+per
+centum
+of
+the
+difference difference%1:09:00::
+between
+14
+-
+1
+2
+cents cent%1:23:00::
+per
+pound pound%1:23:09::
+and
+the
+average average%5:00:02:normal:01
+market_price market_price%1:21:00::
+for
+the
+month month%1:28:01::
+in_which
+the
+sale sale%1:04:00::
+occurred occur%2:30:00::
+as
+determined determine%2:32:00::
+by
+the
+Secretary secretary_of_the_interior%1:04:00::
+.
+Such such%5:00:00:specified:00
+payments payment%1:21:00::
+shall
+be
+made make%2:41:00::
+to
+small small%3:00:00::
+domestic domestic%3:00:00::
+producers producer%1:18:01::
+of
+zinc zinc%1:27:00::
+as_long_as
+the
+market_price market_price%1:21:00::
+for
+prime prime%5:00:00:superior:02
+western western%3:00:02::
+zinc zinc%1:27:00::
+at
+East_Saint_Louis location%1:03:00::
+,
+Illinois illinois%1:15:00::
+,
+as
+determined determine%2:32:00::
+by
+the
+Secretary secretary_of_the_interior%1:04:00::
+,
+is be%2:42:06::
+below
+14
+-
+1
+2
+cents cent%1:23:00::
+per
+pound pound%1:23:09::
+,
+and
+such such%5:00:00:specified:00
+payments payment%1:21:00::
+shall
+be be%2:42:07::
+55
+per
+centum
+of
+the
+difference difference%1:09:00::
+between
+14
+-
+1
+2
+cents cent%1:23:00::
+per
+pound pound%1:23:09::
+and
+the
+average average%5:00:02:normal:01
+market_price market_price%1:21:00::
+for
+the
+month month%1:28:01::
+in_which
+the
+sale sale%1:04:00::
+occurred occur%2:30:00::
+as
+determined determine%2:32:00::
+by
+the
+Secretary secretary_of_the_interior%1:04:00::
+.
+The
+maximum maximum%3:00:00::
+amount amount%1:09:00::
+of
+payments payment%1:21:00::
+which
+may
+be
+made make%2:41:00::
+pursuant pursuant%5:00:00:consistent:00
+to
+this
+Act act%1:10:01::
+on_account_of
+sales sale%1:04:00::
+of
+newly newly%4:02:00::
+mined mine%2:34:00::
+ores ore%1:27:00::
+or
+concentrates concentrate%1:27:00::
+produced produce%2:36:00::
+therefrom therefrom%4:02:02::
+made make%2:41:00::
+during
+the
+calendar_year calendar_year%1:28:00::
+1962
+shall
+not not%4:02:00::
+exceed exceed%2:42:00::
+$
+4500000
+;
+the
+maximum maximum%3:00:00::
+amount amount%1:09:00::
+of
+such such%5:00:00:specified:00
+payments payment%1:21:00::
+which
+may
+be
+made
+on_account_of
+such such%5:00:00:specified:00
+sales sale%1:04:00::
+made make%2:41:00::
+during
+the
+calendar_year calendar_year%1:28:00::
+1963
+shall
+not not%4:02:00::
+exceed exceed%2:42:00::
+$
+4500000
+;
+the
+maximum maximum%3:00:00::
+amount amount%1:09:00::
+of
+such such%5:00:00:specified:00
+payments payment%1:21:00::
+which
+may
+be
+made make%2:41:00::
+on_account_of
+such such%5:00:00:specified:00
+sales sale%1:04:00::
+made make%2:41:00::
+during
+the
+calendar_year calendar_year%1:28:00::
+1964
+shall
+not not%4:02:00::
+exceed exceed%2:42:00::
+$
+4000000
+;
+and
+the
+maximum maximum%3:00:00::
+amount amount%1:09:00::
+of
+such such%5:00:00:specified:00
+payments payment%1:21:00::
+which
+may
+be
+made make%2:41:00::
+on_account_of
+such such%5:00:00:specified:00
+sales sale%1:04:00::
+made make%2:41:00::
+during
+the
+calendar_year calendar_year%1:28:00::
+1965
+shall
+not not%4:02:00::
+exceed exceed%2:42:00::
+$
+3500000
+.

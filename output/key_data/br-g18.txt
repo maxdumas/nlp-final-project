@@ -1,0 +1,2218 @@
+Among
+the
+recipients recipient%1:18:00::
+of
+the
+Nobel_Prize nobel_prize%1:10:00::
+for
+Literature literature%1:04:00::
+more_than more_than%4:02:00::
+half half%1:23:00::
+are be%2:42:03::
+practically practically%4:02:00::
+unknown unknown%3:00:00::
+to
+readers reader%1:18:03::;1:18:00::
+of
+English english%1:09:00::;1:10:00::
+.
+Of
+these
+there
+are be%2:42:00::
+surely surely%4:02:00::
+few few%3:00:00::
+that
+would
+be be%2:42:03::
+more more%4:02:00::
+rewarding rewarding%3:00:00::
+discoveries discovery%1:10:00::
+than
+Verner_von_Heidenstam person%1:03:00::
+,
+the
+Swedish swedish%3:01:00::
+poet poet%1:18:00::
+and
+novelist novelist%1:18:00::
+who
+received receive%2:40:00::
+the
+award award%1:21:00::;1:10:00::
+in
+1916
+and
+whose
+centennial centennial%1:28:00::
+was
+celebrated celebrate%2:41:01::
+two two%5:00:00:cardinal:00
+years year%1:28:01::
+ago ago%4:02:00::
+.
+Equally equally%4:02:01::
+a
+master master%1:18:00::
+of
+prose prose%1:10:00::
+and
+verse verse%1:10:02::
+,
+he
+recreates recreate%2:29:02::
+the
+glory glory%1:07:00::
+of
+Sweden sweden%1:15:00::
+in
+the
+past past%1:28:00::
+and
+continues continue%2:42:00::
+it
+into
+the
+present present%1:28:00::
+.
+In
+the
+following following%5:00:01:succeeding(a):00
+sketch sketch%1:10:03::
+we
+shall
+present present%2:32:00::
+a
+brief brief%5:00:00:concise:00
+outline outline%1:10:00::
+of
+his
+life life%1:10:00::
+and
+let let%2:41:00::
+him
+as_much_as_possible as_much_as_possible%4:02:00::
+speak_for speak_for%2:41:00::
+himself
+.
+Heidenstam person%1:03:00::
+was be%2:42:03::
+born born%3:00:00::
+in
+1859
+,
+of
+a
+prosperous prosperous%5:00:00:rich:00
+family family%1:14:00::
+.
+On
+his
+father father%1:18:00::
+'s
+side side%1:14:01::
+he
+was be%2:42:03::
+of
+German german%3:01:00::
+descent descent%1:07:00::
+,
+on
+his
+mother mother%1:18:00::
+'s
+he
+came come%2:42:01::
+of
+the
+old old%5:00:00:past:00
+Swedish swedish%3:01:00::
+nobility nobility%1:14:00::
+.
+The
+family family%1:14:00::
+estate estate%1:21:01::
+was
+situated situate%2:35:00::
+near
+Vadstena location%1:03:00::
+on
+Lake_Va location%1:03:00::
+^
+ttern location%1:03:00::
+in
+south south%3:00:00::
+central central%3:01:00::
+Sweden sweden%1:15:00::
+.
+It
+is be%2:42:03::
+a
+lonely lonely%5:00:00:inaccessible:00
+,
+rather rather%4:02:04::
+desolate desolate%5:00:00:inhospitable:00
+region region%1:15:00::
+,
+but
+full full%3:00:00::
+of
+legendary legendary%5:00:00:known:00
+and
+historic historic%3:01:00::
+associations association%1:09:00::;1:26:02::
+.
+As
+a
+boy boy%1:18:00::
+in
+a
+local local%3:00:01::
+school school%1:14:00::
+he
+was be%2:42:03::
+shy shy%5:00:00:timid:00
+and
+solitary solitary%5:00:01:unsocial:00
+,
+absorbed absorbed%5:00:00:attentive:00
+in
+his
+fondness fondness%1:12:01::
+for
+nature nature%1:17:00::;1:26:00::
+and
+his
+visions vision%1:09:03::
+of
+Sweden sweden%1:15:00::
+'s
+ancient ancient%5:00:01:old:01;5:00:00:old:02
+glory glory%1:07:00::
+.
+He
+liked like%2:37:05::
+to
+fancy fancy%2:36:00::
+himself
+as
+a
+chieftain chieftain%1:18:01::
+and
+to
+dress dress%2:29:07::;2:29:00::
+for
+the
+part part%1:09:01::
+.
+Being be%2:42:03::
+somewhat somewhat%4:02:01::
+delicate delicate%5:00:00:breakable:00
+in
+health health%1:26:00::
+,
+at
+the
+age age%1:07:00::
+of
+sixteen sixteen%5:00:00:cardinal:00
+he
+was
+sent send%2:38:01::
+to
+Southern southern%5:00:01:south:00;5:00:02:south:00
+Europe europe%1:17:00::
+,
+for
+which
+he
+at_once at_once%4:02:00::
+developed develop%2:30:06::
+a
+passion passion%1:12:00::
+,
+so so%4:02:02::
+that
+he
+spent spend%2:42:00::
+nearly nearly%4:02:00::
+all_of all_of%3:00:00::
+the
+following following%5:00:02:succeeding(a):00
+ten ten%5:00:00:cardinal:00
+years year%1:28:01::
+abroad abroad%4:02:02::;4:02:00::
+,
+at_first at_first%4:02:00::
+in
+Italy italy%1:15:00::
+,
+then then%4:02:00::
+in
+Greece greece%1:15:00::
+,
+Egypt egypt%1:15:00::
+,
+Asia_Minor asia_minor%1:15:00::
+,
+and
+Palestine palestine%1:15:01::
+.
+In
+one one%5:00:00:unspecified:00
+of
+his
+summers summer%1:28:00::
+at
+home home%1:15:04::
+he
+married marry%2:41:00::
+,
+to
+the
+great great%5:00:00:high:02
+disapproval disapproval%1:12:00::
+of
+his
+father father%1:18:00::
+,
+who
+objected object%2:32:00::
+because
+of
+his
+extreme extreme%5:00:00:intense:00
+youth youth%1:26:00::
+.
+Deciding decide%2:31:00::
+to
+become become%2:42:01::
+a
+painter painter%1:18:00::
+,
+he
+entered enter%2:33:00::
+the
+studio studio%1:06:00::
+of
+Gerome person%1:03:00::
+in
+Paris paris%1:15:00::
+,
+where
+he
+enjoyed enjoy%2:34:00::;2:37:00::
+the
+life life%1:26:01::
+of
+the
+artists artist%1:18:00::
+,
+but
+soon soon%4:02:00::
+found find%2:31:09::
+that
+whatever
+talent talent%1:09:00::
+he
+might
+have have%2:40:04::
+did
+not not%4:02:00::
+lie_in lie_in%2:42:00::
+that
+direction direction%1:09:00::
+.
+He
+gives give%2:40:07::
+us
+an
+account account%1:10:00::
+of
+this
+in
+his
+lively lively%3:00:00::
+and
+humorous humorous%3:00:00::
+poem poem%1:10:00::
+,
+``
+The_Happy_Artists
+''
+.
+``
+I
+scanned scan%2:35:00::
+the
+world world%1:09:00::;1:17:01::
+through
+printed_symbol printed_symbol%1:10:00::
+swart swart%5:00:00:brunet:00
+,
+And
+through
+the
+beggar beggar%1:18:00::
+'s
+rags rag%1:06:00::
+I
+strove strive%2:41:00::
+to
+see see%2:31:01::;2:39:00::
+The
+inner inner%5:00:00:inward:00
+man man%1:18:04::
+.
+I
+looked look%2:39:02::
+unceasingly unceasingly%4:02:00::
+With
+my
+cold cold%3:00:02::
+mind mind%1:09:00::
+and
+with
+my
+burning burning%5:00:00:passionate:00
+heart heart%1:09:00::
+''
+.
+In
+this
+final final%5:00:00:closing:00
+line line%1:10:02::
+,
+we
+have have%2:40:03::
+the
+key key%1:09:00::
+to
+his
+nature nature%1:07:01::
+.
+Few few%3:00:00::
+writers writer%1:18:00::
+have
+better better%4:02:00::
+understood understand%2:31:00::
+their
+deepest deep%5:00:00:profound:00
+selves self%1:09:00::
+.
+Heidenstam person%1:03:00::
+could
+never never%4:02:00::
+be
+satisfied satisfy%2:37:00::
+by
+surface surface%1:09:00::
+.
+It
+may
+,
+however
+,
+be
+noted note%2:32:00::
+that
+his
+gift gift%1:09:00::
+for
+color color%1:07:04::;1:07:03::
+and
+imagery imagery%1:09:00::
+must
+have
+been
+greatly greatly%4:02:00::
+stimulated stimulate%2:37:00::
+by
+his
+stay stay%1:04:00::
+in
+Paris paris%1:15:00::
+.
+The
+first first%3:00:00::
+result result%1:19:00::
+of
+Heidenstam person%1:03:00::
+'s
+long long%3:00:02::
+sojourn sojourn%1:04:00::
+abroad abroad%4:02:02::;4:02:00::
+was be%2:42:06::
+a
+volume volume%1:06:00::
+of
+poems poem%1:10:00::
+,
+Pilgrimage_and_Wander_Years
+(
+Vallfart_och_vandringsar
+)
+,
+published publish%2:32:00::;2:36:01::
+in
+1888
+.
+It
+was be%2:42:02::
+a
+brilliant brilliant%5:00:00:superior:02
+debut debut%1:04:00::
+,
+so_much_so
+indeed indeed%4:02:03::
+that
+it
+aroused arouse%2:37:00::
+a
+new new%5:00:00:original:00
+vitality vitality%1:07:01::
+in
+the
+younger young%3:00:00::
+poets poet%1:18:00::
+,
+as
+did
+Byron person%1:03:00::
+'s
+Childe_Harold
+.
+Professor_Fredrik_Bo person%1:03:00::
+^
+o
+^
+k
+,
+Sweden sweden%1:15:00::
+'s
+foremost foremost%5:00:00:best:00
+critic critic%1:18:00::
+of
+the
+period period%1:28:00::
+,
+acclaims acclaim%2:32:00::
+it
+as_follows as_follows%4:02:00::
+:
+``
+In
+this
+we
+have have%2:39:06::
+the
+verse verse%1:10:02::;1:10:00::
+of
+a
+painter painter%1:18:00::
+;
+strongly strongly%4:02:00::
+colorful colorful%3:00:03::;3:00:00::
+,
+plastic plastic%5:00:00:integrative:00
+,
+racy racy%5:00:00:spirited:00
+,
+vivid vivid%5:00:00:clear:00;5:00:00:realistic:00
+.
+In
+a
+bold bold%5:00:00:enterprising:00;3:00:00::
+,
+sometimes sometimes%4:02:01::
+careless careless%5:00:00:artless:00
+,
+form form%1:07:00::
+there
+is be%2:42:00::
+nothing
+academic academic%5:00:00:theoretical:01
+;
+all
+is
+seen see%2:36:00::;2:31:01::
+and
+felt feel%2:39:00::;2:37:00::
+and
+experienced experience%2:37:00::;2:39:00::
+,
+the
+observation observation%1:10:00::
+is be%2:42:03::
+sharp sharp%5:00:00:smart:00;5:00:00:perceptive:00
+and
+the
+imagination imagination%1:09:01::
+lively lively%3:00:00::
+.
+The
+young young%3:00:00::
+poet poet%1:18:00::
+painter painter%1:18:00::
+reproduces reproduce%2:36:00::
+the
+French french%3:01:00::
+life life%1:26:01::
+of
+the
+streets street%1:26:00::
+;
+he
+tells tell%2:32:01::
+stories story%1:10:03::
+of
+the
+Thousand_and_One_Nights
+,
+and
+conjures_up conjure_up%2:36:00::
+before
+us
+the
+bazaars bazaar%1:06:00::
+of
+Damascus damascus%1:15:00::
+.
+In
+the
+care-free carefree%5:00:00:untroubled:00
+indolence indolence%1:07:00::
+of
+the
+East east%1:15:00::
+he
+sees see%2:31:01::
+the
+last last%3:00:00::
+reflection reflection%1:10:01::
+of
+the
+old old%5:00:00:past:00;3:00:01::
+happy happy%3:00:00::
+existence existence%1:26:00::
+,
+and
+for
+that
+reason reason%1:16:00::
+he
+loves love%2:37:00::
+it
+.
+And
+yet
+amid
+all
+the
+gay gay%5:00:00:indulgent:00
+hedonism hedonism%1:16:00::
+in
+Pilgrimage
+and
+Wander-Years
+is be%2:42:06::
+a
+cycle cycle%1:14:00::
+of
+short short%3:00:01::
+poems poem%1:10:00::
+,
+''
+Thoughts_in_Loneliness
+``
+,
+filled filled%5:00:01:full:00
+with
+brooding brooding%1:12:00::
+,
+melancholy melancholy%1:12:00::
+,
+and
+sombre sombre%5:00:00:cheerless:00
+longing longing%1:12:00::
+''
+.
+Of
+the
+longer long%3:00:01::
+pieces piece%1:17:00::;1:06:00::
+of
+the
+volume volume%1:06:00::
+none
+is be%2:42:03::
+so so%4:02:02::
+memorable memorable%5:00:02:unforgettable:00
+as
+``
+Nameless_and_Immortal
+''
+,
+which
+at_once at_once%4:02:00::
+took
+rank rank%1:26:00::
+among
+the
+finest finest%5:00:00:best:00
+poems poem%1:10:00::
+ever ever%4:02:04::
+written written%3:00:00::
+in
+the
+Swedish swedish%3:01:00::
+language language%1:10:00::
+.
+It
+celebrates celebrate%2:41:00::
+the
+unknown unknown%5:00:00:inglorious:00
+architect architect%1:18:00::
+who
+designed design%2:36:01::
+the
+temple temple%1:06:00::
+of
+Neptune neptune%1:18:00::
+at
+Paestum location%1:03:00::
+,
+next next%5:00:00:close:01
+to
+the
+Parthenon parthenon%1:06:00::
+the
+noblest noble%5:00:00:impressive:00
+example example%1:09:02::;1:09:00::
+of
+Grecian grecian%3:01:00::
+classic classic%5:00:00:classical:00
+style style%1:09:01::
+now now%4:02:05::
+in
+existence existence%1:26:00::
+.
+On
+the
+eve eve%1:28:01::
+of
+his
+return return%1:04:01::
+to
+their
+native native%3:00:03::
+Naxos location%1:03:00::
+he
+speaks speak%2:32:01::
+with
+his
+wife wife%1:18:00::
+of
+the
+masterpiece masterpiece%1:06:00::
+which
+rises rise%2:38:06::
+before
+them
+in
+its
+completed completed%5:00:00:complete:00
+perfection perfection%1:26:00::
+.
+The
+supreme supreme%5:00:00:ultimate:00
+object object%1:09:00::
+of
+their
+lives life%1:26:02::
+is
+now now%4:02:05::
+fulfilled fulfil%2:34:00::;2:36:00::
+,
+says say%2:32:01::
+the
+wife wife%1:18:00::
+,
+her
+husband husband%1:18:00::
+has
+achieved achieve%2:41:00::
+immortality immortality%1:07:00::
+.
+Not not%4:02:00::
+so so%4:02:05::
+,
+he
+answers answer%2:32:00::
+,
+it
+is
+not not%4:02:00::
+the
+architect architect%1:18:00::
+but
+the
+temple temple%1:06:00::
+that
+is be%2:42:03::
+immortal immortal%3:00:00::
+.
+``
+The
+man man%1:18:04::;1:18:00::
+'s
+true true%5:00:00:genuine:00
+reputation reputation%1:26:00::
+is be%2:42:06::
+his
+work work%1:06:00::;1:04:00::
+''
+.
+The
+short short%3:00:01::
+poems poem%1:10:00::
+grouped group%2:33:00::
+at
+the
+end end%1:09:00::
+of
+the
+volume volume%1:06:00::
+as
+``
+Thoughts_in_Loneliness
+''
+is be%2:42:05::;2:42:03::
+,
+as
+Professor_Bo person%1:03:00::
+^
+o
+^
+k
+indicated indicate%2:32:03::
+,
+in
+sharp sharp%5:00:00:distinct:00
+contrast contrast%1:24:00::
+with
+the
+others
+.
+It
+consists_of consist_of%2:42:00::
+fragmentary fragmentary%5:00:00:fractional:00
+personal personal%3:00:00::
+revelations revelation%1:10:02::
+,
+such_as such_as%5:00:00:specified:00
+``
+The_Spark
+''
+:
+``
+There
+is be%2:42:00::
+a
+spark spark%1:07:00::;1:11:01::
+dwells dwell%2:42:00::
+deep deep%4:02:00::
+within
+my
+soul soul%1:18:00::
+.
+To
+get get_out%2:35:00::
+it
+out
+into
+the
+daylight daylight%1:28:00::
+'s
+glow glow%1:19:00::
+Is be%2:42:02::
+my
+life life%1:26:02::
+'s
+aim aim%1:09:01::
+both
+first first%3:00:00::
+and
+last last%3:00:00::
+,
+the
+whole whole%1:06:00::
+.
+It
+slips_away slip_away%2:38:00::
+,
+it
+burns burn%2:37:00::
+and
+tortures torture%2:37:00::
+me
+.
+That
+little little%3:00:01::
+spark spark%1:07:00::;1:11:01::
+is be%2:42:02::
+all
+the
+wealth wealth%1:21:02::;1:26:00::
+I
+know know%2:31:03::
+,
+That
+little little%3:00:01::
+spark spark%1:07:00::;1:11:01::
+is be%2:42:02::
+my
+life life%1:26:02::
+'s
+misery misery%1:26:00::
+''
+.
+A
+dominant dominant%3:00:01::
+motive motive%1:03:00::
+is be%2:42:06::
+the
+poet poet%1:18:00::
+'s
+longing longing%1:12:00::
+for
+his
+homeland homeland%1:15:00::
+and
+its
+boyhood boyhood%1:28:00::
+associations association%1:09:00::
+:
+``
+Not not%4:02:00::
+men man%1:18:04::;1:18:00::
+folk folk%1:14:00::
+,
+but
+the
+fields field%1:17:00::;1:15:00::
+where
+I
+would
+stray stray%2:38:01::
+,
+The
+stones stone%1:17:00::
+where
+as
+a
+child child%1:18:00::
+I
+used_to used_to%5:00:00:accustomed:00
+play play%2:41:03::
+''
+.
+He
+is be%2:42:03::
+utterly utterly%4:02:00::
+disappointed disappointed%5:00:00:unsuccessful:00
+in
+himself
+and
+in
+the
+desultory desultory%5:00:00:purposeless:00
+life life%1:26:02::
+he
+has
+been
+leading lead%2:42:08::
+.
+What
+he
+really really%4:02:03::
+wants want%2:37:00::
+is be%2:42:06::
+to
+find find%2:40:02::
+``
+a
+sacred sacred%5:00:00:worthy:00
+cause cause%1:04:01::
+''
+to
+which
+he
+can
+honestly honestly%4:02:00::
+devote devote%2:32:00::
+himself
+.
+This
+restless restless%5:00:00:discontented:00
+individualism individualism%1:07:00::
+found find%2:40:03::
+its
+answer answer%1:10:02::
+when
+he
+returned return%2:38:00::
+to
+live live%2:42:08::
+nearly nearly%4:02:00::
+all
+the
+rest rest%1:24:00::
+of
+his
+life life%1:26:02::
+in
+Sweden sweden%1:15:00::
+.
+His
+cause cause%1:04:01::
+was be%2:42:06::
+to
+commemorate commemorate%2:31:00::
+the
+glory glory%1:07:00::;1:26:00::
+of
+her
+past past%1:28:00::
+and
+to
+incite incite%2:32:00::;2:36:00::
+her
+people people%1:14:01::
+to
+perpetuate perpetuate%2:42:00::
+it
+in
+the
+present present%1:28:00::
+.
+He
+did
+not not%4:02:00::
+,
+however
+,
+find_himself find_oneself%2:30:00::
+at_once at_once%4:02:00::
+.
+His
+next next%5:00:00:succeeding(a):00
+major major%3:00:06::
+work work%1:06:00::
+,
+completed complete%2:30:02::
+in
+1892
+,
+was be%2:42:03::
+a
+long long%3:00:01::
+fantastic fantastic%5:00:00:unreal:00
+epic epic%1:10:00::
+in
+prose prose%1:10:00::
+,
+entitled entitle%2:32:00::
+Hans_Alienus
+,
+which
+Professor_Bo person%1:03:00::
+^
+o
+^
+k
+describes describe%2:32:00::
+as
+a
+monument monument%1:06:00::
+on
+the
+grave grave%1:06:00::
+of
+his
+carefree carefree%5:00:00:untroubled:00
+and
+indolent indolent%5:00:00:idle:00
+youth youth%1:28:00::
+.
+The
+hero hero%1:09:00::
+,
+who
+is be%2:42:06::
+himself
+,
+is
+represented represent%2:41:02::
+as
+a
+pilgrim pilgrim%1:18:00::
+in
+the
+storied storied%5:00:00:glorious:00
+lands land%1:15:02::
+of
+the
+East east%1:15:00::
+,
+a
+sort_of sort_of%4:02:00::
+Faustus person%1:03:00::
+type type%1:18:00::
+,
+who
+,
+to
+quote quote%2:32:00::
+from
+Professor_Bo person%1:03:00::
+^
+o
+^
+k
+again again%4:02:00::
+,
+``
+even even%4:02:00::
+in
+the
+pleasure pleasure%1:12:00::
+gardens garden%1:14:00::
+of
+Sardanapalus
+can
+not not%4:02:00::
+cease cease%2:42:00::
+from
+his
+painful painful%3:00:00::
+search search%1:04:00::
+after
+the
+meaning meaning%1:10:00::
+of
+life life%1:09:00::
+.
+He
+is
+driven drive%2:41:02::
+back back%4:02:04::
+by
+his
+yearning yearning%1:12:00::
+to
+the
+wintry wintry%3:00:00::
+homeland homeland%1:15:00::
+of
+his
+fathers father%1:18:00::
+in
+the
+forest forest%1:17:00::
+of
+Tiveden location%1:03:00::
+''
+.
+From
+this
+time time%1:11:00::
+on
+Heidenstam person%1:03:00::
+proceeded proceed%2:32:00::
+to
+find find%2:40:02::
+his
+deeper deep%5:00:00:profound:00
+self self%1:09:00::
+.
+By
+the
+death death%1:11:00::
+of
+his
+father father%1:18:00::
+in
+1888
+he
+had
+come_into come_into%2:40:00::
+possession possession%1:04:00::
+of
+the
+family family%1:14:00::
+estate estate%1:21:02::
+and
+had
+re-assumed re-assume%2:30:00::
+its
+traditions tradition%1:09:02::
+.
+He
+did
+not not%4:02:00::
+,
+however
+,
+settle settle%2:30:02::
+back back%4:02:05::
+into
+acquiescence acquiescence%1:26:00::
+with
+things thing%1:26:00::
+as
+they
+were be%2:42:00::;2:42:03::
+.
+Like
+his
+friend friend%1:18:00::
+and
+contemporary contemporary%1:18:00::
+August_Strindberg person%1:03:00::
+he
+had have%2:40:00::
+little little%3:00:03::
+patience patience%1:07:00::
+with
+collective collective%5:00:00:joint:00
+mediocrity mediocrity%1:07:00::
+.
+He
+saw see%2:31:00::
+Sweden sweden%1:15:00::
+as
+a
+country country%1:14:01::;1:15:00::
+of
+smug smug%5:00:00:contented:00
+and
+narrow narrow%3:00:06::
+provincialism provincialism%1:09:00::
+,
+indifferent indifferent%5:00:00:uninterested:00
+to
+the
+heroic heroic%3:01:00::
+spirit spirit%1:18:01::
+of
+its
+former former%5:00:01:past:00
+glory glory%1:07:00::;1:26:00::
+.
+Strindberg person%1:03:00::
+'s
+remedy remedy%1:04:00::
+for
+this
+condition condition%1:26:00::
+was be%2:42:02::
+to
+tear_down tear_down%2:36:00::
+the
+old old%3:00:01::
+structures structure%1:06:00::
+and
+build build%2:36:00::
+anew anew%4:02:00::
+from
+the
+ground ground%1:17:00::
+up up%4:02:00::
+.
+Heidenstam person%1:03:00::
+'s
+conception conception%1:09:00::
+,
+on_the_contrary on_the_contrary%4:02:02::
+,
+was be%2:42:02::
+to
+revive revive%2:30:01::
+the
+present present%1:28:00::
+by
+the
+memories memory%1:09:02::
+of
+the
+past past%1:28:00::
+.
+Whether
+in
+prose prose%1:10:00::
+or
+poetry poetry%1:10:02::
+,
+all_of all_of%3:00:00::
+Heidenstam person%1:03:00::
+'s
+later later%5:00:00:subsequent:00
+work work%1:06:00::
+was be%2:42:03::
+concerned concerned%3:00:00::
+with
+Sweden sweden%1:15:00::
+.
+With
+the
+first first%1:23:00::
+of
+a
+group group%1:03:00::
+of
+historical historical%3:01:00::
+novels novel%1:10:00::
+,
+The_Charles_Men_(_Karolinerna
+)
+,
+published publish%2:36:01::
+in
+1897_-_8
+,
+he
+achieved achieve%2:41:00::
+the
+masterpiece masterpiece%1:06:00::
+of
+his
+career career%1:04:01::
+.
+In
+scope scope%1:07:00::
+and
+power power%1:07:00::
+it
+can
+only only%4:02:01::
+be
+compared compare%2:42:00::
+to
+Tolstoy person%1:03:00::
+'s
+War_and_Peace
+.
+About about%4:02:00::
+one-third one-third%1:23:00::
+as
+long long%3:00:01::
+,
+it
+is be%2:42:03::
+less less%3:00:00::
+intimate intimate%5:00:01:profound:00
+and
+detailed detailed%5:00:00:careful:00
+,
+but
+better better%4:02:00::
+coordinated coordinate%2:30:00::
+,
+more more%4:02:00::
+concise concise%3:00:00::
+and
+more more%4:02:00::
+dramatic dramatic%5:00:00:impressive:00;3:00:00::
+.
+Though
+it
+centers center%2:42:00::
+around
+the
+brilliant brilliant%5:00:00:intelligent:00
+and
+enigmatic enigmatic%5:00:00:incomprehensible:00
+figure figure%1:07:00::;1:18:00::
+of
+Charles_12 person%1:03:00::
+,
+,
+the
+true true%5:00:00:genuine:00
+hero hero%1:18:00::
+is be%2:42:06::
+not not%4:02:00::
+finally finally%4:02:00::
+the
+king king%1:18:00::
+himself
+.
+Hence hence%4:02:00::
+the
+title title%1:10:00::
+of
+the
+book book%1:10:00::
+,
+referring refer%2:32:00::
+to
+the
+soldiers soldier%1:18:00::
+and
+subjects subject%1:18:00::
+of
+the
+king king%1:18:00::
+;
+on
+the
+fatal fatal%5:00:00:decisive:00
+battlefield battlefield%1:15:00::
+of
+Poltava location%1:03:00::
+,
+to
+quote quote%2:32:00::
+from
+the
+novel novel%1:10:00::
+,
+``
+the
+wreath wreath%1:06:00::
+he
+twined twine%2:35:00::
+for
+himself
+slipped slip%2:38:01::
+down down%4:02:00::
+upon
+his
+people people%1:14:01::
+''
+.
+The_Charles_Men
+consists consist_of%2:42:00::
+not not%4:02:00::
+of
+a
+connected connected%5:00:00:related:02
+narrative narrative%1:10:00::
+but
+of
+a
+group group%1:03:00::
+of
+short_stories short_story%1:10:00::
+,
+each
+depicting depict%2:36:01::
+a
+special special%5:00:01:specific:00
+phase phase%1:28:00::
+of
+the
+general general%3:00:00::
+subject subject%1:10:00::
+.
+Somewhat somewhat%4:02:01::
+uneven uneven%3:00:00::
+in
+interest interest%1:07:02::
+for
+an
+average average%5:00:00:common:01
+reader reader%1:18:00::
+,
+eight eight%5:00:00:cardinal:00
+or
+ten ten%5:00:00:cardinal:00
+of
+these
+are be%2:42:03::
+among
+the
+finest finest%5:00:00:best:00
+of
+their
+kind kind%1:09:00::
+in
+literature literature%1:10:00::
+.
+They
+comprise comprise%2:42:00::
+a
+great great%5:00:01:large:00
+variety variety%1:14:01::
+of
+scene scene%1:26:00::
+and
+interest interest%1:09:00::
+:
+grim grim%5:00:00:cheerless:00
+episodes episode%1:11:00::
+of
+war war%1:04:00::
+,
+idyllic idyllic%5:00:00:perfect:00
+interludes interlude%1:28:00::
+,
+superb superb%5:00:00:superior:02
+canvases canvas%1:26:00::
+of
+world-shaking world-shaking%5:00:00:significant:00
+events event%1:03:00::
+,
+and
+delightfully delightfully%4:02:00::
+humorous humorous%3:00:00::
+sketches sketch%1:10:03::
+of
+odd odd%5:00:00:strange:00
+characters character%1:18:02::
+.
+The
+general general%3:00:00::
+effect effect%1:09:00::
+is be%2:42:03::
+tragic tragic%5:00:00:sad:00
+.
+Almost almost%4:02:00::
+nothing
+is
+said say%2:32:00::
+of
+Charles person%1:03:00::
+'
+spectacular spectacular%5:00:00:dramatic:00
+victories victory%1:11:00::
+,
+the
+central central%5:00:00:important:00
+theme theme%1:09:01::
+being be%2:42:03::
+the
+heroic heroic%5:00:00:impressive:00
+loyalty loyalty%1:07:00::
+of
+the
+Swedish swedish%3:01:00::
+people people%1:14:01::
+to
+their
+idolized idolized%5:00:00:loved:00
+king king%1:18:00::
+in
+misfortune misfortune%1:26:00::
+and
+defeat defeat%1:11:00::
+.
+To
+carry_out carry_out%2:36:00::
+this
+exalted exalted%5:00:00:high:02
+conception conception%1:09:00::
+the
+author author%1:18:00::
+has
+combined combine%2:30:02::
+the
+vivid vivid%5:00:00:realistic:00
+realism realism%1:26:00::;1:06:00::
+and
+imaginative imaginative%5:00:00:creative:00
+power power%1:07:00::
+we
+have
+noticed notice%2:39:04::
+in
+his
+early early%3:00:02::
+poetry poetry%1:10:02::
+and
+carried carry_out%2:30:00::
+them
+out
+on
+a
+grand grand%5:00:00:impressive:00
+scale scale%1:24:00::
+.
+His
+peculiar peculiar%5:00:00:specific:00
+gift gift%1:09:00::
+,
+as
+had
+been
+suggested suggest%2:32:04::
+before before%4:02:03::
+,
+is be%2:42:06::
+his
+intensity intensity%1:07:00::
+.
+George_Meredith person%1:03:00::
+has
+said say%2:32:00::
+that
+fervor fervor%1:12:00::
+is be%2:42:02::
+the
+core core%1:09:00::
+of
+style style%1:10:00::
+.
+Of
+few few%3:00:00::
+authors author%1:18:00::
+is be%2:42:03::
+this
+more more%4:02:00::
+true true%3:00:00::
+than
+of
+Heidenstam person%1:03:00::
+.
+The_Charles_Men
+has have%2:42:00::
+a
+tremendous tremendous%5:00:00:extraordinary:00
+range range%1:07:00::
+of
+characters character%1:09:01::;1:18:02::
+,
+of
+common common%5:00:00:lowborn:00
+folk folk%1:14:00::
+even even%4:02:00::
+more_than more_than%4:02:00::
+of
+major major%3:00:06::
+figures figure%1:18:00::
+.
+The
+career career%1:04:01::
+of
+Charles_12 person%1:03:00::
+,
+is be%2:42:03::
+obviously obviously%4:02:00::
+very very%4:02:01::
+similar similar%3:00:00::
+to
+that
+of
+Napoleon napoleon%1:18:00::
+.
+His
+ideal ideal%5:00:00:perfect:00
+was be%2:42:06::
+Alexander_of_Macedon person%1:03:00::
+,
+as
+Napoleon napoleon%1:18:00::
+'s
+was be%2:42:06::
+Julius_Caesar julius_caesar%1:18:00::
+.
+His
+purpose purpose%1:09:00::
+,
+however however%4:02:04::
+,
+was be%2:42:06::
+not not%4:02:00::
+to
+establish establish%2:36:00::
+an
+empire empire%1:14:01::;1:15:00::
+,
+but
+to
+assert assert%2:41:00::
+the
+principle principle%1:09:03::
+of
+divine divine%5:00:00:heavenly:00
+justice justice%1:07:00::
+.
+Each
+aspired aspire%2:31:00::
+to
+be be%2:42:03::
+a
+god god%1:18:01::
+in
+human human%3:00:00::
+form form%1:03:00::
+,
+but
+with
+each
+it
+was be%2:42:03::
+a
+different different%3:00:00::
+kind kind%1:09:00::
+of
+god god%1:18:01::
+.
+Each
+failed fail%2:41:00::
+catastrophically catastrophically%4:02:00::
+in
+an
+invasion invasion%1:04:00::
+of
+Russia russia%1:15:02::
+and
+each
+brought bring%2:36:00::
+ruin ruin%1:26:00::
+on
+the
+country country%1:14:01::
+that
+worshipped worship%2:37:00::
+him
+.
+Each
+is
+still still%4:02:01::
+glorified glorify%2:30:00::;2:32:00::
+as
+a
+national national%3:01:00::
+hero hero%1:18:00::
+.
+The
+first first%5:00:00:ordinal:00
+half half%1:23:00::
+of
+The_Charles_Men
+,
+ending end%2:42:00::
+on
+the
+climax climax%1:10:00::
+of
+the
+battle battle%1:04:00::
+of
+Poltava location%1:03:00::
+in
+1709
+,
+is be%2:42:03::
+more more%4:02:00::
+dramatically dramatically%4:02:01::
+coherent coherent%3:00:00::
+than
+the
+second second%5:00:00:ordinal:00
+.
+After
+the
+collapse collapse%1:26:01::
+of
+that
+desperate desperate%5:00:00:hopeless:00
+and
+ill-fated ill-fated%5:00:00:unfortunate:00
+campaign campaign%1:04:00::
+the
+character character%1:18:02::
+of
+the
+king king%1:18:00::
+degenerated degenerate%2:30:00::
+for
+a
+time time%1:28:00::
+into
+a
+futility futility%1:07:00::
+that
+was be%2:42:03::
+not not%4:02:00::
+merely merely%4:02:00::
+pitiable pitiable%5:00:00:contemptible:00
+but
+often often%4:02:00::
+ridiculous ridiculous%5:00:00:undignified:00
+.
+Like
+Napoleon napoleon%1:18:00::
+,
+he
+was be%2:42:03::
+the
+worst worst%3:00:00::
+of
+losers loser%1:18:01::
+.
+There
+are be%2:42:00::
+,
+however however%4:02:04::
+,
+some
+wonderful wonderful%5:00:00:extraordinary:00
+chapters chapter%1:10:00::
+at
+the
+beginning beginning%1:09:00::
+of
+the
+second second%5:00:00:ordinal:00
+part part%1:24:00::
+,
+concerning concern%2:42:00::
+the
+reactions reaction%1:09:00::
+of
+the
+Swedes swede%1:18:00::
+in
+adversity adversity%1:26:00::
+.
+Then then%4:02:01::
+more_than more_than%4:02:00::
+ever ever%4:02:04::
+before
+did
+they
+show show%2:39:03::
+their
+fortitude fortitude%1:07:00::
+and
+patient patient%3:00:00::
+cheerfulness cheerfulness%1:07:00::
+.
+This
+comes_out come_out%2:30:01::
+in
+``
+When_the_Bells_Ring
+''
+,
+which
+describes describe%2:32:00::
+the
+rallying rallying%1:04:00::
+of
+the
+peasants peasant%1:18:03::
+in
+southern southern%5:00:02:south:00
+Sweden sweden%1:15:00::
+to
+repel repel%2:33:00::
+an
+invasion invasion%1:04:00::
+by
+the
+Danes dane%1:18:00::
+.
+In
+``
+The_King
+'s_Ride
+''
+,
+Charles person%1:03:00::
+breaks_out break_out%2:30:04::
+of
+a
+long long%3:00:02::
+period period%1:28:00::
+of
+petulance petulance%1:12:00::
+and
+inertia inertia%1:07:01::
+,
+regains regain%2:40:00::
+his
+old old%5:00:00:past:00
+self self%1:18:00::
+,
+escapes escape%2:38:00::
+from
+Turkey turkey%1:15:00::
+,
+and
+finally finally%4:02:00::
+reaches reach%2:38:01::
+his
+own own%5:00:00:personal:00
+land land%1:15:02::;1:15:01::
+after
+an
+absence absence%1:04:00::
+of
+eighteen eighteen%5:00:00:cardinal:00
+years year%1:28:01::
+.
+He
+finds find%2:39:01::
+it
+in
+utter utter%5:00:00:unmitigated:00
+misery misery%1:26:00::
+and
+desolation desolation%1:26:00::
+.
+All
+his
+people people%1:14:01::
+ask ask%2:32:01::
+for
+is be%2:42:06::
+no no%4:02:02::
+more more%3:00:01::
+war war%1:04:00::
+.
+But
+he
+plunges plunge%2:30:10::
+into
+yet yet%4:02:02::
+another
+,
+this
+time time%1:11:00::
+with
+Norway norway%1:15:00::
+,
+and
+is
+killed kill%2:35:00::
+in
+an
+assault assault%1:04:00::
+on
+the
+fortress fortress%1:06:00::
+of
+Fredrikshall location%1:03:00::
+,
+being
+only only%4:02:02::
+thirty-six
+years year%1:28:01::
+of_age of_age%5:00:00:old:02
+when
+he
+died die%2:30:00::
+.
+He
+had
+become become%2:42:01::
+king king%1:18:00::
+at
+fifteen fifteen%5:00:00:cardinal:00
+.
+Then then%4:02:00::
+suddenly suddenly%4:02:02::
+there
+was be%2:42:04::
+a
+tremendous tremendous%5:00:00:extraordinary:00
+revulsion revulsion%1:12:00::
+of
+popular popular%5:00:00:democratic:00
+feeling feeling%1:09:03::
+.
+From
+being be%2:42:03::
+a
+hated hated%5:00:00:unloved:00
+tyrant tyrant%1:18:00::
+and
+madman madman%1:18:00::
+he
+was be%2:42:02::
+now now%4:02:05::
+the
+symbol symbol%1:09:00::
+of
+all
+that
+was be%2:42:03::
+noblest noble%5:00:00:honorable:00
+and
+best best%3:00:00::
+in
+the
+history history%1:28:02::
+of
+Sweden sweden%1:15:00::
+.
+This
+is
+brought_out bring_out%2:39:00::
+in
+the
+next_to_last next-to-last%5:00:01:last:00
+chapter chapter%1:10:00::
+of
+the
+book book%1:10:00::
+,
+``
+A_Hero
+'s
+Funeral
+''
+,
+written write%2:36:00::
+in
+the
+form form%1:09:00::
+of
+an
+impassioned impassioned%5:00:00:passionate:00
+prose_poem prose_poem%1:10:00::
+.
+Slowly slowly%4:02:02::
+the
+procession procession%1:14:00::
+of
+warriors warrior%1:18:00::
+and
+statesmen statesman%1:18:00::
+passes_through pass_through%2:38:00::
+the
+snow snow%1:27:00::
+beside
+the
+black black%3:00:01::
+water water%1:17:00::
+and
+into
+the
+brilliantly brilliantly%4:02:01::
+lighted lighted%5:00:00:light:06
+cathedral cathedral%1:06:00::
+,
+the
+shrine shrine%1:06:00::
+of
+so so%4:02:02::
+many many%3:00:00::
+precious precious%5:00:00:loved:00
+memories memory%1:09:02::
+.
+The
+guns gun%1:06:01::;1:06:00::
+are
+fired fire%2:33:00::
+,
+the
+hymns hymn%1:10:00::
+are
+sung sing%2:36:01::
+,
+and
+the
+body body%1:08:00::
+of
+Charles person%1:03:00::
+is
+carried carry%2:35:02::
+down down%4:02:00::
+to
+the
+vault vault%1:06:01::
+and
+laid lay%2:35:00::
+beside
+the
+tombs tomb%1:06:00::
+of
+his
+ancestors ancestor%1:18:00::
+.
+As
+he
+had
+longed long%2:37:02::
+to
+be be%2:42:06::
+,
+he
+became become%2:42:01::
+the
+echo echo%1:07:00::
+of
+a
+saga saga%1:10:00::
+.
+Heidenstam person%1:03:00::
+wrote write%2:36:00::
+four four%5:00:00:cardinal:00
+other other%3:00:00::
+works work%1:06:00::
+of
+fiction fiction%1:10:00::
+about
+earlier early%5:00:00:past:00
+figures figure%1:18:00::
+revered revere%2:37:01::
+in
+Swedish swedish%3:01:00::
+memory memory%1:09:00::
+.
+Excellent excellent%5:00:00:superior:02
+in
+their
+way way%1:26:00::
+,
+they
+lack lack%2:42:00::
+the
+wide wide%5:00:00:comprehensive:00
+appeal appeal%1:07:00::
+of
+The_Charles_Men
+,
+and
+need
+not not%4:02:00::
+detain detain%2:41:00::
+us
+here here%4:02:02::
+.
+It
+is be%2:42:03::
+different different%3:00:00::
+with
+his
+volume volume%1:06:00::
+The_Swedes_and_Their_Chieftains
+(
+Svenskarna_och_deras_ho
+^_vdingar
+)
+,
+a
+history history%1:10:00::
+intended intend%2:31:01::
+for
+the
+general general%3:00:00::
+reader reader%1:18:03::;1:18:00::
+and
+particularly particularly%4:02:00::
+suited suited%5:00:00:fit:02
+for
+high_school high_school%1:14:00::
+students student%1:18:00::
+.
+Admirably admirably%4:02:00::
+written write%2:36:00::
+,
+it
+is be%2:42:03::
+a
+perfect perfect%3:00:00::
+introduction introduction%1:10:01::
+to
+Swedish swedish%3:01:00::
+history history%1:28:02::
+for
+readers reader%1:18:00::
+of
+other other%3:00:00::
+countries country%1:14:01::
+.
+Some
+of
+the
+earlier early%5:00:00:past:00
+episodes episode%1:10:01::
+have have%2:40:00::
+touches touch%1:10:01::
+of
+the
+supernatural supernatural%1:18:00::
+,
+as
+suited suit%2:42:05::
+to
+the
+legendary legendary%5:00:00:known:00
+background background%1:26:00::
+.
+These
+are be%2:42:03::
+suggestive_of suggestive_of%5:00:00:connotative:00
+Selma_Lagerlo person%1:03:00::
+^
+f
+.
+Especially especially%4:02:00::
+touching touching%5:00:00:moving:01
+is be%2:42:03::
+the
+chapter chapter%1:10:00::
+,
+``
+The_Little_Sister
+''
+,
+about
+a
+king king%1:18:00::
+'s
+daughter daughter%1:18:00::
+who
+became become%2:42:01::
+a
+nun nun%1:18:00::
+in
+the
+convent convent%1:06:00::
+of
+St._Birgitta location%1:03:00::
+.
+The
+record record%1:10:02::
+teems teem%2:42:00::
+with
+romance romance%1:07:00::
+and
+adventure adventure%1:04:00::
+.
+Gustaf_Vasa person%1:03:00::
+is be%2:42:03::
+a
+superb superb%5:00:00:superior:02
+example example%1:09:00::
+,
+and
+Charles_10 person%1:03:00::
+,
+,
+the
+conqueror conqueror%1:18:00::
+of
+Denmark denmark%1:15:00::
+,
+hardly hardly%4:02:00::
+less less%4:02:00::
+so so%4:02:05::
+.
+Of
+Gustavus_Adolphus person%1:03:00::
+and
+Charles_12 person%1:03:00::
+,
+it
+is be%2:42:03::
+unnecessary unnecessary%3:00:00::
+to
+speak speak_of%2:32:00::
+.

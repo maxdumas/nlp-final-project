@@ -1,0 +1,2252 @@
+The
+many many%3:00:00::
+linguistic linguistic%3:01:01::
+techniques technique%1:09:00::
+for
+reducing reduce%2:30:00::
+the
+amount amount%1:07:00::
+of
+dictionary dictionary%1:10:00::
+information information%1:10:00::
+that
+have
+been
+proposed propose%2:31:00::
+all
+organize organize%2:30:00::
+the
+dictionary dictionary%1:10:00::
+'s
+contents content%1:14:00::
+around
+prefixes prefix%1:10:00::
+,
+stems stem%1:10:01::
+,
+suffixes suffix%1:10:00::
+,
+etc.
+.
+A
+significant significant%5:00:00:considerable:00
+reduction reduction%1:04:00::
+in
+the
+voume volume%1:07:03::
+of
+store store%1:21:00::
+information information%1:10:00::
+is
+thus thus%4:02:01::
+realized realize%2:36:00::
+,
+especially especially%4:02:00::
+for
+a
+highly highly%4:02:02::
+inflected inflected%5:00:00:derivative:00
+language language%1:10:00::
+such_as such_as%5:00:00:specified:00
+Russian russian%1:10:00::
+.
+For
+English english%1:10:00::
+the
+reduction reduction%1:04:00::
+in
+size size%1:07:00::
+is be%2:42:03::
+less less%4:02:00::
+striking striking%5:00:00:impressive:00
+.
+This
+approach approach%1:04:02::
+requires require%2:42:00::
+that
+:
+(
+1
+)
+each
+text text%1:10:00::
+word word%1:10:00::
+be
+separated separate%2:41:01::
+into
+smaller smaller%5:00:00:small:00
+elements element%1:06:00::
+to
+establish establish%2:31:00::
+a
+correspondence correspondence%1:07:02::
+between
+the
+occurrence occurrence%1:11:00::
+and
+dictionary_entries dictionary_entry%1:10:00::
+,
+and
+(
+2
+)
+the
+information information%1:10:00::
+retrieved retrieve%2:40:00::
+from
+several several%5:00:00:individual:00
+entries entry%1:10:01::
+in
+the
+dictionary dictionary%1:10:00::
+be
+synthesized synthesize%2:31:00::
+into
+a
+description description%1:10:01::
+of
+the
+particular particular%5:00:02:specific:00
+word word%1:10:00::
+.
+The
+logical logical%5:00:00:valid:00
+scheme scheme%1:09:00::
+used use%2:34:01::
+to
+accomplish accomplish%2:36:00::
+the
+former former%3:00:00::
+influences influence%2:31:00::
+the
+placement placement%1:07:00::
+of
+information information%1:10:00::
+in
+the
+dictionary dictionary%1:10:00::
+file file%1:10:00::
+.
+Implementation implementation%1:04:00::
+of
+the
+latter latter%3:00:00::
+requires require%2:42:00::
+storage storage%1:04:01::
+of
+information information%1:10:00::
+needed need%2:42:00::
+only only%4:02:01::
+for
+synthesis synthesis%1:09:00::
+.
+We
+suggest suggest%2:32:00::
+the
+application application%1:04:02::
+of
+certain certain%5:00:00:definite:00
+data-processing data_processing%1:22:00::
+techniques technique%1:09:00::
+as
+a
+solution solution%1:09:00::
+to
+the
+problem problem%1:26:00::
+.
+But
+first first%4:02:00::
+,
+we
+must
+define define%2:32:00::
+two two%5:00:00:cardinal:00
+terms term%1:10:00::
+so so%4:02:06::
+that
+their
+meaning meaning%1:10:00::
+will
+be
+clearly clearly%4:02:01::
+understood understand%2:31:00::
+:
+form form%1:10:00::
+-
+any
+unique unique%5:00:00:single(a):00
+sequence sequence%1:14:00::
+of
+alphabetic_characters alphabetic_character%1:10:00::
+that
+can
+appear appear%2:30:00::
+in
+a
+language language%1:10:00::
+preceded precede%2:42:01::
+and
+followed follow%2:42:02::
+by
+a
+space space%1:10:00::
+.
+occurrence occurrence%1:11:00::
+-
+an
+instance instance%1:11:00::
+of
+a
+form form%1:10:00::
+in
+text text%1:10:00::
+.
+We
+propose propose%2:31:00::
+a
+method method%1:09:00::
+for
+selecting select%2:31:00::
+only only%4:02:01::
+dictionary dictionary%1:10:00::
+information information%1:10:00::
+required require%2:42:00::
+by
+the
+text text%1:10:00::
+being
+translated translate%2:31:00::
+and
+a
+means means%1:04:00::
+for
+passing pass%2:40:00::
+the
+information information%1:10:00::
+directly directly%4:02:05::
+to
+the
+occurrences occurrence%1:11:00::
+in
+text text%1:10:00::
+.
+We
+accomplish accomplish%2:36:00::
+this
+by
+compiling compile%2:36:00::
+a
+list list%1:10:00::
+of
+text text%1:10:00::
+forms form%1:10:00::
+as
+text text%1:10:00::
+is
+read read%2:31:06::
+by
+the
+computer computer%1:06:00::
+.
+A
+random ram%1:06:01::
+storage storage%1:04:01::
+scheme scheme%1:09:00::
+,
+based base%2:31:00::
+on
+the
+spelling spelling%1:10:00::
+of
+forms form%1:10:00::
+,
+provides provide%2:40:00::
+an
+economical economical%5:00:00:efficient:00
+way way%1:04:01::
+to
+compile compile%2:36:00::
+this
+text text%1:10:00::
+form form%1:10:00::
+list list%1:10:00::
+.
+Dictionary dictionary%1:10:00::
+forms form%1:10:00::
+found find%2:32:00::
+to
+match match%2:42:00::
+forms form%1:10:00::
+in
+the
+text text%1:10:00::
+list list%1:10:00::
+are
+marked mark%2:35:09::
+.
+A
+location location%1:03:00::
+in
+the
+computer computer%1:06:00::
+store store%1:06:03::
+is
+also also%4:02:00::
+named name%2:32:07::
+for
+each
+marked marked%3:00:00::
+form form%1:10:00::
+;
+dictionary dictionary%1:10:00::
+information information%1:10:00::
+about
+the
+form form%1:10:00::
+stored store%2:40:00::
+at
+this
+location location%1:03:00::
+can
+be
+retrieved retrieve%2:40:00::
+directly directly%4:02:05::
+by
+occurrences occurrence%1:11:00::
+of
+the
+form form%1:10:00::
+in
+text text%1:10:00::
+.
+Finally finally%4:02:03::
+,
+information information%1:10:00::
+is
+retrieved retrieve%2:40:00::
+from
+the
+dictionary dictionary%1:10:00::
+as_required as_required%4:02:00::
+by
+stages stage%1:28:00::
+of
+the
+translation translation%1:10:00::
+process process%1:04:00::
+-
+the
+grammatic grammatic%3:01:00::
+description description%1:10:01::
+for
+sentence-structure sentence_structure%1:09:00::
+determination determination%1:04:00::
+,
+equivalent equivalent%1:09:00::
+choice choice%1:09:00::
+information information%1:10:00::
+for
+semantic semantic%3:01:00::
+analysis analysis%1:04:00::
+,
+and
+target-language target_language%1:10:01::
+equivalents equivalent%1:09:00::
+for
+output output%1:06:00::
+construction construction%1:04:00::
+.
+The
+dictionary dictionary%1:10:00::
+is be%2:42:06::
+a
+form form%1:10:00::
+dictionary dictionary%1:10:00::
+,
+at_least at_least%4:02:01::
+in
+the
+sense sense%1:10:00::
+that
+complete complete%3:00:00::
+forms form%1:10:00::
+are
+used use%2:34:01::
+as
+the
+basis basis%1:24:00::
+for
+matching match%2:35:08::
+text text%1:10:00::
+occurrences occurrence%1:11:00::
+with
+dictionary_entries dictionary_entry%1:10:00::
+.
+Also also%4:02:00::
+,
+the
+dictionary dictionary%1:10:00::
+is
+divided divide%2:41:00::
+into
+at_least at_least%4:02:00::
+two two%5:00:00:cardinal:00
+parts part%1:09:00::
+:
+the
+list list%1:10:00::
+of
+dictionary dictionary%1:10:00::
+forms form%1:10:00::
+and
+the
+file file%1:10:00::
+of
+information information%1:10:00::
+that
+pertains pertain%2:42:01::
+to
+these
+forms form%1:10:00::
+.
+A
+more more%4:02:00::
+detailed detailed%5:00:00:careful:00
+description description%1:10:01::
+of
+dictionary dictionary%1:10:00::
+operations operation%1:22:00::
+-
+text text%1:10:00::
+lookup lookup%1:22:00::
+and
+dictionary dictionary%1:10:00::
+modification modification%1:04:00::
+-
+give give%2:40:05::
+a
+clearer clear%3:00:00::
+picture picture%1:10:03::
+.
+Text text%1:10:00::
+lookup lookup%1:22:00::
+,
+as
+we
+will
+describe describe%2:32:01::
+it
+,
+consists_of consist_of%2:42:00::
+three three%5:00:00:cardinal:00
+steps step%1:04:02::
+.
+The
+first first%3:00:00::
+is be%2:42:06::
+compiling compiling%1:04:00::
+a
+list list%1:10:00::
+of
+text text%1:10:00::
+forms form%1:10:00::
+,
+assigning assigning%1:04:00::
+an
+information information%1:10:00::
+cell cell%1:06:03::
+to
+each
+,
+and
+replacing replacing%1:04:00::
+text text%1:10:00::
+occurrences occurrence%1:11:00::
+with
+the
+information information%1:10:00::
+cell cell%1:06:03::
+assigned assign%2:40:01::
+to
+the
+form form%1:10:00::
+of
+each
+occurrence occurrence%1:11:00::
+.
+For
+this
+step step%1:04:02::
+the
+computer computer%1:06:00::
+memory memory%1:06:00::
+is
+separated separate%2:41:01::
+into
+three three%5:00:00:cardinal:00
+regions region%1:15:00::
+:
+cells cell%1:06:03::
+in
+the
+W_region
+are
+used use%2:34:01::
+for
+storage storage%1:04:01::
+of
+the
+forms form%1:10:00::
+in
+the
+text text%1:10:00::
+form form%1:10:00::
+list list%1:10:00::
+;
+cells cell%1:06:03::
+in
+the
+X-region
+and
+Y_region
+are
+reserved reserve%2:40:00::
+as
+information information%1:10:00::
+cells cell%1:06:03::
+for
+text text%1:10:00::
+forms form%1:10:00::
+.
+When
+an
+occurrence occurrence%1:11:00::
+*
+*
+f
+is
+isolated isolate%2:30:02::
+during
+text text%1:10:00::
+reading reading%1:09:00::
+,
+a
+random_memory random_memory%1:06:00::
+address address%1:10:04::
+*
+*
+f
+,
+the
+address address%1:10:04::
+of
+a
+cell cell%1:06:03::
+in
+the
+X-region
+,
+is
+computed compute%2:31:00::
+from
+the
+form form%1:10:00::
+of
+*
+*
+f
+.
+Let
+*
+*
+f
+denote denote%2:32:00::
+the
+form form%1:10:00::
+of
+*
+*
+f
+.
+If
+cell cell%1:06:03::
+*
+*
+f
+has
+not not%4:02:00::
+previously previously%4:02:00::
+been
+assigned assign%2:40:01::
+as
+the
+information information%1:10:00::
+cell cell%1:06:03::
+of
+a
+form form%1:10:00::
+in
+the
+text text%1:10:00::
+form form%1:10:00::
+list list%1:10:00::
+,
+it
+is
+now now%4:02:05::
+assigned assign%2:40:01::
+as
+the
+information information%1:10:00::
+cell cell%1:06:03::
+of
+*
+*
+f
+.
+The
+form form%1:10:00::
+itself
+is
+stored store%2:40:00::
+in
+the
+next next%5:00:00:succeeding(a):00
+available available%3:00:00::
+cells cell%1:06:03::
+of
+the
+W-region
+,
+beginning begin%2:42:00::
+in
+cell cell%1:06:03::
+*
+*
+f
+.
+The
+address address%1:10:04::
+*
+*
+f
+and
+the
+number number%1:07:00::
+of
+cells cell%1:06:03::
+required require%2:42:00::
+to
+store store%2:40:00::
+the
+form form%1:10:00::
+are
+written write%2:32:03::
+in
+*
+*
+f
+;
+the
+information information%1:10:00::
+cell cell%1:06:03::
+*
+*
+f
+is
+saved save%2:40:00::
+to
+represent represent%2:42:02::
+the
+text text%1:10:00::
+occurrence occurrence%1:11:00::
+.
+Text text%1:10:00::
+reading reading%1:09:00::
+continues continue%2:42:01::
+with
+the
+next next%5:00:00:succeeding(a):00
+occurrence occurrence%1:11:00::
+.
+Let
+us
+assume assume%2:31:00::
+that
+*
+*
+f
+is be%2:42:03::
+identical identical%5:00:00:same:00
+to
+the
+form form%1:10:00::
+of
+an
+occurrence occurrence%1:11:00::
+*
+*
+f
+which
+preceded precede%2:42:01::
+*
+*
+f
+in
+the
+text text%1:10:00::
+.
+When
+this
+situation situation%1:26:00::
+exists exist%2:42:00::
+,
+the
+address address%1:10:04::
+*
+*
+f
+will
+equal equal%2:42:00::
+*
+*
+f
+which
+was
+produced produce%2:36:02::
+from
+*
+*
+f
+.
+If
+*
+*
+f
+was
+assigned assign%2:40:01::
+as
+the
+information information%1:10:00::
+cell cell%1:06:03::
+for
+*
+*
+f
+,
+the
+routine routine%1:10:00::
+can
+detect detect%2:39:00::
+that
+*
+*
+f
+is be%2:42:03::
+identical identical%5:00:00:same:00
+to
+*
+*
+f
+by
+comparing compare%2:31:00::
+*
+*
+f
+with
+the
+form form%1:10:00::
+stored store%2:40:00::
+at
+location location%1:03:00::
+*
+*
+f
+.
+The
+address address%1:10:04::
+*
+*
+f
+is
+stored store%2:40:00::
+in
+the
+cell cell%1:06:03::
+*
+*
+f
+.
+When
+,
+as
+in_this
+case case%1:11:00::
+,
+the
+two two%5:00:00:cardinal:00
+forms form%1:10:00::
+match match%2:42:00::
+,
+the
+address address%1:10:04::
+*
+*
+f
+is
+saved save%2:40:00::
+to
+represent represent%2:42:02::
+the
+occurrence occurrence%1:11:00::
+*
+*
+f
+.
+Text text%1:10:00::
+reading reading%1:09:00::
+continues continue%2:42:01::
+with
+the
+next next%5:00:00:succeeding(a):00
+occurrence occurrence%1:11:00::
+.
+A
+third third%5:00:00:ordinal:00
+situation situation%1:26:00::
+is be%2:42:03::
+possible possible%3:00:00::
+.
+The
+formula formula%1:10:02::
+for
+computing compute%2:31:00::
+random random-access_memory%1:06:00::
+addresses address%1:10:04::
+from
+the
+form form%1:10:00::
+of
+each
+occurrence occurrence%1:11:00::
+will
+not not%4:02:00::
+give give%2:40:05::
+a
+distinct distinct%5:00:00:different:00
+address address%1:10:04::
+for
+each
+distinct distinct%5:00:00:different:00
+form form%1:10:00::
+.
+Thus thus%4:02:00::
+,
+when
+more_than more_than%4:02:00::
+one one%5:00:00:cardinal:00
+distinct distinct%5:00:00:different:00
+form form%1:10:00::
+leads lead%2:42:03::
+to
+a
+particular particular%5:00:02:specific:00
+cell cell%1:06:03::
+in
+the
+X-region
+,
+a
+chain chain%1:14:00::
+of
+information information%1:10:00::
+cells cell%1:06:03::
+must
+be
+created create%2:36:00::
+to
+accommodate accommodate%2:42:00::
+the
+forms form%1:10:00::
+,
+one one%5:00:00:cardinal:00
+cell cell%1:06:03::
+in
+the
+chain chain%1:14:00::
+for
+each
+form form%1:10:00::
+.
+If
+*
+*
+f
+leads lead%2:42:03::
+to
+an
+address address%1:10:04::
+*
+*
+f
+that
+is be%2:42:03::
+equal equal%3:00:00::
+to
+the
+address address%1:10:04::
+computed compute%2:31:00::
+from
+*
+*
+f
+,
+even even%4:02:03::
+though though%4:02:00::
+*
+*
+f
+does
+not not%4:02:00::
+match match%2:42:00::
+*
+*
+f
+,
+the
+chain chain%1:14:00::
+of
+information information%1:10:00::
+cells cell%1:06:03::
+is
+extended extend%2:42:03::
+from
+*
+*
+f
+by
+storing store%2:40:00::
+the
+address address%1:10:04::
+of
+the
+next next%5:00:00:succeeding(a):00
+available available%3:00:00::
+cell cell%1:06:03::
+in
+the
+Y-region
+,
+*
+*
+f
+,
+in
+*
+*
+f
+.
+The
+cell cell%1:06:03::
+*
+*
+f
+becomes become%2:42:01::
+the
+second second%5:00:00:ordinal:00
+information information%1:10:00::
+cell cell%1:06:03::
+in
+the
+chain chain%1:14:00::
+and
+is
+assigned assign%2:40:01::
+as
+the
+information information%1:10:00::
+cell cell%1:06:03::
+of
+*
+*
+f
+.
+A
+third third%5:00:00:ordinal:00
+cell cell%1:06:03::
+can
+be
+added add%2:30:00::
+by
+storing store%2:40:00::
+the
+address address%1:10:04::
+of
+another
+Y-cell
+in
+*
+*
+f
+;
+similarly similarly%4:02:00::
+,
+as
+many
+cells cell%1:06:03::
+are
+added add%2:30:00::
+as
+are
+required require%2:42:00::
+.
+Each
+information information%1:10:00::
+cell cell%1:06:03::
+in
+the
+chain chain%1:14:00::
+contains contain%2:42:00::
+the
+address address%1:10:04::
+of
+the
+Y-cell
+where
+the
+form form%1:10:00::
+to
+which
+it
+is
+assigned assign%2:40:01::
+is
+stored store%2:40:00::
+.
+Each
+cell cell%1:06:03::
+except
+the
+last last%5:00:00:closing:00
+in
+the
+chain chain%1:14:00::
+also also%4:02:00::
+contains contain%2:42:00::
+the
+address address%1:10:04::
+of
+the
+Y-cell
+that
+is be%2:42:06::
+the
+next next%5:00:00:succeeding(a):00
+element element%1:06:00::
+of
+the
+chain chain%1:14:00::
+;
+the
+absence absence%1:26:00::
+of
+such such%5:00:01:specified:00
+a
+link link%1:24:00::
+in
+the
+last last%5:00:00:closing:00
+cell cell%1:06:03::
+indicates indicate%2:32:01::
+the
+end end%1:15:00::
+of
+the
+chain chain%1:14:00::
+.
+Hence hence%4:02:00::
+,
+when
+the
+address address%1:10:04::
+*
+*
+f
+is
+computed compute%2:31:00::
+from
+*
+*
+f
+,
+the
+cell cell%1:06:03::
+*
+*
+f
+and
+all all%3:00:00::
+Y-cells
+in
+its
+chain chain%1:14:00::
+must
+be
+inspected inspect%2:39:00::
+to
+determine determine%2:32:00::
+whether
+*
+*
+f
+is be%2:42:05::
+already already%4:02:00::
+in
+the
+form form%1:10:00::
+list list%1:10:00::
+or
+whether
+it
+should
+be
+added add%2:30:00::
+to
+the
+form form%1:10:00::
+list list%1:10:00::
+and
+the
+chain chain%1:14:00::
+.
+When
+the
+information information%1:10:00::
+cell cell%1:06:03::
+for
+*
+*
+f
+has
+been
+determined determine%2:32:00::
+,
+it
+is
+saved save%2:40:00::
+as
+a
+representation representation%1:09:00::
+of
+*
+*
+f
+.
+Text text%1:10:00::
+reading reading%1:09:00::
+continues continue%2:42:01::
+with
+the
+next next%5:00:00:succeeding(a):00
+occurrence occurrence%1:11:00::
+.
+Text text%1:10:00::
+reading reading%1:09:00::
+is
+terminated terminate%2:30:01::
+when
+a
+pre-determined predetermined%5:00:00:planned:00
+number number%1:07:00::
+of
+forms form%1:10:00::
+have
+been
+stored store%2:40:00::
+in
+the
+text text%1:10:00::
+form form%1:10:00::
+list list%1:10:00::
+.
+This
+initiates initiate%2:36:01::
+the
+second second%5:00:00:ordinal:00
+step step%1:04:02::
+of
+glossary glossary%1:10:00::
+lookup lookup%1:22:00::
+-
+connecting connect%2:35:00::
+the
+information information%1:10:00::
+cell cell%1:06:03::
+of
+forms form%1:10:00::
+in
+the
+text text%1:10:00::
+form form%1:10:00::
+list list%1:10:00::
+to
+dictionary dictionary%1:10:00::
+forms form%1:10:00::
+.
+Each
+form form%1:10:00::
+represented represent%2:32:00::
+by
+the
+dictionary dictionary%1:10:00::
+is
+looked_up look_up%2:32:00::
+in
+the
+text text%1:10:00::
+form form%1:10:00::
+list list%1:10:00::
+.
+Each
+time time%1:11:00::
+a
+dictionary dictionary%1:10:00::
+form form%1:10:00::
+matches match%2:42:00::
+a
+text text%1:10:00::
+form form%1:10:00::
+,
+the
+information information%1:10:00::
+cell cell%1:06:03::
+of
+the
+matching matching%5:00:02:matched:00
+text text%1:10:00::
+form form%1:10:00::
+is
+saved save%2:40:00::
+.
+The
+number number%1:07:00::
+of
+dictionary dictionary%1:10:00::
+forms form%1:10:00::
+skipped skip%2:31:01::
+since
+the
+last last%5:00:00:past:00
+one
+matched match%2:35:08::
+is
+also also%4:02:00::
+saved save%2:40:00::
+.
+These
+two two%5:00:00:cardinal:00
+pieces piece%1:06:05::
+of
+information information%1:10:00::
+for
+each
+dictionary dictionary%1:10:00::
+form form%1:10:00::
+that
+is
+matched match%2:42:00::
+by
+a
+text text%1:10:00::
+form form%1:10:00::
+constitute constitute%2:42:00::
+the
+table table%1:14:00::
+of
+dictionary dictionary%1:10:00::
+usage usage%1:04:00::
+.
+If
+each
+text text%1:10:00::
+form form%1:10:00::
+is
+marked mark%2:35:09::
+when
+matched match%2:35:08::
+with
+a
+dictionary dictionary%1:10:00::
+form form%1:10:00::
+,
+the
+text text%1:10:00::
+forms form%1:10:00::
+not not%4:02:00::
+contained contain%2:42:00::
+in
+the
+dictionary dictionary%1:10:00::
+can
+be
+identified identify%2:31:00::
+when
+all all%3:00:00::
+dictionary dictionary%1:10:00::
+forms form%1:10:00::
+have
+been
+read read%2:31:06::
+.
+The
+appropriate appropriate%3:00:00::
+action action%1:04:02::
+for
+handling handle%2:41:00::
+these
+forms form%1:10:00::
+can
+be
+taken take%2:41:04::
+at
+that
+time time%1:28:06::
+.
+Each
+dictionary dictionary%1:10:00::
+form form%1:10:00::
+is
+looked_up look_up%2:32:00::
+in
+the
+text text%1:10:00::
+form form%1:10:00::
+list list%1:10:00::
+by
+the
+same same%3:00:02::
+method method%1:09:00::
+used use%2:34:01::
+to
+look_up look_up%2:32:00::
+a
+new new%3:00:00::
+text text%1:10:00::
+occurrence occurrence%1:11:00::
+in
+the
+form form%1:10:00::
+list list%1:10:00::
+during
+text text%1:10:00::
+reading reading%1:09:00::
+.
+A
+random random%3:00:00::
+address address%1:10:04::
+*
+*
+f
+that
+lies lie%2:42:00::
+within
+the
+X-region
+of
+memory memory%1:06:00::
+mentioned mention%2:32:02::
+earlier earlier%4:02:00::
+is
+computed compute%2:31:00::
+from
+the
+i-th
+dictionary dictionary%1:10:00::
+form form%1:10:00::
+.
+If
+cell cell%1:06:03::
+*
+*
+f
+is be%2:42:06::
+an
+information information%1:10:00::
+cell cell%1:06:03::
+,
+it
+and
+any
+information information%1:10:00::
+cells cell%1:06:03::
+in
+the
+Y-region
+that
+have
+been
+linked link%2:35:00::
+to
+*
+*
+f
+each
+contain contain%2:42:00::
+an
+address address%1:10:04::
+in
+the
+W-region
+where
+a
+potentially potentially%4:02:00::
+matching matching%5:00:02:matched:00
+form form%1:10:00::
+is
+stored store%2:40:00::
+.
+The
+dictionary dictionary%1:10:00::
+form form%1:10:00::
+is
+compared compare%2:31:00::
+with
+each
+of
+these
+text text%1:10:00::
+forms form%1:10:00::
+.
+When
+a
+match match%1:06:01::
+is
+found find%2:40:02::
+,
+an
+entry entry%1:10:01::
+is
+made make%2:36:00::
+in
+the
+table table%1:14:00::
+of
+dictionary dictionary%1:10:00::
+usage usage%1:04:00::
+.
+If
+cell cell%1:06:03::
+*
+*
+f
+is be%2:42:06::
+not not%4:02:00::
+an
+information information%1:10:00::
+cell cell%1:06:03::
+we
+conclude conclude%2:31:00::
+that
+the
+i-th
+dictionary dictionary%1:10:00::
+form form%1:10:00::
+is be%2:42:05::
+not not%4:02:00::
+in
+the
+text text%1:10:00::
+list list%1:10:00::
+.
+These
+two two%5:00:00:cardinal:00
+steps step%1:04:02::
+essentially essentially%4:02:01::
+complete complete%2:30:02::
+the
+lookup lookup%1:22:00::
+operation operation%1:22:00::
+.
+The
+final final%5:00:00:closing:00
+step step%1:04:02::
+merely merely%4:02:00::
+uses use%2:34:01::
+the
+table table%1:14:00::
+of
+dictionary dictionary%1:10:00::
+usage usage%1:04:00::
+to
+select select%2:31:00::
+the
+dictionary dictionary%1:10:00::
+information information%1:10:00::
+that
+pertains pertain%2:42:01::
+to
+each
+form form%1:10:00::
+matched match%2:42:00::
+in
+the
+text text%1:10:00::
+form form%1:10:00::
+list list%1:10:00::
+,
+and
+uses use%2:34:01::
+the
+list list%1:10:00::
+of
+information information%1:10:00::
+cells cell%1:06:03::
+recorded record%2:32:00::
+in
+text text%1:10:00::
+order order%1:14:00::
+to
+attach attach%2:35:01::
+the
+appropriate appropriate%3:00:00::
+information information%1:10:00::
+to
+each
+occurrence occurrence%1:11:00::
+in
+text text%1:10:00::
+.
+The
+list list%1:10:00::
+of
+text text%1:10:00::
+forms form%1:10:00::
+in
+the
+W-region
+of
+memory memory%1:06:00::
+and
+the
+contents content%1:14:00::
+of
+the
+information information%1:10:00::
+cells cell%1:06:03::
+in
+the
+X
+and
+Y-regions
+are
+no_longer no_longer%4:02:00::
+required require%2:42:00::
+.
+Only only%4:02:01::
+the
+assignment assignment%1:04:02::
+of
+the
+information information%1:10:00::
+cells cell%1:06:03::
+is be%2:42:03::
+important important%3:00:00::
+.
+The
+first first%3:00:00::
+stage stage%1:28:00::
+of
+translation translation%1:10:00::
+after
+glossary glossary%1:10:00::
+lookup lookup%1:22:00::
+is be%2:42:06::
+structural structural%3:01:00::
+analysis analysis%1:04:00::
+of
+the
+input input%1:10:00::
+text text%1:10:00::
+.
+The
+grammatical grammatical%3:01:00::
+description description%1:10:01::
+of
+each
+occurrence occurrence%1:11:00::
+in
+the
+text text%1:10:00::
+must
+be
+retrieved retrieve%2:40:00::
+from
+the
+dictionary dictionary%1:10:00::
+to
+permit permit%2:41:00::
+such such%5:00:01:specified:00
+an
+analysis analysis%1:04:00::
+.
+A
+description description%1:10:01::
+of
+this
+process process%1:04:00::
+will
+serve serve%2:42:01::
+to
+illustrate illustrate%2:32:00::
+how
+any
+type type%1:09:00::
+of
+information information%1:10:00::
+can
+be
+retrieved retrieve%2:40:00::
+from
+the
+dictionary dictionary%1:10:00::
+and
+attached attach%2:35:01::
+to
+each
+text text%1:10:00::
+occurrence occurrence%1:11:00::
+.
+The
+grammatic grammatic%3:01:00::
+descriptions description%1:10:01::
+of
+all
+forms form%1:10:00::
+in
+the
+dictionary dictionary%1:10:00::
+are
+recorded record%2:32:00::
+in
+a
+separate separate%3:00:00::
+part part%1:09:00::
+of
+the
+dictionary dictionary%1:10:00::
+file file%1:10:00::
+.
+The
+order order%1:14:00::
+is be%2:42:03::
+identical identical%5:00:00:same:00
+to
+the
+ordering ordering%1:14:00::
+of
+the
+forms form%1:10:00::
+they
+describe describe%2:32:01::
+.
+When
+entries entry%1:10:01::
+are
+being
+retrieved retrieve%2:40:00::
+from
+this
+file file%1:10:00::
+,
+the
+table table%1:14:00::
+of
+dictionary dictionary%1:10:00::
+usage usage%1:04:00::
+indicates indicate%2:32:01::
+which
+entries entry%1:10:01::
+to
+skip skip%2:31:01::
+and
+which
+entries entry%1:10:01::
+to
+store store%2:40:00::
+in
+the
+computer computer%1:06:00::
+.
+This
+selection selection%1:04:00::
+rejection rejection%1:04:00::
+process process%1:04:00::
+takes_place take_place%2:30:00::
+as
+the
+file file%1:10:00::
+is
+read read%2:31:06::
+.
+Each
+entry entry%1:10:01::
+that
+is
+selected select%2:31:00::
+for
+storage storage%1:04:01::
+is
+written write%2:32:03::
+into
+the
+next next%5:00:00:succeeding(a):00
+available available%3:00:00::
+cells cell%1:06:03::
+of
+the
+W-region
+.
+The
+address address%1:10:04::
+of
+the
+first first%3:00:00::
+cell cell%1:06:03::
+and
+the
+number number%1:07:00::
+of
+cells cell%1:06:03::
+used use%2:34:01::
+is
+written write%2:32:03::
+in
+the
+information information%1:10:00::
+cell cell%1:06:03::
+for
+the
+form form%1:10:00::
+.
+(
+The
+address address%1:10:04::
+of
+the
+information information%1:10:00::
+cell cell%1:06:03::
+is
+also also%4:02:00::
+supplied supply%2:40:00::
+by
+the
+table table%1:14:00::
+of
+dictionary dictionary%1:10:00::
+usage usage%1:04:00::
+.
+)
+When
+the
+complete complete%3:00:00::
+file file%1:10:00::
+has
+been
+read read%2:31:06::
+,
+the
+grammatic grammatic%3:01:00::
+descriptions description%1:10:01::
+for
+all
+text text%1:10:00::
+forms form%1:10:00::
+found find%2:40:02::
+in
+the
+dictionary dictionary%1:10:00::
+have
+been
+stored store%2:40:00::
+in
+the
+W-region
+;
+the
+information information%1:10:00::
+cell cell%1:06:03::
+assigned assign%2:40:01::
+to
+each
+text text%1:10:00::
+form form%1:10:00::
+contains contain%2:42:00::
+the
+address address%1:10:04::
+of
+the
+grammatic grammatic%3:01:00::
+description description%1:10:01::
+of
+the
+form form%1:10:00::
+it
+represents represent%2:42:02::
+.
+Hence hence%4:02:00::
+,
+the
+description description%1:10:01::
+of
+each
+text text%1:10:00::
+occurrence occurrence%1:11:00::
+can
+be
+retrieved retrieve%2:40:00::
+by
+reading read%2:31:06::
+the
+list list%1:10:00::
+of
+text text%1:10:00::
+ordered ordered%3:00:00::
+information information%1:10:00::
+cell cell%1:06:03::
+addresses address%1:10:04::
+and
+outputting output%2:36:00::
+the
+description description%1:10:01::
+indicated indicate%2:32:01::
+by
+the
+information information%1:10:00::
+cell cell%1:06:03::
+for
+each
+occurrence occurrence%1:11:00::
+.
+The
+only only%5:00:00:single(a):00
+requirements requirement%1:09:01::
+on
+dictionary dictionary%1:10:00::
+information information%1:10:00::
+made make%2:41:00::
+by
+the
+text text%1:10:00::
+lookup lookup%1:22:00::
+operation operation%1:22:00::
+are be%2:42:06::
+that
+each
+form form%1:10:00::
+represented represent%2:32:00::
+by
+the
+dictionary dictionary%1:10:00::
+be be%2:42:03::
+available available%3:00:00::
+for
+lookup lookup%1:22:00::
+in
+the
+text text%1:10:00::
+form form%1:10:00::
+list list%1:10:00::
+and
+that
+information information%1:10:00::
+for
+each
+form form%1:10:00::
+be be%2:42:03::
+available available%3:00:00::
+in
+a
+sequence sequence%1:14:00::
+identical identical%5:00:00:same:00
+with
+the
+sequence sequence%1:14:00::
+of
+the
+forms form%1:10:00::
+.
+This
+leaves leave%2:42:02::
+the
+ordering ordering%1:14:00::
+of
+entries entry%1:10:01::
+variable variable%3:00:00::
+.
+(
+Here here%4:02:02::
+an
+entry entry%1:10:01::
+is be%2:42:06::
+a
+form form%1:10:00::
+plus
+the
+information information%1:10:00::
+that
+pertains pertain%2:42:01::
+to
+it
+.
+)
+Two two%5:00:00:cardinal:00
+very very%4:02:00::
+useful useful%3:00:00::
+ways way%1:04:01::
+for
+modifying modify%2:30:00::
+a
+form form%1:10:00::
+dictionary dictionary%1:10:00::
+are be%2:42:06::
+the
+addition addition%1:04:02::
+to
+the
+dictionary dictionary%1:10:00::
+of
+complete complete%3:00:00::
+paradigms paradigm%1:24:00::
+rather rather%4:02:02::
+than
+single single%3:00:00::
+forms form%1:10:00::
+and
+the
+application application%1:04:02::
+of
+a
+single single%3:00:00::
+change change%1:11:00::
+to
+more_than more_than%4:02:00::
+one one%5:00:00:cardinal:00
+dictionary dictionary%1:10:00::
+form form%1:10:00::
+.
+The
+former former%3:00:00::
+is
+intended intend%2:31:00::
+to
+decrease decrease%2:30:01::
+the
+amount amount%1:07:00::
+of
+work work%1:04:00::
+necessary necessary%3:00:00::
+to
+extend extend%2:30:01::
+dictionary dictionary%1:10:00::
+coverage coverage%1:07:00::
+.
+The
+latter latter%3:00:00::
+is be%2:42:03::
+useful useful%3:00:00::
+for
+modifying modify%2:30:00::
+information information%1:10:00::
+about
+some
+or
+all
+forms form%1:10:00::
+of
+a
+word word%1:10:00::
+,
+hence hence%4:02:00::
+reducing reduce%2:30:00::
+the
+work work%1:04:00::
+required require%2:42:00::
+to
+improve improve%2:30:01::
+dictionary dictionary%1:10:00::
+contents content%1:14:00::
+.
+Applying apply%2:34:00::
+the
+techniques technique%1:09:00::
+developed develop%2:36:00::
+at
+Harvard harvard%1:06:00::
+for
+generating generate%2:36:00::
+a
+paradigm paradigm%1:24:00::
+from
+a
+representative representative%3:00:00::
+form form%1:10:00::
+and
+its
+classification classification%1:14:00::
+,
+we
+can
+add add%2:30:00::
+all
+forms form%1:10:00::
+of
+a
+word word%1:10:00::
+to
+the
+dictionary dictionary%1:10:00::
+at_once at_once%4:02:03::
+.
+An
+extension extension%1:04:02::
+of
+the
+principle principle%1:09:03::
+would
+permit permit%2:41:00::
+entering enter%2:32:04::
+a
+grammatic grammatic%3:01:00::
+description description%1:10:01::
+of
+each
+form form%1:10:00::
+.
+Equivalents equivalent%1:09:00::
+could
+be
+assigned assign%2:40:01::
+to
+the
+paradigm paradigm%1:24:00::
+either
+at
+the
+time time%1:28:06::
+it
+is
+added add%2:30:00::
+to
+the
+dictionary dictionary%1:10:00::
+or
+after
+the
+word word%1:10:00::
+has
+been
+studied study%2:31:02::
+in
+context context%1:10:00::
+.
+Thus thus%4:02:00::
+,
+one
+can
+think_of think_of%2:31:01::
+a
+dictionary_entry dictionary_entry%1:10:00::
+as
+a
+word word%1:10:00::
+rather rather%4:02:02::
+than
+a
+form form%1:10:00::
+.
+If
+all
+forms form%1:10:00::
+of
+a
+paradigm paradigm%1:24:00::
+are
+grouped group%2:31:00::
+together together%4:02:03::
+within
+the
+dictionary dictionary%1:10:00::
+,
+a
+considerable considerable%3:00:00::
+reduction reduction%1:04:00::
+in
+the
+amount amount%1:07:00::
+of
+information information%1:10:00::
+required require%2:42:00::
+is be%2:42:03::
+possible possible%3:00:00::
+.
+For_example for_example%4:02:00::
+,
+the
+inflected inflected%5:00:00:derivative:00
+forms form%1:10:00::
+of
+a
+word word%1:10:00::
+can
+be
+represented represent%2:42:02::
+,
+insofar insofar%4:02:00::
+as
+regular regular%5:00:00:standard:02
+inflection inflection%1:24:00::
+allows allow%2:41:00::
+,
+by
+a
+stem stem%1:10:01::
+and
+a
+set set%1:14:00::
+of
+endings ending%1:10:00::
+to
+be
+attached attach%2:35:01::
+.
+(
+Indeed indeed%4:02:03::
+,
+the
+set set%1:14:00::
+of
+endings ending%1:10:00::
+can
+be
+replaced replace%2:30:00::
+by
+the
+name name%1:10:00::
+of
+a
+set set%1:14:00::
+of
+endings ending%1:10:00::
+.
+)
+The
+full full%5:00:01:whole:00
+forms form%1:10:00::
+can
+be
+derived derive%2:40:00::
+from
+such such%5:00:01:specified:00
+information information%1:10:00::
+just just%4:02:04::
+prior prior%5:00:00:antecedent:00
+to
+the
+lookup lookup%1:22:00::
+of
+the
+form form%1:10:00::
+in
+the
+text text%1:10:00::
+form form%1:10:00::
+list list%1:10:00::
+.
+Similarly similarly%4:02:00::
+,
+if
+the
+equivalents equivalent%1:09:00::
+for
+the
+forms form%1:10:00::
+of
+a
+word word%1:10:00::
+do
+not not%4:02:00::
+vary vary%2:42:01::
+,
+the
+equivalents equivalent%1:09:00::
+need
+be
+entered enter%2:32:04::
+only only%4:02:02::
+once once%4:02:00::
+with
+an
+indication indication%1:10:00::
+that
+they
+apply apply%2:42:00::
+to
+each
+form form%1:10:00::
+.
+The
+dictionary dictionary%1:10:00::
+system system%1:14:00::
+is be%2:42:03::
+in_no_way in_no_way%4:02:01::
+dependent dependent%5:00:00:conditional:00
+upon
+such such%5:00:01:specified:00
+summarization summarization%1:10:00::
+or
+designed design%2:36:00::
+around
+it
+.
+When
+irregularity irregularity%1:07:00::
+and
+variation variation%1:04:00::
+prevent prevent%2:41:01::
+summarizing summarize%2:32:00::
+,
+information information%1:10:00::
+is
+written write%2:32:03::
+in
+complete complete%3:00:00::
+detail detail%1:10:00::
+.
+Entries entry%1:10:01::
+are
+summarized summarize%2:32:00::
+only_when only_when%4:02:00::
+by
+doing do%2:41:01::
+so so%4:02:05::
+the
+amount amount%1:07:00::
+of
+information information%1:10:00::
+retained retain%2:42:00::
+in
+the
+dictionary dictionary%1:10:00::
+is
+reduced reduce%2:30:00::
+and
+the
+time time%1:28:05::
+required require%2:42:00::
+for
+dictionary dictionary%1:10:00::
+operations operation%1:22:00::
+is
+decreased decrease%2:30:01::
+.

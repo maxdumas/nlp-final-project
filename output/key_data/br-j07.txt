@@ -1,0 +1,2352 @@
+The
+Poynting-Robertson person%1:03:00::
+effect effect%1:19:00::
+(
+Robertson person%1:03:00::
+,
+1937
+;
+Wyatt person%1:03:00::
+and
+Whipple person%1:03:00::
+,
+1950
+)
+,
+which
+is be%2:42:06::
+a
+retardation retardation%1:07:00::
+of
+the
+orbital orbital%3:01:00::
+motion motion%1:11:00::
+of
+particles particle%1:17:00::
+by
+the
+relativistic relativistic%3:01:00::
+aberration aberration%1:26:01::
+of
+the
+repulsive_force repulsive_force%1:19:00::
+of
+the
+impinging impinging%1:11:00::
+solar_radiation solar_radiation%1:19:00::
+,
+causes cause%2:36:00::
+the
+dust dust%1:27:01::
+to
+spiral spiral%2:38:00::
+into
+the
+sun sun%1:17:00::
+in
+times time%1:28:05::
+much much%4:02:00::
+shorter short%3:00:02::
+than
+the
+age age%1:07:00::
+of
+the
+Earth earth%1:17:00::
+.
+The
+radial radial%3:01:00::
+velocity velocity%1:28:00::
+varies vary%2:30:01::
+inversely inversely%4:02:00::
+as
+the
+particle particle%1:17:00::
+size size%1:07:00::
+-
+a
+1000 1000%5:00:00:cardinal:00
+-
+|
+m m%1:23:00::
+diameter diameter%1:07:00::
+particle particle%1:17:00::
+near
+the
+orbit orbit%1:15:00::
+of
+Mars mars%1:17:00::
+would
+reach reach%2:38:01::
+the
+sun sun%1:17:00::
+in
+about about%4:02:00::
+60 60%5:00:00:cardinal:00
+million million%1:23:00::
+years year%1:28:01::
+.
+Whipple person%1:03:00::
+(
+1955
+)
+extends extend%2:30:01::
+the
+effects effect%1:19:00::
+to
+include include%2:42:00::
+the
+solar solar_radiation%1:19:00::
+corpuscular_radiation corpuscular_radiation%1:19:00::
+pressure pressure%1:19:00::
+,
+which
+increases increase%2:30:02::
+both
+the
+minimum minimum%3:00:00::
+particle particle%1:17:00::
+size size%1:07:00::
+and
+the
+drag drag%1:19:00::
+.
+Further further%4:02:03::
+,
+the
+corpuscular_radiation corpuscular_radiation%1:19:00::
+,
+i.e. i.e.%4:02:00::
+,
+the
+solar_wind solar_wind%1:19:00::
+protons proton%1:17:00::
+,
+must
+sputter sputter%2:30:00::
+away away%4:02:01::
+the
+surface surface%1:15:00::
+atoms atom%1:27:00::
+of
+the
+dust dust%1:27:01::
+and
+cause cause%2:36:00::
+a
+slow slow%3:00:01::
+diminution diminution%1:22:00::
+in
+size size%1:07:00::
+,
+with
+a
+resultant resultant%5:00:00:subsequent:00
+increase increase%1:11:00::
+in
+both
+the
+Poynting-Robertson person%1:03:00::
+effect effect%1:19:00::
+and
+the
+ratio ratio%1:24:01::
+of
+the
+repulsive_force repulsive_force%1:19:00::
+to
+the
+gravitational_force gravitational_force%1:19:00::
+.
+The
+Poynting-Robertson person%1:03:00::
+effect effect%1:19:00::
+causes cause%2:36:00::
+the
+semi semi%5:00:00:fractional:00
+major_axis major_axis%1:09:00::
+of
+orbits orbit%1:15:00::
+to
+diminish diminish%2:30:00::
+more more%4:02:00::
+rapidly rapidly%4:02:00::
+than
+the
+semi-minor_axis semiminor_axis%1:09:00::
+,
+with
+a
+consequent consequent%5:00:00:subsequent:00
+tendency tendency%1:07:00::
+toward
+circular circular%3:00:00::
+orbits orbit%1:15:00::
+as
+the
+particles particle%1:17:00::
+move move%2:38:03::
+toward
+the
+sun sun%1:17:00::
+.
+Also also%4:02:00::
+,
+planetary planetary%3:01:00::
+gravitational_attraction gravitational_attraction%1:19:00::
+increases increase%2:30:02::
+the
+dust dust%1:27:01::
+concentration concentration%1:07:03::
+near
+the
+plane plane%1:25:00::
+of
+the
+ecliptic ecliptic%1:15:00::
+as
+the
+sun sun%1:17:00::
+is
+approached approach%2:38:00::
+.
+At
+one one%5:00:00:cardinal:00
+astronomical_unit astronomical_unit%1:23:00::
+from
+the
+sun sun%1:17:00::
+(
+the
+Earth earth%1:17:00::
+'s
+distance distance%1:07:00::
+)
+the
+dust dust%1:27:01::
+orbits orbit%1:15:00::
+are be%2:42:03::
+probably probably%4:02:00::
+nearly nearly%4:02:00::
+circular circular%3:00:00::
+.
+If
+such
+is be%2:42:06::
+the
+case case%1:09:00::
+,
+the
+particles particle%1:17:00::
+within
+a
+distance distance%1:07:00::
+of
+about
+*
+*
+f
+km km%1:23:00::
+of
+the
+Earth earth%1:17:00::
+will
+have have%2:42:00::
+,
+relative relative%5:00:00:proportionate:00
+to
+the
+Earth earth%1:17:00::
+,
+a
+kinetic_energy kinetic_energy%1:19:00::
+less less%3:00:00::
+than
+their
+potential_energy potential_energy%1:19:00::
+and
+they
+will
+be
+captured capture%2:40:01::
+into
+orbits orbit%1:15:00::
+about
+the
+Earth earth%1:17:00::
+.
+De_Jager person%1:03:00::
+(
+1955
+)
+has
+calculated calculate%2:31:00::
+the
+times time%1:28:05::
+required require%2:42:00::
+for
+these
+particles particle%1:17:00::
+to
+reach reach%2:38:01::
+the
+atmosphere atmosphere%1:15:00::
+under
+the
+influence influence%1:04:00::
+of
+the
+Poynting-Robertson person%1:03:00::
+effect effect%1:19:00::
+,
+which
+in
+this
+case case%1:26:00::
+causes cause%2:36:00::
+the
+orbits orbit%1:15:00::
+to
+become become%2:30:00::
+more_and_more more_and_more%4:02:00::
+eccentric eccentric%3:00:00::
+without
+changing change%2:30:01::
+the
+semi semi%5:00:00:fractional:00
+major_axis major_axis%1:09:00::
+.
+This
+effect effect%1:19:00::
+can
+give_rise give_rise%2:36:01::
+to
+a
+blanket blanket%1:17:00::
+of
+micrometeorites micrometeorite%1:17:00::
+around
+the
+Earth earth%1:17:00::
+.
+Since
+there
+is be%2:42:04::
+a
+continual continual%3:00:00::
+loss loss%1:21:01::
+of
+micrometeoritic micrometeoritic%3:01:00::
+material material%1:27:00::
+in
+space space%1:15:01::
+because
+of
+the
+radiation radiation%1:19:00::
+effects effect%1:19:00::
+,
+there
+must
+be be%2:42:00::
+a
+continual continual%3:00:00::
+replenishment replenishment%1:22:00::
+:
+otherwise otherwise%4:02:01::
+,
+micrometeorites micrometeorite%1:17:00::
+would
+have
+disappeared disappear%2:30:00::
+from
+interplanetary_space interplanetary_space%1:15:00::
+.
+There
+are
+several several%5:00:00:some(a):00
+possible possible%3:00:00::
+sources source%1:15:00::
+.
+According_to
+Whipple person%1:03:00::
+(
+1955
+)
+,
+cometary cometary%3:01:00::
+debris debris%1:27:00::
+is be%2:42:03::
+sufficient sufficient%3:00:00::
+to
+replenish replenish%2:30:00::
+the
+material material%1:27:00::
+spiraling spiral%2:38:00::
+into
+the
+sun sun%1:17:00::
+,
+maintaining maintain%2:42:00::
+a
+fairly fairly%4:02:02::
+steady steady%3:00:00::
+state state%1:03:00::
+.
+Asteroidal asteroidal%3:01:00::
+collisions collision%1:11:01::
+are
+also also%4:02:00::
+thought think%2:31:01::
+to
+contribute contribute%2:40:00::
+material material%1:27:00::
+.
+It
+is be%2:42:03::
+also also%4:02:00::
+possible possible%3:00:00::
+that
+some
+of
+the
+dust dust%1:27:01::
+in
+the
+vicinity vicinity%1:15:00::
+of
+the
+Earth earth%1:17:00::
+originated originate%2:42:00::
+from
+meteoritic meteoritic%3:01:00::
+impacts impact%1:11:00::
+upon
+the
+moon moon%1:17:01::
+.
+One
+cannot
+make
+a
+very very%4:02:00::
+satisfactory satisfactory%3:00:00::
+guess guess%1:09:00::
+about
+the
+micrometeorite micrometeorite%1:17:00::
+flux flux%1:28:00::
+in
+space space%1:15:01::
+.
+Even even%4:02:00::
+in
+the
+neighborhood neighborhood%1:15:00::
+of
+the
+Earth earth%1:17:00::
+,
+where
+information information%1:09:00::
+has
+been
+obtained obtain%2:40:00::
+both
+directly directly%4:02:00::
+and
+indirectly indirectly%4:02:00::
+,
+the
+derived derived%5:00:00:calculable:00
+flux flux%1:28:00::
+values value%1:09:00::
+vary vary%2:42:00::
+by
+at_least at_least%4:02:00::
+four four%5:00:00:cardinal:00
+orders_of_magnitude order_of_magnitude%1:07:00::
+.
+This
+large large%3:00:00::
+discrepancy discrepancy%1:07:00::
+demonstrates demonstrate%2:31:00::
+the
+inadequacies inadequacy%1:07:01::
+of
+the
+experimental experimental%3:01:00::
+methods method%1:09:00::
+and
+the
+lack lack%1:26:00::
+of
+understanding understanding%1:09:01::
+of
+the
+various various%5:00:02:different:00
+phenomena phenomenon%1:03:00::
+involved involved%3:00:00::
+.
+Beyond
+a_few a_few%5:00:00:few:00
+million million%1:23:00::
+kilometers kilometer%1:23:00::
+from
+the
+Earth earth%1:17:00::
+,
+but
+still still%4:02:01::
+in
+the
+region region%1:15:00::
+of
+the
+Earth earth%1:17:00::
+'s
+orbit orbit%1:15:00::
+,
+a
+prediction prediction%1:09:00::
+of
+the
+flux flux%1:28:00::
+of
+dust dust%1:27:01::
+is be%2:42:03::
+even even%4:02:00::
+more more%4:02:00::
+unreliable unreliable%5:00:00:fallible:00
+.
+At
+greater great%5:00:01:large:00
+distances distance%1:07:00::
+from
+the
+sun sun%1:17:00::
+,
+the
+situation situation%1:26:00::
+is be%2:42:03::
+still still%4:02:01::
+less less%4:02:00::
+certain certain%3:00:01::
+.
+There
+are
+several several%5:00:00:some(a):00
+sources source%1:15:00::
+of
+evidence evidence%1:10:01::
+on
+the
+micrometeorite micrometeorite%1:17:00::
+environment environment%1:26:00::
+.
+Direct direct%5:00:00:immediate:00
+information information%1:09:00::
+has
+been
+obtained obtain%2:40:00::
+from
+rockets rocket%1:06:00::
+and
+satellites satellite%1:06:00::
+equipped equip%2:40:00::
+with
+impact impact%1:11:00::
+sensors sensor%1:06:00::
+.
+In_addition in_addition%4:02:00::
+,
+the
+size size%1:07:00::
+distribution distribution%1:09:00::
+obtained obtain%2:40:00::
+from
+visual visual%3:01:04::
+and
+radar radar%1:06:00::
+observations observation%1:04:01::
+of
+meteors meteor%1:17:00::
+may
+be
+extrapolated extrapolate%2:31:00::
+to
+the
+micrometeorite micrometeorite%1:17:00::
+domain domain%1:26:00::
+.
+From
+the
+brightness brightness%1:07:00::
+of
+the
+F
+component component%1:06:00::
+of
+the
+solar solar%3:01:00::
+corona corona%1:19:00::
+and
+the
+brightness brightness%1:07:00::
+of
+the
+zodiacal_light zodiacal_light%1:19:00::
+,
+an
+estimate estimate%1:09:00::
+of
+the
+particle particle%1:17:00::
+sizes size%1:07:00::
+,
+concentrations concentration%1:07:03::
+,
+and
+spatial spatial%3:01:00::
+distribution distribution%1:09:00::
+can
+be
+derived derive%2:31:00::
+for
+regions region%1:15:00::
+of
+space space%1:15:01::
+near
+the
+ecliptic ecliptic%1:15:00::
+plane plane%1:25:00::
+.
+Another
+important important%3:00:00::
+source source%1:15:00::
+of
+evidence evidence%1:10:01::
+only only%4:02:02::
+recently recently%4:02:01::
+receiving receive%2:30:01::
+much much%3:00:00::
+attention attention%1:09:00::
+is be%2:42:06::
+the
+analysis analysis%1:04:00::
+of
+atmospheric atmospheric%3:01:00::
+dust dust%1:27:01::
+for
+a
+meteoritic meteoritic%3:01:00::
+component component%1:06:00::
+.
+The
+cores core%1:17:01::
+of
+deep deep%3:00:01::
+sea sea%1:17:00::
+sediments sediment%1:17:00::
+and
+content content%1:14:00::
+of
+collectors collector%1:17:00::
+in
+remote remote%5:00:00:inaccessible:00
+regions region%1:15:01::
+are be%2:42:03::
+valuable valuable%5:00:00:important:00
+in
+this
+category category%1:14:00::
+.
+The
+data data%1:14:00::
+provide provide%2:40:00::
+a
+measure measure%1:07:00::
+of
+the
+total total%5:00:00:whole:00
+mass mass%1:07:00::
+of
+cosmic cosmic%3:01:00::
+material material%1:27:00::
+incident incident%3:01:00::
+upon
+the
+Earth earth%1:17:00::
+.
+The
+direct_evidence direct_evidence%1:10:00::
+on
+the
+micrometeorite micrometeorite%1:17:00::
+environment environment%1:26:00::
+near
+the
+Earth earth%1:17:00::
+is
+obtained obtain%2:40:00::
+from
+piezoelectric piezoelectric%3:01:00::
+sensors sensor%1:06:00::
+(
+essentially essentially%4:02:01::
+microphones microphone%1:06:00::
+)
+and
+from
+wire wire%1:06:00::
+gages gage%1:06:00::
+;
+these
+instruments instrument%1:06:00::
+are
+installed install%2:35:00::
+on
+rockets rocket%1:06:00::
+,
+satellites satellite%1:06:00::
+,
+and
+space_probes space_probe%1:06:00::
+.
+Statistically statistically%4:02:00::
+,
+the
+most most%4:02:00::
+significant significant%3:00:00::
+data data%1:14:00::
+have
+been
+collected collect%2:35:00::
+from
+the
+sensors sensor%1:06:00::
+on
+1958
+Alpha
+(
+Explorer_1
+,
+)
+,
+1958
+Delta_2
+(
+Sputnik sputnik%1:06:00::
+3
+,
+)
+,
+and
+1959
+Eta
+(
+Vanguard
+3
+,
+)
+.
+These
+vehicles vehicle%1:06:00::
+,
+with
+large large%3:00:00::
+sensitive sensitive%3:00:01::
+areas area%1:06:00::
+,
+have
+collected collect%2:35:00::
+data data%1:14:00::
+for
+long long%3:00:02::
+enough enough%5:00:00:sufficient:00
+times time%1:28:05::
+to
+give give%2:36:00::
+reliable reliable%3:00:00::
+impact impact%1:11:00::
+rates rate%1:28:00::
+for
+the
+periods period%1:28:00::
+of
+exposure exposure%1:07:00::
+.
+Many many%3:00:00::
+other other%3:00:00::
+vehicles vehicle%1:06:00::
+with
+smaller smaller%5:00:00:small:00
+sensitive sensitive%3:00:01::
+area area%1:06:00::
+exposure exposure%1:07:00::
+time time%1:28:05::
+products product%1:06:00::
+contribute contribute%2:40:00::
+some
+information information%1:09:00::
+.
+The
+impact impact%1:11:00::
+rate rate%1:28:00::
+on
+1958
+Alpha
+for
+153
+events event%1:03:00::
+was be%2:42:07::
+*
+*
+f
+for
+particles particle%1:17:00::
+of
+mass mass%1:07:00::
+greater great%5:00:01:large:00
+than
+*
+*
+f
+(
+Dubin person%1:03:00::
+,
+1960
+)
+;
+this
+mass mass%1:07:00::
+threshold threshold%1:28:00::
+was
+derived derive%2:31:00::
+from
+the
+detector detector%1:06:00::
+calibration calibration%1:04:00::
+and
+an
+assumed assumed%5:00:00:acknowledged:00
+impact impact%1:11:00::
+velocity velocity%1:28:00::
+of
+*
+*
+f
+.
+The
+data data%1:14:00::
+show show%2:32:03::
+daily daily_variation%1:11:00::
+and
+diurnal_variations diurnal_variation%1:11:00::
+.
+Ninety ninety%5:00:00:cardinal:00
+per_cent percent%1:24:00::
+of
+the
+153
+recorded record%2:32:00::
+impacts impact%1:11:00::
+occurred occur%2:30:00::
+between
+midnight midnight%1:28:00::
+and
+noon noon%1:28:00::
+,
+and
+from
+day day%1:28:00::
+to
+day day%1:28:00::
+the
+variation variation%1:11:01::
+of
+the
+rate rate%1:28:00::
+was be%2:42:07::
+as
+much much%3:00:00::
+as
+an
+order_of_magnitude order_of_magnitude%1:07:00::
+.
+One
+may
+conclude conclude%2:31:00::
+that
+most_of
+the
+detected detected%3:00:00::
+micrometeoritic micrometeoritic%3:01:00::
+material material%1:27:00::
+is be%2:42:03::
+concentrated concentrated%3:00:00::
+in
+orbital orbital%3:01:00::
+streams stream%1:04:00::
+which
+intersect intersect%2:38:00::
+the
+Earth earth%1:17:00::
+'s
+orbit orbit%1:15:00::
+.
+There
+have
+been
+contradictory contradictory%5:00:00:antonymous:00
+reports report%1:10:03::
+from
+1958
+Delta_2
+,
+and
+the
+data data%1:14:00::
+quoted quote%2:32:00::
+here here%4:02:02::
+are
+believed believe%2:31:04::
+to
+be be%2:42:03::
+the
+more more%4:02:00::
+reliable reliable%3:00:00::
+.
+On
+May may%1:28:00::
+15
+,
+a
+very very%4:02:00::
+large large%3:00:00::
+increase increase%1:11:00::
+occurred occur%2:30:00::
+with
+*
+*
+f
+of
+mass mass%1:07:00::
+between
+*
+*
+f
+and
+*
+*
+f
+;
+for
+the
+next next%5:00:00:succeeding(a):00
+two two%5:00:00:cardinal:00
+days day%1:28:00::
+,
+the
+impact impact%1:11:00::
+rate rate%1:28:00::
+was be%2:42:07::
+*
+*
+f
+;
+and
+for
+the
+next next%5:00:00:succeeding(a):00
+nine nine%5:00:00:cardinal:00
+days day%1:28:00::
+,
+the
+impact impact%1:11:00::
+rate rate%1:28:00::
+was be%2:42:04::
+less_than less_than%4:02:00::
+*
+*
+f
+(
+Nazarova person%1:03:00::
+,
+1960
+)
+.
+The
+data data%1:14:00::
+for
+the
+first first%5:00:00:ordinal:00
+day day%1:28:00::
+indicate indicate%2:32:01::
+a
+meteor_stream meteor_stream%1:19:00::
+with
+a
+very very%4:02:00::
+high high%3:00:02::
+concentration concentration%1:07:03::
+of
+particles particle%1:17:00::
+and
+may
+have
+led lead%2:42:04::
+to
+the
+high high%3:00:02::
+estimates estimate%1:09:00::
+of
+micrometeorite micrometeorite%1:17:00::
+flux flux%1:28:00::
+.
+Preliminary preliminary%5:00:00:exploratory:00
+data data%1:14:00::
+from
+1959_Eta
+give give%2:40:05::
+an
+average average%5:00:02:normal:01
+impact impact%1:11:00::
+rate rate%1:28:00::
+of
+*
+*
+f
+for
+masses mass%1:07:00::
+larger larger%5:00:00:large:00
+than
+*
+*
+f
+for
+about
+1000 1000%5:00:00:cardinal:00
+events event%1:03:00::
+in
+a
+22 22%5:00:00:cardinal:00
+-
+day day%1:28:00::
+period period%1:28:00::
+(
+LaGow person%1:03:00::
+and
+Alexander person%1:03:00::
+,
+1960
+)
+.
+The
+day-to-day day-to-day%5:00:00:regular:00
+rate rate%1:28:00::
+varied vary%2:30:01::
+by
+less_than less_than%4:02:00::
+a
+factor factor%1:23:00::
+of
+4.5
+.
+The
+data data%1:14:00::
+have
+not_yet not_yet%4:02:00::
+been
+analyzed analyze%2:31:00::
+for
+diurnal_variations diurnal_variation%1:11:00::
+.
+Note note%2:39:00::
+that
+the
+mass mass%1:07:00::
+threshold threshold%1:28:00::
+is be%2:42:07::
+four_times four_times%4:02:00::
+that
+of
+1958_Alpha
+and
+that
+the
+flux flux%1:28:00::
+is be%2:42:07::
+one_fifth one-fifth%1:23:00::
+as
+large large%3:00:00::
+.
+If
+one
+assumes assume%2:31:00::
+that
+the
+average average%5:00:02:normal:01
+flux flux%1:28:00::
+did
+not not%4:02:00::
+change change%2:30:02::
+between
+measurements measurement%1:07:00::
+,
+a
+mass mass%1:07:00::
+distribution distribution%1:09:00::
+curve curve%1:10:00::
+is
+obtained obtain%2:40:00::
+which
+relates relate%2:31:00::
+the
+flux flux%1:28:00::
+of
+particles particle%1:17:00::
+larger larger%5:00:00:large:00
+than
+a
+given given%5:00:00:specified:00
+radius radius%1:07:00::
+to
+the
+inverse inverse%1:24:01::
+7
+2
+power power%1:10:00::
+of
+the
+radius radius%1:07:00::
+.
+Space_probes space_probe%1:06:00::
+have
+yielded yield%2:40:02::
+little little%3:00:03::
+information information%1:09:00::
+.
+Pioneer_1
+,
+recorded record%2:32:00::
+a
+decrease decrease%1:11:00::
+in
+flux flux%1:28:00::
+with
+distance distance%1:07:00::
+from
+the
+Earth earth%1:17:00::
+on
+the
+basis basis%1:24:00::
+of
+11 11%5:00:00:cardinal:00
+counts count%1:04:00::
+in
+9 9%5:00:00:cardinal:00
+hours hour%1:28:00::
+.
+With
+detectors detector%1:06:00::
+sensitive sensitive%3:00:01::
+to
+three three%5:00:00:cardinal:00
+mass mass%1:07:00::
+intervals interval%1:09:00::
+and
+based base%2:31:00::
+on
+a_few a_few%5:00:00:few:00
+counts count%1:04:00::
+,
+the
+second second%5:00:00:ordinal:00
+and
+third third%5:00:00:ordinal:00
+Russian russian%3:01:00::
+space_probes space_probe%1:06:00::
+indicate indicate%2:32:01::
+that
+the
+flux flux%1:28:00::
+of
+the
+smallest smallest%5:00:00:minimal:00
+particles particle%1:17:00::
+detected detect%2:39:00::
+is be%2:42:03::
+less_than less_than%4:02:00::
+that
+of
+larger larger%5:00:00:large:00
+ones
+.
+Being be%2:42:03::
+based based%3:44:00::
+on
+so so%4:02:02::
+few few%3:00:00::
+events event%1:03:00::
+,
+these
+results result%1:19:00::
+are be%2:42:03::
+of
+dubious dubious%5:00:00:uncertain:02
+validity validity%1:07:01::
+.
+The
+calibration calibration%1:04:00::
+of
+piezoelectric piezoelectric%3:01:00::
+sensors sensor%1:06:00::
+in_terms_of
+the
+particle particle%1:17:00::
+parameters parameter%1:11:00::
+is be%2:42:03::
+very very%4:02:00::
+uncertain uncertain%3:00:01::
+.
+Many many%3:00:00::
+workers worker%1:18:00::
+believe believe%2:31:00::
+that
+the
+response response%1:19:00::
+is be%2:42:03::
+proportional proportional%5:00:00:proportionate:00
+to
+the
+incident incident%3:01:00::
+momentum momentum%1:07:01::
+of
+the
+particles particle%1:17:00::
+,
+a
+relation relation%1:03:00::
+deduced deduce%2:31:00::
+from
+laboratory laboratory%1:06:00::
+results result%1:19:00::
+linearly linearly%4:02:00::
+extrapolated extrapolate%2:31:01::
+to
+meteoritic meteoritic%3:01:00::
+velocities velocity%1:28:00::
+.
+However however%4:02:00::
+,
+one
+must
+expect expect%2:31:00::
+that
+vaporization vaporization%1:04:00::
+and
+ejection ejection%1:04:01::
+of
+material material%1:27:00::
+by
+hypervelocity hypervelocity%1:28:00::
+impacts impact%1:11:00::
+would
+cause cause%2:36:00::
+a
+deviation deviation%1:11:00::
+from
+a
+linear linear%3:00:02::
+relationship relationship%1:24:00::
+.
+In
+the
+United_States united_states%1:15:00::
+,
+most_of
+the
+sensors sensor%1:06:00::
+are
+calibrated calibrate%2:30:00::
+by
+dropping drop%2:38:00::
+small small%3:00:00::
+spheres sphere%1:06:00::
+on
+their
+sensitive sensitive%3:00:01::
+surfaces surface%1:06:00::
+.
+The
+Russian russian%3:01:00::
+experimenters experimenter%1:18:00::
+claim claim%2:32:00::
+that
+only only%4:02:02::
+a
+small small%3:00:00::
+fraction fraction%1:06:00::
+of
+the
+impulse impulse%1:04:01::
+from
+the
+sensors sensor%1:06:00::
+is
+caused cause%2:36:00::
+by
+the
+incident incident%3:01:00::
+momentum momentum%1:07:00::
+with
+the
+remainder remainder%1:24:00::
+being be%2:42:06::
+momentum momentum%1:07:00::
+of
+ejected eject%2:29:00::
+material material%1:27:00::
+from
+the
+sensor sensor%1:06:00::
+.
+This
+``
+ejection ejection%1:04:01::
+''
+momentum momentum%1:07:00::
+is be%2:42:03::
+linearly linearly%4:02:01::
+related related%3:00:02::
+to
+the
+particle particle%1:17:00::
+energy energy%1:19:00::
+.
+They
+quote quote%2:32:00::
+about about%4:02:00::
+the
+same same%3:00:04::
+mass mass%1:07:00::
+threshold threshold%1:28:00::
+as
+that
+of
+the
+U.S. u.s.%1:14:00::
+apparatus apparatus%1:06:00::
+,
+but
+a
+momentum momentum%1:07:00::
+threshold threshold%1:28:00::
+about about%4:02:00::
+40 40%5:00:00:cardinal:00
+times
+greater great%5:00:01:large:00
+.
+There
+is
+a
+difference difference%1:07:00::
+in
+the
+experimental experimental%5:00:02:empirical:00
+arrangement arrangement%1:04:02::
+,
+in_that in_that%4:02:00::
+the
+U.S. u.s.%1:14:00::
+microphones microphone%1:06:00::
+are
+attached attach%2:35:02::
+directly directly%4:02:00::
+to
+the
+vehicle vehicle%1:06:00::
+skin skin%1:06:01::
+while
+the
+Russian russian%3:01:00::
+instruments instrument%1:06:00::
+are
+isolated isolate%2:30:00::
+from
+the
+skin skin%1:06:01::
+.
+The
+threshold threshold%1:28:00::
+mass mass%1:07:00::
+is
+derived derive%2:31:00::
+from
+the
+momentum momentum%1:07:00::
+threshold threshold%1:28:00::
+with
+the
+assumption assumption%1:10:00::
+of
+a
+mean mean%1:09:00::
+impact impact%1:11:00::
+velocity velocity%1:28:00::
+of
+*
+*
+f
+in
+the
+U.S. u.s.%1:14:00::
+work work%1:06:00::
+and
+*
+*
+f
+in
+the
+U.S.S.R. ussr%1:15:00::
+work work%1:06:00::
+.
+The
+threshold threshold%1:28:00::
+mass mass%1:07:00::
+of
+about about%4:02:00::
+*
+*
+f
+corresponds correspond%2:42:00::
+to
+a
+10 10%5:00:00:cardinal:00
+-
+|
+m m%1:23:00::
+diameter diameter%1:07:00::
+sphere sphere%1:26:00::
+of
+density density%1:07:00::
+*
+*
+f
+.
+However however%4:02:00::
+,
+the
+conversion conversion%1:09:00::
+from
+mass mass%1:07:00::
+to
+size size%1:07:00::
+is be%2:42:03::
+unreliable unreliable%5:00:00:fallible:00
+,
+since
+many many%3:00:00::
+photographic photographic%3:01:00::
+meteors meteor%1:17:00::
+give give%2:40:05::
+evidence evidence%1:10:01::
+of
+a
+fluffy fluffy%5:00:00:soft:01
+,
+loosely loosely%4:02:00::
+bound bound%3:00:03::
+meteorite meteorite%1:17:00::
+structure structure%1:06:00::
+with
+densities density%1:07:00::
+as
+low low%3:00:02::
+as
+*
+*
+f
+.
+To_what_extent to_what_extent%4:02:00::
+such such%5:00:00:much(a):00
+low_density low_density%1:07:00::
+applies apply%2:42:00::
+to
+micrometeorites micrometeorite%1:17:00::
+is be%2:42:03::
+unknown unknown%3:00:00::
+.
+The
+velocity velocity%1:28:00::
+value value%1:09:00::
+used use%2:34:01::
+is be%2:42:03::
+also also%4:02:00::
+open_to open_to%5:00:00:susceptible:00
+some
+question question%1:07:00::
+;
+if
+a
+substantial substantial%5:00:00:considerable:00
+fraction fraction%1:06:00::
+of
+the
+dust dust%1:27:01::
+is
+orbiting orbit%2:38:00::
+about
+the
+Earth earth%1:17:00::
+,
+only only%4:02:02::
+about
+one_third one-third%1:23:00::
+the
+above_mentioned above-mentioned%5:00:00:preceding(a):00
+average average%5:00:02:normal:01
+velocity velocity%1:28:00::
+should
+be
+used use%2:34:01::
+in
+deriving derive%2:31:00::
+the
+mass mass%1:07:00::
+.
+Zodiacal_light zodiacal_light%1:19:00::
+and
+the
+gegenschein gegenschein%1:19:00::
+give give%2:40:05::
+some
+evidence evidence%1:10:01::
+for
+such such%5:00:01:specified:00
+a
+dust dust%1:27:01::
+blanket blanket%1:17:00::
+,
+a
+phenomenon phenomenon%1:03:00::
+also also%4:02:00::
+to
+be
+expected expect%2:31:00::
+if
+the
+dust dust%1:27:01::
+before
+capture capture%1:22:01::
+is be%2:42:05::
+in
+circular circular%3:00:00::
+orbits orbit%1:15:00::
+about
+the
+sun sun%1:17:00::
+,
+as
+indicated indicate%2:32:01::
+by
+the
+trend trend%1:15:02::
+of
+the
+smaller smaller%5:00:00:small:00
+visible visible%3:00:00::
+meteors meteor%1:17:00::
+.
+The
+diurnal_variation diurnal_variation%1:11:00::
+in
+the
+observed observed%5:00:00:determined:00
+flux flux%1:28:00::
+may
+be be%2:42:03::
+partly partly%4:02:00::
+due_to due_to%5:00:00:attributable:00
+the
+dependence dependence%1:26:00::
+of
+the
+detector detector%1:06:00::
+sensitivity sensitivity%1:07:00::
+on
+the
+incident incident%3:01:00::
+velocity velocity%1:28:00::
+.
+The
+flux flux%1:28:00::
+of
+micrometeorites micrometeorite%1:17:00::
+in
+the
+neighborhood neighborhood%1:15:00::
+of
+the
+Earth earth%1:17:00::
+can
+be
+estimated estimate%2:31:01::
+by
+extrapolation extrapolation%1:09:00::
+from
+radar radar%1:06:00::
+and
+visual visual%3:01:04::
+meteor meteor%1:17:00::
+data data%1:14:00::
+.
+A
+summary summary%1:10:00::
+of
+meteorite meteorite%1:17:00::
+data data%1:14:00::
+,
+prepared prepare%2:36:02::
+by
+Whipple person%1:03:00::
+(
+1958
+)
+on
+the
+basis basis%1:24:00::
+of
+photographic photographic%3:01:00::
+,
+visual visual%3:01:04::
+,
+and
+radar radar%1:06:00::
+evidence evidence%1:10:01::
+,
+is
+given give%2:40:07::
+in
+Table table%1:14:00::
+5
+-
+1
+.
+From
+an
+estimated estimated%5:00:00:calculable:00
+mass mass%1:07:00::
+of
+25 25%5:00:00:cardinal:00
+g g%1:23:00::
+for
+a
+zero zero%1:23:01::
+magnitude magnitude%1:07:00::
+meteorite meteorite%1:17:00::
+,
+the
+other other%3:00:00::
+masses mass%1:07:00::
+are
+derived derive%2:31:00::
+with
+the
+assumption assumption%1:10:00::
+of
+a
+mass mass%1:07:00::
+decrease decrease%1:11:00::
+by
+a
+factor factor%1:23:00::
+of
+2.512
+for
+each
+unit unit%1:23:00::
+increase increase%1:11:00::
+in
+magnitude magnitude%1:07:00::
+.
+The
+radius radius%1:07:00::
+is
+calculated calculate%2:31:00::
+from
+the
+mass mass%1:07:00::
+by
+assuming assume%2:31:00::
+spheres sphere%1:26:00::
+of
+density density%1:07:00::
+*
+*
+f
+except
+for
+the
+smallest smallest%5:00:00:minimal:00
+particles particle%1:17:00::
+,
+which
+must
+have have%2:42:00::
+a
+higher high%3:00:02::
+mass mass%1:07:00::
+density density%1:07:00::
+to
+remain remain%2:42:01::
+in
+the
+solar_system solar_system%1:17:00::
+in
+the
+presence presence%1:26:00::
+of
+solar_radiation solar_radiation%1:19:00::
+pressure pressure%1:19:00::
+.
+The
+flux flux%1:28:00::
+values value%1:09:00::
+are be%2:42:03::
+for
+all
+particles particle%1:17:00::
+with
+masses mass%1:07:00::
+greater great%5:00:01:large:00
+than
+the
+given given%5:00:00:specified:00
+mass mass%1:07:00::
+and
+are be%2:42:03::
+based based%3:44:00::
+on
+an
+estimate estimate%1:09:00::
+of
+the
+numbers number%1:07:00::
+of
+visual visual%3:01:04::
+meteors meteor%1:17:00::
+.
+It
+is
+assumed assume%2:31:00::
+that
+the
+flux flux%1:28:00::
+values value%1:09:00::
+increase increase%2:30:00::
+by
+a
+factor factor%1:23:00::
+of
+2.512
+per
+magnitude magnitude%1:07:00::
+,
+in
+accordance accordance%1:10:00::
+with
+the
+opinion opinion%1:10:01::
+that
+the
+total total%5:00:00:whole:00
+mass mass%1:07:00::
+flux flux%1:28:00::
+in
+each
+unit unit%1:23:00::
+range range%1:15:03::
+in
+magnitude magnitude%1:07:00::
+is be%2:42:03::
+constant constant%5:00:00:invariable:00
+.
+The
+values value%1:09:00::
+agree agree%2:42:01::
+with
+the
+data data%1:14:00::
+from
+1958_Alpha
+and
+1959_Eta
+.
+The
+figures figure%1:23:00::
+in
+the
+next-to-last next-to-last%5:00:01:last:00
+column column%1:14:01::
+are
+derived derive%2:31:00::
+with
+the
+assumption assumption%1:10:00::
+of
+50 50%5:00:00:cardinal:00
+per_cent percent%1:24:00::
+shielding shielding%1:04:00::
+by
+the
+Earth earth%1:17:00::
+;
+hence hence%4:02:00::
+,
+these
+figures figure%1:23:00::
+apply apply%2:42:00::
+immediately immediately%4:02:03::
+above
+the
+Earth earth%1:17:00::
+'s
+atmosphere atmosphere%1:15:00::
+.
+The
+unshielded unshielded%5:00:00:unprotected:00
+flux flux%1:28:00::
+is
+given give%2:40:07::
+in
+the
+last last%3:00:00::
+column column%1:14:01::
+;
+these
+figures figure%1:23:00::
+constitute constitute%2:42:00::
+the
+best best%3:00:00::
+estimate estimate%1:09:00::
+for
+the
+flux flux%1:28:00::
+in
+interplanetary_space interplanetary_space%1:15:00::
+near
+the
+Earth earth%1:17:00::
+.
+Of_course of_course%4:02:00::
+,
+if
+there
+is be%2:42:00::
+a
+dust dust%1:27:01::
+blanket blanket%1:17:00::
+around
+the
+Earth earth%1:17:00::
+,
+the
+fluxes flux%1:28:00::
+in
+interplanetary_space interplanetary_space%1:15:00::
+should
+be be%2:42:03::
+less_than less_than%4:02:00::
+the
+figures figure%1:23:00::
+given give%2:40:07::
+here here%4:02:02::
+.
+Note note%2:39:00::
+that
+the
+mass mass%1:07:00::
+scale scale%1:24:01::
+is be%2:42:03::
+one one%5:00:00:cardinal:00
+to
+two two%5:00:00:cardinal:00
+orders_of_magnitude order_of_magnitude%1:07:00::
+greater great%5:00:01:large:00
+than
+some
+previously previously%4:02:00::
+used use%2:34:01::
+;
+for_example for_example%4:02:00::
+,
+Jacchia person%1:03:00::
+(
+1948
+)
+derived derive%2:31:00::
+a
+scale scale%1:24:01::
+of
+0.15
+g g%1:23:00::
+for
+a
+*
+*
+f
+,
+zero zero%1:23:01::
+magnitude magnitude%1:07:00::
+meteorite meteorite%1:17:00::
+.
+The
+older old%3:00:01::
+scales scale%1:24:01::
+were be%2:42:03::
+based based%3:44:00::
+on
+theoretical theoretical%3:00:00::
+estimates estimate%1:09:00::
+of
+the
+conversion conversion%1:09:00::
+efficiency efficiency%1:24:00::
+of
+kinetic_energy kinetic_energy%1:19:00::
+into
+light light%1:19:00::
+.
+The
+mass mass%1:07:00::
+scale scale%1:24:01::
+used use%2:34:01::
+in
+Table table%1:14:00::
+5
+-
+1
+was
+derived derive%2:31:00::
+on
+the
+assumption assumption%1:10:00::
+that
+the
+motion motion%1:11:00::
+of
+the
+glowing glowing%5:00:00:bright:00
+trail trail%1:17:01::
+is
+related_to related_to%3:00:00::
+the
+momentum momentum%1:07:00::
+transfer transfer%1:04:00::
+to
+the
+trail trail%1:17:01::
+by
+the
+meteorite meteorite%1:17:00::
+,
+permitting permit%2:41:00::
+the
+calculation calculation%1:09:00::
+of
+the
+mass mass%1:07:00::
+if
+the
+velocity velocity%1:28:00::
+is
+known know%2:31:01::
+(
+Cook person%1:03:00::
+and
+Whipple person%1:03:00::
+,
+1958
+)
+.
+A
+concentration concentration%1:07:03::
+distribution distribution%1:09:00::
+has
+been
+derived derive%2:31:00::
+from
+radar radar%1:06:00::
+observations observation%1:04:01::
+sensitive sensitive%3:00:01::
+to
+the
+fifteenth fifteenth%5:00:00:ordinal:00
+magnitude magnitude%1:07:00::
+(
+Manning person%1:03:00::
+and
+Eshleman person%1:03:00::
+,
+1959
+)
+.
+Extrapolation extrapolation%1:09:00::
+of
+this
+relationship relationship%1:24:00::
+through
+the
+thirtieth thirtieth%5:00:00:ordinal:00
+magnitude magnitude%1:07:00::
+covers cover%2:42:02::
+the
+range range%1:15:03::
+of
+micrometeorites micrometeorite%1:17:00::
+.
+The
+approximate approximate%5:00:00:inexact:00
+equation equation%1:10:00::
+is be%2:42:06::
+*
+*
+f
+,
+where
+n
+is be%2:42:07::
+the
+number number%1:23:00::
+of
+*
+*
+f
+with
+electron electron%1:17:00::
+line line%1:14:01::
+density density%1:07:00::
+greater great%5:00:01:large:00
+than
+or
+equal equal%3:00:00::
+to
+*
+*
+f
+,
+and
+q
+is be%2:42:03::
+proportional proportional%5:00:00:proportionate:00
+to
+the
+mass mass%1:07:00::
+of
+the
+meteorite meteorite%1:17:00::
+.
+Therefore therefore%4:02:00::
+,
+n
+is be%2:42:03::
+inversely inversely%4:02:00::
+proportional proportional%5:00:00:proportionate:00
+to
+the
+radius radius%1:07:00::
+cubed cube%2:31:00::
+and
+in
+fair fair%5:00:00:moderate:00
+agreement agreement%1:07:00::
+with
+the
+inverse inverse%5:00:00:reciprocal:00
+7
+2
+power power%1:10:00::
+derived derive%2:31:00::
+from
+1958_Alpha
+and
+1959_Eta
+data data%1:14:00::
+.
+At
+the
+fifteenth fifteenth%5:00:00:ordinal:00
+magnitude magnitude%1:07:00::
+,
+*
+*
+f
+,
+and
+at
+the
+twenty-fifth twenty-fifth%5:00:00:ordinal:00
+magnitude magnitude%1:07:00::
+,
+*
+*
+f
+.
+These
+extrapolated extrapolated%3:44:00::
+fluxes flux%1:28:00::
+are be%2:42:03::
+about about%4:02:00::
+an
+order_of_magnitude order_of_magnitude%1:07:00::
+less_than less_than%4:02:00::
+the
+values value%1:09:00::
+from
+the
+satellite satellite%1:06:00::
+data data%1:14:00::
+and
+the
+figures figure%1:23:00::
+in
+Whipple person%1:03:00::
+'s
+table table%1:14:00::
+.
+The
+extrapolation extrapolation%1:09:00::
+may
+be be%2:42:03::
+in
+error error%1:07:00::
+for
+several several%5:00:00:some(a):00
+reasons reason%1:10:01::
+.
+The
+observational observational%5:00:00:empirical:00
+data data%1:14:00::
+determining determine%2:32:00::
+the
+concentration concentration%1:07:03::
+distribution distribution%1:09:00::
+have have%2:42:00::
+a
+range range%1:15:03::
+of
+error error%1:07:00::
+which
+is
+magnified magnify%2:30:00::
+in
+the
+extension extension%1:04:02::
+into
+the
+micrometeorite micrometeorite%1:17:00::
+region region%1:15:00::
+.
+The
+solar solar%3:01:00::
+electromagnetic electromagnetic%3:01:00::
+-
+and
+corpuscular-radiation_pressure corpuscular-radiation_pressure%1:19:00::
+and
+the
+associated associated%5:00:00:related:02
+Poynting-Robertson person%1:03:00::
+effect effect%1:19:00::
+increase increase%2:30:00::
+in
+effectiveness effectiveness%1:07:00::
+as
+the
+particle particle%1:17:00::
+size size%1:07:00::
+decreases decrease%2:30:00::
+and
+modify modify%2:30:00::
+the
+distribution distribution%1:09:00::
+and
+limit limit%2:30:01::
+sizes size%1:07:00::
+to
+larger larger%5:00:00:large:00
+than
+a_few a_few%5:00:00:few:00
+microns micron%1:23:00::
+.
+Also also%4:02:00::
+,
+it
+has
+been
+suggested suggest%2:32:00::
+that
+the
+source source%1:15:00::
+of
+all
+or
+part part%1:17:00::
+of
+the
+dust dust%1:27:01::
+may
+not not%4:02:00::
+be be%2:42:03::
+the
+same same%3:00:02::
+as
+that
+for
+visual visual%3:01:04::
+or
+radar radar%1:06:00::
+meteorites meteorite%1:17:00::
+(
+Best person%1:03:00::
+,
+1960
+)
+,
+and
+the
+same same%3:00:02::
+distribution distribution%1:09:00::
+would
+not not%4:02:00::
+be
+expected expect%2:31:00::
+.
+A
+measure measure%1:07:00::
+of
+the
+total total%5:00:00:whole:00
+mass mass%1:07:00::
+accretion accretion%1:22:00::
+of
+meteoritic meteoritic%3:01:00::
+material material%1:27:00::
+by
+the
+Earth earth%1:17:00::
+is
+obtained obtain%2:40:00::
+from
+analyses analysis%1:04:00::
+of
+deep deep%3:00:01::
+sea sea%1:17:00::
+sediments sediment%1:17:00::
+and
+dust dust%1:27:01::
+collected collect%2:35:00::
+in
+remote remote%5:00:01:far:00
+regions region%1:15:00::
+(
+Pettersson person%1:03:00::
+,
+1960
+)
+.
+Most most%3:00:02::
+meteoritic meteoritic%3:01:00::
+material material%1:27:00::
+,
+by
+the
+time time%1:11:00::
+it
+reaches reach%2:38:01::
+the
+Earth's_surface earth's_surface%1:17:00::
+,
+has
+been
+reduced reduce%2:30:05::
+to
+dust dust%1:27:01::
+or
+to
+spherules spherule%1:25:00::
+of
+ablated ablated%5:00:00:decreased:00
+material material%1:27:00::
+in
+its
+passage passage%1:04:00::
+through
+the
+atmosphere atmosphere%1:15:00::
+.
+For
+all
+meteorites meteorite%1:17:00::
+,
+the
+average average%5:00:02:normal:01
+nickel nickel%1:27:00::
+content content%1:24:00::
+is be%2:42:03::
+about about%4:02:00::
+2.5
+per_cent percent%1:24:00::
+.
+This
+is be%2:42:03::
+much much%4:02:00::
+higher high%3:00:02::
+than
+the
+nickel nickel%1:27:00::
+content content%1:24:00::
+of
+terrestrial terrestrial%3:01:02::
+dusts dust%1:27:01::
+and
+sediments sediment%1:17:00::
+and
+provides provide%2:40:00::
+a
+basis basis%1:09:00::
+for
+the
+determination determination%1:04:00::
+of
+the
+meteoritic meteoritic%3:01:00::
+mass mass%1:07:00::
+influx influx%1:22:00::
+.
+Present present%3:00:01::
+data data%1:14:00::
+indicate indicate%2:32:01::
+an
+accretion accretion%1:22:00::
+of
+about
+*
+*
+f
+tons ton%1:23:02::
+per_year per_year%4:02:00::
+over
+the
+entire entire%5:00:01:whole:00
+globe globe%1:17:00::
+,
+or
+about
+*
+*
+f
+.

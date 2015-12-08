@@ -1,0 +1,2146 @@
+Many many%3:00:00::
+other other%3:00:00::
+(
+probably probably%4:02:00::
+nearly nearly%4:02:00::
+all all%3:00:00::
+)
+snakes snake%1:05:00::
+at
+maturity maturity%1:28:00::
+are be%2:42:03::
+already already%4:02:00::
+more_than more_than%4:02:00::
+half half%1:23:00::
+their
+final final%5:00:00:ultimate:00
+length length%1:07:00::
+.
+Laurence_M_._Klauber person%1:03:00::
+put put%2:31:13::
+length length%1:07:00::
+at
+maturity maturity%1:28:00::
+at
+two two%5:00:00:cardinal:00
+thirds third%1:23:00::
+the
+ultimate ultimate%5:00:00:last:00
+length length%1:07:00::
+for
+some some%3:00:00::
+rattlesnakes rattlesnake%1:05:00::
+,
+and
+Charles_C_._Carpenter person%1:03:00::
+'s
+data data%1:14:00::
+on
+Michigan location%1:03:00::
+garter garter_snake%1:05:00::
+and
+ribbon_snakes ribbon_snake%1:05:00::
+(
+Thamnophis thamnophis%1:05:00::
+)
+show show%2:32:00::
+that
+the
+smallest smallest%5:00:00:small:00
+gravid gravid%5:00:00:pregnant:00
+females female%1:05:00::
+are be%2:42:03::
+more_than more_than%4:02:00::
+half half%5:00:00:fractional:00
+as
+long long%3:00:01::
+as
+the
+biggest biggest%5:00:00:large:00
+adults adult%1:05:00::
+.
+Felix_Kopstein person%1:03:00::
+states state%2:32:00::
+that
+``
+when
+the
+snake snake%1:05:00::
+reaches reach%2:38:00::
+its
+maturity maturity%1:28:00::
+it
+has
+already already%4:02:00::
+reached reach%2:38:00::
+about
+its
+maximal maximal%3:00:00::
+length length%1:07:00::
+''
+,
+but
+goes_on go_on%2:32:00::
+to
+cite cite%2:32:00::
+the
+reticulate reticulate%3:00:00::
+python python%1:05:00::
+as
+an
+exception exception%1:09:01::
+,
+with
+maximum maximum%3:00:00::
+length length%1:07:00::
+approximately approximately%4:02:00::
+three_times three_times%4:02:01::
+that
+at
+maturity maturity%1:28:00::
+.
+It
+is be%2:42:03::
+hard hard%3:00:06::
+to
+understand understand%2:31:01::
+how
+he
+concluded conclude%2:31:00::
+that
+most most%3:00:02::
+snakes snake%1:05:00::
+do
+not not%4:02:00::
+grow grow%2:30:02::
+appreciably appreciably%4:02:01::
+after
+attaining attain%2:38:00::
+maturity maturity%1:28:00::
+;
+he
+was
+working work%2:41:06::
+with
+species species%1:14:00::
+of
+Java location%1:03:00::
+,
+so
+perhaps perhaps%4:02:00::
+some some%5:00:00:unspecified:00
+tropical tropical%5:00:00:equatorial:00
+snakes snake%1:05:00::
+are be%2:42:03::
+unusual unusual%3:00:00::
+in
+this
+respect respect%1:09:00::
+.
+Certain certain%5:00:00:definite:00
+individual individual%3:00:00::
+giants giant%1:05:00::
+recorded record%2:32:00::
+later later%4:02:01::
+did
+fail fail%2:41:02::
+to
+show show%2:39:02::
+a
+reasonable reasonable%5:00:00:moderate:00
+difference difference%1:07:00::
+after
+maturity maturity%1:28:00::
+,
+but
+it
+is be%2:42:03::
+impossible impossible%3:00:00::
+to
+know know%2:31:01::
+whether
+this
+is_due be_due%2:42:00::
+to
+captive captive%5:00:00:unfree:00
+conditions condition%1:26:00::
+.
+Additional additional%5:00:00:added:00
+records record%1:10:03::
+of
+slow slow%3:00:01::
+growth growth%1:22:00::
+have
+been
+omitted omit%2:31:01::
+.
+It
+is be%2:42:03::
+possible possible%3:00:00::
+to
+make make%2:31:00::
+a_few a_few%5:00:00:few:00
+generalizations generalization%1:09:01::
+about
+the
+six six%5:00:00:cardinal:00
+giants giant%1:05:00::
+themselves
+.
+There
+seems seem%2:39:00::
+to
+be
+a
+rough rough%5:00:00:inexact:00
+correlation correlation%1:24:00::
+between
+the
+initial initial%5:00:00:first:00
+and
+ultimate ultimate%5:00:00:last:00
+lengths length%1:07:00::
+,
+starting start%2:36:01::
+with
+the
+smallest smallest%5:00:00:small:00
+(
+boa_constrictor boa_constrictor%1:05:00::
+)
+and
+ending end%2:42:00::
+with
+the
+largest largest%5:00:00:large:00
+(
+anaconda anaconda%1:05:00::
+)
+.
+Data data%1:14:00::
+on
+the
+former former%3:00:00::
+are be%2:42:03::
+scanty scanty%5:00:00:meager:00
+,
+but
+there
+can
+be be%2:42:00::
+little little%3:00:03::
+doubt doubt%1:09:00::
+that
+the
+latter latter%3:00:00::
+is be_born%2:30:00::
+sometimes sometimes%4:02:01::
+born be_born%2:30:00::
+at
+a
+length length%1:07:00::
+greater greater%3:00:00::
+than
+that
+of
+any
+of
+the
+others
+,
+thereby thereby%4:02:00::
+lending lend%2:40:01::
+support support%1:09:00::
+to
+the
+belief belief%1:09:00::
+that
+the
+anaconda anaconda%1:05:00::
+does
+,
+indeed indeed%4:02:03::
+,
+attain attain%2:38:00::
+the
+greatest greatest%5:00:00:maximal:00
+length length%1:07:00::
+.
+For
+four four%5:00:00:cardinal:00
+of
+the
+six six%5:00:00:cardinal:00
+(
+the
+anaconda anaconda%1:05:00::
+and
+the
+amethystine_python amethystine_python%1:05:00::
+cannot
+be
+included include%2:41:03::
+for
+lack lack%1:26:00::
+of
+data data%1:14:00::
+)
+there
+is be%2:42:00::
+also also%4:02:00::
+a
+correlation correlation%1:24:00::
+between
+size size%1:07:00::
+at
+maturity maturity%1:28:00::
+and
+maximum maximum%3:00:00::
+length length%1:07:00::
+,
+the
+boa_constrictor boa_constrictor%1:05:00::
+being be%2:42:03::
+the
+smallest smallest%5:00:00:small:00
+and
+the
+Indian_python indian_python%1:05:00::
+the
+next next%5:00:00:succeeding(a):00
+in
+size size%1:07:00::
+at
+the
+former former%3:00:00::
+stage stage%1:28:00::
+.
+Let let%2:41:00::
+us
+speculate speculate%2:32:00::
+a_little a_little%4:02:00::
+on
+the
+maximum maximum%3:00:00::
+size size%1:07:00::
+of
+the
+anaconda anaconda%1:05:00::
+.
+If
+,
+in
+a
+certain certain%5:00:00:definite:00
+part part%1:24:00::
+of
+the
+range range%1:07:00::
+,
+it
+starts start%2:36:01::
+life life%1:28:00::
+1 1%5:00:00:cardinal:00
+foot foot%1:23:00::
+longer long%3:00:01::
+than
+do
+any
+of
+the
+other other%3:00:00::
+(
+relatively relatively%4:02:00::
+large large%3:00:00::
+)
+giants giant%1:05:00::
+,
+and
+reaches reach%2:38:00::
+maturity maturity%1:28:00::
+at
+,
+let let%2:41:00::
+us
+guess guess%2:31:01::
+,
+18 18%5:00:00:cardinal:00
+inches inch%1:23:00::
+longer long%3:00:01::
+than
+the
+others
+,
+a
+quadrupling quadrupling%1:22:00::
+of
+the
+maturity maturity%1:28:00::
+length length%1:07:00::
+would
+result result%2:42:02::
+in
+a
+maximum maximum%1:23:00::
+of
+(
+nearly nearly%4:02:00::
+)
+40 40%5:00:00:cardinal:00
+feet foot%1:23:00::
+.
+When
+it
+comes_to come_to%2:42:03::
+rate rate%1:28:00::
+of
+early early%3:00:02::
+growth growth%1:22:00::
+,
+the
+Indian_python indian_python%1:05:00::
+leads lead%2:38:00::
+with
+a
+figure figure%1:23:00::
+of
+about
+3 3%5:00:00:cardinal:00
+feet foot%1:23:00::
+6 6%5:00:00:cardinal:00
+inches inch%1:23:00::
+per_year per_year%4:02:00::
+for
+the
+first first%3:00:00::
+two two%5:00:00:cardinal:00
+years year%1:28:01::
+,
+more_or_less more_or_less%4:02:00::
+.
+The
+African african%3:01:00::
+rock_python rock_python%1:05:00::
+,
+a
+close close%3:00:01::
+second second%5:00:00:ordinal:00
+,
+is
+followed follow%2:42:02::
+in_turn in_turn%4:02:00::
+by
+the
+reticulate reticulate%3:00:00::
+python python%1:05:00::
+.
+There
+are be%2:42:00::
+few few%3:00:00::
+data data%1:14:00::
+on
+the
+boa_constrictor boa_constrictor%1:05:00::
+,
+those
+for
+the
+anaconda anaconda%1:05:00::
+are be%2:42:03::
+unconvincing unconvincing%3:00:00::
+,
+and
+there
+is be%2:42:00::
+nothing nothing%1:23:00::
+at_all at_all%4:02:00::
+on
+the
+amethystine_python amethystine_python%1:05:00::
+.
+It
+seems seem%2:39:00::
+likely likely%3:00:00::
+that
+the
+Indian_python indian_python%1:05:00::
+comes_out come_out%2:31:00::
+ahead ahead%4:02:00::
+because
+records record%1:10:03::
+of
+its
+growth growth%1:22:00::
+have
+been
+made make%2:36:00::
+more more%4:02:00::
+carefully carefully%4:02:00::
+and
+frequently frequently%4:02:00::
+;
+it
+responds respond%2:31:00::
+exceptionally exceptionally%4:02:00::
+well well%4:02:00::
+to
+captivity captivity%1:26:02::
+and
+does
+not not%4:02:00::
+reach reach%2:38:00::
+proportions proportion%1:24:00::
+that
+make make%2:30:00::
+it
+hard hard%3:00:06::
+to
+keep keep%2:40:01::
+.
+I
+cannot
+make make%2:31:00::
+sense sense%1:09:03::
+out
+of
+the
+figures figure%1:23:00::
+for
+post post%5:00:00:succeeding(a):00
+maturity maturity%1:28:00::
+growth growth%1:22:00::
+;
+at_best at_best%4:02:00::
+the
+annual annual%3:01:00::
+increase increase%1:07:00::
+appears appear%2:39:00::
+to
+be be%2:42:06::
+a
+matter matter%1:09:01::
+of
+inches inch%1:23:00::
+rather_than
+feet foot%1:23:00::
+.
+Until
+better better%3:00:02::
+records record%1:10:03::
+have
+been
+kept keep%2:31:00::
+over
+longer long%3:00:02::
+periods_of_time period_of_time%1:28:00::
+and
+much much%4:02:00::
+more more%1:23:00::
+is
+known know%2:31:01::
+about
+the
+maximum maximum%3:00:00::
+dimensions dimension%1:07:00::
+,
+it
+will
+be be%2:42:03::
+wise wise%3:00:00::
+to
+refrain_from refrain_from%2:41:00::
+drawing draw%2:31:00::
+conclusions conclusion%1:09:00::
+.
+It
+is
+often often%4:02:00::
+stated state%2:32:01::
+that
+the
+largest largest%5:00:00:large:00
+snakes snake%1:05:00::
+require require%2:42:00::
+five five%5:00:00:cardinal:00
+years year%1:28:01::
+to
+attain attain%2:38:00::
+maturity maturity%1:28:00::
+,
+but
+this
+apparently apparently%4:02:00::
+is be%2:42:03::
+an
+overestimation overestimation%1:10:00::
+.
+The
+best best%3:00:00::
+way way%1:04:01::
+to
+determine determine%2:32:00::
+the
+correct correct%3:00:00::
+figure figure%1:23:00::
+(
+in
+captives captive%1:18:01::
+)
+is be%2:42:03::
+by
+direct direct%3:00:00::
+observation observation%1:04:01::
+of
+pairs pair%1:23:00::
+isolated isolate%2:30:00::
+from
+birth birth%1:28:00::
+,
+a
+method method%1:09:00::
+that
+produced produce%2:36:02::
+surprising surprising%3:00:00::
+results result%1:19:00::
+:
+maturing maturing%1:22:01::
+of
+a
+male male%3:00:00::
+Indian_python indian_python%1:05:00::
+in
+less_than less_than%4:02:00::
+two two%5:00:00:cardinal:00
+years year%1:28:01::
+,
+his
+mate mate%1:18:01::
+in
+less_than less_than%4:02:00::
+three three%5:00:00:cardinal:00
+;
+data data%1:14:00::
+on
+the
+boa_constrictor boa_constrictor%1:05:00::
+about
+match match%2:42:00::
+this
+.
+Another another%5:00:00:other:00
+approach approach%1:04:02::
+is be%2:42:06::
+to
+estimate estimate%2:31:01::
+from
+the
+rate_of_growth rate_of_growth%1:28:00::
+and
+the
+smallest smallest%5:00:00:minimal:00
+size size%1:07:00::
+at
+maturity maturity%1:28:00::
+.
+Results result%1:10:00::
+from
+this
+approach approach%1:04:02::
+amply amply%4:02:00::
+confirm confirm%2:31:00::
+the
+direct direct%3:00:00::
+observations observation%1:04:01::
+:
+about
+three three%5:00:00:cardinal:00
+years year%1:28:01::
+are be%2:42:03::
+required required%5:00:00:necessary:00
+,
+there
+being be%2:42:00::
+a
+possible possible%3:00:00::
+slight slight%5:00:00:little(a):03
+difference difference%1:07:00::
+between
+males male%1:18:00::
+and
+females female%1:18:00::
+in
+the
+time time%1:28:05::
+required require%2:42:00::
+.
+Only only%4:02:01::
+the
+amethystine_python amethystine_python%1:05:00::
+and
+the
+anaconda anaconda%1:05:00::
+must
+be
+excluded exclude%2:41:00::
+for
+lack lack%1:26:00::
+or
+paucity paucity%1:07:01::
+of
+data data%1:14:00::
+.
+The
+following following%5:00:01:succeeding(a):00
+information information%1:10:00::
+on
+snakes snake%1:05:00::
+varying vary%2:42:00::
+greatly greatly%4:02:00::
+in
+size size%1:07:00::
+(
+but
+all
+with
+less_than less_than%4:02:00::
+a
+10 10%5:00:00:cardinal:00
+-
+foot foot%1:23:00::
+maximum maximum%1:23:00::
+)
+shows show%2:32:00::
+,
+when
+considered consider%2:32:00::
+with
+the
+foregoing foregoing%5:00:00:preceding(a):00
+,
+that
+there
+is be%2:42:00::
+probably probably%4:02:00::
+no
+correlation correlation%1:24:00::
+between
+the
+length length%1:07:00::
+of
+a
+snake snake%1:05:00::
+and
+the
+time time%1:28:05::
+required require%2:42:00::
+for
+it
+to
+mature mature%2:30:00::
+.
+Oliver person%1:03:00::
+,
+in
+his
+summary summary%1:10:00::
+of
+the
+habits habit%1:09:00::
+of
+the
+snakes snake%1:05:00::
+of
+the
+United_States united_states%1:15:00::
+,
+could
+supply supply%2:40:00::
+data data%1:14:00::
+on
+the
+maturing maturing%1:22:01::
+period period%1:28:00::
+for
+only only%4:02:02::
+three three%5:00:00:cardinal:00
+species species%1:14:00::
+in_addition_to
+the
+rattlers rattler%1:05:00::
+,
+which
+I
+shall
+consider consider%2:32:02::
+separately separately%4:02:02::
+.
+These
+three three%5:00:00:cardinal:00
+were be%2:42:03::
+much much%4:02:00::
+alike alike%3:00:00::
+:
+lined_snake lined_snake%1:05:00::
+(
+Tropidoclonion tropidoclonion%1:05:00::
+)
+,
+one one%5:00:00:cardinal:00
+year year%1:28:01::
+and
+nine nine%5:00:00:cardinal:00
+months month%1:28:00::
+;
+red-bellied_snake red-bellied_snake%1:05:00::
+(
+Storeria storeria%1:05:00::
+)
+,
+two two%5:00:00:cardinal:00
+years year%1:28:01::
+;
+cottonmouth cottonmouth%1:05:00::
+(
+Ancistrodon ancistrodon%1:05:00::
+)
+,
+two two%5:00:00:cardinal:00
+years year%1:28:01::
+.
+Klauber person%1:03:00::
+investigated investigate%2:32:00::
+the
+rattlesnakes rattlesnake%1:05:00::
+carefully carefully%4:02:00::
+himself
+and
+also also%4:02:00::
+summarized summarize%2:32:00::
+what
+others
+have
+found find%2:36:00::
+.
+He
+concluded conclude%2:31:00::
+that
+in
+the
+southern southern%3:00:01::
+species species%1:14:00::
+,
+which
+are be%2:42:03::
+rapidly rapidly%4:02:00::
+growing growing%5:00:00:healthy:00
+types type%1:09:00::
+,
+females female%1:05:00::
+mate mate%2:35:00::
+at
+the
+age age%1:07:00::
+of
+two two%5:00:00:cardinal:00
+and
+a
+half half%1:23:00::
+and
+bear bear%2:29:01::
+the
+first first%3:00:00::
+young young%1:05:00::
+when
+they
+are be%2:42:03::
+three three%5:00:00:cardinal:00
+.
+Other other%3:00:00::
+herpetologists herpetologist%1:18:00::
+have
+ascertained ascertain%2:32:01::
+that
+in
+the
+northern northern%3:00:02::
+United_States united_states%1:15:00::
+the
+prairie_rattlesnake prairie_rattlesnake%1:05:00::
+may_not
+give give_birth%2:29:00::
+first first%3:00:00::
+birth
+until
+it
+is be%2:42:03::
+four four%5:00:00:cardinal:00
+or
+even even%4:02:00::
+five five%5:00:00:cardinal:00
+years year%1:28:01::
+old old%3:00:02::
+,
+and
+that
+the
+young young%1:05:00::
+may
+be_born be_born%2:30:00::
+every_other every_other%5:00:00:cyclic:01
+year year%1:28:01::
+,
+rather_than
+annually annually%4:02:00::
+.
+Carpenter person%1:03:00::
+'s
+study study%1:04:00::
+showed show%2:32:00::
+that
+female female%3:00:00::
+common common%3:00:01::
+garter garter_snake%1:05:00::
+and
+ribbon_snakes ribbon_snake%1:05:00::
+of
+Michigan location%1:03:00::
+mature mature%2:30:00::
+at
+about about%4:02:00::
+the
+age age%1:07:00::
+of
+two two%1:23:00::
+.
+Oversized oversized%5:00:00:large:00
+monsters monster%1:18:01::
+are
+never never%4:02:00::
+brought bring%2:38:00::
+home home%4:02:01::
+either
+alive alive%3:00:01::
+or
+preserved preserved%3:00:01::
+,
+and
+field field%1:15:01::
+measurements measurement%1:04:00::
+are be%2:42:03::
+obviously obviously%4:02:00::
+open_to open_to%5:00:00:receptive:00
+doubt doubt%1:09:00::
+because
+of
+the
+universal universal%5:00:00:comprehensive:00
+tendency tendency%1:12:00::
+to
+exaggerate exaggerate%2:32:00::
+dimensions dimension%1:07:00::
+.
+Measurements measurement%1:07:00::
+of
+skins skin%1:05:01::
+are be%2:42:03::
+of
+little little%3:00:03::
+value value%1:07:00::
+;
+every every%5:00:02:all(a):00
+snake snake%1:05:00::
+hide hide%1:05:00::
+is be%2:42:03::
+noticeably noticeably%4:02:00::
+longer long%3:00:01::
+than
+its
+carcass carcass%1:05:00::
+and
+intentional intentional%5:00:00:intended:00
+stretching stretching%1:04:02::
+presents present%2:39:00::
+no no%3:00:00::
+difficulty difficulty%1:04:00::
+to
+the
+unscrupulous unscrupulous%3:00:00::
+explorer explorer%1:18:00::
+.
+In_spite
+of
+all
+the
+pitfalls pitfall%1:09:00::
+,
+there
+is be%2:42:00::
+a
+certain certain%5:00:00:definite:00
+amount amount%1:07:00::
+of
+agreement agreement%1:07:00::
+on
+some
+of
+the
+giants giant%1:05:00::
+.
+The
+anaconda anaconda%1:05:00::
+proves prove%2:42:00::
+to
+be be%2:42:06::
+the
+fly_in_the_ointment fly_in_the_ointment%1:07:00::
+,
+but
+the
+reason reason%1:10:01::
+for
+this
+is be%2:42:03::
+not not%4:02:00::
+clear clear%3:00:00::
+;
+the
+relatively relatively%4:02:00::
+wild wild%3:00:01::
+conditions condition%1:26:00::
+still still%4:02:01::
+found find%2:40:02::
+in
+tropical tropical%5:00:00:equatorial:00
+South_America location%1:03:00::
+might
+be be%2:42:03::
+responsible responsible%3:00:00::
+.
+There
+are be%2:42:00::
+three three%5:00:00:cardinal:00
+levels level%1:26:01::
+on
+which
+to
+treat treat%2:32:00::
+the
+subject subject%1:09:00::
+.
+The
+first first%5:00:00:ordinal:00
+is be%2:42:06::
+the
+strictly strictly%4:02:00::
+scientific scientific%3:00:00::
+,
+which
+demands demand%2:42:00::
+concrete concrete%3:00:00::
+proof proof%1:10:00::
+and
+therefore therefore%4:02:00::
+may
+err err%2:38:00::
+on
+the
+conservative conservative%3:00:00::
+side side%1:14:00::
+by
+waiting wait%2:42:01::
+for
+evidence evidence%1:09:00::
+in_the_flesh in_the_flesh%5:00:00:personal:00
+.
+This
+approach approach%1:04:02::
+rejects reject%2:31:00::
+virtually virtually%4:02:01::
+all
+field field%1:15:01::
+measurements measurement%1:04:00::
+.
+The
+next next%5:00:00:succeeding(a):00
+level level%1:26:01::
+attempts attempt%2:41:00::
+to
+weigh weigh%2:32:00::
+varied varied%3:00:00::
+evidence evidence%1:09:00::
+and
+come come%2:30:03::
+to
+a
+balanced balanced%3:00:00::
+,
+sensible sensible%3:00:04::
+conclusion conclusion%1:09:00::
+;
+field field%1:15:01::
+measurements measurement%1:04:00::
+by
+experienced experienced%3:00:00::
+explorers explorer%1:18:00::
+are
+not not%4:02:00::
+rejected reject%2:31:00::
+,
+and
+even even%4:02:00::
+reports report%1:10:03::
+of
+a
+less less%4:02:01::
+scientific scientific%3:00:00::
+nature nature%1:07:02::
+are
+duly duly%4:02:00::
+evaluated evaluate%2:31:00::
+.
+The
+third third%5:00:00:ordinal:00
+level level%1:26:01::
+leans_on lean_on%2:35:00::
+a
+belief belief%1:09:00::
+that
+a_lot
+of
+smoke smoke%1:19:00::
+means mean%2:32:03::
+some some%3:00:00::
+fire fire%1:22:00::
+.
+The
+argument argument%1:10:02::
+against
+this
+last last%3:00:00::
+approach approach%1:04:02::
+is be%2:42:03::
+comparable_to comparable_to%5:00:00:comparable:00
+that
+which
+rejects reject%2:31:00::
+stories story%1:10:03::
+about
+hoop_snakes hoop_snake%1:05:00::
+,
+about
+snakes snake%1:05:00::
+that
+break break%2:30:00::
+themselves
+into
+many many%3:00:00::
+pieces piece%1:17:00::
+and
+join join%2:42:01::
+up
+again again%4:02:00::
+,
+or
+even even%4:02:00::
+of
+ghosts ghost%1:09:00::
+that
+chase chase%1:04:00::
+people people%1:14:00::
+out
+of
+graveyards graveyard%1:15:00::
+;
+the
+mere mere%5:00:00:specified:00
+piling_up pile_up%2:35:00::
+of
+testimony testimony%1:10:01::
+does
+not not%4:02:00::
+prove prove%2:31:00::
+,
+to
+the
+scientific scientific%3:00:00::
+mind mind%1:09:00::
+,
+the
+existence existence%1:26:00::
+of
+hoop_snakes hoop_snake%1:05:00::
+,
+joint_snakes joint_snake%1:05:00::
+,
+or
+ghosts ghost%1:09:00::
+.
+Oliver person%1:03:00::
+has
+recently recently%4:02:00::
+used use%2:34:01::
+the
+second second%5:00:00:ordinal:00
+level level%1:26:01::
+approach approach%1:04:02::
+with
+the
+largest largest%5:00:00:large:00
+snakes snake%1:05:00::
+,
+and
+has
+come come%2:30:03::
+to
+these
+conclusions conclusion%1:09:00::
+:
+the
+anaconda anaconda%1:05:00::
+reaches reach%2:38:00::
+a
+length length%1:07:00::
+of
+at_least at_least%4:02:00::
+37
+feet foot%1:23:00::
+,
+the
+reticulate reticulate%3:00:00::
+python python%1:05:00::
+33
+,
+the
+African african%3:01:00::
+rock_python rock_python%1:05:00::
+25 25%5:00:00:cardinal:00
+,
+the
+amethystine_python amethystine_python%1:05:00::
+at_least at_least%4:02:00::
+22 22%5:00:00:cardinal:00
+,
+the
+Indian_python indian_python%1:05:00::
+20 20%5:00:00:cardinal:00
+,
+and
+the
+boa_constrictor boa_constrictor%1:05:00::
+18 18%5:00:00:cardinal:00
+-
+1_2 12%5:00:00:cardinal:00
+.
+Bernard_Heuvelmans person%1:03:00::
+also also%4:02:00::
+treats treat%2:32:00::
+of
+the
+largest largest%5:00:00:large:00
+snakes snake%1:05:00::
+,
+but
+on
+the
+third third%5:00:00:ordinal:00
+level level%1:26:01::
+,
+and
+is
+chiefly chiefly%4:02:00::
+concerned concern%2:42:01::
+with
+the
+anaconda anaconda%1:05:00::
+.
+He
+reasons reason%2:31:01::
+that
+as
+anacondas anaconda%1:05:00::
+30 30%5:00:00:cardinal:00
+feet foot%1:23:00::
+long long%3:00:01::
+are
+often often%4:02:00::
+found find%2:40:02::
+,
+some
+might
+be be%2:42:03::
+38
+,
+and
+occasional occasional%5:00:00:infrequent:00
+``
+monstrous monstrous%5:00:00:large:00
+freaks freak%1:18:00::
+''
+over
+50 50%5:00:00:cardinal:00
+.
+He
+rejects reject%2:31:00::
+dimensions dimension%1:07:00::
+of
+70 70%5:00:00:cardinal:00
+feet foot%1:23:00::
+and
+more more%3:00:02::
+.
+His
+thirteenth thirteenth%5:00:00:ordinal:00
+chapter chapter%1:10:00::
+includes include%2:42:00::
+many many%3:00:00::
+exciting exciting%3:00:00::
+accounts account%1:10:00::
+of
+huge huge%5:00:01:large:00
+serpents serpent%1:05:00::
+with
+prodigious prodigious%5:00:00:large:00
+strength strength%1:07:00::
+,
+but
+these
+seem seem%2:39:00::
+to
+be
+given give%2:40:05::
+to
+complete complete%2:30:00::
+his
+picture picture%1:26:00::
+,
+not not%4:02:00::
+to
+be
+believed believe%2:31:00::
+.
+Detailed detailed%5:00:00:careful:00
+information information%1:10:00::
+on
+record record%5:00:00:best:00
+lengths length%1:07:00::
+of
+the
+giants giant%1:05:00::
+is
+given give%2:40:07::
+in
+the
+section section%1:10:00::
+that
+follows follow%2:42:02::
+.
+Discussions discussion%1:10:02::
+of
+the
+giants giant%1:05:00::
+one_by_one one_by_one%4:02:00::
+will
+include include%2:42:00::
+,
+as_far_as_possible as_far_as_possible%4:02:01::
+,
+data data%1:14:00::
+on
+these
+aspects aspect%1:09:00::
+of
+growth growth%1:22:00::
+:
+size size%1:07:00::
+at
+which
+life life%1:28:00::
+is
+started start%2:36:01::
+and
+at
+which
+sexual sexual%3:01:01::
+maturity maturity%1:28:00::
+is
+reached reach%2:38:00::
+;
+time time%1:28:05::
+required require%2:42:00::
+to
+reach reach%2:38:00::
+maturity maturity%1:28:00::
+;
+rate_of_growth rate_of_growth%1:28:00::
+both
+before
+and
+after
+this
+crucial crucial%3:00:00::
+stage stage%1:28:00::
+;
+and
+maximum maximum%3:00:00::
+length length%1:07:00::
+,
+with
+confirmation confirmation%1:09:00::
+or
+amplification amplification%1:04:02::
+of
+Oliver person%1:03:00::
+'s
+figures figure%1:23:00::
+.
+Definite definite%3:00:00::
+information information%1:10:00::
+on
+the
+growth growth%1:22:00::
+of
+senile senile%5:00:00:old:02
+individuals individual%1:18:00::
+is be%2:42:03::
+lacking lack%2:42:00::
+.
+At_birth at_birth%4:02:00::
+,
+this
+species species%1:14:00::
+varies vary%2:42:00::
+considerably considerably%4:02:01::
+in
+size size%1:07:00::
+.
+A
+brood brood%1:14:00::
+of
+twenty-eight twenty-eight%1:23:00::
+born bear%2:29:01::
+at
+Brookfield_Zoo group%1:03:00::
+,
+near
+Chicago location%1:03:00::
+,
+ranged range%2:42:01::
+in_length in_length%5:00:00:long:01
+from
+22 22%5:00:00:cardinal:00
+to
+33
+-
+1 1%5:00:00:cardinal:00
+2 2%5:00:00:cardinal:00
+inches inch%1:23:00::
+and
+averaged average%2:42:00::
+29 29%5:00:00:cardinal:00
+inches inch%1:23:00::
+.
+Lawrence_E_._Griffin person%1:03:00::
+gives give%2:40:07::
+measurements measurement%1:07:00::
+of
+nineteen nineteen%5:00:00:cardinal:00
+young young%3:00:00::
+anacondas anaconda%1:05:00::
+,
+presumably presumably%4:02:00::
+members member%1:18:00::
+of
+a
+brood brood%1:14:00::
+,
+from
+``
+South_America location%1:03:00::
+''
+;
+the
+extreme extreme%1:15:00::
+measurements measurement%1:07:00::
+of
+these
+fall fall%2:42:03::
+between
+the
+lower_limit lower_limit%1:23:00::
+of
+the
+Brookfield group%1:03:00::
+brood brood%1:14:00::
+and
+its
+average average%1:09:00::
+.
+Raymond_L_._Ditmars person%1:03:00::
+had have%2:40:00::
+two two%5:00:00:cardinal:00
+broods brood%1:14:00::
+that
+averaged average%2:42:00::
+27 27%5:00:00:cardinal:00
+inches inch%1:23:00::
+.
+R_._R_._Mole person%1:03:00::
+and
+F_._W_._Urich person%1:03:00::
+give give%2:40:07::
+approximately approximately%4:02:00::
+20 20%5:00:00:cardinal:00
+inches inch%1:23:00::
+as
+the
+average average%5:00:02:normal:01
+length length%1:07:00::
+of
+a
+brood brood%1:14:00::
+of
+thirty thirty%1:23:00::
+from
+the
+region region%1:15:00::
+of
+the
+Orinoco orinoco%1:17:00::
+estuaries estuary%1:17:00::
+.
+William_Beebe person%1:03:00::
+reports report%1:10:03::
+26 26%5:00:00:cardinal:00
+inches inch%1:23:00::
+and
+2.4
+ounces ounce%1:23:02::
+(
+this
+snake snake%1:05:00::
+must
+have
+been be%2:42:03::
+emaciated emaciated%5:00:00:thin:03
+)
+for
+the
+length length%1:07:00::
+and
+the
+weight weight%1:07:00::
+of
+a
+young young%3:00:00::
+anaconda anaconda%1:05:00::
+from
+British_Guiana location%1:03:00::
+.
+In
+contrast contrast%1:04:00::
+,
+Ditmars person%1:03:00::
+recorded record%2:32:00::
+the
+average average%5:00:02:normal:01
+length length%1:07:00::
+of
+seventy-two
+young young%1:05:00::
+of
+a
+19 19%5:00:00:cardinal:00
+-
+foot foot%1:23:00::
+female female%1:05:00::
+as
+38
+inches inch%1:23:00::
+,
+and
+four four%5:00:00:cardinal:00
+young young%1:05:00::
+were_born be_born%2:30:00::
+in
+London location%1:03:00::
+at
+a
+length length%1:07:00::
+of
+35
+or
+36
+inches inch%1:23:00::
+and
+a
+weight weight%1:07:00::
+of
+from
+14 14%5:00:00:cardinal:00
+to
+16 16%5:00:00:cardinal:00
+ounces ounce%1:23:02::
+.
+Beebe person%1:03:00::
+had have%2:40:00::
+a
+3 3%5:00:00:cardinal:00
+-
+foot foot%1:23:00::
+anaconda anaconda%1:05:00::
+that
+weighed weigh%2:42:01::
+only only%4:02:02::
+9.8
+ounces ounce%1:23:02::
+.
+A
+difference difference%1:07:00::
+between
+subspecies subspecies%1:14:00::
+might
+explain explain%2:32:02::
+the
+great great%5:00:01:large:00
+range range%1:07:00::
+in
+size size%1:07:00::
+.
+I
+have have%2:40:00::
+little little%3:00:03::
+information information%1:10:00::
+on
+the
+anaconda anaconda%1:05:00::
+'s
+rate_of_growth rate_of_growth%1:28:00::
+.
+Hans_Schweizer person%1:03:00::
+had have%2:40:00::
+one
+that
+increased increase%2:30:00::
+from
+19 19%5:00:00:cardinal:00
+-
+1
+2
+inches inch%1:23:02::
+to
+5 5%5:00:00:cardinal:00
+feet foot%1:23:00::
+3 3%5:00:00:cardinal:00
+inches inch%1:23:02::
+in
+five five%5:00:00:cardinal:00
+years year%1:28:01::
+,
+and
+J_._J_._Quelch person%1:03:00::
+records record%2:32:00::
+a
+growth growth%1:22:00::
+of
+from
+less_than less_than%4:02:00::
+4 4%5:00:00:cardinal:00
+feet foot%1:23:00::
+to
+nearly nearly%4:02:00::
+10 10%5:00:00:cardinal:00
+in
+about
+six six%5:00:00:cardinal:00
+years year%1:28:01::
+.
+It
+is be%2:42:03::
+very very%4:02:00::
+unlikely unlikely%3:00:00::
+that
+either
+of
+these
+anacondas anaconda%1:05:00::
+was
+growing grow%2:30:02::
+at
+a
+normal normal%3:00:01::
+rate rate%1:28:00::
+.
+In
+1948
+,
+Afranio_do_Amaral person%1:03:00::
+,
+the
+noted noted%5:00:00:known:00
+Brazilian brazilian%3:01:00::
+herpetologist herpetologist%1:18:00::
+,
+wrote write%2:36:02::
+a
+technical technical%3:00:00::
+paper paper%1:10:01::
+on
+the
+giant giant%5:00:00:large:00
+snakes snake%1:05:00::
+.
+He
+concluded conclude%2:31:00::
+that
+the
+anaconda anaconda%1:05:00::
+'s
+maximum maximum%3:00:00::
+length length%1:07:00::
+is be%2:42:03::
+12 12%5:00:00:cardinal:00
+or
+13 13%5:00:00:cardinal:00
+(
+perhaps perhaps%4:02:00::
+14 14%5:00:00:cardinal:00
+)
+meters meter%1:23:00::
+,
+which
+would
+approximate approximate%2:42:00::
+from
+39
+to
+42
+feet foot%1:23:00::
+(
+14 14%5:00:00:cardinal:00
+meters meter%1:23:00::
+is be%2:42:04::
+slightly slightly%4:02:01::
+less less%3:00:00::
+that
+46
+feet foot%1:23:00::
+)
+.
+Thus thus%4:02:00::
+,
+his
+estimate estimate%1:09:00::
+lies lie%2:42:00::
+between
+Oliver person%1:03:00::
+'s
+suggestion suggestion%1:10:00::
+of
+at_least at_least%4:02:00::
+37
+feet foot%1:23:00::
+and
+the
+50 50%5:00:00:cardinal:00
+-
+foot foot%1:23:00::
+``
+monstrous monstrous%5:00:00:large:00
+freaks freak%1:18:00::
+''
+intimated intimate%2:32:01::
+by
+Heuvelmans person%1:03:00::
+.
+The
+most most%4:02:00::
+convincing convincing%3:00:00::
+recent recent%5:00:00:new:00
+measurement measurement%1:07:00::
+of
+an
+anaconda anaconda%1:05:00::
+was
+made make%2:41:00::
+in
+eastern eastern%5:00:02:east:00
+Colombia location%1:03:00::
+by
+Roberto_Lamon person%1:03:00::
+,
+a
+petroleum_geologist petroleum_geologist%1:18:00::
+of
+the
+Richmond_Oil_Company group%1:03:00::
+,
+and
+reported report%2:32:04::
+in
+1944
+by
+Emmett_R_._Dunn person%1:03:00::
+.
+However however%4:02:00::
+,
+as
+a
+field field%1:15:01::
+measurement measurement%1:07:00::
+,
+it
+is be%2:42:03::
+open_to open_to%5:00:00:receptive:00
+question question%1:10:00::
+.
+Oliver person%1:03:00::
+'s
+37
+-
+1
+2
+feet foot%1:23:00::
+is be%2:42:03::
+partly partly%4:02:00::
+based based%3:44:00::
+on
+this
+report report%1:10:01::
+and
+can
+be
+accepted accept%2:31:00::
+as
+probable probable%3:00:00::
+.
+However however%4:02:00::
+,
+many many%3:00:00::
+herpetologists herpetologist%1:18:00::
+remain remain%2:30:00::
+skeptical skeptical%5:00:00:incredulous:00
+and
+would
+prefer prefer%2:31:00::
+a
+tentative tentative%5:00:00:conditional:00
+maximum maximum%1:23:00::
+of
+about
+30 30%5:00:00:cardinal:00
+feet foot%1:23:00::
+.
+It
+is be%2:42:03::
+possible possible%3:00:00::
+that
+especially especially%4:02:00::
+large large%3:00:00::
+anacondas anaconda%1:05:00::
+will
+prove prove%2:42:00::
+to
+belong_to belong_to%2:42:00::
+subspecies subspecies%1:14:00::
+limited limit%2:41:00::
+to
+a
+small small%3:00:00::
+area area%1:15:01::
+.
+In
+snakes snake%1:05:00::
+difference difference%1:07:00::
+in
+size size%1:07:00::
+is be%2:42:03::
+a
+common common%3:00:01::
+characteristic characteristic%1:09:00::
+of
+subspecies subspecies%1:14:00::
+.
+A
+Colombian colombian%3:01:00::
+female female%1:05:00::
+'s
+brood brood%1:14:00::
+of
+sixteen sixteen%5:00:00:cardinal:00
+boa_constrictors boa_constrictor%1:05:00::
+born bear%2:29:01::
+in
+the
+Staten_Island_Zoo group%1:03:00::
+averaged average%2:42:00::
+20 20%5:00:00:cardinal:00
+inches inch%1:23:00::
+.
+This
+birth birth%1:28:00::
+length length%1:07:00::
+seems seem%2:39:00::
+to
+be be%2:42:03::
+typical typical%5:00:00:characteristic:00
+.
+When
+some some%3:00:00::
+thirteen thirteen%5:00:00:cardinal:00
+records record%1:10:03::
+of
+newly newly%4:02:00::
+and
+recently recently%4:02:00::
+born bear%2:29:01::
+individuals individual%1:18:00::
+are
+collated collate%2:31:00::
+,
+little little%3:00:03::
+or
+no
+correlation correlation%1:24:00::
+between
+length length%1:07:00::
+and
+distribution distribution%1:07:00::
+can
+be
+detected detect%2:39:00::
+.
+The
+range range%1:07:00::
+is be%2:42:02::
+from
+14 14%5:00:00:cardinal:00
+to
+25 25%5:00:00:cardinal:00
+inches inch%1:23:00::
+;
+the
+former former%3:00:00::
+figure figure%1:23:00::
+is be%2:42:03::
+based based%3:44:00::
+on
+a
+somewhat somewhat%4:02:00::
+unusual unusual%3:00:00::
+birth birth%1:28:00::
+of
+four four%1:23:00::
+by
+a
+Central_American central_american%3:01:00::
+female female%1:05:00::
+(
+see see%4:02:00::
+chapter chapter%1:10:00::
+on
+Laying laying%1:22:00::
+,
+Brooding brooding%1:22:00::
+,
+Hatching hatching%1:22:00::
+,
+and
+Birth birth%1:22:00::
+)
+,
+the
+latter latter%3:00:00::
+on
+a
+``
+normal normal%3:00:01::
+''
+newly newly%4:02:00::
+born bear%2:29:01::
+individual individual%1:18:00::
+.
+However however%4:02:00::
+,
+as
+so so%4:02:02::
+many many%3:00:00::
+of
+the
+records record%1:10:03::
+are be%2:42:03::
+not not%4:02:00::
+certainly certainly%4:02:00::
+based based%3:44:00::
+on
+newborn newborn%5:00:00:young:00
+snakes snake%1:05:00::
+,
+these
+data data%1:14:00::
+must
+be
+taken take%2:31:07::
+tentatively tentatively%4:02:00::
+;
+final final%5:00:00:ultimate:00
+conclusions conclusion%1:09:00::
+will
+have_to
+await await%2:31:00::
+the
+measurements measurement%1:07:00::
+of
+broods brood%1:14:00::
+from
+definite definite%3:00:00::
+localities locality%1:15:00::
+.
+Alphonse_R_._Hoge person%1:03:00::
+'s
+measurements measurement%1:07:00::
+of
+several several%5:00:00:individual:00
+very very%4:02:00::
+young young%3:00:00::
+specimens specimen%1:09:00::
+from
+Brazil location%1:03:00::
+suggest suggest%2:32:03::
+that
+at_birth at_birth%4:02:00::
+the
+female female%1:05:00::
+is be%2:42:03::
+slightly slightly%4:02:01::
+larger larger%5:00:00:large:00
+than
+the
+male male%1:05:00::
+.
+I
+have have%2:40:00::
+surprisingly surprisingly%4:02:00::
+little little%3:00:03::
+information information%1:09:00::
+on
+the
+size size%1:07:00::
+and
+age age%1:07:00::
+at
+maturity maturity%1:28:00::
+.
+Carl_Kauffeld person%1:03:00::
+has
+written write%2:32:01::
+to
+me
+of
+sexual_activity sexual_activity%1:04:00::
+in
+February february%1:28:00::
+1943
+of
+young young%1:05:00::
+born bear%2:29:01::
+in
+March march%1:28:00::
+1940
+.
+One one%5:00:00:cardinal:00
+female female%1:05:00::
+,
+collected collect%2:40:03::
+on
+an
+island island%1:17:00::
+off
+the
+coast coast%1:17:00::
+of
+Nicaragua location%1:03:00::
+,
+was be%2:42:03::
+gravid gravid%5:00:00:pregnant:00
+and
+measured measure%2:42:00::
+4 4%5:00:00:cardinal:00
+feet foot%1:23:00::
+8 8%5:00:00:cardinal:00
+inches inch%1:23:00::
+from
+snout snout%1:05:00::
+to
+vent vent%1:05:00::
+(
+her
+tail tail%1:05:00::
+should
+be be%2:42:03::
+between
+6 6%5:00:00:cardinal:00
+and
+7 7%5:00:00:cardinal:00
+inches inch%1:23:00::
+long long%3:00:01::
+)
+.
+The
+female female%1:05:00::
+from
+Central_America location%1:03:00::
+which
+gave_birth give_birth%2:29:00::
+to
+four four%5:00:00:cardinal:00
+was be%2:42:03::
+only only%4:02:02::
+3 3%5:00:00:cardinal:00
+feet foot%1:23:00::
+11 11%5:00:00:cardinal:00
+inches inch%1:23:00::
+long long%3:00:01::
+.
+What
+data data%1:14:00::
+there
+are be%2:42:00::
+on
+growth growth%1:22:00::
+indicate indicate%2:32:03::
+considerable considerable%3:00:00::
+variation variation%1:11:01::
+in
+rate rate%1:28:00::
+;
+unfortunately unfortunately%4:02:00::
+,
+no_one
+has
+kept keep%2:31:00::
+complete complete%3:00:00::
+records record%1:10:03::
+of
+one one%5:00:00:cardinal:00
+individual individual%1:18:00::
+,
+whereas
+many many%3:00:00::
+have
+been
+made make%2:41:00::
+for
+a
+very very%4:02:00::
+short short%3:00:02::
+period_of_time period_of_time%1:28:00::
+.
+The
+results result%1:10:00::
+are be%2:42:03::
+too too%4:02:00::
+varied varied%3:00:00::
+to
+allow allow%2:32:00::
+generalization generalization%1:09:01::
+.

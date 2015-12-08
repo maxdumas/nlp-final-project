@@ -1,0 +1,2152 @@
+How
+long long%3:00:02::
+has
+it
+been be%2:42:03::
+since
+you
+reviewed review%2:31:00::
+the
+objectives objective%1:09:00::
+of
+your
+benefit benefit%1:21:00::
+and
+service service%1:04:07::
+program program%1:09:01::
+?
+Have
+you
+permitted permit%2:41:00::
+it
+to
+become become%2:42:01::
+a
+giveaway giveaway%1:21:00::
+program program%1:09:01::
+rather rather%4:02:02::
+than
+one
+that
+has have%2:42:00::
+the
+goal goal%1:09:00::
+of
+improved improved%3:00:00::
+employee employee%1:18:00::
+morale morale%1:26:00::
+and
+,
+consequently consequently%4:02:00::
+,
+increased increased%3:00:00::
+productivity productivity%1:07:00::
+?
+What
+effort effort%1:04:00::
+do
+you
+make make%2:41:00::
+to
+assess assess%2:31:00::
+results result%1:11:00::
+of
+your
+program program%1:09:01::
+?
+Do
+you
+measure measure%2:31:01::
+its
+relation_to relation_to%1:24:00::
+reduced reduced%3:00:04::
+absenteeism absenteeism%1:04:00::
+,
+turnover turnover%1:24:00::
+,
+accidents accident%1:11:01::
+,
+and
+grievances grievance%1:10:01::
+,
+and
+to
+improved improved%5:00:00:better:00
+quality quality%1:07:00::
+and
+output output%1:04:00::
+?
+Have
+you
+set set%2:32:00::
+specific specific%3:00:00::
+objectives objective%1:09:00::
+for
+your
+employee employee%1:18:00::
+publication publication%1:10:00::
+?
+Is
+it
+reaching reach%2:38:06::
+these
+goals goal%1:09:00::
+?
+Is be%2:42:03::
+it
+larger larger%5:00:00:large:00
+or
+fancier fancy%3:00:00::
+than
+you
+really really%4:02:03::
+need need%2:34:00::
+?
+Are
+you
+using use%2:34:01::
+the
+most most%4:02:00::
+economical economical%5:00:00:efficient:00
+printing printing%1:04:00::
+methods method%1:09:00::
+,
+paper paper%1:27:00::
+,
+etc.
+.
+Are be%2:42:00::
+there
+other other%3:00:00::
+,
+cheaper cheap%3:00:00::
+communications communication%1:10:01::
+techniques technique%1:09:00::
+that
+could
+be
+substituted substitute%2:40:00::
+?
+Has
+your
+attitude attitude%1:09:00::
+toward
+employee employee%1:18:00::
+benefits benefit%1:21:00::
+encouraged encourage%2:41:00::
+an
+excess excess%1:07:02::
+of
+free free%5:00:00:unpaid:00
+``
+government government%1:14:00::
+''
+work work%1:04:00::
+in
+your
+plant plant%1:06:01::
+?
+Is
+your
+purchasing_agent purchasing_agent%1:18:00::
+offering offer%2:40:02::
+too_much too_much%4:02:00::
+free free%3:00:00::
+buying buying%1:04:00::
+service service%1:14:05::;1:04:00::
+for
+employees employee%1:18:00::
+?
+When
+improvements improvement%1:04:00::
+are
+recommended recommend%2:32:01::
+in
+working working%5:00:00:employed:00
+conditions condition%1:26:00::
+-
+such_as such_as%5:00:00:specified:00
+lighting lighting%1:06:00::
+,
+rest_rooms restroom%1:06:00::
+,
+eating eating%1:04:00::
+facilities facility%1:06:00::
+,
+air-conditioning air-conditioning%1:06:00::
+-
+do
+you
+try try%2:41:00::
+to
+set set%2:32:00::
+a
+measure measure%1:07:00::
+of
+their
+effectiveness effectiveness%1:07:00::
+on
+productivity productivity%1:07:00::
+?
+When
+negotiating negotiate%2:32:00::
+with
+your
+union union%1:14:01::
+,
+do
+you
+make make%2:30:00::
+sure sure%5:00:00:careful:00
+employees employee%1:18:00::
+have have%2:40:00::
+a
+choice choice%1:04:00::
+between
+new new%3:00:00::
+benefits benefit%1:21:00::
+and
+their
+cents cent%1:23:00::
+per
+hour hour%1:28:00::
+cost cost%1:21:00::
+in
+wages wage%1:21:00::
+.
+Can
+you
+consider consider%2:32:02::
+restricting restrict%2:30:02::
+any
+additional additional%5:00:00:added:00
+employee employee%1:18:00::
+benefits benefit%1:21:00::
+to
+those
+paid pay%2:40:00::
+for
+by
+profit-sharing profit_sharing%1:21:00::
+money money%1:21:00::
+,
+such_as such_as%5:00:00:specified:00
+was
+done do%2:41:01::
+in
+the
+union union%1:14:01::
+contract contract%1:10:00::
+recently recently%4:02:00::
+signed sign%2:41:00::
+by
+American_Motors_Corporation group%1:03:00::
+?
+Do
+your
+employees employee%1:18:00::
+understand understand%2:31:00::
+all
+the
+benefits benefit%1:21:00::
+to
+which
+your
+insurance insurance%1:10:00::
+entitles entitle%2:41:00::
+them
+?
+Are
+they
+encouraged encourage%2:41:00::
+to
+take take_advantage%2:40:00::
+full full%5:00:01:whole:00
+legal legal%3:00:00::
+advantage
+of
+these
+benefits benefit%1:21:00::
+?
+Have
+you
+publicized publicize%2:32:01::
+the
+cents cent%1:23:00::
+per
+hour hour%1:28:00::
+value value%1:09:00::
+of
+the
+company company%1:14:01::
+'s
+share share%1:21:00::
+of
+insurance_premiums insurance_premium%1:21:00::
+?
+When
+did
+you
+last last%4:02:00::
+compare compare%2:31:00::
+your
+present present%3:00:01::
+premium premium%1:21:02::
+costs cost%1:07:00::
+with
+the
+costs cost%1:07:00::
+of
+insurance insurance%1:21:02::
+from
+other other%3:00:00::
+sources source%1:10:00::
+?
+Can
+your
+insurance_company insurance_company%1:14:00::
+aid aid%2:41:00::
+you
+in
+reducing reduce%2:30:00::
+administrative administrative%3:01:00::
+costs cost%1:21:00::
+?
+Do
+you
+try try%2:41:00::
+to
+maintain maintain%2:40:00::
+the
+principle principle%1:09:01::
+of
+employee employee%1:18:00::
+contributed contribute%2:40:00::
+(
+as
+opposed oppose%2:42:00::
+to
+fully fully%4:02:03::
+company company%1:14:01::
+paid paid%3:00:00::
+)
+programs program%1:09:00::
+?
+Do
+you
+protect protect%2:33:00::
+your
+holiday holiday%1:28:01::
+privileges privilege%1:07:02::
+with
+an
+attendance attendance%1:04:00::
+requirement requirement%1:09:01::
+both
+before
+and
+after
+the
+holiday holiday%1:28:00::
+?
+Do
+you
+plan plan%2:31:01::
+to
+limit limit%2:30:00::
+additional additional%5:00:00:added:00
+holidays holiday%1:28:00::
+to
+area area%1:15:01::
+and
+/
+or
+industrial industrial%3:01:01::
+patterns pattern%1:04:00::
+?
+Have
+you
+investigated investigate%2:32:00::
+the
+possibility possibility%1:09:01::
+of
+moving move%2:38:01::
+midweek midweek%3:01:00::
+holidays holiday%1:28:01::
+forward forward%4:02:02::
+to
+Monday monday%1:28:00::
+or
+back back%4:02:01::
+to
+Friday friday%1:28:00::
+in_order
+to
+have have%2:40:00::
+an
+uninterrupted uninterrupted%5:00:00:unbroken:02
+work work%1:04:00::
+week week%1:28:01::
+?
+Are
+you
+carefully carefully%4:02:00::
+policing police%2:41:00::
+wash-up washup%1:04:00::
+time time%1:11:00::
+and
+rest rest%1:04:00::
+periods period%1:28:00::
+to
+be be%2:42:03::
+certain certain%3:00:02::
+that
+all all%3:00:00::
+other other%3:00:00::
+time time%1:11:00::
+is be%2:42:03::
+productive productive%3:00:00::
+?
+Are
+you
+watching watch%2:41:00::
+work work%1:04:00::
+schedules schedule%1:09:00::
+for
+boiler boiler%1:06:00::
+operators operator%1:18:00::
+,
+guards guard%1:18:03::
+,
+and
+other other%3:00:00::
+24 24%5:00:00:cardinal:00
+-
+hour hour%1:28:00::
+day day%1:28:00::
+,
+7 7%5:00:00:cardinal:00
+-
+day day%1:28:00::
+week week%1:28:00::
+operations operation%1:26:00::
+in_order
+to
+minimize minimize%2:30:00::
+overtime overtime%1:28:01::
+?
+Are
+you
+careful careful%3:00:00::
+to
+restrict restrict%2:30:02::
+the
+number number%1:07:00::
+of
+people people%1:14:00::
+on_leave on_leave%5:00:00:inactive:08
+at_one_time at_one_time%4:02:00::
+so so%4:02:06::
+that
+your
+total total%5:00:00:whole:00
+employment employment%1:04:02::
+obligation obligation%1:26:00::
+is be%2:42:03::
+minimized minimized%5:00:02:decreased:00
+?
+Have
+you
+considered consider%2:31:01::
+using use%2:34:01::
+vending vending%1:04:00::
+equipment equipment%1:06:00::
+to
+replace replace%2:30:00::
+or
+reduce reduce%2:30:00::
+the
+number number%1:07:00::
+of
+cafeteria cafeteria%1:06:00::
+employees employee%1:18:00::
+?
+What
+are be%2:42:06::
+the
+possibilities possibility%1:09:03::
+for
+operating operate%2:41:00::
+your
+cafeteria cafeteria%1:06:00::
+for
+a
+single single%3:00:00::
+shift shift%1:28:00::
+only only%4:02:01::
+and
+relying_upon rely_upon%2:31:01::
+vending_machines vending_machine%1:06:00::
+or
+prepackaged prepackaged%5:00:00:packaged:00
+sandwiches sandwich%1:13:00::
+for
+the
+second second%5:00:00:intermediate:00
+-
+and
+third third%5:00:00:fractional:00
+shift shift%1:28:00::
+operations operation%1:04:06::
+?
+Have
+you
+checked check%2:31:00::
+the
+cost cost%1:21:00::
+of
+subcontracting subcontract%2:41:01::
+your
+cafeteria cafeteria%1:06:00::
+operation operation%1:04:06::
+in_order
+to
+save save%2:40:00::
+administrative administrative%3:01:00::
+costs cost%1:21:00::
+?
+Are
+there
+possibilities possibility%1:09:03::
+of
+having
+cafeteria cafeteria%1:06:00::
+help help%1:18:00::
+work work%2:41:00::
+part-time part-time%3:00:00::
+on
+custodial custodial%5:00:00:protective:00
+or
+other other%3:00:00::
+jobs job%1:04:01::
+?
+Can
+staggered stagger%2:35:00::
+lunch lunch%1:13:00::
+periods period%1:28:00::
+relieve relieve%2:29:00::
+the
+capacity capacity%1:23:00::
+strain strain%1:19:00::
+on
+your
+feeding feeding%1:04:01::
+facilities facility%1:06:00::
+?
+Would
+it
+be
+feasible feasible%5:00:00:possible:00
+to
+limit limit%2:30:00::
+the
+menu menu%1:10:00::
+in_order
+to
+reduce reduce%2:30:00::
+feeding feeding%1:04:01::
+costs cost%1:21:00::
+?
+Have
+you
+considered consider%2:31:01::
+gradual gradual%3:00:01::
+withdrawal withdrawal%1:04:03::
+of
+subsidies subsidy%1:21:00::
+to
+your
+in in%5:00:00:internal:00
+plant plant%1:06:01::
+feeding feeding%1:04:00::
+operation operation%1:04:06::
+?
+Are
+you
+utilizing utilize%2:34:00::
+cafeteria cafeteria%1:06:00::
+space space%1:15:00::
+for
+company company%1:14:01::
+meetings meeting%1:14:00::
+or
+discussions discussion%1:10:02::
+?
+Are
+your
+expenses expense%1:21:00::
+in
+this
+area area%1:26:00::
+commensurate commensurate%3:00:00::
+with
+the
+number number%1:07:00::
+of
+employees employee%1:18:00::
+who
+benefit benefit%2:40:00::
+from
+your
+program program%1:09:01::
+?
+Have
+you
+audited audit%2:31:01::
+your
+program program%1:09:01::
+recently recently%4:02:00::
+to
+weed_out weed_out%2:40:00::
+those
+phases phase%1:28:00::
+that
+draw draw%2:37:03::
+least least%3:00:00::
+participation participation%1:04:00::
+?
+Do
+employees employee%1:18:00::
+contribute contribute%2:40:00::
+their
+share share%1:21:00::
+of
+money money%1:21:00::
+to
+recreational_facilities recreational_facility%1:06:00::
+?
+Have
+you
+considered consider%2:31:01::
+delegating delegate%2:41:01::
+operational operational%3:01:00::
+responsibility responsibility%1:04:00::
+to
+your
+employee employee%1:18:00::
+association association%1:14:00::
+and
+carefully carefully%4:02:00::
+restricting restrict%2:30:00::
+your
+plant plant%1:06:01::
+'s
+financial financial%3:01:00::
+contribution contribution%1:21:01::
+?
+Could
+an
+employee employee%1:18:00::
+'s
+garden garden%1:14:00::
+club club%1:14:00::
+take_over take_over%2:41:01::
+partial partial%5:00:00:incomplete:00
+care care%1:04:00::
+of
+plant plant%1:06:01::
+grounds grounds%1:06:00::
+?
+Would
+a
+camera camera%1:06:00::
+club club%1:14:00::
+be be%2:42:03::
+useful useful%3:00:00::
+in
+taking take%2:32:02::
+pictures picture%1:06:00::
+pertinent pertinent%5:00:00:relevant:00
+to
+plant plant%1:06:01::
+safety safety%1:26:00::
+?
+Are
+you
+spending spending%1:04:00::
+too too%4:02:00::
+much much%3:00:00::
+money money%1:21:00::
+on
+team team%1:14:00::
+uniforms uniform%1:06:00::
+that
+benefit benefit%2:40:01::
+only only%4:02:02::
+a_few a_few%5:00:00:few:00
+employees employee%1:18:00::
+?
+Are
+you
+underwriting underwrite%2:32:01::
+expensive expensive%3:00:00::
+team team%1:14:00::
+trips trip%1:04:00::
+?
+Are
+you
+utilizing utilize%2:34:00::
+vending_machine vending_machine%1:06:00::
+proceeds proceeds%1:21:00::
+to
+help help%2:41:00::
+pay pay%2:40:00::
+for
+your
+program program%1:09:01::
+?
+Do
+you
+know know%2:31:01::
+the
+trend trend%1:15:01::
+in
+your
+cost cost%1:21:00::
+of
+maintaining maintain%2:40:00::
+access_roads access_road%1:06:00::
+and
+parking_lots parking_lot%1:15:00::
+?
+If
+you
+use use%2:34:01::
+parking parking%1:23:00::
+attendants attendant%1:18:00::
+,
+can
+they
+be
+replaced replace%2:30:00::
+by
+automatic automatic%5:00:00:mechanical:00
+parking parking%1:23:00::
+gates gate%1:06:00::
+?
+Will
+your
+local local%3:00:01::
+bus_company bus_company%1:14:00::
+erect erect%2:36:00::
+and
+/
+or
+maintain maintain%2:40:00::
+the
+bus_stops bus_stop%1:15:00::
+at
+your
+plant plant%1:06:01::
+?
+If
+you
+provide provide%2:40:00::
+inter inter%3:00:00::
+plant plant%1:06:01::
+transportation transportation%1:06:00::
+,
+can
+this
+be
+replaced replace%2:30:00::
+by
+available available%3:00:00::
+public public%5:00:00:common:02;3:00:00::
+transportation transportation%1:06:00::
+?
+If
+you
+use use%2:34:01::
+company company%1:14:01::
+transportation transportation%1:06:00::
+to
+meet meet%2:38:00::
+trains train%1:06:00::
+or
+to
+haul haul%2:35:00::
+visitors visitor%1:18:00::
+,
+would
+taxis taxi%1:06:00::
+be be%2:42:03::
+cheaper cheap%3:00:00::
+?
+How
+efficient efficient%3:00:00::
+and
+necessary necessary%3:00:00::
+are be%2:42:03::
+your
+intra intra%3:00:00::
+company company%1:14:01::
+vehicles vehicle%1:06:00::
+?
+Can
+they
+be
+re-scheduled reschedule%2:32:00::
+?
+Can
+part-time part-time%3:00:00::
+drivers driver%1:18:00::
+be
+assigned assign%2:41:00::
+to
+other other%3:00:00::
+productive productive%3:00:00::
+work work%1:04:00::
+?
+Which
+is be%2:42:03::
+more more%4:02:00::
+economical economical%5:00:00:efficient:00
+for
+your
+plant plant%1:06:01::
+-
+a
+vacation vacation%1:28:00::
+shutdown shutdown%1:04:00::
+or
+spaced spaced%5:00:00:distributed:00
+vacations vacation%1:28:00::
+that
+require require%2:42:00::
+extra extra%5:00:00:unnecessary:00
+employees employee%1:18:00::
+for
+vacation vacation%1:28:00::
+fill-ins fill-in%1:18:00::
+?
+Can
+vacations vacation%1:28:00::
+be
+spaced space%2:38:00::
+throughout
+the
+12 12%5:00:00:cardinal:00
+months month%1:28:01::
+to
+minimize minimize%2:30:00::
+the
+number number%1:07:00::
+of
+employee employee%1:18:00::
+fill-ins fill-in%1:18:00::
+?
+Do
+you
+insist insist%2:32:00::
+that
+unneeded unneeded%3:00:00::
+salary salary%1:21:00::
+employees employee%1:18:00::
+take take%2:40:06::
+their
+vacations vacation%1:28:00::
+during
+plant plant%1:06:01::
+shutdowns shutdown%1:04:00::
+?
+What
+can
+your
+sales sale%1:04:02::
+and
+purchasing_departments purchasing_department%1:14:00::
+do do%2:41:01::
+to
+curtail curtail%2:30:00::
+orders order%1:10:01::
+,
+shipments shipment%1:04:00::
+,
+and
+receipts receipt%1:04:00::
+during
+vacation vacation%1:28:00::
+shutdown shutdown%1:04:00::
+periods period%1:28:00::
+?
+Is
+an
+arbitrary arbitrary%3:00:00::
+retirement retirement%1:26:00::
+age age%1:07:00::
+of
+65
+actually actually%4:02:01::
+costing cost%2:42:01::
+your
+plant plant%1:06:01::
+money money%1:21:00::
+?
+What
+sort sort%1:09:00::
+of
+effort effort%1:04:00::
+do
+you
+make make%2:41:00::
+to
+assure assure%2:31:00::
+that
+older old%3:00:02::
+or
+disabled disabled%5:00:00:unfit:01
+workers worker%1:18:00::
+are be%2:42:03::
+fully fully%4:02:02::
+productive productive%3:00:00::
+?
+Would
+early early%3:00:00::
+retirement retirement%1:26:00::
+of
+non-productive nonproductive%5:00:00:unproductive:00
+,
+disabled disabled%5:00:00:unfit:01
+employees employee%1:18:00::
+reduce reduce%2:30:00::
+the
+number number%1:07:00::
+of
+make-work make-work%1:04:00::
+jobs job%1:04:00::
+?
+Will
+your
+union union%1:14:01::
+accept accept%2:32:00::
+seniority seniority%1:26:00::
+concessions concession%1:10:00::
+in
+assigning assign%2:41:00::
+work work%1:04:00::
+for
+older old%3:00:02::
+or
+disabled disabled%5:00:00:unfit:01
+employees employee%1:18:00::
+?
+Can
+you
+share share%2:40:02::
+medical medical%3:01:00::
+facilities facility%1:06:00::
+and
+staff staff%1:14:01::
+with
+neighboring neighboring%5:00:00:near:00
+plants plant%1:06:01::
+?
+If
+you
+have have%2:40:00::
+a
+full-time full-time%3:00:00::
+doctor doctor%1:18:00::
+now now%4:02:05::
+,
+can
+he
+be
+replaced replace%2:30:00::
+with
+a
+part-time part-time%3:00:00::
+doctor doctor%1:18:00::
+or
+one
+who
+serves serve%2:33:00::
+on
+a
+fee fee%1:21:00::
+per
+case case%1:18:03::
+basis basis%1:24:00::
+only only%4:02:01::
+?
+Can
+your
+plant plant%1:06:01::
+nurse nurse%1:18:00::
+be
+replaced replace%2:30:00::
+by
+a
+trained trained%5:00:00:skilled:00
+first-aid first_aid%1:04:00::
+man man%1:18:04::
+who
+works work%2:41:00::
+full-time full-time%4:02:00::
+on
+some_other some_other%5:00:00:other:00
+assignment assignment%1:04:00::
+?
+Do
+you
+rigidly rigidly%4:02:00::
+distinguish distinguish%2:31:00::
+between
+job job%1:04:00::
+-
+and
+non non%5:00:00:negative:02
+job job%1:04:00::
+connected connected%5:00:00:related:02
+health_problems health_problem%1:26:00::
+and
+avoid avoid%2:41:03::
+treating treat%2:29:00::
+the
+latter
+?
+Are
+you
+indiscriminantly indiscriminately%4:02:00::
+offering offer%2:40:02::
+unnecessary unnecessary%3:00:00::
+medical medical%3:01:00::
+services services%1:04:00::
+-
+flu flu%1:26:00::
+shots shot%1:04:03::
+,
+sun sun%1:19:00::
+lamp lamp%1:06:00::
+treatments treatment%1:04:00::
+,
+etc.
+?
+If
+you
+have have%2:40:00::
+an
+annual annual%3:01:00::
+or
+regular regular%5:00:00:scheduled:00
+physical physical%3:00:00::
+examination examination%1:04:00::
+program program%1:09:01::
+,
+is be%2:42:03::
+it
+worth worth%5:00:00:valuable:00
+what
+it
+is
+costing cost%2:42:01::
+you
+?
+Consider consider%2:32:00::
+what
+you
+can
+afford afford%2:34:00::
+to
+spend spend%2:40:00::
+and
+what
+your
+goals goal%1:09:00::
+are be%2:42:06::
+before
+setting_up set_up%2:41:02::
+or
+revamping revamp%2:30:00::
+your
+employee employee%1:18:00::
+benefit benefit%1:21:00::
+program program%1:09:01::
+.
+Too too%4:02:00::
+many many%3:00:00::
+plant plant%1:06:01::
+officials official%1:18:01::
+are be%2:42:03::
+all_too all_too%4:02:00::
+eager eager%3:00:00::
+to
+buy buy%2:40:00::
+a
+package package%1:06:00::
+program program%1:09:00::
+from
+an
+insurance_company insurance_company%1:14:00::
+simply simply%4:02:00::
+because
+it
+works work%2:41:03::
+for
+another
+plant plant%1:06:01::
+.
+But
+even even%4:02:00::
+if
+that
+other other%3:00:00::
+plant plant%1:06:01::
+employs employ%2:41:00::
+the
+same same%3:00:04::
+number number%1:23:00::
+of
+workers worker%1:18:00::
+and
+makes make%2:36:01::
+the
+same same%3:00:02::
+product product%1:06:00::
+,
+there
+are be%2:42:00::
+other other%3:00:00::
+facts fact%1:09:01::
+to
+consider consider%2:32:00::
+.
+How
+old old%5:00:00:past:00
+is be%2:42:03::
+your
+working working%5:00:00:employed:00
+force force%1:14:00::
+?
+What
+'s
+your
+profit_margin profit_margin%1:21:00::
+?
+In
+what
+section section%1:15:01::
+of
+the
+country country%1:15:00::
+are be%2:42:05::
+you
+located located%5:00:00:settled:01
+?
+Are be%2:42:05::
+you
+in
+a
+rural rural%3:00:00::
+or
+urban_area urban_area%1:15:00::
+?
+These
+factors factor%1:11:00::
+can
+make make%2:36:00::
+the
+difference difference%1:07:00::
+between
+waste waste%1:04:00::
+and
+efficiency efficiency%1:09:00::
+in
+any
+benefit benefit%1:21:00::
+program program%1:09:00::
+.
+Above_all above_all%4:02:00::
+,
+do
+n't n't%4:02:00::
+set_up set_up%5:00:00:established:00
+extravagant extravagant%5:00:00:wasteful:00
+fringe_benefits fringe_benefit%1:21:00::
+just just%4:02:00::
+to
+buy buy%2:40:02::
+employee employee%1:18:00::
+good_will good_will%1:07:00::
+.
+Unions union%1:14:01::
+stress stress%2:32:00::
+fringe_benefits fringe_benefit%1:21:00::
+,
+but
+the
+individual individual%5:00:00:independent:00
+hourly hourly%3:01:00::
+worker worker%1:18:00::
+prefers prefer%2:37:00::
+cash cash%1:21:00::
+every
+time time%1:11:00::
+.
+Aim aim%2:31:01::
+to
+balance balance%2:40:00::
+your
+employee employee%1:18:00::
+benefit benefit%1:21:00::
+package package%1:14:00::
+.
+Some
+plants plant%1:06:01::
+go go%2:41:00::
+overboard overboard%4:02:01::
+on
+one one%5:00:00:unspecified:00
+type type%1:09:00::
+of
+fringe fringe%1:25:00::
+-
+say say%2:32:03::
+a
+liberal liberal%5:00:00:generous:01
+retirement retirement%1:26:00::
+plan plan%1:09:00::
+-
+and
+find find%2:39:05::
+themselves
+vulnerable vulnerable%3:00:00::
+elsewhere elsewhere%4:02:00::
+.
+They
+'re
+asking_for ask_for%2:37:00::
+union union%1:14:01::
+trouble trouble%1:11:01::
+.
+If
+you
+want want%2:34:00::
+credit credit%1:10:00::
+for
+your
+employee employee%1:18:00::
+services services%1:04:00::
+program program%1:09:00::
+,
+let let%2:32:00::
+your
+workers worker%1:18:00::
+know know%2:31:01::
+what
+they
+'re
+entitled entitle%2:41:00::
+to
+.
+Encourage encourage%2:37:00::
+them
+to
+exercise exercise%2:34:00::
+their
+benefits benefit%1:07:00::
+.
+This
+can
+be
+done do%2:41:01::
+by
+stories story%1:10:03::
+in
+your
+house_organs house_organ%1:10:00::
+,
+posters poster%1:10:00::
+,
+special special%5:00:00:extraordinary:00
+publications publication%1:10:00::
+,
+letters letter%1:10:00::
+to
+workers worker%1:18:00::
+'
+homes home%1:15:04::
+as_well_as
+by_word_of_mouth by_word_of_mouth%4:02:01::
+through
+your
+chain chain%1:14:00::
+of
+command command%1:07:00::
+.
+Some
+companies company%1:14:01::
+find find%2:31:10::
+a
+little little%3:00:03::
+imagination imagination%1:09:01::
+helpful helpful%3:00:00::
+.
+Hallmark_Cards_,_Inc. group%1:03:00::
+,
+Kansas_City kansas_city%1:15:00::
+,
+Mo. missouri%1:15:00::
+,
+has have%2:42:00::
+a
+do-it-yourself do-it-yourself%5:00:00:homemade:00
+quiz quiz%1:10:00::
+game game%1:04:00::
+called called%5:00:00:titled:00
+``
+Benefit_Bafflers
+''
+,
+which
+it
+distributes distribute%2:40:00::
+to
+employees employee%1:18:00::
+.
+M_+_R_Dietetic_Laboratories_,_Inc. group%1:03:00::
+,
+Columbus columbus%1:15:00::
+,
+gives give%2:40:00::
+all
+its
+workers worker%1:18:00::
+a
+facsimile facsimile%1:06:01::
+checkbook checkbook%1:21:00::
+-
+each
+check check%1:21:00::
+showing show%2:39:02::
+the
+amount amount%1:21:00::
+the
+company company%1:14:01::
+spends spend%2:40:00::
+on
+a
+particular particular%5:00:02:specific:00
+fringe fringe%1:25:00::
+.
+U._S._Rubber_Company group%1:03:00::
+,
+New_York new_york%1:15:01::
+,
+passes pass%2:40:00::
+out out%4:02:01::
+a
+form form%1:10:01::
+itemizing itemize%2:32:00::
+the
+value value%1:21:00::
+of
+benefits benefit%1:21:00::
+.
+The
+blue-collar blue-collar%5:00:00:lower-class:00
+worker worker%1:18:00::
+thus thus%4:02:00::
+knows know%2:31:01::
+his
+insurance insurance%1:21:02::
+package package%1:14:00::
+,
+for_example for_example%4:02:00::
+,
+costs cost%2:42:00::
+$
+227.72
+.
+Have have%2:30:00::
+the
+insurance_company insurance_company%1:14:00::
+or
+your
+own own%5:00:00:personal:00
+accounting accounting%1:04:00::
+department department%1:14:00::
+break_down break_down%2:31:00::
+the
+cost cost%1:21:00::
+of
+your
+insurance insurance%1:21:02::
+package package%1:14:00::
+periodically periodically%4:02:00::
+.
+You
+may
+find find%2:39:02::
+certain certain%5:00:00:definite:00
+coverage coverage%1:21:00::
+costing cost%2:42:00::
+much much%4:02:00::
+more_than more_than%4:02:00::
+is be%2:42:03::
+economically economically%4:02:00::
+feasible feasible%5:00:00:possible:00
+,
+thereby thereby%4:02:00::
+alerting alert%2:32:00::
+you
+to
+desirable desirable%3:00:00::
+revisions revision%1:10:01::
+.
+Check check%2:31:02::
+to
+see see%2:32:00::
+if
+some
+of
+your
+benefits benefit%1:21:00::
+-
+such_as such_as%5:00:00:specified:00
+on-the-job on_the_job%5:00:00:employed:00
+disability disability%1:26:00::
+pay pay%1:21:01::
+-
+can
+be
+put put%2:35:00::
+on
+a
+direct direct%5:00:00:immediate:00
+payment payment%1:04:00::
+rather rather%4:02:02::
+than
+an
+insured insured%3:00:00::
+basis basis%1:24:00::
+at
+a
+savings saving%1:04:00::
+to
+you
+.
+Use use%2:34:01::
+deductable deductible%3:00:00::
+insurance insurance%1:21:02::
+wherever
+feasible feasible%5:00:00:possible:00
+.
+It
+can
+put put%2:35:05::
+an
+end end%1:26:00::
+to
+marginal marginal%5:00:00:minimal:00
+claims claim%1:04:00::
+which
+play play%2:36:11::
+havoc havoc%1:04:00::
+with
+your
+insurance insurance%1:21:02::
+rates rate%1:21:00::
+.
+Also also%4:02:00::
+,
+beware beware%2:31:00::
+of
+open_end open-ended%5:00:00:unrestricted:00
+policies policy%1:10:02::
+,
+especially especially%4:02:00::
+in
+the
+medical medical%3:01:00::
+field field%1:09:00::
+.
+This
+will
+mean mean%2:42:00::
+that
+every
+time time%1:11:00::
+there
+'s
+an
+increase increase%1:11:00::
+in
+hospital hospital%1:06:00::
+rates rate%1:21:00::
+your
+cost cost%1:21:00::
+will
+go_up go_up%2:30:00::
+in
+like
+manner manner%1:07:02::
+.
+Put put%2:35:00::
+a
+dollar dollar%1:23:00::
+and
+cents cent%1:23:00::
+limit limit%1:07:00::
+on
+benefits benefit%1:21:00::
+.
+Do
+n't n't%4:02:00::
+go go%2:41:00::
+overboard overboard%4:02:01::
+on
+insurance insurance%1:10:00::
+that
+pays pay%2:40:00::
+benefits benefit%1:21:00::
+only only%4:02:01::
+upon
+death death%1:11:00::
+.
+Generally generally%4:02:02::
+,
+your
+employee employee%1:18:00::
+will
+greatly greatly%4:02:00::
+appreciate appreciate%2:37:00::
+benefits benefit%1:21:00::
+that
+protect protect%2:33:00::
+him
+during
+his
+working working%5:00:00:employed:00
+life life%1:26:02::
+or
+during
+retirement retirement%1:26:00::
+.
+In
+granting grant%2:40:01::
+bereavement bereavement%1:26:00::
+leaves leave%1:28:00::
+,
+specify specify%2:32:02::
+the
+maximum maximum%3:00:00::
+time_off time_off%1:28:00::
+and
+list list%2:32:00::
+what
+the
+worker worker%1:18:00::
+'s
+relation relation%1:03:00::
+to
+the
+deceased deceased%1:18:00::
+must
+be be%2:42:06::
+to
+qualify qualify%2:42:00::
+.
+Thus thus%4:02:01::
+,
+you
+avoid avoid%2:41:01::
+headaches headache%1:09:00::
+when
+an
+employee employee%1:18:00::
+wants want%2:37:00::
+off
+for
+his
+fourth fourth%5:00:00:ordinal:00
+cousin cousin%1:18:00::
+'s
+funeral funeral%1:11:00::
+.
+Also also%4:02:00::
+,
+reserve reserve%2:40:00::
+the
+right right%1:07:00::
+to
+demand demand%2:32:02::
+proof proof%1:09:00::
+of
+death death%1:26:00::
+despite
+the
+fact fact%1:09:01::
+that
+you
+'ll
+probably probably%4:02:00::
+never never%4:02:00::
+use use%2:34:01::
+it
+.
+Coffee_breaks coffee_break%1:13:00::
+can
+be be%2:42:03::
+a
+real real%5:00:00:serious:00
+headache headache%1:09:00::
+if
+not not%4:02:00::
+regulated regulated%3:00:00::
+.
+Vending_machines vending_machine%1:06:00::
+can
+alleviate alleviate%2:29:00::
+the
+long long%3:00:01::
+hike hike%1:04:00::
+to
+the
+cafeteria cafeteria%1:06:00::
+during
+the
+break break%1:04:05::
+with
+resulting resulting%5:00:00:subsequent:00
+waste waste%1:04:00::
+of
+production production%1:04:00::
+time time%1:11:00::
+.
+If
+coffee coffee%1:13:00::
+is
+sold sell%2:40:00::
+at
+the
+cafeteria cafeteria%1:06:00::
+,
+let let%2:41:00::
+a_few a_few%5:00:00:few:00
+workers worker%1:18:00::
+in
+each
+department department%1:14:00::
+get get%2:35:03::
+it
+for
+the
+whole whole%3:00:00::
+group group%1:03:00::
+.
+Consider consider%2:31:01::
+installing install%2:35:00::
+supplemental supplemental%5:00:00:secondary:01
+serving serve%2:34:01::
+lines line%1:14:01::
+in
+production production%1:04:00::
+areas area%1:06:00::
+.
+Make make%2:30:00::
+sure sure%5:00:00:careful:00
+milk milk%1:13:01::
+for
+the
+coffee coffee%1:13:00::
+is
+placed place%2:35:00::
+in
+dispensers dispenser%1:06:00::
+rather rather%4:02:02::
+than
+in
+containers container%1:06:00::
+,
+if
+you
+are
+supplying supply%2:40:00::
+the
+coffee coffee%1:13:00::
+.
+Otherwise
+,
+you
+may
+be
+saddled saddle%2:35:10::
+with
+a
+good good%5:00:00:ample:00
+size size%5:00:00:sized:00
+milk milk%1:13:01::
+bill bill%1:10:01::
+by
+milk milk%1:13:01::
+drinkers drinker%1:18:01::
+.
+Keep keep%2:42:00::
+the
+retirement retirement%1:26:00::
+age age%1:07:00::
+flexible flexible%3:00:02::
+so so%4:02:06::
+skilled skilled%3:00:00::
+craftsmen craftsman%1:18:00::
+such_as such_as%5:00:00:specified:00
+tool tool%1:06:00::
+and
+die die%1:06:01::
+makers maker%1:18:00::
+can
+be
+kept keep%2:42:00::
+on_the_job on_the_job%5:00:00:employed:00
+for
+the
+convenience convenience%1:26:00::
+of
+the
+company company%1:14:01::
+.
+And
+so so%4:02:06::
+deadheads deadhead%1:18:00::
+on
+the
+payroll payroll%1:21:00::
+can
+be
+eased ease%2:38:00::
+out
+at
+the
+earliest earliest%4:02:00::
+possible possible%3:00:00::
+age age%1:07:00::
+.
+Make make%2:30:00::
+sure sure%5:00:00:careful:00
+you
+have have%2:42:00::
+minimum minimum%3:00:00::
+age age%1:07:00::
+and
+time time%1:28:00::
+on_the_job on_the_job%5:00:00:employed:00
+requirements requirement%1:09:01::
+tied tie%2:35:01::
+into
+your
+pension pension%1:21:00::
+plan plan%1:09:00::
+.
+Younger young%3:00:00::
+men men%1:14:00::
+usually usually%4:02:00::
+do
+n't n't%4:02:00::
+think_of think_of%2:31:01::
+pensions pension%1:21:00::
+as
+an
+important important%3:00:00::
+job job%1:04:00::
+benefit benefit%1:21:00::
+factor factor%1:09:00::
+anyhow anyhow%4:02:00::
+and
+they
+'re be%2:42:03::
+liable liable%5:00:00:likely:00
+to
+change change%2:30:05::
+jobs job%1:04:00::
+several several%5:00:00:different:00
+times time%1:11:00::
+before
+settling_down settle_down%2:30:00::
+.
+Choose choose%2:31:00::
+carefully carefully%4:02:00::
+between
+contributory contributory%5:00:00:causative:00
+or
+non non%5:00:00:negative:02
+contributory contributory%5:00:00:causative:00
+pension pension%1:21:00::
+plans plan%1:09:00::
+.
+There
+are be%2:42:00::
+two two%5:00:00:cardinal:00
+sides side%1:15:00::
+of
+a
+coin coin%1:21:02::
+for
+this
+decision decision%1:04:00::
+.
+Workers worker%1:18:00::
+usually usually%4:02:00::
+think think_of%2:31:01::
+more more%4:02:01::
+of
+a
+plan plan%1:09:00::
+they
+contribute contribute%2:40:00::
+to
+.
+And
+they
+can
+at_least at_least%4:02:01::
+collect collect%2:40:01::
+the
+money money%1:21:00::
+they
+put_in put_in%2:40:00::
+,
+plus
+interest interest%1:21:00::
+,
+when
+they
+leave leave%2:41:00::
+the
+company company%1:14:01::
+.
+A
+non non%5:00:00:negative:02
+contributory contributory%5:00:00:causative:00
+plan plan%1:09:00::
+usually usually%4:02:00::
+won
+n't n't%4:02:00::
+pay_off pay_off%2:40:02::
+for
+the
+worker worker%1:18:00::
+until
+he
+retires retire%2:41:01::
+.
+Thus thus%4:02:00::
+,
+there
+is be%2:42:00::
+an
+added added%3:00:00::
+incentive incentive%1:16:00::
+to
+stay stay%2:30:00::
+on_the_job on_the_job%5:00:00:employed:00
+.
+Make make%2:30:00::
+sure sure%5:00:00:careful:00
+you
+do
+n't n't%4:02:00::
+pay pay%2:40:00::
+for
+holidays holiday%1:28:00::
+that
+occur occur%2:42:00::
+when
+an
+employee employee%1:18:00::
+would
+not not%4:02:00::
+otherwise otherwise%4:02:01::
+be
+working work%2:41:02::
+.
+These
+include include%2:42:00::
+:
+leaves_of_absences leave_of_absence%1:28:00::
+,
+illnesses illness%1:26:00::
+,
+and
+layoffs layoff%1:04:00::
+.
+Consider consider%2:31:01::
+adopting adopt%2:40:02::
+a
+system system%1:14:00::
+of
+holidays holiday%1:28:00::
+in
+which
+time_off time_off%1:28:00::
+is
+granted grant%2:40:00::
+with
+an
+eye eye%1:09:00::
+to
+minimum minimum%3:00:00::
+inconvenience inconvenience%1:07:02::
+to
+the
+operation operation%1:26:00::
+of
+the
+plant plant%1:06:01::
+.
+It
+'s
+usually usually%4:02:00::
+not not%4:02:00::
+too too%4:02:00::
+hard hard%3:00:06::
+to
+sell sell%2:32:00::
+workers worker%1:18:00::
+on
+this
+as
+it
+gives give%2:40:03::
+them
+longer longer%4:02:00::
+holiday holiday%1:28:00::
+periods period%1:28:00::
+.
+For_example for_example%4:02:00::
+,
+the
+Friday friday%1:28:00::
+after
+Thanksgiving thanksgiving%1:28:00::
+can
+be
+substituted substitute%2:40:00::
+for
+Washington washington%1:18:00::
+'s
+birthday birthday%1:28:00::
+.
+This
+reduces reduce%2:30:00::
+the
+number number%1:07:00::
+of
+expensive expensive%3:00:00::
+plant plant%1:06:01::
+shutdowns shutdown%1:04:00::
+and
+startups startup%1:04:01::
+.
+Require require%2:32:00::
+each
+employee employee%1:18:00::
+to
+work work%2:41:02::
+his
+last last%3:00:00::
+shift shift%1:28:00::
+both
+before
+and
+after
+the
+holiday holiday%1:28:00::
+to
+be be%2:42:03::
+eligible eligible%3:00:00::
+for
+pay pay%1:21:01::
+.
+This
+cuts cut%2:30:06::
+the
+absentee_rate absentee_rate%1:24:00::
+.
+Consider consider%2:31:01::
+using use%2:34:01::
+vending_machines vending_machine%1:06:00::
+rather rather%4:02:02::
+than
+subsidized subsidize%2:40:00::
+cafeterias cafeteria%1:06:00::
+.
+Latest latest%5:00:00:modern:00
+models model%1:09:03::
+serve serve%2:34:01::
+hot hot%3:00:01::
+meals meal%1:13:00::
+at
+reasonable reasonable%5:00:00:moderate:00
+prices price%1:07:00::
+,
+and
+at
+a
+profit profit%1:07:00::
+to
+you
+.
+If
+a
+concessionaire concessionaire%1:18:00::
+runs run%2:41:02::
+the
+cafeteria cafeteria%1:06:00::
+,
+keep keep_an_eye_on%2:41:00::
+an
+eye
+out
+for
+quality quality%1:07:02::
+and
+price price%1:07:00::
+.
+If
+the
+soup soup%1:13:00::
+tastes taste%2:39:02::
+like
+dishwater dishwater%1:27:00::
+,
+your
+employees employee%1:18:00::
+won
+n't n't%4:02:00::
+blame blame%2:32:00::
+the
+concessionaire concessionaire%1:18:00::
+.
+You
+'ll
+take take%2:31:09::
+the
+rap rap%1:10:00::
+.
+Check check%2:31:00::
+your
+cafeteria cafeteria%1:06:00::
+location location%1:03:00::
+to
+make make%2:30:00::
+sure sure%5:00:00:careful:00
+it
+'s be%2:42:03::
+convenient convenient%5:00:00:accessible:00
+for
+most most%3:00:02::
+employees employee%1:18:00::
+.
+You
+may
+save save%2:40:00::
+valuable valuable%5:00:00:important:00;5:00:00:worthy:00
+production production%1:04:00::
+minutes minute%1:28:00::
+with
+a
+change change%1:11:00::
+.
+Spread spread%2:35:00::
+your
+vacation vacation%1:28:00::
+period period%1:28:00::
+over
+the
+widest wide%3:00:00::
+possible possible%3:00:00::
+span span%1:07:00::
+of
+time time%1:03:00::
+or
+shut shut_down%2:41:00::
+the
+plant plant%1:06:01::
+down
+for
+two_weeks two_weeks%1:28:00::
+.
+This
+will
+cut cut%2:30:06::
+the
+expense expense%1:21:00::
+of
+vacation vacation%1:28:00::
+replacements replacement%1:18:02::
+.
+And
+with
+the
+shutdown shutdown%1:04:00::
+method method%1:09:00::
+there
+will
+be be%2:42:04::
+no
+argument argument%1:10:03::
+as
+to
+who
+gets get%2:30:03::
+the
+choice choice%5:00:00:superior:02
+vacation vacation%1:28:00::
+dates date%1:28:00::
+.
+Also also%4:02:00::
+make make%2:30:00::
+sure sure%5:00:00:careful:00
+you
+have have%2:42:00::
+reasonable reasonable%5:00:00:moderate:00
+requirements requirement%1:09:01::
+as
+to
+hours hours%1:28:00::
+worked work%2:41:00::
+before
+a
+production production%1:04:00::
+employee employee%1:18:00::
+is be%2:42:03::
+entitled entitled%5:00:00:eligible:00
+to
+a
+vacation vacation%1:28:00::
+.
+You
+might
+try try%2:41:01::
+providing provide%2:40:00::
+standard standard%3:00:02::
+vacation vacation%1:28:00::
+time_off time_off%1:28:00::
+but
+make make%2:30:00::
+the
+vacation vacation%1:28:00::
+pay pay%1:21:01::
+depend_on depend_on%2:42:00::
+the
+number number%1:07:00::
+of
+hours hours%1:28:00::
+worked work%2:41:00::
+in
+the
+previous previous%5:00:00:preceding(a):00
+year year%1:28:01::
+.

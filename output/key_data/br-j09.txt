@@ -1,0 +1,2320 @@
+A
+variety variety%1:14:01::
+of
+techniques technique%1:09:00::
+have
+been
+directed direct%2:38:00::
+toward
+the
+isolation isolation%1:26:00::
+and
+study study%1:04:00::
+of
+blood_group blood_group%1:14:00::
+antibodies antibody%1:27:00::
+.
+These
+include include%2:42:00::
+low-temperature low_temperature%1:07:00::
+ethanol ethanol%1:27:00::
+(
+Cohn person%1:03:00::
+)
+fractionation fractionation%1:04:00::
+,
+electrophoresis electrophoresis%1:22:00::
+,
+ultracentrifugation ultracentrifugation%1:22:00::
+and
+column_chromatography column_chromatography%1:22:00::
+on
+ion_exchange ion_exchange%1:22:00::
+celluloses cellulose%1:27:00::
+.
+Modifications modification%1:04:00::
+of
+the
+last last%3:00:00::
+technique technique%1:09:00::
+have
+been
+applied apply%2:41:05::
+by
+several several%5:00:00:some(a):00
+groups group%1:03:00::
+of
+investigators investigator%1:18:01::
+.
+Abelson person%1:03:00::
+and
+Rawson person%1:03:00::
+,
+using use%2:34:01::
+a
+stepwise stepwise%5:00:00:gradual:01
+elution elution%1:22:00::
+scheme scheme%1:09:00::
+,
+fractionated fractionate%2:35:01::
+whole whole%3:00:00::
+sera serum%1:08:00::
+containing contain%2:42:00::
+ABO abo_antibodies%1:27:00::
+and
+Rh_antibodies rh_antibody%1:27:00::
+on
+diethylaminoethyl diethylaminoethyl_cellulose%1:27:00::
+DEAE_cellulose deae_cellulose%1:27:00::
+and
+carboxymethyl_cellulose carboxymethyl_cellulose%1:27:00::
+.
+Speer person%1:03:00::
+and
+coworkers co-worker%1:18:00::
+,
+in
+a
+similar similar%3:00:00::
+study study%1:04:00::
+of
+blood_group blood_group%1:14:00::
+antibodies antibody%1:27:00::
+of
+whole whole%3:00:00::
+sera serum%1:08:00::
+,
+used use%2:34:01::
+a
+series series%1:14:00::
+of
+gradients gradient%1:24:00::
+for
+elution elution%1:22:00::
+from
+DEAE-cellulose deae_cellulose%1:27:00::
+.
+Fahey person%1:03:00::
+and
+Morrison person%1:03:00::
+used use%2:34:01::
+a
+single single%3:00:00::
+,
+continuous continuous%3:00:01::
+gradient gradient%1:24:00::
+at
+constant constant%5:00:00:invariable:00
+pH ph%1:07:00::
+for
+the
+fractionation fractionation%1:04:00::
+of
+anti anti%5:00:00:counteractive:00
+-
+A a%1:14:00::
+and
+anti anti%5:00:00:counteractive:00
+-
+B b%1:14:00::
+agglutinins agglutinin%1:27:00::
+from
+preisolated preisolate%2:30:00::
+|
+g-globulin gamma_globulin%1:27:00::
+samples sample%1:09:00::
+.
+In
+the
+present present%3:00:01::
+work work%1:06:00::
+whole whole%3:00:00::
+sera serum%1:08:00::
+have
+been
+fractionated fractionate%2:35:01::
+by
+chromatography chromatography%1:22:00::
+on
+DEAE-cellulose deae_cellulose%1:27:00::
+using use%2:34:01::
+single single%3:00:00::
+gradients gradient%1:24:00::
+similar similar%3:00:00::
+to
+those
+described describe%2:32:01::
+by
+Sober person%1:03:00::
+and
+Peterson person%1:03:00::
+,
+and
+certain certain%5:00:00:definite:00
+chemical chemical%1:27:00::
+and
+serological serological%3:01:00::
+properties property%1:07:00::
+of
+the
+fractions fraction%1:27:00::
+containing contain%2:42:00::
+antibodies antibody%1:27:00::
+of
+the
+ABO abo%1:18:00::
+and
+Rh rh%1:27:01::
+systems system%1:14:00::
+have
+been
+described describe%2:32:01::
+.
+Serum serum%1:08:00::
+samples sample%1:09:00::
+were
+obtained obtain%2:40:00::
+from
+normal normal%3:00:01::
+group group%1:03:00::
+A a%1:14:00::
+,
+group group%1:03:00::
+B b%1:14:00::
+and
+group group%1:03:00::
+O o%1:14:00::
+donors donor%1:18:00::
+.
+Three three%5:00:00:cardinal:00
+of
+the
+anti anti%5:00:00:counteractive:00
+-
+Rh rh%1:27:01::
+sera serum%1:08:00::
+used use%2:34:01::
+were
+taken take%2:40:00::
+from
+recently recently%4:02:00::
+sensitized sensitize%2:30:00::
+individuals individual%1:18:00::
+.
+One
+contained contain%2:42:00::
+complete complete%3:00:00::
+antibody antibody%1:27:00::
+and
+had have%2:42:00::
+a
+titer titer%1:07:00::
+of
+1 1%5:00:00:cardinal:00
+:
+512
+in
+saline saline%1:27:00::
+.
+The
+second second%5:00:00:ordinal:00
+contained contain%2:42:00::
+incomplete incomplete%3:00:00::
+antibody antibody%1:27:00::
+and
+showed show%2:32:04::
+titers titer%1:07:00::
+of
+1 1%5:00:00:cardinal:00
+:
+256
+in
+albumin albumin%1:27:00::
+and
+1 1%5:00:00:cardinal:00
+:
+2048
+by
+the
+indirect_Coombs_test
+.
+The
+third third%5:00:00:ordinal:00
+,
+containing contain%2:42:00::
+the
+mixed mixed%5:00:00:blended:00
+type type%1:09:00::
+of
+complete complete%3:00:00::
+and
+incomplete incomplete%3:00:00::
+antibodies antibody%1:27:00::
+,
+had have%2:42:00::
+titers titer%1:07:00::
+of
+1 1%5:00:00:cardinal:00
+:
+256
+in
+saline saline%1:27:00::
+,
+1 1%5:00:00:cardinal:00
+:
+512
+in
+albumin albumin%1:27:00::
+and
+1 1%5:00:00:cardinal:00
+:
+1024
+by
+the
+indirect_Coombs_test
+.
+In_addition in_addition%4:02:00::
+one one%5:00:00:cardinal:00
+serum serum%1:08:00::
+was
+obtained obtain%2:40:00::
+from
+a
+donor donor%1:18:00::
+(
+R._E. person%1:03:00::
+.
+)
+who
+had
+been
+sensitized sensitize%2:30:00::
+6 6%5:00:00:cardinal:00
+years year%1:28:01::
+previously previously%4:02:00::
+.
+This
+serum serum%1:08:00::
+exhibited exhibit%2:42:00::
+titers titer%1:07:00::
+of
+1 1%5:00:00:cardinal:00
+:
+16
+in
+albumin albumin%1:27:00::
+and
+1 1%5:00:00:cardinal:00
+:
+256
+by
+the
+indirect_Coombs_test
+.
+These
+antibody antibody%1:27:00::
+titers titer%1:07:00::
+were
+determined determine%2:32:00::
+by
+reaction reaction%1:22:00::
+with
+homozygous homozygous%3:00:00::
+*
+*
+f
+red_cells red_blood_cell%1:08:00::
+.
+Anti anti%5:00:00:counteractive:00
+-
+A a%1:14:00::
+and
+anti anti%5:00:00:counteractive:00
+-
+B b%1:14:00::
+activities activity%1:26:00::
+were
+determined determine%2:32:00::
+in
+fractions fraction%1:27:00::
+from
+the
+sera serum%1:08:00::
+of
+group group%1:03:00::
+A a%1:14:00::
+,
+group group%1:03:00::
+B b%1:14:00::
+or
+group group%1:03:00::
+O o%1:14:00::
+donors donor%1:18:00::
+by
+the
+following following%5:00:01:succeeding(a):00
+tube tube%1:06:00::
+agglutination agglutination%1:22:01::
+methods method%1:09:00::
+.
+One one%5:00:00:cardinal:00
+drop drop%1:23:00::
+of
+each
+sample sample%1:09:00::
+was
+added add%2:30:00::
+to
+one one%5:00:00:cardinal:00
+drop drop%1:23:00::
+of
+a
+2 2%5:00:00:cardinal:00
+%
+suspension suspension%1:27:00::
+of
+group group%1:03:00::
+*
+*
+f
+or
+group group%1:03:00::
+B b%1:14:00::
+red_cells red_blood_cell%1:08:00::
+in
+a
+small small%3:00:00::
+*
+*
+f
+test_tube test_tube%1:06:00::
+.
+In
+several several%5:00:00:some(a):00
+instances instance%1:09:00::
+group group%1:03:00::
+O o%1:14:00::
+cells cell%1:03:00::
+were
+also also%4:02:00::
+used use%2:34:01::
+as
+controls control%1:09:02::
+.
+The
+red_cells red_blood_cell%1:08:00::
+were be%2:42:03::
+used use%2:34:01::
+within
+2 2%5:00:00:cardinal:00
+days day%1:28:00::
+after
+donation donation%1:21:00::
+and
+were
+washed wash%2:35:02::
+with
+large large%3:00:00::
+amounts amount%1:03:00::
+of
+saline saline%1:27:00::
+before
+use use%1:04:02::
+.
+The
+mixtures mixture%1:27:00::
+of
+sample sample%1:09:00::
+plus
+cell cell%1:03:00::
+suspension suspension%1:27:00::
+were
+allowed allow%2:41:00::
+to
+stand stand%2:42:06::
+at
+room_temperature room_temperature%1:07:00::
+for
+1 1%5:00:00:cardinal:00
+hr hr%1:28:00::
+.
+the
+tubes tube%1:06:00::
+were
+then then%4:02:00::
+centrifuged centrifuge%2:38:00::
+at
+1000 1000%5:00:00:cardinal:00
+rpm rpm%1:28:00::
+for
+1 1%5:00:00:cardinal:00
+min min%1:28:00::
+and
+examined examine%2:39:00::
+macroscopically macroscopically%4:02:00::
+for
+agglutination agglutination%1:22:01::
+.
+For
+the
+albumin albumin%1:27:00::
+method method%1:09:00::
+,
+equal equal%3:00:00::
+volumes volume%1:23:00::
+of
+30 30%5:00:00:cardinal:00
+%
+bovine bovine%3:01:00::
+albumin albumin%1:27:00::
+,
+sample sample%1:09:00::
+and
+2 2%5:00:00:cardinal:00
+%
+cells cell%1:03:00::
+suspended suspend%2:30:01::
+in
+saline saline%1:27:00::
+were
+allowed allow%2:41:00::
+to
+stand stand%2:42:06::
+at
+room_temperature room_temperature%1:07:00::
+for
+1 1%5:00:00:cardinal:00
+hr hr%1:28:00::
+and
+then then%4:02:00::
+were
+centrifuged centrifuge%2:38:00::
+at
+1000 1000%5:00:00:cardinal:00
+rpm rpm%1:28:00::
+for
+1 1%5:00:00:cardinal:00
+min min%1:28:00::
+.
+All
+samples sample%1:09:00::
+were
+tested test%2:41:01::
+by
+both
+the
+saline saline%1:27:00::
+and
+albumin albumin%1:27:00::
+methods method%1:09:00::
+.
+The
+activities activity%1:04:00::
+of
+fractions fraction%1:27:00::
+of
+sera serum%1:08:00::
+containing contain%2:42:00::
+Rh_antibodies rh_antibody%1:27:00::
+were
+tested test%2:41:01::
+by
+the
+saline saline%1:27:00::
+,
+albumin albumin%1:27:00::
+and
+indirect_Coombs
+techniques technique%1:09:00::
+.
+Homozygous homozygous%3:00:00::
+and
+heterozygous heterozygous%3:00:00::
+*
+*
+f
+cells cell%1:03:00::
+,
+*
+*
+f
+and
+homozygous homozygous%3:00:00::
+and
+heterozygous heterozygous%3:00:00::
+*
+*
+f
+cells cell%1:03:00::
+were
+used use%2:34:01::
+to
+test test%2:41:00::
+each
+sample sample%1:09:00::
+;
+however however%4:02:00::
+,
+in
+the
+interest interest%1:07:01::
+of
+clarity clarity%1:07:01::
+and
+conciseness conciseness%1:10:00::
+only only%4:02:01::
+the
+results result%1:10:00::
+obtained obtain%2:40:00::
+with
+homozygous homozygous%3:00:00::
+*
+*
+f
+and
+homozygous homozygous%3:00:00::
+*
+*
+f
+cells cell%1:03:00::
+will
+be
+presented present%2:39:00::
+here here%4:02:02::
+.
+The
+saline saline%1:27:00::
+and
+albumin albumin%1:27:00::
+tests test%1:09:02::
+were
+performed perform%2:36:00::
+as
+described describe%2:32:01::
+for
+the
+ABO abo%1:18:00::
+samples sample%1:09:00::
+except
+that
+the
+mixture mixture%1:27:00::
+was
+incubated incubate%2:30:02::
+for
+1 1%5:00:00:cardinal:00
+hr hr%1:28:00::
+at
+37
+`
+C c%1:23:02::
+before
+centrifugation centrifugation%1:22:00::
+.
+The
+saline saline%1:27:00::
+tubes tube%1:06:00::
+were
+saved save%2:40:01::
+and
+used use%2:34:01::
+for
+the
+indirect_Coombs_test
+in
+the
+following following%5:00:01:succeeding(a):00
+manner manner%1:07:02::
+.
+The
+cells cell%1:03:00::
+were
+washed wash%2:35:02::
+three three%5:00:00:cardinal:00
+times time%1:11:00::
+with
+saline saline%1:27:00::
+,
+anti anti%5:00:00:counteractive:00
+human human%1:05:00::
+serum serum%1:08:00::
+was
+added add%2:30:00::
+,
+the
+cells cell%1:03:00::
+were
+resuspended resuspend%2:30:00::
+,
+and
+the
+mixture mixture%1:27:00::
+was
+centrifuged centrifuge%2:38:00::
+at
+1000 1000%5:00:00:cardinal:00
+rpm rpm%1:28:00::
+for
+1 1%5:00:00:cardinal:00
+min min%1:10:00::
+and
+examined examine%2:39:00::
+for
+agglutination agglutination%1:22:00::
+.
+The
+anti anti%5:00:00:counteractive:00
+human human%1:05:00::
+sera serum%1:08:00::
+used use%2:34:01::
+were
+prepared prepare%2:30:00::
+by
+injecting inject%2:29:00::
+whole whole%3:00:00::
+human human%3:01:01::
+serum serum%1:08:00::
+into
+rabbits rabbit%1:05:00::
+.
+Those
+antisera antiserum%1:08:00::
+shown show%2:32:00::
+by
+immunoelectrophoresis immunoelectrophoresis%1:22:00::
+to
+be be%2:42:03::
+of
+the
+``
+broad broad%5:00:00:comprehensive:00
+spectrum spectrum%1:07:00::
+''
+type type%1:09:00::
+were
+selected select%2:31:00::
+for
+used use%2:34:01::
+in
+the
+present present%3:00:01::
+study study%1:09:04::
+.
+The
+red_cells red_blood_cell%1:08:00::
+for
+the
+Rh_antibody rh_antibody%1:27:00::
+tests test%1:09:02::
+were
+used use%2:34:01::
+within
+3 3%5:00:00:cardinal:00
+days day%1:28:00::
+after
+drawing draw%2:38:00::
+except
+for
+the
+*
+*
+f
+cells cell%1:03:00::
+,
+which
+had
+been
+glycerolized glycerolize%2:38:00::
+and
+stored store%2:40:02::
+at
+-
+20 20%5:00:00:cardinal:00
+`
+C c%1:23:02::
+for
+approximately approximately%4:02:00::
+1 1%5:00:00:cardinal:00
+year year%1:28:01::
+.
+These
+cells cell%1:03:00::
+were
+thawed thaw%2:30:00::
+at
+37
+`
+C c%1:23:02::
+for
+30 30%5:00:00:cardinal:00
+min min%1:28:00::
+and
+were
+deglycerolized deglycerolize%2:38:00::
+by
+alternately alternately%4:02:00::
+centrifuging centrifuge%2:38:00::
+and
+mixing mix%2:30:00::
+with
+descending descend%2:38:00::
+concentrations concentration%1:07:02::
+of
+glycerol glycerol%1:27:00::
+solutions solution%1:27:00::
+(
+20 20%5:00:00:cardinal:00
+,
+18 18%5:00:00:cardinal:00
+,
+10 10%5:00:00:cardinal:00
+,
+8 8%5:00:00:cardinal:00
+,
+4 4%5:00:00:cardinal:00
+and
+2 2%5:00:00:cardinal:00
+%
+)
+.
+The
+cells cell%1:03:00::
+were
+then then%4:02:00::
+washed wash%2:35:02::
+three three%5:00:00:cardinal:00
+times time%1:11:00::
+with
+saline saline%1:27:00::
+and
+resuspended resuspend%2:30:00::
+to
+2 2%5:00:00:cardinal:00
+%
+in
+saline saline%1:27:00::
+.
+Blood blood%1:08:00::
+samples sample%1:09:00::
+were
+allowed allow%2:41:00::
+to
+clot clot%2:30:01::
+at
+room_temperature room_temperature%1:07:00::
+for
+3 3%5:00:00:cardinal:00
+hr hr%1:28:00::
+,
+centrifuged centrifuge%2:38:00::
+and
+the
+serum serum%1:08:00::
+was
+removed remove%2:30:00::
+.
+The
+serum serum%1:08:00::
+was
+measured measure%2:30:00::
+volumetrically volumetrically%4:02:00::
+and
+subsequently subsequently%4:02:00::
+dialyzed dialyze%2:30:00::
+in
+the
+cold cold%1:07:00::
+for
+at_least at_least%4:02:00::
+24 24%5:00:00:cardinal:00
+hr hr%1:28:00::
+against
+three three%5:00:00:cardinal:00
+to
+four four%5:00:00:cardinal:00
+changes change%1:06:01::
+,
+approximately approximately%4:02:00::
+750
+ml ml%1:23:00::
+each
+,
+of
+``
+starting_buffer starting_buffer%1:27:00::
+''
+.
+This
+buffer buffer%1:27:00::
+,
+pH ph%1:07:00::
+8.6
+,
+was be%2:42:07::
+0.005
+M m%1:07:00::
+in
+*
+*
+f
+and
+0.039
+M m%1:07:00::
+in
+tris
+(
+hydroxymethyl hydroxymethyl%1:27:00::
+)
+-
+aminomethane aminomethane%1:27:00::
+(
+Tris
+)
+.
+After
+dialysis dialysis%1:04:00::
+the
+sample sample%1:09:00::
+was
+centrifuged centrifuge%2:38:00::
+and
+the
+supernatant supernatant%5:00:00:supported:00
+placed place%2:35:00::
+on
+a
+*
+*
+f
+cm cm%1:23:00::
+column column%1:06:02::
+of
+DEAE-cellulose deae_cellulose%1:27:00::
+equilibrated equilibrate%2:30:00::
+with
+starting_buffer starting_buffer%1:27:00::
+.
+The
+DEAE-cellulose deae_cellulose%1:27:00::
+,
+containing contain%2:42:00::
+0.78
+mEq meq%1:07:00::
+of
+N
+/
+g g%1:23:00::
+,
+was
+prepared prepare%2:30:00::
+in
+our
+laboratory laboratory%1:06:00::
+by
+the
+method method%1:09:00::
+of
+Peterson person%1:03:00::
+and
+Sober person%1:03:00::
+(
+7
+)
+from
+powdered powdered%5:00:00:fine:00
+cellulose cellulose%1:27:00::
+,
+100 100%5:00:00:cardinal:00
+-
+230
+mesh mesh%1:23:00::
+.
+The
+small small%3:00:00::
+amount amount%1:07:00::
+of
+insoluble insoluble%3:00:01::
+material material%1:27:00::
+which
+precipitated precipitate%2:30:00::
+during
+dialysis dialysis%1:04:00::
+was
+suspended suspend%2:30:01::
+in
+approximately approximately%4:02:00::
+5 5%5:00:00:cardinal:00
+ml ml%1:23:00::
+of
+starting_buffer starting_buffer%1:27:00::
+,
+centrifuged centrifuge%2:38:00::
+,
+resuspended resuspend%2:30:00::
+in
+2.5 25%5:00:00:cardinal:00
+ml ml%1:23:00::
+of
+isotonic isotonic%3:00:00::
+saline saline%1:27:00::
+and
+tested test%2:41:01::
+for
+antibody antibody%1:27:00::
+activity activity%1:26:00::
+.
+The
+chromatography chromatography%1:22:00::
+was
+done do%2:41:01::
+at
+6 6%5:00:00:cardinal:00
+`
+C c%1:23:02::
+using use%2:34:01::
+gradient gradient%1:24:00::
+elution elution%1:22:00::
+,
+essentially essentially%4:02:01::
+according_to
+Sober person%1:03:00::
+and
+Peterson person%1:03:00::
+.
+The
+deep deep%3:00:01::
+concave concave%3:00:00::
+gradient gradient%1:24:00::
+employed employ%2:34:00::
+(
+fig. fig%1:10:00::
+2 2%5:00:00:cardinal:00
+)
+was
+obtained obtain%2:40:00::
+with
+a
+nine nine%5:00:00:cardinal:00
+chambered chambered%5:00:00:divided:00
+gradient gradient%1:24:00::
+elution elution%1:22:00::
+device device%1:06:00::
+(
+``
+Varigrad
+''
+,
+reference reference%1:10:03::
+(
+8 8%5:00:00:cardinal:00
+)
+)
+and
+has
+been
+described describe%2:32:01::
+elsewhere elsewhere%4:02:00::
+.
+the
+other
+,
+a
+shallow shallow%3:00:01::
+concave concave%3:00:00::
+gradient gradient%1:24:00::
+(
+Fig. fig%1:10:00::
+1
+)
+,
+was
+produced produce%2:36:02::
+with
+a
+so-called so-called%5:00:00:questionable:00
+``
+cone cone%1:06:00::
+sphere sphere%1:06:00::
+''
+apparatus apparatus%1:06:00::
+,
+the
+``
+cone cone%1:06:00::
+''
+being be%2:42:06::
+a
+2 2%5:00:00:cardinal:00
+-
+liter liter%1:23:00::
+Erlenmeyer_flask erlenmeyer_flask%1:06:00::
+and
+the
+``
+sphere sphere%1:06:00::
+,
+''
+a
+2 2%5:00:00:cardinal:00
+-
+liter liter%1:23:00::
+round-bottom round-bottom%5:00:00:bottomed:00
+flask flask%1:06:00::
+.
+Each
+initially initially%4:02:00::
+contained contain%2:42:00::
+1700
+ml ml%1:23:00::
+of
+buffer buffer%1:27:00::
+;
+in
+the
+sphere sphere%1:06:00::
+was be%2:42:05::
+starting start%2:30:00::
+buffer buffer%1:27:00::
+and
+in
+the
+cone cone%1:06:00::
+was be%2:42:05::
+final final%5:00:00:closing:00
+buffer buffer%1:27:00::
+,
+0.50
+M m%1:07:00::
+in
+both
+*
+*
+f
+and
+Tris
+,
+pH ph%1:07:00::
+4.1
+.
+A
+flow_rate flow_rate%1:28:00::
+of
+72
+*
+*
+f
+was
+used use%2:34:01::
+and
+12 12%5:00:00:cardinal:00
+ml ml%1:23:00::
+fractions fraction%1:27:00::
+were
+collected collect%2:35:01::
+.
+Approximately approximately%4:02:00::
+165
+fractions fraction%1:27:00::
+were
+obtained obtain%2:40:00::
+from
+each
+column column%1:25:02::
+.
+These
+were
+read read%2:32:02::
+at
+280
+m m%1:23:00::
+|
+m m%1:23:00::
+in
+a
+Beckman
+model model%1:09:03::
+DU
+spectrophotometer spectrophotometer%1:06:00::
+and
+tested test%2:41:01::
+for
+antibody antibody%1:27:00::
+activity activity%1:26:00::
+as
+described describe%2:32:01::
+above above%4:02:00::
+.
+For
+protein protein%1:27:00::
+identification identification%1:04:00::
+,
+fractions fraction%1:27:00::
+from
+the
+column column%1:25:02::
+were
+concentrated concentrate%2:30:01::
+by
+pervaporation pervaporation%1:04:00::
+against
+a
+stream stream%1:11:00::
+of
+air air%1:27:00::
+at
+5 5%5:00:00:cardinal:00
+`
+C c%1:23:02::
+or
+by
+negative negative%5:00:00:backward:01
+pressure pressure%1:19:00::
+dialysis dialysis%1:04:00::
+in
+an
+apparatus apparatus%1:06:00::
+which
+permitted permit%2:41:00::
+simultaneous simultaneous%5:00:00:synchronous:00
+concentration concentration%1:04:01::
+of
+the
+protein protein%1:27:00::
+and
+dialysis dialysis%1:04:00::
+against
+isotonic isotonic%3:00:00::
+saline saline%1:27:00::
+.
+During
+the
+latter latter%3:00:00::
+procedure procedure%1:04:00::
+the
+temperature temperature%1:07:00::
+was
+maintained maintain%2:42:00::
+at
+2 2%5:00:00:cardinal:00
+`
+C c%1:23:02::
+by
+surrounding surround%2:35:01::
+the
+apparatus apparatus%1:06:00::
+with
+ice ice%1:27:00::
+.
+Because
+negative negative%5:00:00:backward:01
+pressure pressure%1:19:00::
+dialysis dialysis%1:04:00::
+gave give%2:36:03::
+better better%3:00:00::
+recovery recovery%1:04:00::
+of
+proteins protein%1:27:00::
+,
+permitted permit%2:41:00::
+detection detection%1:09:00::
+of
+proteins protein%1:27:00::
+concentrated concentrated%5:00:00:undiluted:00
+from
+very very%4:02:01::
+dilute dilute%3:00:00::
+solutions solution%1:27:00::
+and
+was be%2:42:03::
+a
+gentler gentle%5:00:00:mild:00
+procedure procedure%1:04:00::
+,
+it
+was be%2:42:03::
+used use%2:34:01::
+in
+all all%3:00:00::
+but
+the
+earliest early%3:00:00::
+experiments experiment%1:04:00::
+.
+Paper_electrophoresis paper_electrophoresis%1:22:00::
+was
+carried_out carry_out%2:30:00::
+on
+the
+concentrated concentrated%5:00:00:undiluted:00
+samples sample%1:09:00::
+in
+a
+Spinco
+model model%1:09:03::
+R
+cell cell%1:03:00::
+using use%2:34:01::
+barbital barbital%1:06:00::
+buffer buffer%1:27:00::
+,
+pH ph%1:07:00::
+8.6
+,
+ionic ionic%3:01:00::
+strength strength%1:07:00::
+0.075
+,
+at
+room_temperature room_temperature%1:07:00::
+on
+Whatman
+3 3%5:00:00:cardinal:00
+MM
+filter_paper filter_paper%1:27:00::
+.
+Five five%5:00:00:cardinal:00
+milliamperes milliampere%1:23:00::
+/
+cell cell%1:03:00::
+were
+applied apply%2:41:05::
+for
+18 18%5:00:00:cardinal:00
+hr hr%1:28:00::
+,
+after
+which
+the
+strips strip%1:06:00::
+were
+stained stain%2:30:01::
+with
+bromophenol_blue bromophenol_blue%1:27:00::
+and
+densitometry densitometry%1:04:00::
+was
+carried_out carry_out%2:30:00::
+using use%2:34:01::
+a
+Spinco_Analytrol
+.
+When
+paper_electrophoresis paper_electrophoresis%1:22:00::
+was
+to
+be
+used use%2:34:01::
+for
+preparation preparation%1:04:02::
+,
+eight eight%5:00:00:cardinal:00
+strips strip%1:06:00::
+of
+a
+whole whole%3:00:00::
+serum serum%1:08:00::
+sample sample%1:09:00::
+or
+a
+chromatographic chromatographic%3:01:00::
+fraction fraction%1:27:00::
+concentrated concentrated%5:00:00:undiluted:00
+by
+negative negative%5:00:00:backward:01
+pressure pressure%1:19:00::
+dialysis dialysis%1:04:00::
+were
+run run%2:30:07::
+/
+chamber chamber%1:06:00::
+under
+the
+conditions condition%1:26:00::
+described describe%2:32:01::
+above above%4:02:00::
+.
+At
+the
+end end%1:11:00::
+of
+the
+run run%1:04:06::
+,
+the
+strips strip%1:06:00::
+in
+the
+third third%5:00:00:ordinal:00
+and
+sixth sixth%5:00:00:ordinal:00
+positions position%1:15:00::
+in
+each
+chamber chamber%1:06:00::
+were
+dried dry%2:30:01::
+,
+stained stain%2:30:01::
+for
+1 1%5:00:00:cardinal:00
+hr hr%1:28:00::
+,
+washed wash%2:35:02::
+and
+dried dry%2:30:01::
+,
+while
+the
+other other%3:00:00::
+strips strip%1:06:00::
+were
+maintained maintain%2:42:00::
+in
+a
+horizontal horizontal%3:00:00::
+position position%1:15:00::
+at
+1 1%5:00:00:cardinal:00
+`
+C c%1:23:02::
+.
+The
+unstained unstained%5:00:00:unpainted:00
+strips strip%1:06:00::
+were
+then then%4:02:00::
+marked mark%2:35:09::
+,
+using use%2:34:01::
+the
+stained stained%3:00:00::
+ones
+as
+a
+guide guide%1:09:00::
+,
+and
+cut cut%2:35:00::
+transversely transversely%4:02:00::
+so so%4:02:06::
+as
+to
+separate separate%2:42:00::
+the
+various various%5:00:00:individual:00
+protein protein%1:27:00::
+bands band%1:07:00::
+.
+The
+strip strip%1:06:00::
+sections section%1:06:00::
+containing contain%2:42:00::
+a
+given given%5:00:00:specified:00
+protein protein%1:27:00::
+were
+pooled pool%2:40:00::
+,
+eluted elute%2:35:00::
+with
+0.5
+ml ml%1:23:00::
+of
+isotonic isotonic%3:01:00::
+saline saline%1:27:00::
+,
+and
+the
+eluates eluate%1:27:00::
+were
+tested test%2:41:01::
+for
+antibody antibody%1:27:00::
+activity activity%1:26:00::
+.
+Fractions fraction%1:27:00::
+from
+the
+column column%1:25:02::
+which
+were
+to
+be
+subjected subject%2:39:03::
+to
+analytical analytical%3:00:03::
+ultracentrifugation ultracentrifugation%1:22:00::
+were
+concentrated concentrate%2:30:01::
+by
+negative negative%5:00:00:backward:01
+pressure pressure%1:19:00::
+dialysis dialysis%1:04:00::
+and
+dialyzed dialyze%2:30:00::
+for
+16 16%5:00:00:cardinal:00
+hr hr%1:28:00::
+in
+the
+cold cold%1:07:00::
+against
+at_least at_least%4:02:00::
+500 500%5:00:00:cardinal:00
+volumes volume%1:23:00::
+of
+phosphate phosphate%1:27:00::
+buffered buffer%2:30:00::
+saline saline%1:27:00::
+,
+pH ph%1:07:00::
+7.2
+,
+ionic ionic%3:01:00::
+strength strength%1:07:00::
+0.154
+.
+They
+were
+then then%4:02:00::
+centrifuged centrifuge%2:38:00::
+at
+59780
+rpm rpm%1:28:00::
+for
+35
+to
+80 80%5:00:00:cardinal:00
+min min%1:10:00::
+at
+20 20%5:00:00:cardinal:00
+`
+C c%1:23:02::
+in
+a
+Spinco
+model model%1:09:03::
+E
+ultracentrifuge ultracentrifuge%1:06:00::
+at
+a
+protein protein%1:27:00::
+concentration concentration%1:07:02::
+of
+1.00
+to
+1.25
+%
+.
+Sedimentation sedimentation%1:19:00::
+coefficients coefficient%1:23:00::
+were
+computed compute%2:31:00::
+as
+*
+*
+f
+values value%1:09:00::
+and
+relative relative%3:00:00::
+amounts amount%1:03:00::
+of
+the
+various various%5:00:00:individual:00
+components component%1:24:00::
+were
+calculated calculate%2:31:00::
+from
+the
+Schlieren
+patterns pattern%1:09:00::
+.
+For
+preparative preparative%5:00:00:preceding(a):00
+ultracentrifugation ultracentrifugation%1:22:00::
+,
+fractions fraction%1:27:00::
+from
+the
+column column%1:06:02::
+were
+concentrated concentrate%2:30:01::
+by
+negative negative%5:00:00:backward:01
+pressure pressure%1:19:00::
+dialysis dialysis%1:04:00::
+to
+volumes volume%1:23:00::
+of
+1 1%5:00:00:cardinal:00
+ml ml%1:23:00::
+or
+less less%3:00:00::
+,
+transferred transfer%2:38:00::
+to
+cellulose cellulose%1:27:00::
+tubes tube%1:06:00::
+and
+diluted dilute%2:30:00::
+to
+12 12%5:00:00:cardinal:00
+ml ml%1:23:00::
+with
+isotonic isotonic%3:00:00::
+saline saline%1:27:00::
+.
+Ultracentrifugation ultracentrifugation%1:22:00::
+was
+then then%4:02:00::
+carried_out carry_out%2:30:00::
+in
+a
+Spinco
+model model%1:09:03::
+L
+ultracentrifuge ultracentrifuge%1:06:00::
+at
+40000
+rpm rpm%1:28:00::
+for
+125
+to
+150
+min min%1:28:00::
+,
+refrigeration refrigeration%1:22:00::
+being
+used use%2:34:01::
+throughout
+the
+run run%1:04:06::
+.
+Successive successive%5:00:00:ordered:00
+1 1%5:00:00:cardinal:00
+-
+ml ml%1:23:00::
+fractions fraction%1:27:00::
+were
+then then%4:02:00::
+drawn draw%2:38:00::
+off off%4:02:04::
+with
+a
+hypodermic_syringe hypodermic_syringe%1:06:00::
+,
+starting start%2:38:00::
+at
+the
+top top%1:15:00::
+of
+the
+tube tube%1:06:00::
+,
+and
+tested test%2:41:01::
+for
+agglutinin agglutinin%1:27:00::
+activity activity%1:26:00::
+.
+Other other%3:00:00::
+methods method%1:09:00::
+will
+be
+described describe%2:32:01::
+below below%4:02:00::
+.
+The
+insoluble insoluble%3:00:01::
+material material%1:27:00::
+which
+precipitated precipitate%2:30:00::
+during
+dialysis dialysis%1:04:00::
+against
+starting_buffer starting_buffer%1:27:00::
+always always%4:02:00::
+showed show%2:39:02::
+intense intense%3:00:00::
+agglutinin agglutinin%1:27:00::
+activity activity%1:26:00::
+,
+regardless regardless%4:02:00::
+of
+the
+blood_group blood_group%1:14:00::
+of
+the
+donor donor%1:18:00::
+.
+With
+either
+of
+the
+gradients gradient%1:24:00::
+described describe%2:32:01::
+,
+chromatography chromatography%1:22:00::
+on
+DEAE-cellulose deae_cellulose%1:27:00::
+separated separate%2:42:00::
+agglutinins agglutinin%1:27:00::
+of
+the
+ABO
+series series%1:14:00::
+into
+at_least at_least%4:02:00::
+three three%5:00:00:cardinal:00
+regions region%1:15:00::
+(
+Figs. fig%1:10:00::
+1
+and
+2
+)
+:
+one
+of
+extremely extremely%4:02:02::
+low low%3:00:02::
+anionic anionic%3:01:00::
+binding binding%1:07:00::
+capacity capacity%1:26:00::
+,
+one
+of
+low low%3:00:02::
+anionic anionic%1:27:00::
+binding bind%2:35:06::
+capacity capacity%1:26:00::
+and
+one one%1:23:00::
+of
+high high%3:00:02::
+anionic anionic%1:27:00::
+binding bind%2:35:06::
+capacity capacity%1:26:00::
+.
+These
+have
+been
+labeled label%2:35:00::
+Regions region%1:15:00::
+1
+,
+2
+,
+and
+4
+,
+respectively respectively%4:02:00::
+,
+in
+Fig. fig%1:10:00::
+1
+.
+When
+the
+early early%3:00:02::
+part part%1:24:00::
+of
+the
+gradient gradient%1:24:00::
+was
+flattened flatten%2:30:01::
+,
+either
+by
+using use%2:34:01::
+the
+gradient gradient%1:24:00::
+shown show%2:39:02::
+in
+Fig. fig%1:10:00::
+2 2%5:00:00:cardinal:00
+or
+by
+allowing allow%2:32:00::
+the
+``
+cone cone%1:06:00::
+sphere sphere%1:06:00::
+''
+gradient gradient%1:24:00::
+to
+become become%2:30:00::
+established established%3:00:00::
+more more%4:02:00::
+slowly slowly%4:02:02::
+,
+Region region%1:15:00::
+2 2%5:00:00:cardinal:00
+activity activity%1:26:00::
+could
+sometimes sometimes%4:02:01::
+be
+separated separate%2:42:00::
+into
+two two%5:00:00:cardinal:00
+areas area%1:15:01::
+(
+donors donor%1:18:00::
+P._J. person%1:03:00::
+and
+R._S. person%1:03:00::
+,
+Fig. fig%1:10:00::
+1
+and
+E._M. person%1:03:00::
+,
+Fig. fig%1:10:00::
+2
+)
+.
+The
+latter latter%3:00:00::
+procedure procedure%1:04:00::
+gave_rise give_rise%2:36:01::
+to
+a
+small small%5:00:00:limited:00
+active active%3:00:02::
+protein protein%1:27:00::
+peak peak%1:26:00::
+(
+Region region%1:15:00::
+1a
+)
+between
+Regions region%1:15:00::
+1 1%5:00:00:cardinal:00
+and
+2 2%5:00:00:cardinal:00
+.
+In
+2 2%5:00:00:cardinal:00
+of
+15 15%5:00:00:cardinal:00
+experiments experiment%1:04:00::
+on
+whole whole%3:00:00::
+serum serum%1:08:00::
+a
+region region%1:15:00::
+of
+agglutinin agglutinin%1:27:00::
+activity activity%1:26:00::
+with
+intermediate intermediate%5:00:00:moderate:00
+anionic anionic%1:27:00::
+binding bind%2:35:06::
+capacity capacity%1:26:00::
+was
+detected detect%2:39:00::
+(
+Region region%1:15:00::
+3 3%5:00:00:cardinal:00
+,
+Fig. fig%1:10:00::
+1
+)
+.
+Moreover moreover%4:02:00::
+,
+after
+concentration concentration%1:04:01::
+using use%2:34:01::
+negative negative%5:00:00:backward:01
+pressure pressure%1:19:00::
+dialysis dialysis%1:04:00::
+,
+agglutinin agglutinin%1:27:00::
+activity activity%1:26:00::
+could
+sometimes sometimes%4:02:01::
+be
+detected detect%2:39:00::
+in
+the
+region region%1:15:00::
+designated designate%2:32:00::
+2a
+(
+donors donor%1:18:00::
+P._J. person%1:03:00::
+,
+D._A. person%1:03:00::
+,
+and
+J._F. person%1:03:00::
+,
+Fig. fig%1:10:00::
+1
+)
+.
+Not not%4:02:00::
+all
+these
+regions region%1:15:00::
+exhibited exhibit%2:42:00::
+equal equal%3:00:00::
+agglutinating_activity agglutinating_activity%1:22:00::
+,
+as
+evidenced evidence%2:32:00::
+by
+titer titer%1:07:00::
+and
+the
+extent extent%1:07:00::
+of
+the
+active active%3:00:02::
+areas area%1:15:01::
+.
+In
+all all%3:00:00::
+cases case%1:11:00::
+,
+most
+of
+the
+activity activity%1:26:00::
+lay_in lie_in%2:42:00::
+the
+region region%1:15:00::
+of
+high high%3:00:02::
+anionic anionic%1:27:00::
+binding bind%2:35:06::
+capacity capacity%1:26:00::
+.
+This
+was be%2:42:03::
+particularly particularly%4:02:00::
+noticeable noticeable%3:00:00::
+in
+group group%1:03:00::
+A a%1:14:00::
+and
+group group%1:03:00::
+B b%1:14:00::
+sera serum%1:08:00::
+,
+in
+which
+cases case%1:26:00::;1:11:00::
+activity activity%1:26:00::
+in
+Regions region%1:15:00::
+1
+and
+2
+was be%2:42:03::
+usually usually%4:02:00::
+not not%4:02:00::
+detectable detectable%5:00:00:perceptible:00
+without
+prior prior%5:00:00:antecedent:00
+concentration concentration%1:04:01::
+and
+occasionally occasionally%4:02:00::
+could
+not not%4:02:00::
+be
+detected detect%2:39:00::
+at_all at_all%4:02:00::
+.
+There
+appeared appear%2:39:00::
+to
+be be%2:42:04::
+no
+difference difference%1:11:00::
+in
+the
+distribution distribution%1:09:00::
+of
+anti anti%5:00:00:counteractive:00
+-
+A a%1:14:00::
+and
+anti anti%5:00:00:counteractive:00
+-
+B b%1:14:00::
+activity activity%1:26:00::
+in
+group group%1:03:00::
+O o%1:14:00::
+serum serum%1:08:00::
+,
+though
+in
+two two%5:00:00:cardinal:00
+group group%1:03:00::
+O o%1:14:00::
+donors donor%1:18:00::
+(
+J._F. person%1:03:00::
+and
+E._M.
+)
+only only%4:02:01::
+one one%5:00:00:cardinal:00
+type type%1:09:00::
+of
+agglutinin agglutinin%1:27:00::
+was
+found find%2:39:02::
+in
+the
+regions region%1:15:00::
+of
+low low%3:00:02::
+anionic anionic%1:27:00::
+binding bind%2:35:06::
+capacity capacity%1:26:00::
+(
+Figs. fig%1:10:00::
+1
+and
+2
+)
+.
+Several several%5:00:00:some(a):00
+samples sample%1:09:00::
+of
+citrated citrate%2:30:00::
+plasma plasma%1:08:00::
+were
+fractionated fractionate%2:35:01::
+in
+our
+laboratory laboratory%1:06:00::
+by
+Method method%1:09:00::
+6 6%5:00:00:cardinal:00
+of
+Cohn person%1:03:00::
+et_al et_al.%4:02:00::
+.
+These
+fractions fraction%1:27:00::
+were
+tested test%2:41:01::
+for
+ABO
+agglutinin agglutinin%1:27:00::
+activity activity%1:26:00::
+,
+using use%2:34:01::
+fractions fraction%1:27:00::
+from
+group group%1:03:00::
+AB ab%1:14:00::
+plasma plasma%1:08:00::
+as
+a
+control control%1:09:02::
+.
+As_expected as_expected%4:02:00::
+,
+most
+of
+the
+activity activity%1:26:00::
+was
+found find%2:39:02::
+in
+Fraction fraction%1:27:00::
+*
+*
+f
+,
+with
+slight slight%5:00:00:little(a):03
+activity activity%1:26:00::
+seen see%2:39:02::
+in
+Fraction fraction%1:27:00::
+4
+,
+-
+1
+.
+A
+sample sample%1:09:00::
+of
+Fraction fraction%1:27:00::
+*
+*
+f
+from
+group group%1:03:00::
+O o%1:14:00::
+plasma plasma%1:08:00::
+was
+dissolved dissolve%2:30:01::
+in
+starting_buffer starting_buffer%1:27:00::
+,
+dialyzed dialyze%2:30:00::
+against
+this
+buffer buffer%1:27:00::
+and
+subjected subject%2:39:03::
+to
+chromatography chromatography%1:22:00::
+using use%2:34:01::
+the
+gradient gradient%1:24:00::
+shown show%2:32:01::
+in
+Fig. fig%1:10:00::
+2
+.
+Once_again once_again%4:02:00::
+,
+both
+anti anti%5:00:00:counteractive:00
+-
+A a%1:14:00::
+and
+anti anti%5:00:00:counteractive:00
+-
+B b%1:14:00::
+activities activity%1:26:00::
+were
+found find%2:39:02::
+in
+the
+insoluble insoluble%3:00:01::
+material material%1:27:00::
+precipitated precipitate%2:30:00::
+during
+dialysis dialysis%1:04:00::
+.
+Similarly similarly%4:02:00::
+,
+both
+types type%1:09:00::
+of
+antibodies antibody%1:27:00::
+were
+found find%2:39:02::
+in
+three three%5:00:00:cardinal:00
+regions region%1:15:00::
+of
+the
+chromatographic chromatographic%3:01:00::
+eluate eluate%1:27:00::
+,
+having have%2:42:00::
+extremely extremely%4:02:02::
+low low%3:00:02::
+,
+low low%3:00:02::
+,
+and
+high high%3:00:02::
+anionic anionic%1:27:00::
+binding bind%2:35:06::
+capacity capacity%1:26:00::
+,
+respectively respectively%4:02:00::
+(
+Fig. fig%1:10:00::
+3 3%5:00:00:cardinal:00
+)
+.
+Chromatography chromatography%1:22:00::
+of
+whole whole%3:00:00::
+sera serum%1:08:00::
+revealed reveal%2:39:00::
+that
+the
+areas area%1:15:01::
+of
+Rh_antibody rh_antibody%1:27:00::
+activity activity%1:26:00::
+were be%2:42:03::
+generally generally%4:02:01::
+continuous continuous%3:00:01::
+and
+wide wide%3:00:00::
+.
+The
+incomplete incomplete%3:00:00::
+antibody antibody%1:27:00::
+activity activity%1:26:00::
+appeared appear%2:30:00::
+in
+the
+early early%3:00:00::
+part part%1:24:00::
+of
+the
+chromatogram chromatogram%1:06:00::
+;
+the
+complete complete%3:00:00::
+,
+in
+the
+latter latter%3:00:00::
+part part%1:24:00::
+.
+The
+serum serum%1:08:00::
+containing contain%2:42:00::
+the
+mixed mixed%5:00:00:blended:00
+type type%1:09:00::
+of
+complete complete%3:00:00::
+and
+incomplete incomplete%3:00:00::
+antibodies antibody%1:27:00::
+showed show%2:39:02::
+activity activity%1:26:00::
+in
+both
+regions region%1:15:00::
+(
+Fig. fig%1:10:00::
+1
+)
+.
+In
+all all%3:00:00::
+cases case%1:11:00::
+the
+activity activity%1:26:00::
+against
+*
+*
+f
+cells cell%1:03:00::
+was
+spread spread%2:35:00::
+over
+a
+wider wide%3:00:00::
+area area%1:15:01::
+than
+that
+with
+*
+*
+f
+cells cell%1:03:00::
+,
+regardless regardless%4:02:00::
+of
+the
+type type%1:09:00::
+of
+test test%1:09:02::
+(
+saline saline%1:27:00::
+,
+albumin albumin%1:27:00::
+,
+indirect_Coombs
+)
+used use%2:34:01::
+for
+comparison comparison%1:24:00::
+.
+The
+insoluble insoluble%3:00:01::
+material material%1:27:00::
+resulting result%2:42:00::
+from
+dialysis dialysis%1:04:00::
+against
+starting_buffer starting_buffer%1:27:00::
+always always%4:02:00::
+showed show%2:39:02::
+strong strong%3:00:00::
+activity activity%1:26:00::
+.
+In_fact in_fact%4:02:00::
+agglutination agglutination%1:22:01::
+of
+*
+*
+f
+cells cell%1:03:00::
+in
+saline saline%1:27:00::
+could
+be
+produced produce%2:36:02::
+by
+the
+insoluble insoluble%3:00:01::
+material material%1:27:00::
+from
+sera serum%1:08:00::
+containing contain%2:42:00::
+``
+only only%4:02:01::
+''
+incomplete incomplete%3:00:00::
+antibody antibody%1:27:00::
+activity activity%1:26:00::
+.
+This
+was
+later later%4:02:01::
+known know%2:31:06::
+to
+be be%2:42:03::
+the
+result result%1:19:00::
+of
+concentrating concentrate%2:30:01::
+the
+minute minute%5:00:00:small:00
+amount amount%1:07:00::
+of
+complete complete%3:00:00::
+antibody antibody%1:27:00::
+found find%2:40:02::
+in
+these
+sera serum%1:08:00::
+;
+when
+the
+insoluble insoluble%3:00:01::
+fraction fraction%1:27:00::
+was
+suspended suspend%2:30:01::
+in
+a
+volume volume%1:23:00::
+of
+saline saline%1:27:00::
+equal_to equal_to%5:00:00:adequate:00
+that
+of
+the
+original original%5:00:00:primary:00
+serum serum%1:08:00::
+sample sample%1:09:00::
+,
+no
+complete complete%3:00:00::
+antibody antibody%1:27:00::
+activity activity%1:26:00::
+could
+be
+detected detect%2:39:00::
+.

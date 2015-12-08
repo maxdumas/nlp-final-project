@@ -1,0 +1,2213 @@
+Interestingly interestingly%4:02:01::
+enough enough%5:00:00:sufficient:00
+,
+the
+effect effect%1:19:00::
+of
+the
+digitalis_glycosides digitalis_glycoside%1:27:00::
+is
+inhibited inhibit%2:30:00::
+by
+a
+high high%3:00:02::
+concentration concentration%1:07:02::
+of
+potassium potassium%1:27:00::
+in
+the
+incubation incubation%1:04:00::
+medium medium%1:27:00::
+and
+is
+enhanced enhance%2:30:00::
+by
+the
+absence absence%1:26:00::
+of
+potassium potassium%1:27:00::
+(
+Wolff person%1:03:00::
+,
+1960
+)
+.
+The
+precise precise%3:00:00::
+mechanism mechanism%1:22:00::
+for
+organification organification%1:22:00::
+of
+iodine iodine%1:27:00::
+in
+the
+thyroid thyroid%1:08:00::
+is
+not not%4:02:00::
+as_yet as_yet%4:02:00::
+completely completely%4:02:04::
+understood understand%2:31:00::
+.
+However however%4:02:00::
+,
+the
+formation formation%1:04:00::
+of
+organically organically%4:02:00::
+bound bind%2:35:06::
+iodine iodine%1:27:00::
+,
+mainly mainly%4:02:00::
+mono-iodotyrosine mono-iodotyrosine%1:27:00::
+,
+can
+be
+accomplished accomplish%2:36:00::
+in
+cell-free cell-free%5:00:00:noncellular:00
+systems system%1:27:00::
+.
+In
+the
+absence absence%1:26:00::
+of
+additions addition%1:06:00::
+to
+the
+homogenate homogenate%1:27:00::
+,
+the
+product product%1:06:00::
+formed form%2:36:00::
+is be%2:42:03::
+an
+iodinated iodinated%3:01:00::
+particulate particulate%3:00:00::
+protein protein%1:27:00::
+(
+Fawcett person%1:03:00::
+and
+Kirkwood person%1:03:00::
+,
+1953
+;
+Taurog person%1:03:00::
+,
+Potter person%1:03:00::
+and
+Chaikoff person%1:03:00::
+,
+1955
+;
+Taurog person%1:03:00::
+,
+Potter person%1:03:00::
+,
+Tong person%1:03:00::
+,
+and
+Chaikoff person%1:03:00::
+,
+1956
+;
+Serif person%1:03:00::
+and
+Kirkwood person%1:03:00::
+,
+1958
+;
+De_Groot person%1:03:00::
+and
+Carvalho person%1:03:00::
+,
+1960
+)
+.
+This
+iodoprotein iodoprotein%1:27:00::
+does
+not not%4:02:00::
+appear appear%2:39:00::
+to
+be be%2:42:03::
+the
+same same%3:00:02::
+as
+what
+is be%2:42:04::
+normally normally%4:02:00::
+present present%3:00:02::
+in
+the
+thyroid thyroid%1:08:00::
+,
+and
+there
+is be%2:42:00::
+no no%3:00:00::
+evidence evidence%1:09:00::
+so_far so_far%4:02:00::
+that
+thyroglobulin thyroglobulin%1:27:00::
+can
+be
+iodinated iodinate%2:30:00::
+in_vitro in_vitro%3:00:00::
+by
+cell-free cell-free%5:00:00:noncellular:00
+systems system%1:27:00::
+.
+In_addition in_addition%4:02:00::
+,
+the
+iodoamino_acid iodoamino_acid%1:27:00::
+formed form%2:36:00::
+in
+largest largest%5:00:00:maximal:00
+quantity quantity%1:03:00::
+in
+the
+intact intact%5:00:00:whole:00
+thyroid thyroid%1:08:00::
+is be%2:42:06::
+di-iodotyrosine di-iodotyrosine%1:27:00::
+.
+If
+tyrosine tyrosine%1:27:00::
+and
+a
+system system%1:27:00::
+generating generate%2:36:02::
+hydrogen_peroxide hydrogen_peroxide%1:27:00::
+are
+added add%2:30:00::
+to
+a
+cell-free cell-free%5:00:00:noncellular:00
+homogenate homogenate%1:27:00::
+of
+the
+thyroid thyroid%1:08:00::
+,
+large large%3:00:00::
+quantities quantity%1:03:00::
+of
+free free%3:00:02::
+mono-iodotyrosine mono-iodotyrosine%1:27:00::
+can
+be be%2:42:03::
+formed form%2:36:00::
+(
+Alexander person%1:03:00::
+,
+1959
+)
+.
+It
+is be%2:42:03::
+not not%4:02:00::
+clear clear%3:00:00::
+whether
+this
+system system%1:27:00::
+bears bear%2:42:01::
+any any%5:00:00:some(a):00
+resemblance resemblance%1:07:00::
+to
+the
+in_vivo in_vivo%4:02:00::
+iodinating iodinating%3:00:00::
+mechanism mechanism%1:22:00::
+,
+and
+a
+system system%1:27:00::
+generating generate%2:36:02::
+peroxide peroxide%1:27:00::
+has
+not not%4:02:00::
+been
+identified identify%2:31:00::
+in
+thyroid thyroid%1:08:00::
+tissue tissue%1:08:00::
+.
+On
+chemical chemical%3:01:00::
+grounds grounds%1:09:00::
+it
+seems seem%2:39:00::
+most most%4:02:01::
+likely likely%3:00:00::
+that
+iodide iodide%1:27:00::
+is
+first first%4:02:00::
+converted convert%2:30:03::
+to
+*
+*
+f
+and
+then then%4:02:00::
+to
+*
+*
+f
+as
+the
+active active%3:00:02::
+iodinating iodinating%3:00:00::
+species species%1:09:00::
+.
+In
+the
+thyroid_gland thyroid_gland%1:08:00::
+it
+appears appear%2:39:01::
+that
+proteins protein%1:27:00::
+(
+chiefly chiefly%4:02:00::
+thyroglobulin thyroglobulin%1:27:00::
+)
+are be%2:42:03::
+iodinated iodinated%3:01:00::
+and
+that
+free free%3:00:02::
+tyrosine tyrosine%1:27:00::
+and
+thyronine thyronine%1:27:00::
+are be%2:42:03::
+not not%4:02:00::
+iodinated iodinated%3:01:00::
+.
+Iodination iodination%1:22:00::
+of
+tyrosine tyrosine%1:27:00::
+,
+however however%4:02:00::
+,
+is be%2:42:03::
+not not%4:02:00::
+enough enough%5:00:00:sufficient:00
+for
+the
+synthesis synthesis%1:22:00::
+of
+hormone hormone%1:08:00::
+.
+The
+mono mono-iodotyrosine%1:27:00::
+-
+and
+di-iodotyrosine di-iodotyrosine%1:27:00::
+must
+be
+coupled couple%2:35:01::
+to
+form form%2:36:00::
+tri-iodothyronine tri-iodothyronine%1:27:00::
+and
+thyroxine thyroxine%1:08:00::
+.
+The
+mechanism mechanism%1:22:00::
+of
+this
+coupling coupling%1:06:01::
+has
+been
+studied study%2:31:02::
+in
+some
+detail detail%1:09:00::
+with
+non-enzymatic nonenzymatic%3:01:00::
+systems system%1:27:00::
+in_vitro in_vitro%3:00:00::
+and
+can
+be
+simulated simulate%2:36:04::
+by
+certain certain%5:00:00:definite:00
+di-iodotyrosine di-iodotyrosine%1:27:00::
+analogues analogue%1:07:00::
+(
+Pitt-Rivers person%1:03:00::
+and
+James person%1:03:00::
+,
+1958
+)
+.
+There
+is be%2:42:00::
+so_far so_far%4:02:00::
+no
+evidence evidence%1:09:00::
+to
+indicate indicate%2:32:02::
+conclusively conclusively%4:02:00::
+that
+this
+coupling coupling%1:06:01::
+is be%2:42:03::
+under
+enzymatic enzymatic%3:01:00::
+control control%1:24:00::
+.
+The
+chemical chemical%3:01:00::
+nature nature%1:07:02::
+of
+the
+iodocompounds iodocompound%1:27:00::
+is
+discussed discuss%2:32:01::
+below below%4:02:00::
+(
+pp.
+76
+et_seq.
+)
+.
+Little little%1:23:00::
+is
+known know%2:31:01::
+of
+the
+synthetic synthetic%5:00:00:artificial:00
+mechanisms mechanism%1:22:00::
+for
+formation formation%1:04:00::
+of
+thyroglobulin thyroglobulin%1:27:00::
+.
+Its
+synthesis synthesis%1:22:00::
+has
+not not%4:02:00::
+been
+demonstrated demonstrate%2:31:00::
+in
+cell-free cell-free%5:00:00:noncellular:00
+systems system%1:27:00::
+,
+nor
+has
+its
+synthesis synthesis%1:22:00::
+by
+systems system%1:27:00::
+with
+intact intact%5:00:00:whole:00
+thyroid thyroid%1:08:00::
+cells cell%1:03:00::
+in_vitro in_vitro%3:00:00::
+been
+unequivocally unequivocally%4:02:01::
+proven prove%2:31:00::
+.
+There
+is be%2:42:00::
+some
+reason reason%1:16:00::
+to
+think think%2:31:03::
+that
+thyroglobulin thyroglobulin%1:27:00::
+synthesis synthesis%1:22:00::
+may
+proceed proceed%2:38:00::
+independently independently%4:02:00::
+of
+iodination iodination%1:22:00::
+,
+for
+in
+certain certain%5:00:00:definite:00
+transplantable transplantable%5:00:00:mobile:00
+tumours tumour%1:26:00::
+of
+the
+rat rat%1:05:00::
+thyroid thyroid%1:08:00::
+containing contain%2:42:00::
+essentially essentially%4:02:01::
+no no%3:00:00::
+iodinated iodinated%3:01:00::
+thyroglobulin thyroglobulin%1:27:00::
+,
+a
+protein protein%1:27:00::
+that
+appears appear%2:39:00::
+to
+be be%2:42:06::
+thyroglobulin thyroglobulin%1:27:00::
+has
+been
+observed observe%2:39:02::
+in
+ultracentrifuge ultracentrifuge%1:06:00::
+experiments experiment%1:09:00::
+(
+Wolff person%1:03:00::
+,
+Robbins person%1:03:00::
+and
+Rall person%1:03:00::
+,
+1959
+)
+.
+Similar similar%3:00:00::
+findings finding%1:04:00::
+have
+been
+noted note%2:32:01::
+in
+a
+patient patient%1:18:00::
+with
+congenital congenital%5:00:00:noninheritable:00
+absence absence%1:26:00::
+of
+the
+organification organification%1:22:00::
+enzymes enzyme%1:27:00::
+,
+whose
+thyroid thyroid%1:08:00::
+tissue tissue%1:08:00::
+could
+only only%4:02:01::
+concentrate concentrate%2:30:01::
+iodide iodide%1:27:00::
+.
+In_addition in_addition%4:02:00::
+,
+depending_on depending_on%5:00:00:conditional:00
+availability availability%1:07:00::
+of
+dietary dietary%3:01:00::
+iodine iodine%1:27:00::
+,
+thyroglobulin thyroglobulin%1:27:00::
+may
+contain contain%2:42:00::
+varying vary%2:30:01::
+quantities quantity%1:03:00::
+of
+iodine iodine%1:27:00::
+.
+Since
+the
+circulating circulating%5:00:00:moving:02
+thyroid_hormones thyroid_hormone%1:08:00::
+are be%2:42:06::
+the
+amino_acids amino_acid%1:27:00::
+thyroxine thyroxine%1:08:00::
+and
+tri-iodothyronine tri-iodothyronine%1:27:00::
+(
+cf.
+Section section%1:10:00::
+C
+)
+,
+it
+is be%2:42:03::
+clear clear%3:00:00::
+that
+some
+mechanism mechanism%1:17:00::
+must
+exist exist%2:42:00::
+in
+the
+thyroid_gland thyroid_gland%1:08:00::
+for
+their
+release release%1:22:00::
+from
+proteins protein%1:27:00::
+before
+secretion secretion%1:22:00::
+.
+The
+presence presence%1:26:00::
+of
+several several%5:00:00:some(a):00
+proteases protease%1:27:00::
+and
+peptidases peptidase%1:27:00::
+has
+been
+demonstrated demonstrate%2:31:00::
+in
+the
+thyroid thyroid%1:08:00::
+.
+One one%5:00:00:cardinal:00
+of
+the
+proteases protease%1:27:00::
+has have%2:42:00::
+pH ph%1:07:00::
+optimum optimum%5:00:00:best:00
+of
+about
+3.7
+and
+another
+of
+about
+5.7
+(
+McQuillan person%1:03:00::
+,
+Stanley person%1:03:00::
+and
+Trikojus person%1:03:00::
+,
+1954
+;
+Alpers person%1:03:00::
+,
+Robbins person%1:03:00::
+and
+Rall person%1:03:00::
+,
+1955
+)
+.
+The
+finding finding%1:04:00::
+that
+the
+concentration concentration%1:07:02::
+of
+one one%5:00:00:cardinal:00
+of
+these
+proteases protease%1:27:00::
+is
+increased increase%2:30:02::
+in
+thyroid_glands thyroid_gland%1:08:00::
+from
+TSH tsh%1:27:00::
+treated treat%2:30:01::
+animals animal%1:03:00::
+suggests suggest%2:32:04::
+that
+this
+protease protease%1:27:00::
+may
+be be%2:42:03::
+active active%3:00:02::
+in_vivo in_vivo%4:02:00::
+.
+There
+is be%2:42:00::
+no no%3:00:00::
+conclusive conclusive%3:00:00::
+evidence evidence%1:09:00::
+yet yet%4:02:04::
+that
+either
+of
+the
+proteases protease%1:27:00::
+has
+been
+prepared prepare%2:30:00::
+in
+highly highly%4:02:02::
+purified purify%2:30:00::
+form form%1:09:01::
+nor
+is
+their
+specificity specificity%1:07:01::
+known know%2:31:01::
+.
+A
+study study%1:04:00::
+of
+their
+activity activity%1:22:00::
+on
+thyroglobulin thyroglobulin%1:27:00::
+has
+shown show%2:39:03::
+that
+thyroxine thyroxine%1:08:00::
+is
+not not%4:02:00::
+preferentially preferentially%4:02:00::
+released release%2:29:00::
+and
+that
+the
+degradation degradation%1:04:00::
+proceeds proceed%2:38:00::
+stepwise stepwise%5:00:00:gradual:01
+with
+the
+formation formation%1:04:00::
+of
+macromolecular macromolecular%3:01:00::
+intermediates intermediate%1:27:00::
+(
+Alpers person%1:03:00::
+,
+Petermann person%1:03:00::
+and
+Rall person%1:03:00::
+,
+1956
+)
+.
+Besides
+proteolytic proteolytic%3:01:00::
+enzymes enzyme%1:27:00::
+the
+thyroid thyroid%1:08:00::
+possesses possess%2:42:00::
+de-iodinating de-iodinating%3:00:00::
+enzymes enzyme%1:27:00::
+.
+A
+microsomal microsomal%3:01:00::
+de-iodinase de-iodinase%1:27:00::
+with
+a
+pH ph%1:07:00::
+optimum optimum%5:00:00:best:00
+of
+around
+8
+,
+and
+requiring require%2:42:00::
+reduced reduced%3:00:04::
+triphosphopyridine_nucleotide triphosphopyridine_nucleotide%1:27:00::
+for
+activity activity%1:22:00::
+,
+has
+been
+identified identify%2:31:00::
+in
+the
+thyroid thyroid%1:08:00::
+(
+Stanbury person%1:03:00::
+,
+1957
+)
+.
+This
+de-iodinating de-iodinating%3:00:00::
+enzyme enzyme%1:27:00::
+is be%2:42:03::
+effective effective%3:00:00::
+against
+mono mono-iodotyrosine%1:27:00::
+-
+and
+di-iodotyrosine di-iodotyrosine%1:27:00::
+,
+but
+does
+not not%4:02:00::
+de-iodinate de-iodinate%2:30:00::
+thyroxine thyroxine%1:08:00::
+or
+tri-iodothyronine tri-iodothyronine%1:27:00::
+.
+It
+is
+assumed assume%2:31:00::
+that
+the
+iodine iodine%1:27:00::
+released release%2:29:00::
+from
+the
+iodotyrosines iodotyrosine%1:27:00::
+remains remain%2:42:01::
+in
+the
+iodide iodide%1:27:00::
+pool pool%1:21:00::
+of
+the
+thyroid thyroid%1:08:00::
+,
+where
+it
+is
+oxidised oxidise%2:30:00::
+and
+re-incorporated re-incorporate%2:30:00::
+into
+thyroglobulin thyroglobulin%1:27:00::
+.
+The
+thyroxine thyroxine%1:08:00::
+and
+tri-iodothyronine tri-iodothyronine%1:27:00::
+released release%2:29:00::
+by
+proteolysis proteolysis%1:22:00::
+and
+so
+escaping escape%2:32:00::
+de-iodination de-iodination%1:22:00::
+presumably presumably%4:02:00::
+diffuse diffuse%2:38:00::
+into
+the
+blood_stream bloodstream%1:08:00::
+.
+It
+has
+been
+shown show%2:39:03::
+that
+thyroglobulin thyroglobulin%1:27:00::
+binds bind%2:35:00::
+thyroxine thyroxine%1:08:00::
+,
+but
+the
+binding binding%1:07:00::
+does
+not not%4:02:00::
+appear appear%2:39:00::
+to
+be be%2:42:03::
+particularly particularly%4:02:00::
+strong strong%3:00:00::
+.
+It
+has
+been
+suggested suggest%2:32:00::
+that
+the
+plasma plasma%1:08:00::
+thyroxine thyroxine%1:08:00::
+binding binding%1:07:00::
+proteins protein%1:27:00::
+,
+which
+have have%2:42:00::
+an
+extremely extremely%4:02:02::
+high high%3:00:02::
+affinity affinity%1:19:02::
+for
+thyroxine thyroxine%1:08:00::
+,
+compete compete%2:33:00::
+with
+thyroglobulin thyroglobulin%1:27:00::
+for
+thyroxine thyroxine%1:08:00::
+(
+Ingbar person%1:03:00::
+and
+Freinkel person%1:03:00::
+,
+1957
+)
+.
+Antithyroid antithyroid%3:01:00::
+drugs drug%1:06:00::
+are be%2:42:03::
+of
+two two%5:00:00:cardinal:00
+general general%3:00:00::
+types type%1:09:00::
+.
+One one%5:00:00:cardinal:00
+type type%1:09:00::
+has have%2:42:00::
+a
+small small%3:00:00::
+univalent univalent%3:00:02::
+anion anion%1:17:00::
+of
+the
+thiocyanate thiocyanate%1:27:00::
+perchlorate perchlorate%1:27:00::
+fluoroboride fluoroboride%1:27:00::
+type type%1:09:00::
+.
+This
+ion ion%1:17:00::
+inhibits inhibit%2:30:00::
+thyroid_hormone thyroid_hormone%1:08:00::
+synthesis synthesis%1:22:00::
+by
+interfering interfere%2:41:01::
+with
+iodide iodide%1:27:00::
+concentration concentration%1:07:02::
+in
+the
+thyroid thyroid%1:08:00::
+.
+It
+does
+not not%4:02:00::
+appear appear%2:39:00::
+to
+affect affect%2:30:00::
+the
+iodinating iodinating%3:00:00::
+mechanism mechanism%1:22:00::
+as_such as_such%4:02:00::
+.
+The
+other other%3:00:00::
+group group%1:03:00::
+of
+antithyroid antithyroid%3:01:00::
+agents agent%1:27:00::
+or
+drugs drug%1:06:00::
+is
+typified typify%2:42:00::
+by
+thiouracil thiouracil%1:27:00::
+.
+These
+drugs drug%1:06:00::
+have have%2:40:00::
+no no%3:00:00::
+effect effect%1:19:00::
+on
+the
+iodide iodide%1:27:00::
+concentrating concentrate%2:30:01::
+mechanism mechanism%1:17:00::
+,
+but
+they
+inhibit inhibit%2:30:00::
+organification organification%1:22:00::
+.
+The
+mechanism mechanism%1:22:00::
+of
+action action%1:26:00::
+of
+these
+drugs drug%1:06:00::
+has
+not not%4:02:00::
+been
+completely completely%4:02:03::
+worked_out work_out%2:30:00::
+,
+but
+certain certain%5:00:00:definite:00
+of
+them
+appear appear%2:39:00::
+to
+act act%2:41:00::
+by
+reducing reduce%2:30:03::
+the
+oxidised oxidised%3:44:00::
+form form%1:09:01::
+of
+iodine iodine%1:27:00::
+before
+it
+can
+iodinate iodinate%2:30:00::
+thyroglobulin thyroglobulin%1:27:00::
+(
+Astwood person%1:03:00::
+,
+1954
+)
+.
+On_the_other_hand on_the_other_hand%4:02:00::
+,
+there
+are be%2:42:00::
+a_few a_few%5:00:00:few:00
+antithyroid antithyroid%3:01:00::
+drugs drug%1:06:00::
+of
+this
+same same%3:00:02::
+general general%3:00:00::
+type type%1:09:00::
+,
+such such%5:00:01:specified:00
+as
+resorcinol resorcinol%1:27:00::
+,
+possessing possess%2:42:00::
+no no%3:00:00::
+reducing reducing%1:22:00::
+activity activity%1:22:00::
+and
+possibly possibly%4:02:00::
+acting act%2:41:00::
+through
+formation formation%1:04:00::
+of
+a
+complex complex%1:27:00::
+with
+molecular molecular%3:01:00::
+iodine iodine%1:27:00::
+.
+Any
+of
+the
+antithyroid antithyroid%3:01:00::
+drugs drug%1:06:00::
+,
+of
+either
+type type%1:09:00::
+,
+if
+given give%2:40:13::
+in
+large large%3:00:00::
+enough enough%5:00:00:sufficient:00
+doses dose%1:06:00::
+for
+a
+long long%3:00:02::
+period_of_time period_of_time%1:28:00::
+will
+cause cause%2:36:00::
+goitre goitre%1:26:00::
+,
+owing owing%5:00:00:unpaid:00
+to
+inhibition inhibition%1:04:00::
+of
+thyroid_hormone thyroid_hormone%1:08:00::
+synthesis synthesis%1:22:00::
+,
+with
+production production%1:04:00::
+of
+hypothyroidism hypothyroidism%1:26:00::
+.
+The
+anterior anterior%3:00:00::
+lobe lobe%1:08:00::
+of
+the
+pituitary pituitary%1:08:00::
+then then%4:02:00::
+responds respond%2:31:00::
+by
+an
+increased increased%3:00:00::
+output output%1:06:00::
+of
+TSH tsh%1:27:00::
+,
+causing cause%2:36:00::
+the
+thyroid thyroid%1:08:00::
+to
+enlarge enlarge%2:30:03::
+.
+The
+effect effect%1:19:00::
+of
+drugs drug%1:06:00::
+that
+act_on act_on%2:41:00::
+the
+iodide iodide%1:27:00::
+concentrating concentrate%2:30:01::
+mechanism mechanism%1:22:00::
+can
+be
+counteracted counteract%2:41:00::
+by
+addition addition%1:04:02::
+of
+relatively relatively%4:02:00::
+large large%3:00:00::
+amounts amount%1:07:00::
+of
+iodine iodine%1:27:00::
+to
+the
+diet diet%1:13:00::
+.
+The
+antithyroid antithyroid%3:01:00::
+drugs drug%1:06:00::
+of
+the
+thiouracil thiouracil%1:27:00::
+type type%1:09:00::
+,
+however however%4:02:00::
+,
+are
+not not%4:02:00::
+antagonised antagonise%2:41:00::
+by
+such such%5:00:01:specified:00
+means means%1:06:00::
+.
+Besides
+those
+of
+the
+thiouracil thiouracil%1:27:00::
+and
+resorcinol resorcinol%1:27:00::
+types type%1:09:00::
+,
+certain certain%5:00:00:definite:00
+antithyroid antithyroid%3:01:00::
+drugs drug%1:06:00::
+have
+been
+found find%2:39:02::
+in
+naturally naturally%4:02:01::
+occurring occur%2:30:00::
+foods food%1:03:00::
+.
+The
+most most%4:02:00::
+conclusively conclusively%4:02:00::
+identified identify%2:31:00::
+is be%2:42:06::
+L
+-
+5
+-
+vinyl vinyl%1:27:00::
+-
+2
+-
+thio_oxazolidone
+,
+which
+was
+isolated isolate%2:30:01::
+from
+rutabaga rutabaga%1:13:00::
+(
+Greer person%1:03:00::
+,
+1950
+)
+.
+It
+is
+presumed presume%2:31:00::
+to
+occur occur%2:30:00::
+in
+other other%3:00:00::
+members member%1:24:00::
+of
+the
+Brassica brassica%1:20:00::
+family family%1:14:03::
+.
+There
+is be%2:42:00::
+some some%3:00:00::
+evidence evidence%1:09:00::
+that
+naturally naturally%4:02:01::
+occurring occur%2:30:00::
+goitrogens goitrogen%1:27:00::
+may
+play play%2:41:12::
+a
+role role%1:04:00::
+in
+the
+development development%1:22:01::
+of
+goitre goitre%1:26:00::
+,
+particularly particularly%4:02:00::
+in
+Tasmania location%1:03:00::
+and
+Australia location%1:03:00::
+(
+Clements person%1:03:00::
+and
+Wishart person%1:03:00::
+,
+1956
+)
+.
+There
+it
+seems seem%2:39:01::
+that
+the
+goitrogen goitrogen%1:27:00::
+ingested ingest%2:34:00::
+by
+dairy dairy%1:06:00::
+animals animal%1:03:00::
+is be%2:42:03::
+itself
+inactive inactive%3:00:02::
+but
+is
+converted convert%2:30:03::
+in
+the
+animal animal%1:03:00::
+to
+an
+active active%3:00:02::
+goitrogen goitrogen%1:27:00::
+,
+which
+is
+then then%4:02:00::
+secreted secrete%2:29:00::
+in
+the
+milk milk%1:13:01::
+.
+Besides
+the
+presence presence%1:26:00::
+of
+goitrogens goitrogen%1:27:00::
+in
+the
+diet diet%1:13:00::
+,
+the
+level level%1:07:00::
+of
+iodine iodine%1:27:00::
+itself
+in
+the
+diet diet%1:13:00::
+plays play%2:41:12::
+a
+major major%3:00:01::
+role role%1:04:00::
+in
+governing govern%2:41:02::
+the
+activity activity%1:22:00::
+of
+the
+thyroid_gland thyroid_gland%1:08:00::
+.
+In
+the
+experimental experimental%3:01:00::
+animal animal%1:03:00::
+and
+in
+man man%1:05:01::
+gross gross%5:00:00:macroscopic:00
+deficiency deficiency%1:26:00::
+in
+dietary dietary%3:01:00::
+iodine iodine%1:27:00::
+causes cause%2:36:00::
+thyroid thyroid%1:08:00::
+hyperplasia hyperplasia%1:26:00::
+,
+hypertrophy hypertrophy%1:26:00::
+and
+increased increased%3:00:00::
+thyroid thyroid%1:08:00::
+activity activity%1:22:00::
+(
+Money person%1:03:00::
+,
+Rall person%1:03:00::
+and
+Rawson person%1:03:00::
+,
+1952
+;
+Stanbury person%1:03:00::
+,
+Brownell person%1:03:00::
+,
+Riggs person%1:03:00::
+,
+Perinetti person%1:03:00::
+,
+Itoiz person%1:03:00::
+,
+and
+Del_Castillo person%1:03:00::
+,
+1954
+)
+.
+In
+man man%1:05:01::
+the
+normal normal%3:00:01::
+level level%1:07:00::
+of
+iodine iodine%1:27:00::
+in
+the
+diet diet%1:13:00::
+and
+the
+level level%1:07:00::
+necessary necessary%3:00:00::
+to
+prevent prevent%2:41:01::
+development development%1:22:01::
+of
+goitre goitre%1:26:00::
+is be%2:42:03::
+about about%4:02:00::
+100 100%5:00:00:cardinal:00
+|
+mg mg%1:23:00::
+per
+day day%1:28:00::
+.
+With
+lower low%3:00:02::
+levels level%1:07:00::
+,
+thyroid thyroid%1:08:00::
+hypertrophy hypertrophy%1:26:00::
+and
+increased increased%3:00:00::
+thyroid thyroid%1:08:00::
+blood blood%1:08:00::
+flow flow%1:04:00::
+enable enable%2:30:00::
+the
+thyroid thyroid%1:08:00::
+to
+accumulate accumulate%2:35:00::
+a
+larger larger%5:00:00:large:00
+proportion proportion%1:24:00::
+of
+the
+daily daily%3:01:00::
+intake intake%1:04:00::
+of
+iodine iodine%1:27:00::
+.
+Further further%4:02:03::
+,
+the
+gland gland%1:08:00::
+is be%2:42:03::
+able able%3:00:00::
+to
+re-use reuse%2:34:00::
+a
+larger larger%5:00:00:large:00
+fraction fraction%1:06:00::
+of
+the
+thyroid_hormone thyroid_hormone%1:08:00::
+de-iodinated de-iodinate%2:30:00::
+peripherally peripherally%4:02:00::
+.
+In
+the
+presence presence%1:26:00::
+of
+a
+low low%3:00:02::
+iodine iodine%1:27:00::
+intake intake%1:04:00::
+,
+thyroglobulin thyroglobulin%1:27:00::
+labelled label%2:31:01::
+in_vivo in_vivo%4:02:00::
+with
+*
+*
+f
+is
+found find%2:32:00::
+to
+contain contain%2:42:00::
+more more%3:00:01::
+mono-iodotyrosine mono-iodotyrosine%1:27:00::
+than
+normal normal%3:00:01::
+,
+the
+amounts amount%1:07:00::
+of
+di-iodotyrosine di-iodotyrosine%1:27:00::
+and
+iodothyronines iodothyronine%1:27:00::
+being
+correspondingly correspondingly%4:02:00::
+reduced reduce%2:30:00::
+.
+This
+appears appear%2:39:00::
+to
+result result%2:42:00::
+from
+both
+a
+reduced reduced%3:00:04::
+amount amount%1:03:00::
+of
+the
+iodine iodine%1:27:00::
+substrate substrate%1:27:00::
+and
+a
+more more%4:02:00::
+rapid rapid%5:00:00:fast:01
+secretion secretion%1:22:00::
+of
+newly newly%4:02:00::
+iodinated iodinated%3:01:00::
+thyroglobulin thyroglobulin%1:27:00::
+.
+If
+the
+deficiency deficiency%1:26:00::
+persists persist%2:42:00::
+long long%4:02:00::
+enough enough%4:02:00::
+,
+it
+is be%2:42:03::
+reasonable reasonable%3:00:00::
+to
+suppose suppose%2:31:01::
+that
+the
+*
+*
+f
+label label%1:27:00::
+will
+reflect reflect%2:39:00::
+the
+*
+*
+f
+distribution distribution%1:09:00::
+in
+the
+thyroglobulin thyroglobulin%1:27:00::
+.
+Similar similar%3:00:00::
+results result%1:19:00::
+might
+be
+expected expect%2:31:00::
+from
+the
+influence influence%1:04:00::
+of
+drugs drug%1:06:00::
+or
+pathological pathological%3:01:00::
+conditions condition%1:26:00::
+that
+limit limit%2:30:01::
+iodide iodide%1:27:00::
+trapping trap%2:35:00::
+,
+or
+organification organification%1:22:00::
+,
+or
+accelerate accelerate%2:30:00::
+thyroglobulin thyroglobulin%1:27:00::
+proteolysis proteolysis%1:22:00::
+.
+The
+name name%1:10:00::
+thyroid-stimulating_hormone thyroid-stimulating_hormone%1:27:00::
+(
+TSH tsh%1:27:00::
+)
+has
+been
+given give%2:40:00::
+to
+a
+substance substance%1:03:00::
+found find%2:39:02::
+in
+the
+anterior anterior%3:00:00::
+pituitary_gland pituitary_gland%1:08:00::
+of
+all all%3:00:00::
+species species%1:14:00::
+of
+animal animal%1:03:00::
+so_far so_far%4:02:00::
+tested test%2:41:01::
+for
+its
+presence presence%1:26:00::
+.
+The
+hormone hormone%1:08:00::
+has
+also also%4:02:00::
+been
+called called%5:00:01:titled:00
+thyrotrophin thyrotrophin%1:27:00::
+or
+thyrotrophic_hormone thyrotrophic_hormone%1:27:00::
+.
+At
+the
+present_time present_time%1:28:00::
+we
+do
+not not%4:02:00::
+know know%2:31:01::
+by
+what
+biochemical_mechanism biochemical_mechanism%1:22:00::
+TSH tsh%1:27:00::
+acts_on act_on%2:41:00::
+the
+thyroid thyroid%1:08:00::
+,
+but
+for
+bio-assay bioassay%1:09:00::
+of
+the
+hormone hormone%1:08:00::
+there
+are be%2:42:00::
+a
+number number%1:07:00::
+of
+properties property%1:07:00::
+by
+which
+its
+activity activity%1:22:00::
+may
+be
+estimated estimate%2:31:01::
+,
+including include%2:42:00::
+release release%1:22:00::
+of
+iodine iodine%1:27:00::
+from
+the
+thyroid thyroid%1:08:00::
+,
+increase increase%1:22:00::
+in
+thyroid thyroid%1:08:00::
+weight weight%1:07:00::
+,
+increase increase%1:22:00::
+in
+mean mean%5:00:00:normal:01
+height height%1:26:00::
+of
+the
+follicular follicular%3:01:00::
+cells cell%1:03:00::
+and
+increase increase%1:22:00::
+in
+the
+thyroidal thyroidal%3:01:00::
+uptake uptake%1:04:00::
+of
+*
+*
+f
+.
+Here here%4:02:02::
+we
+shall
+restrict restrict%2:30:00::
+discussion discussion%1:10:00::
+to
+those
+methods method%1:09:00::
+that
+appear appear%2:39:00::
+sufficiently sufficiently%4:02:00::
+sensitive sensitive%3:00:01::
+and
+precise precise%3:00:00::
+for
+determining determine%2:32:00::
+the
+concentration concentration%1:07:02::
+of
+TSH tsh%1:27:00::
+in
+blood blood%1:08:00::
+.
+Brown person%1:03:00::
+(
+1959
+)
+has
+reviewed review%2:31:00::
+generally generally%4:02:01::
+the
+various various%5:00:00:individual:00
+methods method%1:09:00::
+of
+assaying assay%2:31:00::
+TSH tsh%1:27:00::
+,
+and
+the
+reader reader%1:18:00::
+is
+referred refer%2:38:00::
+to
+her
+paper paper%1:10:01::
+for
+further further%5:00:00:added:00
+information information%1:09:00::
+on
+the
+subject subject%1:09:01::
+.
+As
+long_ago long_ago%4:02:00::
+as
+1851
+it
+was
+pointed_out point_out%2:32:01::
+by
+Niepce person%1:03:00::
+(
+1851
+)
+that
+there
+is be%2:42:00::
+a
+connection connection%1:26:00::
+between
+the
+pituitary pituitary%1:08:00::
+and
+the
+thyroid thyroid%1:08:00::
+.
+.
+This
+connection connection%1:26:00::
+was
+clarified clarify%2:30:00::
+by
+Smith person%1:03:00::
+and
+Smith person%1:03:00::
+(
+1922
+)
+,
+who
+showed show%2:39:03::
+that
+saline saline%5:00:00:salt:00
+extracts extract%1:27:00::
+of
+fresh fresh%3:00:02::
+bovine bovine%3:01:00::
+pituitary_glands pituitary_gland%1:08:00::
+could
+re-activate reactivate%2:30:00::
+the
+atrophied atrophied%3:00:00::
+thyroids thyroid%1:08:00::
+of
+hypophysectomised hypophysectomised%3:44:00::
+tadpoles tadpole%1:05:00::
+.
+The
+first first%5:00:00:ordinal:00
+attempts attempt%1:04:00::
+to
+isolate isolate%2:30:01::
+TSH tsh%1:27:00::
+came come%2:30:01::
+a
+decade decade%1:28:00::
+later later%4:02:01::
+,
+when
+Janssen person%1:03:00::
+and
+Loeser person%1:03:00::
+(
+1931
+)
+used use%2:34:01::
+trichloroacetic_acid trichloroacetic_acid%1:27:00::
+to
+separate separate%2:30:03::
+the
+soluble soluble%3:00:01::
+TSH tsh%1:27:00::
+from
+insoluble insoluble%3:00:01::
+impurities impurity%1:26:00::
+.
+After
+their
+work work%1:06:00::
+other other%3:00:00::
+investigators investigator%1:18:01::
+applied apply%2:41:05::
+salt salt%1:27:00::
+fractionation fractionation%1:22:00::
+techniques technique%1:09:00::
+to
+the
+problem problem%1:10:00::
+,
+as_well_as
+fractionation fractionation%1:22:00::
+with
+organic organic%3:00:01::
+solvents solvent%1:27:00::
+,
+such_as such_as%5:00:00:specified:00
+acetone acetone%1:27:00::
+.
+Albert person%1:03:00::
+(
+1949
+)
+has
+concluded conclude%2:31:00::
+that
+the
+most most%4:02:00::
+active active%3:00:02::
+preparations preparation%1:27:00::
+of
+TSH tsh%1:27:00::
+made make%2:36:11::
+during
+this
+period period%1:28:00::
+,
+from
+1931
+to
+1945
+,
+were be%2:42:03::
+probably probably%4:02:00::
+about
+100 100%5:00:00:cardinal:00
+to
+300
+times
+as
+potent potent%3:00:00::
+as
+the
+starting starting%1:04:00::
+material material%1:27:00::
+.
+Much much%3:00:00::
+of
+this
+work work%1:09:00::
+has
+been
+reviewed review%2:31:00::
+by
+White person%1:03:00::
+(
+1944
+)
+and
+by
+Albert person%1:03:00::
+(
+1949
+)
+.
+Developments development%1:11:01::
+up_to
+about
+1957
+have
+been
+discussed discuss%2:32:01::
+by
+Sonenberg person%1:03:00::
+(
+1958
+)
+.
+In
+the
+last last%5:00:00:past:00
+few few%3:00:00::
+years year%1:28:01::
+,
+the
+application application%1:04:02::
+of
+chromatographic chromatographic%3:01:00::
+and
+other other%3:00:00::
+modern modern%3:00:00::
+techniques technique%1:09:00::
+to
+the
+problem problem%1:26:00::
+of
+isolating isolate%2:30:01::
+TSH tsh%1:27:00::
+has
+led lead%2:42:04::
+to
+further further%5:00:00:added:00
+purification purification%1:04:00::
+(
+Bates person%1:03:00::
+and
+Condliffe person%1:03:00::
+,
+1960
+;
+Pierce person%1:03:00::
+,
+Carsten person%1:03:00::
+and
+Wynston person%1:03:00::
+,
+1960
+)
+.
+The
+most most%4:02:00::
+active active%3:00:02::
+preparations preparation%1:27:00::
+obtained obtain%2:40:00::
+by
+these
+two two%5:00:00:cardinal:00
+groups group%1:03:00::
+of
+investigators investigator%1:18:01::
+appear appear%2:39:00::
+to
+be be%2:42:03::
+similar similar%3:00:00::
+in
+potency potency%1:07:00::
+,
+composition composition%1:07:01::
+and
+physical_properties physical_property%1:07:00::
+.
+Two two%5:00:00:cardinal:00
+problems problem%1:10:00::
+present present%2:32:00::
+themselves
+in
+considering consider%2:39:00::
+any
+hormone hormone%1:08:00::
+in
+blood blood%1:08:00::
+.
+First first%4:02:00::
+,
+is be%2:42:03::
+the
+circulating circulating%5:00:00:moving:02
+form form%1:09:01::
+of
+the
+hormone hormone%1:08:00::
+the
+same same%3:00:02::
+as
+that
+found find%2:40:02::
+in
+the
+gland gland%1:08:00::
+where
+it
+is
+synthesised synthesise%2:31:00::
+and
+stored store%2:40:02::
+?
+Second second%5:00:00:ordinal:00
+,
+what
+is be%2:42:03::
+its
+concentration concentration%1:07:02::
+in
+normal normal%3:00:01::
+circumstances circumstance%1:26:01::
+and
+in
+what
+circumstances circumstance%1:26:01::
+will
+this
+concentration concentration%1:07:02::
+depart depart%2:42:00::
+from
+the
+normal normal%3:00:01::
+level level%1:07:00::
+and
+in
+which
+direction direction%1:24:00::
+?
+It
+is be%2:42:03::
+therefore therefore%4:02:00::
+necessary necessary%3:00:00::
+to
+consider consider%2:32:00::
+the
+properties property%1:07:00::
+of
+pituitary pituitary%1:08:00::
+TSH tsh%1:27:00::
+if
+the
+fragmentary fragmentary%5:00:00:fractional:00
+chemical chemical%3:01:00::
+information information%1:09:00::
+about
+blood blood%1:08:00::
+TSH tsh%1:27:00::
+is
+to
+be
+discussed discuss%2:32:01::
+rationally rationally%4:02:00::
+.
+The
+importance importance%1:07:00::
+of
+knowing know%2:31:01::
+in
+what
+chemical chemical%1:27:00::
+forms form%1:09:00::
+the
+hormone hormone%1:08:00::
+may
+exist exist%2:42:00::
+is
+accentuated accentuate%2:30:00::
+by
+the
+recent recent%5:00:00:new:00
+observation observation%1:04:00::
+that
+there
+exists exist%2:42:00::
+an
+abnormally abnormally%4:02:00::
+long-acting long-acting%5:00:00:long:02
+TSH tsh%1:27:00::
+in
+blood blood%1:08:00::
+drawn draw%2:38:00::
+from
+many many%3:00:00::
+thyrotoxic thyrotoxic%3:01:00::
+patients patient%1:18:00::
+(
+Adams person%1:03:00::
+,
+1958
+)
+.
+Whether
+this
+abnormal abnormal%3:00:00::
+TSH tsh%1:27:00::
+differs differ%2:42:00::
+chemically chemically%4:02:01::
+from
+pituitary pituitary%1:08:00::
+TSH tsh%1:27:00::
+,
+or
+is be%2:42:03::
+,
+alternatively alternatively%4:02:00::
+,
+normal normal%3:00:01::
+TSH tsh%1:27:00::
+with
+its
+period period%1:28:00::
+of
+effectiveness effectiveness%1:07:01::
+modified modify%2:30:00::
+by
+some
+other other%3:00:00::
+blood blood%1:08:00::
+constituent constituent%1:06:00::
+,
+cannot
+be
+decided decide%2:31:02::
+without
+chemical chemical%3:01:00::
+study study%1:04:00::
+of
+the
+activity activity%1:22:00::
+in
+the
+blood blood%1:08:00::
+of
+these
+patients patient%1:18:00::
+and
+a
+comparison comparison%1:04:00::
+of
+the
+substance substance%1:03:00::
+responsible_for responsible_for%5:00:00:causative:00
+the
+blood blood%1:08:00::
+activity activity%1:22:00::
+with
+pituitary pituitary%1:08:00::
+TSH tsh%1:27:00::
+.
+In
+evaluating evaluate%2:31:00::
+data data%1:14:00::
+on
+the
+concentration concentration%1:07:02::
+of
+TSH tsh%1:27:00::
+in
+blood blood%1:08:00::
+,
+one
+must
+examine examine%2:32:01::
+critically critically%4:02:00::
+the
+bio-assay bioassay%1:09:00::
+methods method%1:09:00::
+used use%2:34:01::
+to
+obtain obtain%2:40:00::
+them
+.
+The
+introduction introduction%1:10:00::
+of
+the
+United_States_Pharmacopoeia group%1:03:00::
+reference reference%1:10:04::
+standard standard%1:10:00::
+in
+1952
+and
+the
+redefinition redefinition%1:10:00::
+and
+equating equate%2:31:00::
+of
+the
+USP group%1:03:00::
+and
+international international%3:00:00::
+units unit%1:23:00::
+of
+thyroid thyroid%1:08:00::
+stimulating stimulate%2:30:00::
+activity activity%1:22:00::
+have
+made_it make_possible%2:42:01::
+possible possible%3:00:00::
+to
+compare compare%2:31:01::
+results result%1:19:00::
+published publish%2:36:01::
+by
+different different%5:00:00:other:00
+investigators investigator%1:18:01::
+since
+that
+time time%1:11:00::
+.
+We
+should_like
+to
+re-emphasise re-emphasise%2:32:00::
+the
+importance importance%1:07:00::
+of
+stating state%2:32:00::
+results result%1:19:00::
+solely solely%4:02:00::
+in_terms_of in_terms_of%5:00:00:related:02
+international international%3:00:00::
+units unit%1:23:00::
+of
+TSH tsh%1:27:00::
+activity activity%1:22:00::
+and
+of
+avoiding avoid%2:32:00::
+the
+re-introduction re-introduction%1:10:00::
+of
+biological biological%3:01:00::
+units unit%1:23:00::
+.
+For_the_most_part for_the_most_part%4:02:00::
+,
+this
+discussion discussion%1:10:00::
+will
+be
+confined confine%2:30:01::
+to
+results result%1:19:00::
+obtained obtain%2:40:00::
+since
+the
+introduction introduction%1:04:01::
+of
+the
+reference reference%1:10:04::
+standard standard%1:10:00::
+.
+The
+international international%3:00:00::
+unit unit%1:23:00::
+(
+u
+.
+)
+,
+adopted adopt%2:40:02::
+to
+make make%2:36:00::
+possible possible%3:00:00::
+the
+comparison comparison%1:04:00::
+of
+results result%1:19:00::
+from
+different different%5:00:00:other:00
+laboratories laboratory%1:06:00::
+(
+Mussett person%1:03:00::
+and
+Perry person%1:03:00::
+,
+1955
+)
+,
+has
+been
+defined define%2:32:00::
+as
+the
+amount amount%1:03:00::
+of
+activity activity%1:22:00::
+present present%3:00:02::
+in
+13.5
+mg mg%1:23:00::
+of
+the
+International_Standard_Preparation
+.
+The
+international international%3:00:00::
+unit unit%1:23:00::
+is be%2:42:03::
+equipotent equipotent%5:00:00:potent:00
+with
+the
+USP group%1:03:00::
+unit unit%1:23:00::
+adopted adopt%2:40:02::
+in
+1952
+,
+which
+was
+defined define%2:32:00::
+as
+the
+amount amount%1:03:00::
+of
+activity activity%1:22:00::
+present present%3:00:02::
+in
+20 20%5:00:00:cardinal:00
+mg mg%1:23:00::
+of
+the
+USP group%1:03:00::
+reference reference%1:10:04::
+substance substance%1:03:00::
+.

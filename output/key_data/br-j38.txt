@@ -1,0 +1,2082 @@
+Unemployed unemployed%3:00:00::
+older older%5:00:00:old:02
+workers worker%1:18:01::
+who
+have have%2:40:00::
+no
+expectation expectation%1:26:00::
+of
+securing secure%2:40:00::
+employment employment%1:04:00::
+in
+the
+occupation occupation%1:04:00::
+in
+which
+they
+are be%2:42:03::
+skilled skilled%3:00:00::
+should
+be be%2:42:03::
+able able%3:00:00::
+to
+secure secure%2:40:00::
+counseling counseling%1:10:00::
+and
+retraining retraining%1:04:00::
+in
+an
+occupation occupation%1:04:00::
+with
+a
+future future%1:28:00::
+.
+Some some%5:00:00:unspecified:00
+vocational vocational%3:01:00::
+training_schools training_school%1:14:01::
+provide provide%2:40:00::
+such such%5:00:01:specified:00
+training training%1:04:00::
+,
+but
+the
+current current%3:00:00::
+need need%1:26:00::
+exceeds exceed%2:42:01::
+the
+facilities facility%1:06:00::
+.
+The
+present present%3:00:01::
+Federal federal%5:00:00:national:01
+program program%1:09:00::
+of
+vocational vocational%3:01:00::
+education education%1:04:00::
+began begin%2:30:00::
+in
+1917
+with
+the
+passage passage%1:04:01::
+of
+the
+Smith-Hughes_Act
+,
+which
+provided provide%2:40:00::
+a
+continuing continuing%5:00:00:continued:00
+annual annual%3:01:00::
+appropriation appropriation%1:21:00::
+of
+$
+7 7%5:00:00:cardinal:00
+million million%5:00:00:cardinal:00
+to
+support support%2:40:00::
+,
+on
+a
+matching match%2:40:00::
+basis basis%1:24:00::
+,
+state state%5:00:02:public:00
+administered administer%2:41:00::
+programs program%1:09:00::
+of
+vocational vocational%3:01:00::
+education education%1:04:00::
+in
+agriculture agriculture%1:04:01::
+,
+trades trade%1:04:00::
+,
+industrial industrial%3:01:00::
+skills skill%1:09:01::
+and
+home_economics home_economics%1:09:00::
+.
+Since
+1917
+some some%4:02:00::
+thirteen thirteen%5:00:00:cardinal:00
+supplementary supplementary%5:00:00:added:00
+and
+related related%3:00:02::
+acts act%1:10:01::
+have
+extended extend%2:30:01::
+this
+Federal federal%5:00:00:national:01
+program program%1:09:00::
+.
+The
+George-Barden_Act
+of
+1946
+raised raise%2:30:01::
+the
+previous previous%5:00:00:preceding(a):00
+increases increase%1:07:00::
+in
+annual annual%3:01:00::
+authorizations authorization%1:10:00::
+to
+$
+29 29%5:00:00:cardinal:00
+million million%5:00:00:cardinal:00
+in_addition in_addition%4:02:00::
+to
+the
+$
+7 7%5:00:00:cardinal:00
+million million%5:00:00:cardinal:00
+under
+the
+Smith_Act
+.
+The
+Health_Amendment_Act
+of
+1956
+added add%2:30:00::
+$
+5 5%5:00:00:cardinal:00
+million million%5:00:00:cardinal:00
+for
+practical_nurse practical_nurse%1:18:00::
+training training%1:04:00::
+.
+The
+latest latest%5:00:00:current:00
+major major%3:00:06::
+change change%1:11:00::
+in
+this
+program program%1:09:00::
+was
+introduced introduce%2:36:01::
+by
+the
+National_Defense_Education_Act
+of
+1958
+,
+Title title%1:10:05::
+8 8%5:00:00:cardinal:00
+,
+of
+which
+amended amend%2:32:00::
+the
+George-Barden_Act
+.
+Annual annual%3:01:00::
+authorizations authorization%1:10:00::
+of
+$
+15 15%5:00:00:cardinal:00
+million million%5:00:00:cardinal:00
+were
+added add%2:30:00::
+for
+area area%1:15:01::
+vocational vocational%3:01:00::
+education education%1:04:00::
+programs program%1:09:00::
+that
+meet meet%2:41:02::
+national national%5:00:00:domestic:00
+defense defense%1:04:00::
+needs need%1:26:00::
+for
+highly highly%4:02:02::
+skilled skilled%3:00:00::
+technicians technician%1:18:00::
+.
+The
+Federal federal%5:00:00:national:01
+program program%1:09:00::
+of
+vocational vocational%3:01:00::
+education education%1:04:00::
+merely merely%4:02:00::
+provides provide%2:40:00::
+financial_aid financial_aid%1:04:00::
+to
+encourage encourage%2:41:00::
+the
+establishment establishment%1:04:00::
+of
+vocational vocational%3:01:00::
+education education%1:04:00::
+programs program%1:09:00::
+in
+public public%3:00:00::
+schools school%1:14:00::
+.
+The
+initiative initiative%1:04:00::
+,
+administration administration%1:04:00::
+and
+control control%1:07:00::
+remain remain%2:42:05::
+primarily primarily%4:02:01::
+with
+the
+local local%3:00:03::
+school school%1:14:00::
+districts district%1:15:00::
+.
+Even even%4:02:00::
+the
+states state%1:14:01::
+remain remain%2:42:03::
+primarily primarily%4:02:01::
+in
+an
+assisting assist%2:41:02::
+role role%1:04:00::
+,
+providing provide%2:40:00::
+leadership leadership%1:04:00::
+and
+teacher teacher%1:18:00::
+training training%1:04:00::
+.
+Federal federal%5:00:00:national:01
+assistance assistance%1:07:00::
+is
+limited limit%2:30:01::
+to
+half half%1:23:00::
+of
+the
+total total%5:00:00:whole:00
+expenditure expenditure%1:21:00::
+,
+and
+the
+state state%1:14:01::
+or
+local local%3:00:03::
+districts district%1:15:00::
+must
+pay pay%2:40:00::
+at_least at_least%4:02:00::
+half half%1:23:00::
+.
+The
+state state%1:14:01::
+may
+decide decide%2:31:00::
+to
+encourage encourage%2:41:00::
+local local%3:00:03::
+programs program%1:09:00::
+by
+paying pay%2:40:00::
+half half%1:23:00::
+of
+the
+cost cost%1:21:00::
+,
+or
+the
+state state%1:14:01::
+may
+require require%2:32:00::
+the
+local local%3:00:03::
+district district%1:15:00::
+to
+bear bear%2:40:02::
+this
+half half%1:23:00::
+or
+some some%3:00:00::
+part part%1:06:00::
+of
+it
+.
+Throughout
+the
+history history%1:28:00::
+of
+the
+program program%1:09:00::
+,
+state_government state_government%1:14:00::
+expenditures expenditure%1:21:00::
+in
+the
+aggregate aggregate%1:06:00::
+have
+usually usually%4:02:00::
+matched match%2:40:00::
+or
+exceeded exceed%2:42:01::
+the
+Federal federal%5:00:00:national:01
+expenditures expenditure%1:21:00::
+,
+while
+local local%3:00:03::
+districts district%1:15:00::
+all_together all_together%4:02:00::
+have
+spent spend%2:40:00::
+more_than more_than%4:02:00::
+either
+Federal federal%5:00:00:national:01
+or
+state_governments state_government%1:14:00::
+.
+Today today%1:28:00::
+,
+Federal federal%5:00:00:national:01
+funds funds%1:21:00::
+account_for account_for%2:42:01::
+only only%4:02:02::
+one-fifth one-fifth%1:23:00::
+of
+the
+nation nation%1:14:00::
+'s
+expenditures expenditure%1:21:00::
+for
+vocational vocational%3:01:00::
+education education%1:04:00::
+.
+The
+greatest greatest%5:00:00:large:00
+impact impact%1:19:00::
+of
+the
+matching match%2:40:00::
+fund fund%1:21:00::
+principle principle%1:09:00::
+has
+been be%2:42:03::
+in
+initially initially%4:02:00::
+encouraging encourage%2:41:00::
+the
+poorest poor%3:00:00::
+states state%1:14:01::
+and
+school school%1:14:00::
+districts district%1:15:00::
+to
+spend spend%2:40:00::
+enough enough%4:02:00::
+to
+obtain obtain%2:40:00::
+their
+full full%5:00:01:whole:00
+allocation allocation%1:21:00::
+of
+outside outside%5:00:00:extrinsic:00
+funds funds%1:21:00::
+.
+National national%3:01:00::
+defense defense%1:04:00::
+considerations consideration%1:09:01::
+have
+been be%2:42:06::
+the
+major major%3:00:02::
+reason reason%1:16:00::
+behind
+most most%3:00:02::
+Federal federal%5:00:00:national:01
+training training%1:04:00::
+expenditures expenditure%1:21:00::
+in
+recent recent%5:00:00:new:00
+decades decade%1:28:00::
+.
+During
+World_War world_war%1:04:00::
+2 2%5:00:00:cardinal:00
+,
+about
+7.5
+million million%5:00:00:cardinal:00
+persons person%1:03:00::
+were
+enrolled enroll%2:41:00::
+in
+courses course%1:04:01::
+organized organize%2:41:01::
+under
+two two%5:00:00:cardinal:00
+special special%5:00:01:specific:00
+programs program%1:09:00::
+administered administer%2:41:00::
+by
+state state%5:00:02:public:00
+and
+local local%3:00:03::
+school school%1:14:00::
+authorities authorities%1:14:00::
+:
+(
+1 1%1:23:00::
+)
+Vocational vocational%3:01:00::
+Education education%1:04:00::
+for
+National national%3:01:00::
+Defense defense%1:04:00::
+,
+and
+(
+2 2%1:23:00::
+)
+War war%1:26:00::
+Production production%1:04:00::
+Training training%1:04:00::
+.
+The
+total total%5:00:00:whole:00
+cost cost%1:21:00::
+of
+the
+five five%5:00:00:cardinal:00
+year year%1:28:01::
+program program%1:09:00::
+was be%2:42:07::
+$
+297
+million million%5:00:00:cardinal:00
+.
+For
+the
+Smith-Hughes
+,
+George-Barden
+,
+and
+National_Defense_Act
+of
+1958
+,
+the
+cumulative cumulative%5:00:00:additive:00
+total total%1:06:00::
+of
+Federal federal%5:00:00:national:01
+expenditures expenditure%1:21:00::
+in
+42
+years year%1:28:01::
+was be%2:42:07::
+only only%4:02:02::
+about about%4:02:00::
+$
+740
+million million%5:00:00:cardinal:00
+.
+No
+comparable comparable%3:00:00::
+measures measure%1:07:00::
+are be%2:42:03::
+available available%3:00:00::
+of
+enrollments enrollment%1:04:00::
+and
+expenditures expenditure%1:21:00::
+for
+private private%3:00:00::
+vocational vocational%3:01:00::
+education education%1:04:00::
+training training%1:04:00::
+.
+There
+are be%2:42:00::
+a
+great great%5:00:01:large:00
+number number%1:07:00::
+and
+variety variety%1:14:01::
+of
+private private%3:00:00::
+commercial commercial%3:00:00::
+schools school%1:14:00::
+,
+trade_schools trade_school%1:14:00::
+and
+technical_schools technical_school%1:14:00::
+.
+In_addition in_addition%4:02:00::
+,
+many many%3:00:00::
+large large%3:00:00::
+corporations corporation%1:14:00::
+operate operate%2:41:00::
+their
+own own%5:00:00:personal:00
+formal formal%3:00:01::
+training_programs training_program%1:09:00::
+.
+A
+recent recent%5:00:00:new:00
+study study%1:10:00::
+indicated indicate%2:32:03::
+that
+85
+per_cent percent%1:24:00::
+of
+the
+nation nation%1:14:00::
+'s
+largest largest%5:00:00:large:00
+corporations corporation%1:14:00::
+conducted conduct%2:41:00::
+educational educational%5:00:00:instructive:00
+programs program%1:09:00::
+involving involve%2:42:01::
+some some%3:00:00::
+class class%1:14:03::
+meetings meeting%1:14:00::
+and
+examinations examination%1:10:00::
+.
+Most most%3:00:02::
+skilled skilled_worker%1:18:00::
+industrial industrial%3:01:00::
+workers
+,
+nevertheless nevertheless%4:02:00::
+,
+still still%4:02:01::
+acquire acquire%2:40:00::
+their
+skills skill%1:09:01::
+outside
+of
+formal formal%3:00:01::
+training training%1:04:00::
+institutions institution%1:14:00::
+.
+The
+National_Manpower_Council group%1:03:00::
+of
+Columbia_University group%1:03:00::
+has
+estimated estimate%2:31:00::
+that
+three three%5:00:00:cardinal:00
+out
+of
+five five%5:00:00:cardinal:00
+skilled_workers skilled_worker%1:18:00::
+and
+one one%5:00:00:cardinal:00
+out
+of
+five five%5:00:00:cardinal:00
+technicians technician%1:18:00::
+have
+not not%4:02:00::
+been
+formally formally%4:02:01::
+trained train%2:31:00::
+.
+There
+is be%2:42:00::
+little little%3:00:03::
+doubt doubt%1:07:00::
+that
+the
+students student%1:18:00::
+benefit benefit%2:40:00::
+from
+vocational vocational%3:01:00::
+education education%1:04:00::
+.
+Employers employer%1:18:00::
+prefer prefer%2:37:00::
+to
+hire hire%2:41:00::
+youth youth%1:14:00::
+with
+such such%5:00:01:specified:00
+training training%1:04:00::
+rather_than
+those
+without
+,
+and
+most most%3:00:02::
+graduates graduate%1:18:00::
+of
+vocational vocational%3:01:00::
+training training%1:04:00::
+go
+to
+work work%1:04:01::
+in
+jobs job%1:04:00::
+related related%3:00:02::
+to
+their
+training training%1:04:00::
+.
+Vocational vocational%3:01:00::
+educators educator%1:18:00::
+do
+not not%4:02:00::
+claim claim%2:32:00::
+that
+school school%1:14:00::
+training training%1:04:00::
+alone alone%4:02:00::
+makes make%2:36:00::
+skilled_workers skilled_worker%1:18:00::
+,
+but
+it
+provides provide%2:40:00::
+the
+essential essential%5:00:00:necessary:00
+groundwork groundwork%1:09:00::
+for
+developing develop%2:30:06::
+skills skill%1:09:01::
+.
+In
+most most%3:00:02::
+states state%1:15:01::
+,
+trade trade%1:04:00::
+and
+industrial industrial%3:01:00::
+training training%1:04:00::
+is
+provided provide%2:40:00::
+in
+a
+minority minority%1:07:00::
+of
+the
+high_schools high_school%1:14:00::
+,
+usually usually%4:02:00::
+located located%5:00:00:settled:01
+in
+the
+larger larger%5:00:00:large:00
+cities city%1:15:00::
+.
+In
+Arkansas arkansas%1:15:00::
+fewer fewer%3:00:00::
+than
+6 6%5:00:00:cardinal:00
+per_cent percent%1:24:00::
+of
+the
+high_schools high_school%1:14:00::
+offer offer%2:40:02::
+trade trade%1:04:00::
+and
+industrial industrial%3:01:00::
+courses course%1:04:01::
+.
+In
+Illinois illinois%1:15:00::
+about
+13 13%5:00:00:cardinal:00
+per_cent percent%1:24:00::
+of
+the
+schools school%1:14:00::
+have have%2:42:00::
+programs program%1:09:00::
+,
+and
+in
+Pennsylvania pennsylvania%1:15:00::
+11 11%5:00:00:cardinal:00
+per_cent percent%1:24:00::
+.
+An
+important important%3:00:00::
+recent recent%5:00:00:new:00
+trend trend%1:15:02::
+is be%2:42:06::
+the
+development development%1:22:02::
+of
+area area%1:15:01::
+vocational_schools vocational_school%1:14:00::
+.
+For
+a
+number number%1:07:00::
+of
+years year%1:28:01::
+Kentucky kentucky%1:15:00::
+,
+Louisiana louisiana%1:15:00::
+and
+several several%5:00:00:some(a):00
+other other%3:00:00::
+states state%1:14:01::
+have
+been
+building build%2:36:00::
+state state%1:14:01::
+sponsored sponsor%2:40:00::
+vocational vocational%3:01:00::
+education education%1:04:00::
+schools school%1:14:00::
+that
+serve serve%2:41:00::
+nearby nearby%5:00:00:near:00
+school school%1:14:00::
+districts district%1:15:00::
+in
+several several%5:00:00:some(a):00
+counties county%1:15:00::
+.
+These
+schools school%1:14:00::
+are
+intended intend%2:31:00::
+to
+provide provide%2:40:00::
+the
+facilities facility%1:06:00::
+and
+specialized specialized%5:00:00:technical:00
+curriculum curriculum%1:10:00::
+that
+would
+not not%4:02:00::
+be be%2:42:03::
+possible possible%3:00:00::
+for
+very very%4:02:00::
+small small%3:00:00::
+school school%1:14:00::
+districts district%1:15:00::
+.
+Transportation transportation%1:04:00::
+may
+be
+provided provide%2:34:00::
+from
+nearby nearby%5:00:00:near:00
+school school%1:14:00::
+districts district%1:15:00::
+.
+Courses course%1:04:01::
+are
+provided provide%2:40:00::
+mainly mainly%4:02:00::
+for
+post post%5:00:00:succeeding(a):00
+high_school high_school%1:14:00::
+day day%1:28:02::
+programs program%1:09:00::
+;
+but
+sometimes sometimes%4:02:01::
+arrangements arrangement%1:09:01::
+also also%4:02:00::
+are
+made make%2:41:00::
+for
+high_school high_school%1:14:00::
+students student%1:18:00::
+to
+attend attend%2:42:00::
+,
+and
+evening evening%1:28:00::
+extension extension%1:04:00::
+courses course%1:04:01::
+also also%4:02:00::
+may
+be
+conducted conduct%2:41:00::
+.
+The
+Title title%1:10:05::
+8 8%5:00:00:cardinal:00
+,
+program program%1:09:00::
+of
+the
+National_Defense_Education_Act
+of
+1958
+was be%2:42:06::
+a
+great great%5:00:00:high:02
+spur spur%1:10:00::
+to
+this
+trend trend%1:15:02::
+toward
+area area%1:15:01::
+schools school%1:14:00::
+.
+By
+1960
+there
+were be%2:42:00::
+such such%5:00:01:specified:00
+schools school%1:14:00::
+in
+all all%3:00:00::
+but
+4 4%5:00:00:cardinal:00
+states state%1:15:01::
+.
+They
+were
+operating operate%2:35:03::
+in
+10 10%5:00:00:cardinal:00
+of
+the
+17 17%5:00:00:cardinal:00
+major major%3:00:01::
+areas area%1:15:01::
+of
+chronic chronic%3:00:00::
+labor labor%1:14:00::
+surplus surplus%1:07:00::
+and
+in
+10 10%5:00:00:cardinal:00
+of
+the
+minor minor%3:00:02::
+areas area%1:15:01::
+.
+An
+extension extension%1:04:02::
+of
+this
+program program%1:09:00::
+into
+the
+other other%3:00:00::
+distressed distressed%5:00:00:troubled:00
+areas area%1:15:01::
+should
+be
+undertaken undertake%2:36:00::
+.
+Some some%3:00:00::
+of
+this
+trend trend%1:15:02::
+toward
+area area%1:15:01::
+vocational_schools vocational_school%1:14:00::
+has
+been be%2:42:03::
+related related%3:00:02::
+to
+the
+problems problem%1:26:00::
+of
+persistent persistent%5:00:00:continual:00
+labor labor%1:14:00::
+surplus surplus%1:07:00::
+areas area%1:15:01::
+and
+their
+desire desire%1:07:00::
+to
+attract attract%2:37:01::
+new new%3:00:00::
+industry industry%1:14:00::
+.
+The
+major major%3:00:02::
+training training%1:04:00::
+need need%1:17:00::
+of
+a
+new new%3:00:00::
+industrial industrial%3:01:00::
+plant plant%1:06:01::
+is be%2:42:06::
+a
+short short%3:00:02::
+period period%1:28:00::
+of
+pre pre%5:00:00:preceding(a):00
+employment employment%1:04:02::
+training training%1:04:00::
+for
+a
+large_number large_number%1:23:00::
+of
+semi-skilled semiskilled%5:00:00:unskilled:00
+machine machine%1:06:00::
+operators operator%1:18:00::
+.
+A_few a_few%5:00:00:few:00
+key key%5:00:00:important:00
+skilled_workers skilled_worker%1:18:00::
+experienced experienced%3:00:00::
+in
+the
+company company%1:14:01::
+'s
+type type%1:09:00::
+of
+work work%1:04:00::
+usually usually%4:02:00::
+must
+be
+brought_in bring_in%2:38:00::
+with
+the
+plant plant%1:06:01::
+manager manager%1:18:00::
+,
+or
+hired hire%2:41:00::
+away away%4:02:00::
+from
+a
+similar similar%3:00:00::
+plant plant%1:06:01::
+elsewhere elsewhere%4:02:00::
+.
+A
+prospective prospective%5:00:00:future:00
+industry industry%1:14:00::
+also also%4:02:00::
+may
+be
+interested interested%3:00:00::
+in
+the
+long-run long-run%5:00:00:long:02
+advantages advantage%1:07:00::
+of
+training_programs training_program%1:09:00::
+in
+the
+area area%1:15:01::
+to
+supply supply%2:40:00::
+future future%3:00:00::
+skilled_workers skilled_worker%1:18:00::
+and
+provide provide%2:40:00::
+supplementary supplementary%5:00:00:added:00
+extension extension%1:04:02::
+courses course%1:04:01::
+for
+its
+employees employee%1:18:00::
+.
+The
+existence existence%1:26:00::
+of
+a
+public_school public_school%1:14:00::
+vocational vocational%3:01:00::
+training_program training_program%1:09:00::
+in
+trade trade%1:04:00::
+and
+industry industry%1:04:00::
+provides provide%2:40:00::
+a
+base base%1:09:00::
+from
+which
+such such%5:00:01:specified:00
+needs need%1:17:00::
+can
+be
+filled fill%2:34:02::
+.
+Additional additional%5:00:00:added:00
+courses course%1:04:01::
+can
+readily readily%4:02:00::
+be
+added add%2:30:00::
+and
+special special%5:00:01:specific:00
+cooperative cooperative%5:00:00:joint:00
+programs program%1:09:00::
+worked_out work_out%2:30:00::
+with
+any
+new new%3:00:00::
+industry industry%1:14:00::
+if
+the
+basic basic%3:00:00::
+facilities facility%1:06:00::
+,
+staff staff%1:14:01::
+and
+program program%1:09:00::
+are be%2:42:03::
+in
+being being%1:26:00::
+.
+Thus thus%4:02:00::
+,
+besides
+the
+training training%1:04:00::
+provided provide%2:40:00::
+to
+youth youth%1:14:00::
+in
+school school%1:14:00::
+,
+the
+existence existence%1:26:00::
+of
+the
+school school%1:14:00::
+program program%1:09:00::
+can
+have have%2:40:00::
+supplementary supplementary%5:00:00:secondary:01
+benefits benefit%1:07:00::
+to
+industry industry%1:14:00::
+which
+make make%2:30:00::
+it
+an
+asset asset%1:07:00::
+to
+industrial industrial%3:01:00::
+development development%1:04:01::
+efforts effort%1:04:00::
+.
+Few few%3:00:00::
+states state%1:14:01::
+make make%2:41:00::
+effective effective%5:00:00:competent:00
+use use%1:07:02::
+of
+their
+existing existing%5:00:00:present(a):01
+vocational vocational%3:01:00::
+education education%1:04:00::
+programs program%1:09:00::
+or
+funds funds%1:21:00::
+for
+the
+purpose purpose%1:09:00::
+of
+attracting attract%2:37:01::
+new new%3:00:00::
+industry industry%1:14:00::
+.
+The
+opportunity opportunity%1:26:00::
+exists exist%2:42:00::
+for
+states state%1:14:01::
+to
+reserve reserve%2:40:03::
+some some%3:00:00::
+of
+their
+vocational vocational%3:01:00::
+education education%1:04:00::
+funds funds%1:21:00::
+to
+apply apply%2:34:00::
+on
+an
+ad_hoc ad_hoc%4:02:00::
+flexible flexible%3:00:02::
+basis basis%1:24:00::
+to
+subsidize subsidize%2:40:00::
+any any%5:00:00:some(a):00
+local local%3:00:01::
+preemployment_training_programs preemployment_training_program%1:09:00::
+that
+my
+be
+quickly quickly%4:02:00::
+set_up set_up%2:41:02::
+in
+a
+community community%1:14:00::
+to
+aid aid%2:41:00::
+a
+new new%3:00:00::
+industrial industrial%3:01:00::
+plant plant%1:06:01::
+.
+The
+major major%3:00:02::
+weakness weakness%1:26:00::
+of
+vocational vocational%3:01:00::
+training_programs training_program%1:09:00::
+in
+labor labor%1:14:00::
+surplus surplus%1:07:00::
+areas area%1:15:01::
+is be%2:42:06::
+their
+focus focus%1:09:00::
+on
+serving serve%2:41:02::
+solely solely%4:02:00::
+local local%3:00:01::
+job job%1:04:00::
+demands demand%1:09:00::
+.
+This
+weakness weakness%1:26:00::
+is be%2:42:03::
+not not%4:02:00::
+unique unique%5:00:00:specific:00
+to
+labor labor%1:14:00::
+surplus surplus%1:07:00::
+areas area%1:15:01::
+,
+for
+it
+is be%2:42:03::
+inherent inherent%5:00:00:intrinsic:00
+in
+the
+system system%1:14:00::
+of
+local local%3:00:03::
+school school%1:14:00::
+districts district%1:15:00::
+in
+this
+country country%1:14:00::
+.
+Planning planning%1:04:00::
+of
+vocational vocational%3:01:00::
+education education%1:04:00::
+programs program%1:09:00::
+and
+courses course%1:04:01::
+is
+oriented orient%2:42:01::
+to
+local local%3:00:01::
+employer employer%1:18:00::
+needs need%1:26:00::
+for
+trained_workers trained_worker%1:18:00::
+.
+All all%3:00:00::
+the
+manuals manual%1:10:00::
+for
+setting_up set_up%2:41:02::
+vocational vocational%3:01:00::
+courses course%1:04:01::
+stress stress%2:32:00::
+the
+importance importance%1:07:00::
+of
+first first%4:02:00::
+making make%2:41:00::
+a
+local local%3:00:01::
+survey survey%1:10:00::
+of
+skill skill%1:09:01::
+needs need%1:26:00::
+,
+of
+estimating estimate%2:31:00::
+the
+growth growth%1:22:02::
+of
+local local%3:00:01::
+jobs job%1:04:00::
+,
+and
+of
+consulting consult%2:32:05::
+with
+local local%3:00:01::
+employers employer%1:18:00::
+on
+the
+types type%1:09:00::
+of
+courses course%1:04:01::
+and
+their
+content content%1:10:00::
+.
+Furthermore furthermore%4:02:00::
+,
+there
+is be%2:42:00::
+a
+cautious cautious%3:00:00::
+conservatism conservatism%1:09:00::
+on
+the
+part part%1:09:02::
+of
+those
+making make%2:41:00::
+local local%3:00:01::
+skill skill%1:09:01::
+surveys survey%1:10:00::
+.
+Local local%3:00:01::
+jobs job%1:04:00::
+can
+be
+seen see%2:39:00::
+and
+counted count%2:32:00::
+,
+while
+opportunities opportunity%1:26:00::
+elsewhere elsewhere%4:02:00::
+are
+regarded_as regard_as%2:31:00::
+more more%4:02:00::
+hypothetical hypothetical%5:00:00:theoretical:00
+.
+While
+the
+U._S. u.s.%1:14:00::
+Department_of_Labor department_of_labor%1:14:00::
+has have%2:42:00::
+a
+program program%1:09:00::
+of
+projecting project%2:31:00::
+industry industry%1:04:00::
+and
+occupational occupational%3:01:00::
+employment employment%1:26:00::
+trends trend%1:15:02::
+and
+publishing publish%2:36:01::
+current current%3:00:00::
+outlook outlook%1:09:00::
+statements statement%1:10:00::
+,
+there
+is be%2:42:00::
+little little%3:00:03::
+tangible tangible%5:00:00:concrete:00
+evidence evidence%1:09:00::
+that
+these
+projections projection%1:09:01::
+have
+been
+used use%2:34:01::
+extensively extensively%4:02:00::
+in
+local local%3:00:01::
+curriculum curriculum%1:10:00::
+planning planning%1:04:00::
+.
+The
+U._S. u.s.%1:14:00::
+Office_of_Education group%1:03:00::
+continues continue%2:42:01::
+to
+stress stress%2:32:00::
+local local%3:00:01::
+surveys survey%1:04:02::
+rather_than
+national national%3:01:00::
+surveys survey%1:10:00::
+.
+This
+procedure procedure%1:04:00::
+is be%2:42:03::
+extremely extremely%4:02:00::
+shortsighted shortsighted%5:00:00:improvident:00
+in
+chronic chronic%3:00:00::
+labor labor%1:14:00::
+surplus surplus%1:07:00::
+areas area%1:15:01::
+with
+a
+long long%3:00:02::
+history history%1:10:00::
+of
+declining declining%5:00:00:falling:00
+employment employment%1:04:00::
+.
+Elaborate elaborate%5:00:00:careful:00
+studies study%1:04:00::
+have
+been
+made make%2:41:00::
+in
+labor labor%1:14:00::
+surplus surplus%1:07:00::
+areas area%1:15:01::
+in_order
+to
+identify identify%2:31:00::
+sufficient sufficient%3:00:00::
+numbers number%1:07:00::
+of
+local local%3:00:01::
+job job%1:04:00::
+vacancies vacancy%1:26:00::
+and
+future future%5:00:00:prospective:00
+replacement replacement%1:04:00::
+needs need%1:26:00::
+for
+certain certain%5:00:00:definite:00
+skills skill%1:09:01::
+to
+justify justify%2:32:01::
+training_programs training_program%1:09:00::
+for
+those
+skills skill%1:09:01::
+.
+No no%3:00:00::
+effort
+is
+made make%2:41:00::
+in
+the
+same same%3:00:02::
+studies study%1:04:00::
+to
+present present%2:32:00::
+information information%1:09:00::
+on
+regional regional%3:01:00::
+or
+national national%3:01:00::
+demand demand%1:22:00::
+trends trend%1:15:02::
+in
+these
+skills skill%1:09:01::
+or
+to
+consider consider%2:32:00::
+whether
+regional regional%3:01:00::
+or
+national national%3:01:00::
+demands demand%1:22:00::
+for
+other other%3:00:00::
+skills skill%1:09:01::
+might
+provide provide%2:40:00::
+much much%4:02:00::
+better better%3:00:00::
+opportunities opportunity%1:26:00::
+for
+the
+youth youth%1:14:00::
+to
+be
+trained train%2:31:00::
+.
+Moreover moreover%4:02:00::
+,
+the
+current current%3:00:00::
+information information%1:09:00::
+on
+what
+types type%1:09:00::
+of
+training training%1:04:00::
+are
+needed need%2:34:00::
+and
+possible possible%3:00:00::
+is be%2:42:03::
+too too%4:02:00::
+limited limited%5:00:00:noncomprehensive:00
+and
+fragmentary fragmentary%5:00:00:fractional:00
+.
+There
+simply simply%4:02:03::
+is be%2:42:00::
+not not%4:02:00::
+enough enough%4:02:00::
+material material%1:10:00::
+available available%3:00:00::
+on
+the
+types type%1:09:00::
+of
+job job%1:04:00::
+skills skill%1:09:01::
+that
+are be%2:42:03::
+in_demand in_demand%5:00:00:salable:00
+and
+the
+types type%1:09:00::
+of
+training_programs training_program%1:09:00::
+that
+are be%2:42:03::
+required required%5:00:00:necessary:00
+or
+most most%4:02:00::
+suitable suitable%5:00:00:good:01
+.
+Much much%3:00:00::
+of
+the
+available available%3:00:00::
+information information%1:09:00::
+comes come%2:42:04::
+not not%4:02:00::
+from
+the
+Federal_government federal_government%1:14:00::
+but
+from
+an
+exchange exchange%1:04:03::
+of
+experiences experience%1:09:00::
+among
+states state%1:14:01::
+.
+State state%5:00:02:public:00
+and
+local local%3:00:01::
+agencies agency%1:14:00::
+in
+the
+vocational vocational%3:01:00::
+education education%1:04:00::
+field field%1:04:00::
+must
+be
+encouraged encourage%2:41:00::
+to
+adopt adopt%2:40:02::
+a
+wider wide%5:00:00:comprehensive:00
+outlook outlook%1:09:01::
+on
+future future%5:00:00:prospective:00
+job job%1:04:00::
+opportunities opportunity%1:26:00::
+.
+There
+is be%2:42:00::
+a
+need need%1:26:00::
+for
+an
+expanded expanded%3:00:01::
+Federal federal%5:00:00:national:01
+effort effort%1:04:00::
+to
+provide provide%2:40:00::
+research research%1:04:00::
+and
+information information%1:09:00::
+to
+help help%2:42:00::
+guide guide%2:41:00::
+state state%5:00:02:public:00
+education education%1:04:00::
+departments department%1:14:00::
+and
+local local%3:00:01::
+school_boards school_board%1:14:00::
+in
+existing existing%5:00:00:present(a):01
+programs program%1:09:00::
+.
+A
+related related%3:00:02::
+question question%1:10:00::
+is be%2:42:06::
+whether
+unemployed unemployed%3:00:00::
+workers worker%1:18:01::
+can
+be
+motivated motivate%2:36:00::
+to
+take
+the
+training training%1:04:00::
+provided provide%2:40:00::
+.
+There
+is be%2:42:00::
+little little%3:00:03::
+evidence evidence%1:09:00::
+that
+existing existing%5:00:00:present(a):01
+public public%3:00:00::
+or
+private private%3:00:00::
+training_programs training_program%1:09:00::
+have have%2:30:01::
+any
+great great%5:00:00:high:02
+difficulty difficulty%1:04:00::
+getting get%2:30:02::
+students student%1:18:00::
+to
+enroll enroll%2:41:00::
+in
+their
+programs program%1:09:00::
+,
+even even%4:02:03::
+though though%4:02:00::
+they
+must
+pay pay%2:40:00::
+tuition tuition%1:21:00::
+,
+receive receive%2:40:00::
+no no%3:00:00::
+subsistence subsistence%1:21:00::
+payments payment%1:21:00::
+,
+and
+are
+not not%4:02:00::
+guaranteed guarantee%2:32:01::
+a
+job job%1:04:00::
+.
+However however%4:02:00::
+,
+there
+always always%4:02:00::
+is be%2:42:00::
+some some%5:00:00:unspecified:00
+limit limit%1:07:00::
+to
+the
+numbers number%1:07:00::
+who
+will
+spend spend%2:42:00::
+the
+time time%1:28:05::
+and
+effort effort%1:04:01::
+to
+acquire acquire%2:40:00::
+training training%1:04:00::
+.
+Again again%4:02:00::
+,
+one one%5:00:00:cardinal:00
+major major%3:00:02::
+difficulty difficulty%1:09:02::
+is be%2:42:06::
+the
+local local%3:00:01::
+focus focus%1:09:00::
+.
+A
+training_program training_program%1:09:00::
+in
+a
+depressed depressed%5:00:00:low:02
+area area%1:15:01::
+may
+have have%2:40:00::
+few few%3:00:00::
+enrollees enrollee%1:18:00::
+unless
+there
+is be%2:42:00::
+some some%5:00:00:unspecified:00
+apparent apparent%5:00:00:obvious:00
+prospect prospect%1:26:00::
+for
+better better%3:00:00::
+employment employment%1:04:00::
+opportunities opportunity%1:26:00::
+afterwards afterwards%4:02:00::
+,
+and
+the
+prospect prospect%1:26:00::
+may
+be be%2:42:03::
+poor poor%5:00:00:low:02
+if
+the
+training training%1:04:00::
+is
+aimed aim%2:31:02::
+solely solely%4:02:00::
+at
+jobs job%1:04:00::
+in
+the
+local local%3:00:01::
+community community%1:14:00::
+.
+If
+there
+is be%2:42:00::
+adequate adequate%3:00:00::
+information information%1:09:00::
+on
+job job%1:04:00::
+opportunities opportunity%1:26:00::
+for
+skilled skilled%3:00:00::
+jobs job%1:04:00::
+elsewhere elsewhere%4:02:00::
+,
+many_more many_more%5:00:00:more(a):02
+workers worker%1:18:00::
+can
+be
+expected expect%2:31:00::
+to
+respond respond%2:32:00::
+.
+Another
+problem problem%1:26:00::
+is be%2:42:06::
+who
+will
+pay pay%2:40:00::
+for
+the
+training training%1:04:00::
+.
+Local local%3:00:03::
+school school%1:14:00::
+districts district%1:15:00::
+are be%2:42:03::
+hard_pressed hard-pressed%5:00:00:troubled:00
+financially financially%4:02:00::
+and
+unenthusiastic unenthusiastic%3:00:00::
+about
+vocational vocational%3:01:00::
+training training%1:04:00::
+.
+Programs program%1:09:00::
+usually usually%4:02:00::
+are
+expanded expand%2:30:12::
+only only%4:02:01::
+when
+outside outside%5:00:00:extrinsic:00
+funds funds%1:21:00::
+are be%2:42:03::
+available available%3:00:00::
+or
+local local%3:00:01::
+business_leaders business_leader%1:18:00::
+demand demand%1:10:00::
+it
+.
+Even even%4:02:00::
+industrial industrial%3:01:00::
+development development%1:22:02::
+leaders leader%1:18:00::
+find find%2:32:00::
+it
+hard hard%3:00:06::
+to
+win win%2:40:00::
+local local%3:00:03::
+support support%1:04:04::
+for
+training training%1:04:00::
+unless
+a
+new new%3:00:00::
+industry industry%1:14:00::
+is be%2:42:03::
+in_sight in_sight%5:00:00:visible:00
+and
+requests request%1:10:00::
+it
+.
+State_governments state_government%1:14:00::
+have
+been
+taking take%2:40:15::;2:41:00::
+the
+lead lead%1:04:01::
+in
+establishing establish%2:41:00::
+area area%1:15:01::
+vocational_schools vocational_school%1:14:00::
+,
+but
+their
+focus focus%1:09:00::
+is be%2:42:03::
+still still%4:02:01::
+on
+area area%1:15:01::
+job job%1:04:00::
+opportunities opportunity%1:26:00::
+.
+Only only%4:02:01::
+the
+Federal_government federal_government%1:14:00::
+is be%2:42:03::
+likely likely%3:00:00::
+to
+be be%2:42:03::
+able able%3:00:00::
+to
+take take%2:30:01::
+a
+long-run long-run%5:00:00:long:02
+and
+nation-wide nationwide%5:00:00:wide:00
+view view%1:09:02::
+and
+to
+pay pay%2:40:00::
+for
+training training%1:04:00::
+to
+meet meet%2:41:02::
+national national%3:01:00::
+skilled skilled%3:00:00::
+manpower manpower%1:14:00::
+needs need%2:34:00::
+.
+If
+only only%4:02:01::
+state state%5:00:02:public:00
+funds funds%1:21:00::
+were
+used use%2:34:00::
+to
+pay pay%2:40:00::
+for
+the
+vocational vocational%3:01:00::
+education education%1:04:00::
+,
+it
+could
+be
+argued argue%2:32:02::
+that
+the
+state state%1:14:01::
+should
+not not%4:02:00::
+have_to
+bear bear%2:40:02::
+the
+cost cost%1:21:00::
+of
+vocational vocational%3:01:00::
+training training%1:04:00::
+which
+would
+benefit benefit%2:40:01::
+employers employer%1:18:00::
+in
+other other%3:00:00::
+states state%1:15:01::
+.
+However however%4:02:00::
+,
+if
+Federal federal%5:00:00:national:01
+funds funds%1:21:00::
+are
+used use%2:34:00::
+,
+it
+would
+be be%2:42:03::
+entirely entirely%4:02:00::
+appropriate appropriate%3:00:00::
+to
+train train%2:31:00::
+workers worker%1:18:01::
+for
+jobs job%1:04:00::
+which
+could
+be
+obtained obtain%2:40:00::
+elsewhere elsewhere%4:02:00::
+as_well_as
+for
+jobs job%1:04:00::
+in
+the
+area area%1:15:01::
+of
+chronic chronic%3:00:00::
+unemployment unemployment%1:26:00::
+.
+Such such%5:00:01:specified:00
+training training%1:04:00::
+would
+increase increase%2:30:02::
+the
+tendency tendency%1:09:00::
+of
+workers worker%1:18:01::
+to
+leave leave%2:38:01::
+the
+area area%1:15:01::
+and
+find find%2:40:01::
+jobs job%1:04:00::
+in
+other other%3:00:00::
+localities locality%1:15:00::
+.
+A
+further further%5:00:00:added:00
+possibility possibility%1:09:01::
+is
+suggested suggest%2:32:00::
+by
+the
+example example%1:09:00::
+of
+the
+G._I.
+bills bill%1:10:04::
+and
+also also%4:02:00::
+by
+some
+recent recent%5:00:00:new:00
+trends trend%1:15:02::
+in
+attitudes attitude%1:09:00::
+toward
+improving improve%2:30:01::
+college college%1:14:00::
+education education%1:04:00::
+:
+that_is that_is%4:02:00::
+to
+provide provide%2:40:00::
+financial financial%3:01:00::
+assistance assistance%1:04:00::
+to
+individuals individual%1:18:00::
+for
+vocational vocational%3:01:00::
+training training%1:04:00::
+when
+local local%3:00:01::
+facilities facility%1:06:00::
+are be%2:42:03::
+inadequate inadequate%3:00:00::
+.
+This
+probably probably%4:02:00::
+would
+require require%2:42:00::
+some some%3:00:00::
+support support%1:04:04::
+for
+subsistence subsistence%1:21:00::
+as_well_as
+for
+tuition tuition%1:21:00::
+,
+but
+the
+total total%1:06:00::
+would
+be be%2:42:07::
+no
+greater great%5:00:01:large:00
+than
+for
+the
+proposals proposal%1:10:00::
+of
+unemployment_compensation unemployment_compensation%1:04:00::
+or
+a
+Youth_Conservation_Corps group%1:03:00::
+.
+A
+maximum maximum%1:23:00::
+of
+$
+600
+per_year per_year%4:02:00::
+per
+student student%1:18:00::
+would
+enable enable%2:30:00::
+many many%3:00:00::
+to
+take
+training training%1:04:00::
+away away%4:02:00::
+from
+home home%1:15:02::
+.
+A
+program program%1:09:00::
+of
+financial financial%3:01:00::
+assistance assistance%1:04:00::
+would
+permit permit%2:41:00::
+placing place%2:35:00::
+emphasis emphasis%1:07:00::
+on
+the
+national national%3:01:00::
+interest interest%1:07:01::
+in
+training train%2:31:00::
+highly highly%4:02:02::
+skilled skilled%3:00:00::
+labor labor%1:14:00::
+.
+Instead instead%4:02:01::
+of
+being
+limited limit%2:30:01::
+to
+the
+poor poor%5:00:00:inferior:02
+training training%1:04:00::
+facilities facility%1:06:00::
+in
+remote remote%5:00:01:far:00
+areas area%1:15:01::
+,
+the
+student student%1:18:00::
+would
+be be%2:42:03::
+able able%3:00:00::
+to
+move move%2:38:03::
+to
+large large%3:00:00::
+institutions institution%1:14:00::
+of
+concentrated concentrated%3:00:00::
+specialized specialized%3:00:00::
+training training%1:04:00::
+.
+Such such%5:00:01:specified:00
+specialized specialized%3:00:00::
+training training%1:04:00::
+institutions institution%1:14:00::
+could
+be be%2:42:05::
+located located%5:00:00:settled:01
+near near%3:00:00::
+the
+most most%4:02:00::
+rapidly rapidly%4:02:00::
+growing grow%2:30:00::
+industries industry%1:14:00::
+,
+where
+the
+equipment equipment%1:06:00::
+and
+job job%1:04:00::
+experience experience%1:09:01::
+exist exist%2:42:00::
+and
+where
+the
+future future%5:00:00:prospective:00
+employment employment%1:04:00::
+opportunities opportunity%1:26:00::
+are be%2:42:03::
+located located%5:00:00:settled:01
+.
+This
+would
+heighten heighten%2:30:01::
+possibilities possibility%1:26:00::
+for
+part-time part-time%3:00:00::
+cooperative cooperative%5:00:00:joint:00
+,
+on-the-job on_the_job%5:00:00:employed:00
+and
+extension extension%1:04:02::
+training training%1:04:00::
+.
+Personal personal%3:00:00::
+financial financial%3:01:00::
+assistance assistance%1:04:00::
+would
+enable enable%2:30:00::
+more more%3:00:01::
+emphasis emphasis%1:26:00::
+to
+be
+placed
+on
+the
+interests interest%1:07:01::
+of
+the
+individual individual%1:18:00::
+.
+His
+aptitudes aptitude%1:09:00::
+and
+preferences preference%1:12:00::
+could
+be
+given give%2:40:03::
+more more%3:00:01::
+weight weight%1:07:01::
+in
+selecting select%2:31:00::
+the
+proper proper%3:00:00::
+training training%1:04:00::
+.

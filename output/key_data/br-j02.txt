@@ -1,0 +1,2089 @@
+Experiments experiment%1:04:00::
+were
+made make%2:41:00::
+on
+an
+electric electric%3:01:00::
+arc arc%1:19:00::
+applying apply%2:34:00::
+a
+porous porous%5:00:00:permeable:00
+graphite graphite%1:27:00::
+anode anode%1:06:00::
+cooled cool%2:30:01::
+by
+a
+transpiring transpiring%3:44:00::
+gas gas%1:27:00::
+(
+Argon argon%1:27:00::
+)
+.
+Thus thus%4:02:00::
+,
+the
+energy energy%1:19:00::
+transferred transfer%2:38:05::
+from
+the
+arc arc%1:19:00::
+to
+the
+anode anode%1:06:00::
+was
+partly partly%4:02:00::
+fed feed%2:30:01::
+back back%4:02:06::
+into
+the
+arc arc%1:19:00::
+.
+It
+was be%2:42:03::
+shown show%2:31:00::
+that
+by
+proper proper%3:00:00::
+anode anode%1:06:00::
+design design%1:04:00::
+the
+net net%3:00:00::
+energy energy%1:19:00::
+loss loss%1:22:00::
+of
+the
+arc arc%1:19:00::
+to
+the
+anode anode%1:06:00::
+could
+be
+reduced reduce%2:30:00::
+to
+approximately approximately%4:02:00::
+15 15%5:00:00:cardinal:00
+%
+of
+the
+total total%5:00:00:whole:00
+arc arc%1:19:00::
+energy energy%1:19:00::
+A
+detailed detailed%5:00:00:careful:00
+energy energy%1:19:00::
+balance balance%1:26:00::
+of
+the
+anode anode%1:06:00::
+was
+established establish%2:36:00::
+.
+The
+anode anode%1:06:00::
+ablation ablation%1:04:00::
+could
+be
+reduced reduce%2:30:00::
+to
+a
+negligible negligible%5:00:00:minimal:00
+amount amount%1:07:00::
+.
+The
+dependence dependence%1:26:00::
+of
+the
+arc arc%1:19:00::
+voltage voltage%1:19:02::
+upon
+the
+mass mass%1:07:00::
+flow flow%1:11:00::
+velocity velocity%1:28:00::
+of
+the
+transpirating transpirate%2:38:00::
+gas gas%1:27:00::
+was
+investigated investigate%2:32:00::
+for
+various various%5:00:02:different:00
+arc arc%1:19:00::
+lengths length%1:07:00::
+and
+currents current%1:19:01::
+between
+100 100%5:00:00:cardinal:00
+Amp amp%1:23:00::
+and
+200
+Amp amp%1:23:00::
+.
+Qualitative qualitative%3:00:00::
+observations observation%1:04:01::
+were
+made make%2:41:00::
+and
+high-speed high-speed%5:00:01:fast:01
+motion_pictures motion_picture%1:10:00::
+were
+taken take%2:32:02::
+to
+study study%2:31:02::
+flow flow%1:11:00::
+phenomena phenomenon%1:03:00::
+in
+the
+arc arc%1:19:00::
+at
+various various%5:00:02:different:00
+mass mass%1:07:00::
+flow flow%1:11:00::
+velocities velocity%1:28:00::
+.
+The
+high high%3:00:02::
+heat heat%1:19:00::
+fluxes flux%1:11:00::
+existing exist%2:42:00::
+at
+the
+electrode electrode%1:06:00::
+surfaces surface%1:06:00::
+of
+electric electric%3:01:00::
+arcs arc%1:19:00::
+necessitate necessitate%2:42:00::
+extensive extensive%5:00:00:large:00
+cooling cooling%1:22:00::
+to
+prevent prevent%2:41:01::
+electrode electrode%1:06:00::
+ablation ablation%1:04:00::
+.
+The
+cooling cooling%1:22:00::
+requirements requirement%1:17:00::
+are be%2:42:03::
+particularly particularly%4:02:00::
+severe severe%5:00:00:intense:00
+at
+the
+anode anode%1:06:00::
+.
+In
+free_burning free_burning%5:00:00:continuous:01
+electric electric%3:01:00::
+arcs arc%1:19:00::
+,
+for_instance for_instance%4:02:00::
+,
+approximately approximately%4:02:00::
+90 90%5:00:00:cardinal:00
+%
+of
+the
+total total%5:00:00:whole:00
+arc arc%1:19:00::
+power power%1:19:00::
+is
+transferred transfer%2:38:05::
+to
+the
+anode anode%1:06:00::
+giving_rise give_rise%2:36:01::
+to
+local local%3:00:01::
+heat heat%1:19:00::
+fluxes flux%1:11:00::
+in
+excess excess%1:07:02::
+of
+**f
+as
+measured measure%2:31:00::
+by
+the
+authors author%1:18:00::
+-
+the
+exact exact%5:00:00:correct:00
+value value%1:09:00::
+depending_on depending_on%5:00:00:conditional:00
+the
+arc arc%1:19:00::
+atmosphere atmosphere%1:23:00::
+.
+In
+plasma plasma%1:27:00::
+generators generator%1:06:01::
+as
+currently currently%4:02:00::
+commercially commercially%4:02:00::
+available available%3:00:00::
+for
+industrial industrial%3:01:00::
+use use%1:07:00::
+or
+as
+high_temperature high_temperature%1:07:00::
+research research%1:09:00::
+tools tool%1:06:00::
+often often%4:02:00::
+more more%3:00:01::
+than
+50 50%5:00:00:cardinal:00
+%
+of
+the
+total total%5:00:00:whole:00
+energy energy%1:19:00::
+input input%1:10:00::
+is
+being
+transferred transfer%2:38:05::
+to
+the
+cooling cooling%1:22:00::
+medium medium%1:15:01::
+of
+the
+anode anode%1:06:00::
+.
+The
+higher high%3:00:02::
+heat heat%1:19:00::
+transfer transfer%1:04:00::
+rates rate%1:28:00::
+at
+the
+anode anode%1:06:00::
+compared compare%2:31:00::
+with
+those
+at
+the
+cathode cathode%1:06:00::
+can
+be
+explained explain%2:32:00::
+by
+the
+physical_phenomena physical_phenomenon%1:19:00::
+occurring occur%2:30:00::
+in
+free_burning free_burning%5:00:00:continuous:01
+arcs arc%1:19:00::
+.
+In
+plasma plasma%1:27:00::
+generators generator%1:06:01::
+the
+superimposed superimposed%5:00:00:added:00
+forced forced%3:44:00::
+convection convection%1:22:01::
+may
+modify modify%2:30:00::
+the
+picture picture%1:26:00::
+somewhat somewhat%4:02:01::
+.
+The
+heat heat%1:19:00::
+transfer transfer%1:04:00::
+to
+the
+anode anode%1:06:00::
+is_due be_due%2:42:00::
+to
+the
+following following%5:00:01:succeeding(a):00
+effects effect%1:19:00::
+:
+1
+.
+Heat_of_condensation heat_of_condensation%1:19:00::
+(
+work work%1:19:00::
+function function%1:24:00::
+)
+plus
+kinetic_energy kinetic_energy%1:19:00::
+of
+the
+electrons electron%1:17:00::
+impinging_on impinge_on%2:35:00::
+the
+anode anode%1:06:00::
+.
+This
+energy energy%1:19:00::
+transfer transfer%1:04:00::
+depends_on depend_on%2:42:00::
+the
+current current%1:19:01::
+,
+the
+temperature temperature%1:07:00::
+in
+the
+arc arc%1:19:00::
+column column%1:06:02::
+,
+the
+anode anode%1:06:00::
+material material%1:27:00::
+,
+and
+the
+conditions condition%1:26:00::
+in
+the
+anode anode%1:06:00::
+sheath sheath%1:06:00::
+.
+2
+.
+Heat heat%1:19:00::
+transfer transfer%1:04:00::
+by
+molecular molecular%3:01:00::
+conduction conduction%1:19:00::
+as_well_as
+by
+radiation radiation%1:19:00::
+from
+the
+arc arc%1:19:00::
+column column%1:06:02::
+.
+The
+heat heat%1:19:00::
+transfer transfer%1:04:00::
+to
+the
+anode anode%1:06:00::
+in
+free_burning free_burning%5:00:00:continuous:01
+arcs arc%1:19:00::
+is
+enhanced enhance%2:30:00::
+by
+a
+hot hot%3:00:01::
+gas_jet gas_jet%1:06:00::
+flowing flow%2:38:00::
+from
+the
+cathode cathode%1:06:00::
+towards
+the
+anode anode%1:06:00::
+with
+velocities velocity%1:28:00::
+up
+**f
+.
+This
+phenomenon phenomenon%1:03:00::
+has
+been
+experimentally experimentally%4:02:00::
+investigated investigate%2:32:00::
+in_detail in_detail%4:02:00::
+by
+Maecker person%1:03:00::
+(
+Ref. reference%1:10:03::
+1 1%5:00:00:cardinal:00
+)
+.
+The
+pressure pressure%1:19:00::
+gradient gradient%1:24:00::
+producing produce%2:36:02::
+the
+jet gas_jet%1:06:00::
+is_due be_due%2:42:00::
+to
+the
+nature nature%1:07:02::
+of
+the
+magnetic_field magnetic_field%1:19:00::
+in
+the
+arc arc%1:19:00::
+(
+rapid rapid%5:00:00:fast:01
+decrease decrease%1:11:00::
+of
+current current%1:19:01::
+density density%1:07:00::
+from
+cathode cathode%1:06:00::
+to
+the
+anode anode%1:06:00::
+)
+.
+Hence hence%4:02:00::
+,
+the
+flow flow%1:11:00::
+conditions condition%1:26:00::
+at
+the
+anode anode%1:06:00::
+of
+free_burning free_burning%5:00:00:continuous:01
+arcs arc%1:19:00::
+resemble resemble%2:42:00::
+those
+near
+a
+stagnation stagnation%1:26:00::
+point point%1:26:00::
+.
+it
+is be%2:42:03::
+apparent apparent%5:00:00:obvious:00
+from
+the
+above above%4:02:00::
+and
+from
+experimental experimental%5:00:01:empirical:00
+evidence evidence%1:09:00::
+that
+the
+cooling cooling%1:22:00::
+requirements requirement%1:17:00::
+for
+the
+anode anode%1:06:00::
+of
+free_burning free_burning%5:00:00:continuous:01
+arcs arc%1:19:00::
+are be%2:42:03::
+large large%3:00:00::
+compared compare%2:31:00::
+with
+those
+for
+the
+cathode cathode%1:06:00::
+.
+The
+gas gas%1:27:00::
+flow flow%1:11:00::
+through
+a
+plasma plasma%1:27:00::
+generator generator%1:06:01::
+will
+modify modify%2:30:00::
+these
+conditions condition%1:26:00::
+;
+however however%4:02:00::
+,
+the
+anode anode%1:06:00::
+is be%2:42:06::
+still still%4:02:01::
+the
+part part%1:06:00::
+receiving receive%2:40:00::
+the
+largest largest%5:00:00:large:00
+heat heat%1:19:00::
+flux flux%1:11:00::
+.
+An
+attempt attempt%1:04:00::
+to
+improve improve%2:30:01::
+the
+life life%1:28:00::
+of
+the
+anodes anode%1:06:00::
+or
+the
+efficiency efficiency%1:24:00::
+of
+the
+plasma plasma%1:27:00::
+generators generator%1:06:01::
+must
+,
+therefore therefore%4:02:00::
+,
+aim aim%2:31:00::
+at
+a
+reduction reduction%1:04:00::
+of
+the
+anode anode%1:06:00::
+loss loss%1:22:00::
+.
+The
+following following%5:00:01:succeeding(a):00
+possibilities possibility%1:09:01::
+exist exist%2:42:00::
+for
+achieving achieve%2:41:00::
+this
+:
+1
+.
+The
+use use%1:04:00::
+of
+high high%3:00:02::
+voltages voltage%1:19:02::
+and
+low low%3:00:02::
+currents current%1:19:01::
+by
+proper proper%3:00:00::
+design design%1:04:00::
+to
+reduce reduce%2:30:00::
+electron electron%1:17:00::
+heat heat%1:19:00::
+transfer transfer%1:04:00::
+to
+the
+anode anode%1:06:00::
+for
+a
+given given%5:00:00:specified:00
+power power%1:19:00::
+output output%1:06:00::
+.
+2
+.
+Continuous continuous%3:00:01::
+motion motion%1:26:00::
+of
+the
+arc arc%1:19:00::
+contact contact%1:04:00::
+area area%1:06:00::
+at
+the
+anode anode%1:06:00::
+by
+flow flow%1:11:00::
+or
+magnetic_forces magnetic_force%1:19:00::
+.
+3
+.
+Feed_back feedback%1:22:00::
+of
+the
+energy energy%1:19:00::
+transferred transfer%2:38:05::
+to
+the
+anode anode%1:06:00::
+by
+applying apply%2:34:00::
+gas gas%1:27:00::
+transpiration transpiration%1:22:01::
+through
+the
+anode anode%1:06:00::
+.
+The
+third third%5:00:00:ordinal:00
+method method%1:09:00::
+was
+,
+to
+our
+knowledge knowledge%1:03:00::
+,
+successfully successfully%4:02:00::
+applied apply%2:41:05::
+for_the_first_time for_the_first_time%4:02:00::
+by
+C._Sheer person%1:03:00::
+and
+co-workers co-worker%1:18:00::
+(
+Ref. reference%1:10:03::
+2 2%5:00:00:cardinal:00
+)
+.
+The
+purpose purpose%1:09:00::
+of
+the
+present present%3:00:01::
+study study%1:04:00::
+is
+to
+study study%2:31:02::
+the
+thermal thermal%3:01:00::
+conditions condition%1:26:00::
+and
+to
+establish establish%2:31:03::
+an
+energy energy%1:19:00::
+balance balance%1:26:00::
+for
+a
+transpiration transpiration%1:22:01::
+cooled cooled%5:00:00:cool:01
+anode anode%1:06:00::
+as_well_as
+the
+effect effect%1:19:00::
+of
+blowing blowing%1:22:00::
+on
+the
+arc arc%1:19:00::
+voltage voltage%1:19:02::
+.
+Gas gas%1:26:00::
+injection injection%1:04:00::
+through
+a
+porous porous%5:00:00:permeable:00
+anode anode%1:06:00::
+(
+transpiration transpiration%1:22:01::
+cooling cooling%1:22:00::
+)
+not_only not_only%4:02:00::
+feeds_back feed_back%2:40:00::
+the
+energy energy%1:19:00::
+transferred transfer%2:38:05::
+to
+the
+anode anode%1:06:00::
+by
+the
+above above%5:00:00:preceding(a):00
+mentioned mention%2:32:02::
+processes process%1:04:00::
+,
+but
+also also%4:02:00::
+modifies modify%2:30:00::
+the
+conditions condition%1:26:00::
+in
+the
+arc arc%1:19:00::
+itself
+.
+A
+detailed detailed%5:00:00:careful:00
+study study%1:04:00::
+of
+this
+latter latter%3:00:00::
+phenomenon phenomenon%1:03:00::
+was
+not not%4:02:00::
+attempted attempt%2:36:00::
+in
+this
+paper paper%1:10:01::
+.
+Argon argon%1:27:00::
+was
+used use%2:34:01::
+as
+a
+blowing_gas blowing_gas%1:27:00::
+to
+exclude exclude%2:41:00::
+any
+effects effect%1:19:00::
+of
+dissociation dissociation%1:04:00::
+or
+chemical_reaction chemical_reaction%1:22:00::
+.
+The
+anode anode%1:06:00::
+material material%1:27:00::
+was be%2:42:06::
+porous porous%5:00:00:permeable:00
+graphite graphite%1:27:00::
+.
+Sintered sintered%3:44:00::
+porous porous%5:00:00:permeable:00
+metals metal%1:27:00::
+should
+be be%2:42:03::
+usable usable%5:00:00:useful:00
+in_principle in_principle%4:02:00::
+.
+However however%4:02:00::
+,
+technical technical%3:01:00::
+difficulties difficulty%1:26:00::
+arise arise%2:42:00::
+by
+melting melting%1:22:00::
+at
+local local%3:00:01::
+hot hot%3:00:01::
+spots spot%1:15:01::
+.
+The
+experimental experimental%3:01:00::
+arrangement arrangement%1:14:00::
+as
+described describe%2:32:00::
+below
+is be%2:42:03::
+based based%3:44:00::
+on
+the
+geometry geometry%1:09:00::
+of
+free_burning free_burning%5:00:00:continuous:01
+arcs arc%1:19:00::
+.
+Thus thus%4:02:00::
+,
+direct direct%3:00:00::
+comparisons comparison%1:24:00::
+can
+be
+drawn draw%2:31:00::
+with
+free_burning free_burning%5:00:00:continuous:01
+arcs arc%1:19:00::
+which
+have
+been
+studied study%2:31:02::
+in_detail in_detail%4:02:00::
+during
+the
+past past%3:00:00::
+years year%1:28:01::
+and
+decades decade%1:28:00::
+by
+numerous numerous%5:00:00:many:00
+investigators investigator%1:18:01::
+(
+Ref. reference%1:10:03::
+3 3%5:00:00:cardinal:00
+)
+.
+Figures figure%1:10:00::
+1
+to
+3
+show show%2:36:00::
+photographic photographic%3:01:00::
+and
+schematic schematic%5:00:00:nonrepresentational:00
+views view%1:06:00::
+of
+the
+test test%5:00:00:empirical:00
+stand stand%1:06:03::
+and
+of
+two two%5:00:00:cardinal:00
+different different%3:00:00::
+models model%1:09:03::
+of
+the
+anode anode%1:06:00::
+holder holder%1:06:00::
+.
+The
+cathode cathode%1:06:00::
+consisted_of consist_of%2:42:00::
+a
+1/4
+''
+diameter diameter%1:07:00::
+thoriated thoriated%3:44:00::
+tungsten tungsten%1:27:00::
+rod rod%1:06:00::
+attached attached%5:00:00:connected:00
+to
+a
+water_cooled water-cooled%5:00:00:cool:01
+copper copper%1:27:00::
+tube tube%1:06:02::
+.
+This
+tube tube%1:06:02::
+could
+be
+adjusted adjust%2:30:00::
+in
+its
+axial axial%3:01:00::
+direction direction%1:24:00::;1:15:00::
+by
+an
+electric electric%3:01:00::
+drive drive%1:06:02::
+to
+establish establish%2:36:00::
+the
+required required%5:00:00:necessary:00
+electrode electrode%1:06:00::
+spacing spacing%1:07:00::
+.
+The
+anode anode%1:06:00::
+in
+figure figure%1:10:00::
+2
+was
+mounted mount%2:35:00::
+by
+means means%1:04:00::
+of
+the
+anode anode%1:06:00::
+holder holder%1:06:00::
+which
+was
+attached attach%2:35:02::
+to
+a
+steel steel%1:27:00::
+plug plug%1:06:00::
+and
+disk disk%1:06:00::
+.
+The
+transpiring transpiring%3:44:00::
+gas gas%1:27:00::
+ejected eject%2:35:01::
+from
+the
+anode anode%1:06:00::
+formed form%2:35:00::
+a
+jet jet%1:11:00::
+directed directed%5:00:00:oriented:00
+axially axially%4:02:00::
+towards
+the
+cathode cathode%1:06:00::
+below below%4:02:01::
+.
+Inflow inflow%1:22:00::
+of
+air air%1:27:00::
+from
+the
+surrounding surrounding%5:00:00:close:01
+atmosphere atmosphere%1:26:00::
+was
+prevented prevent%2:41:00::
+by
+the
+two two%5:00:00:cardinal:00
+disks disk%1:06:00::
+shown show%2:36:00::
+in
+figure figure%1:10:00::
+2
+.
+Argon argon%1:27:00::
+was
+also also%4:02:00::
+blown blow%2:38:00::
+at
+low low%3:00:02::
+velocities velocity%1:28:00::
+(
+mass mass%1:07:00::
+flow_rate flow_rate%1:28:00::
+**f
+)
+through
+a
+tube tube%1:06:02::
+coaxial coaxial%5:00:00:concentric:00
+with
+the
+cathode cathode%1:06:00::
+as
+an
+additional additional%5:00:00:added:00
+precaution precaution%1:04:00::
+against
+contamination contamination%1:26:00::
+of
+the
+arc arc%1:19:00::
+by
+air air%1:27:00::
+.
+The
+anode anode%1:06:00::
+consisted_of consist_of%2:42:00::
+a
+1/2
+inch inch%1:23:00::
+diameter diameter%1:07:00::
+porous porous%5:00:00:permeable:00
+graphite graphite%1:27:00::
+plug plug%1:06:00::
+,
+1/4
+inch inch%1:23:00::
+long long%3:00:01::
+.
+The
+graphite graphite%1:27:00::
+was be%2:42:06::
+National_Carbon_NC
+60
+,
+which
+has have%2:42:00::
+a
+porosity porosity%1:07:00::
+of
+50 50%5:00:00:cardinal:00
+%
+and
+an
+average average%5:00:02:normal:01
+pore pore%1:25:00::
+size size%1:07:00::
+of
+30 30%1:23:00::
+This
+small small%3:00:00::
+pore pore%1:25:00::
+size size%1:07:00::
+was
+required require%2:42:00::
+to
+ensure ensure%2:32:00::
+uniformity uniformity%1:07:01::
+of
+the
+flow flow%1:11:00::
+leaving leave%2:38:01::
+the
+anode anode%1:06:00::
+.
+The
+anode anode%1:06:00::
+plug plug%1:06:00::
+(
+Figure figure%1:10:00::
+2
+)
+was
+inserted insert%2:35:00::
+into
+a
+carbon carbon%1:27:00::
+anode anode%1:06:00::
+holder holder%1:06:00::
+.
+A
+shielded shielded%5:00:00:protected:00
+thermocouple thermocouple%1:06:00::
+was
+used use%2:34:01::
+to
+measure measure%2:31:00::
+the
+upstream upstream%3:00:00::
+temperature temperature%1:07:00::
+of
+the
+transpiring transpiring%3:44:00::
+gas gas%1:27:00::
+.
+It
+was
+exposed expose%2:39:02::
+to
+a
+high high%3:00:02::
+velocity velocity%1:28:00::
+gas_jet gas_jet%1:06:00::
+.
+A
+plug plug%1:06:00::
+and
+a
+tube tube%1:06:02::
+with
+holes hole%1:06:00::
+in
+its
+cylindrical cylindrical%5:00:00:rounded:00
+walls wall%1:06:00::
+divided divide%2:42:00::
+the
+chamber chamber%1:06:00::
+above
+the
+porous porous%5:00:00:permeable:00
+plug plug%1:06:00::
+into
+two two%5:00:00:cardinal:00
+parts part%1:24:00::
+.
+This
+arrangement arrangement%1:14:00::
+had have%2:40:00::
+the
+purpose purpose%1:07:00::
+to
+prevent prevent%2:41:01::
+heated heated%5:00:00:hot:01
+gas gas%1:27:00::
+to
+reach reach%2:42:00::
+the
+thermocouple thermocouple%1:06:00::
+by
+natural natural%3:00:03::
+convection convection%1:22:01::
+.
+Two two%5:00:00:cardinal:00
+pyrometers pyrometer%1:06:00::
+shown show%2:36:00::
+in
+figure figure%1:10:00::
+1
+and
+2
+(
+Pyrometer_Instrument_Co. group%1:03:00::
+Model model%1:09:03::
+95
+)
+served serve%2:42:03::
+for
+simultaneous simultaneous%5:00:00:synchronous:00
+measurement measurement%1:04:00::
+of
+the
+anode anode%1:06:00::
+surface surface%1:06:00::
+temperature temperature%1:07:00::
+and
+the
+temperature temperature%1:07:00::
+distribution distribution%1:09:00::
+along
+the
+anode anode%1:06:00::
+holder holder%1:06:00::
+.
+Three three%5:00:00:cardinal:00
+thermocouples thermocouple%1:06:00::
+were
+placed place%2:35:00::
+at
+different different%3:00:00::
+locations location%1:03:00::
+in
+the
+aluminum aluminum%1:27:00::
+disk disk%1:06:00::
+surrounding surround%2:35:00::
+the
+anode anode%1:06:00::
+holder holder%1:06:00::
+to
+determine determine%2:32:00::
+its
+temperature temperature%1:07:00::
+.
+Another
+anode anode%1:06:00::
+holder holder%1:06:00::
+used use%2:34:01::
+in
+the
+experiments experiment%1:04:00::
+is
+shown show%2:36:00::
+in
+figure figure%1:10:00::
+3
+.
+In
+this
+design design%1:09:01::
+the
+anode anode%1:06:00::
+holder holder%1:06:00::
+is be%2:42:03::
+water_cooled water-cooled%5:00:00:cool:01
+and
+the
+heat heat%1:19:00::
+losses loss%1:22:00::
+by
+conduction conduction%1:19:00::
+from
+the
+anode anode%1:06:00::
+were
+determined determine%2:32:00::
+by
+measuring measure%2:31:00::
+the
+temperature temperature%1:07:00::
+rise rise%1:11:00::
+of
+the
+coolant coolant%1:27:00::
+.
+To
+reduce reduce%2:30:00::
+heat heat%1:19:00::
+transfer transfer%1:04:00::
+from
+the
+hot hot%3:00:01::
+gas gas%1:27:00::
+to
+this
+anode anode%1:06:00::
+holder holder%1:06:00::
+outside outside%3:00:00::
+the
+region region%1:15:00::
+of
+the
+arc arc%1:19:00::
+,
+a
+carbon carbon%1:27:00::
+shield shield%1:06:02::
+was
+attached attach%2:35:01::
+to
+the
+surface surface%1:06:00::
+providing provide%2:40:00::
+an
+air air%1:27:00::
+gap gap%1:06:00::
+of
+1/16
+inch inch%1:23:00::
+between
+the
+plate plate%1:06:02::
+and
+the
+surface surface%1:06:00::
+of
+the
+anode anode%1:06:00::
+holder holder%1:06:00::
+.
+In_addition in_addition%4:02:00::
+,
+the
+inner inner%3:00:00::
+surface surface%1:06:00::
+of
+the
+carbon carbon%1:27:00::
+shield shield%1:06:02::
+was
+covered cover%2:42:01::
+with
+aluminum_foil aluminum_foil%1:06:00::
+to
+reduce reduce%2:30:00::
+radiation radiation%1:19:00::
+.
+Temperatures temperature%1:07:00::
+of
+the
+shield shield%1:06:02::
+and
+of
+the
+surface surface%1:06:00::
+of
+the
+water_cooled water-cooled%5:00:00:cool:01
+anode anode%1:06:00::
+holder holder%1:06:00::
+were
+measured measure%2:31:00::
+by
+thermocouples thermocouple%1:06:00::
+to
+account_for account_for%2:42:01::
+heat heat%1:19:00::
+received receive%2:40:00::
+by
+the
+coolant coolant%1:27:00::
+but
+not not%4:02:00::
+originating originate%2:42:00::
+from
+the
+anode anode%1:06:00::
+plug plug%1:06:00::
+.
+The
+argon argon%1:27:00::
+flow flow%1:28:00::
+from
+commercial commercial%3:00:00::
+bottles bottle%1:06:00::
+was
+regulated regulate%2:30:00::
+by
+a
+pressure pressure%1:19:00::
+regulator regulator%1:06:00::
+and
+measured measure%2:31:00::
+with
+a
+gas gas%1:27:00::
+flow flow%1:11:00::
+rator
+.
+The
+power power%1:19:00::
+source source%1:15:00::
+was be%2:42:06::
+a
+commercial commercial%3:00:00::
+D.C. direct_current%1:19:00::
+rectifier rectifier%1:06:00::
+.
+At
+100 100%5:00:00:cardinal:00
+Amp amp%1:23:00::
+the
+360
+cycle cycle%1:28:02::
+ripple ripple%1:11:01::
+was be%2:42:03::
+less_than less_than%4:02:00::
+0.5
+V v%1:23:00::
+(
+peak peak%1:23:00::
+to
+peak peak%1:23:00::
+)
+with
+a
+resistive resistive%3:01:00::
+load load%1:19:01::
+.
+The
+current current%1:19:01::
+was
+regulated regulate%2:30:00::
+by_means_of
+a
+variable_resistor variable_resistor%1:06:00::
+and
+measured measure%2:31:00::
+with
+a
+50 50%5:00:00:cardinal:00
+mV mv%1:23:00::
+shunt shunt%1:06:01::
+and
+millivoltmeter millivoltmeter%1:06:00::
+.
+The
+arc arc%1:19:00::
+voltage voltage%1:19:02::
+was
+measured measure%2:31:00::
+with
+a
+voltmeter voltmeter%1:06:00::
+whose
+terminals terminal%1:06:01::
+were
+connected connect%2:35:00::
+to
+the
+anode anode%1:06:00::
+and
+cathode cathode%1:06:00::
+holders holder%1:06:00::
+.
+Because
+of
+the
+falling falling%5:00:00:decreasing:00
+characteristic characteristic%1:09:00::
+of
+the
+rectifier rectifier%1:06:00::
+,
+no
+ballast_resistor ballast_resistor%1:06:00::
+was
+required require%2:42:00::
+for
+stability stability%1:07:00::
+of
+operation operation%1:04:04::
+.
+A
+high_frequency high_frequency%1:07:01::
+starter starter%1:06:02::
+was
+used use%2:34:01::
+to
+start start%2:36:00::
+the
+arc arc%1:19:00::
+.
+The
+anode anode%1:06:00::
+holder holder%1:06:00::
+shown show%2:36:00::
+in
+figure figure%1:10:00::
+2
+was
+designed design%2:36:00::
+with
+two two%5:00:00:cardinal:00
+goals goal%1:09:00::
+in
+mind mind%1:09:01::
+.
+The
+heat heat%1:19:00::
+losses loss%1:22:00::
+of
+the
+holder holder%1:06:00::
+were
+to
+be
+reduced reduce%2:30:00::
+as_far_as_possible
+and
+they
+should
+be be%2:42:03::
+such_that such_that%5:00:00:specified:00
+an
+accurate accurate%3:00:00::
+heat heat%1:19:00::
+balance balance%1:26:00::
+can
+be
+made make%2:36:00::
+.
+In_order
+to
+reduce reduce%2:30:00::
+the
+number number%1:07:00::
+of
+variable variable%3:00:00::
+parameters parameter%1:09:00::
+,
+all
+experiments experiment%1:04:00::
+were
+made make%2:41:00::
+with
+a
+constant constant%5:00:00:invariable:00
+arc arc%1:19:00::
+length length%1:07:00::
+of
+0.5
+''
+and
+a
+current current%1:19:01::
+of
+100 100%5:00:00:cardinal:00
+Amp amp%1:23:00::
+.
+The
+argon argon%1:27:00::
+flow flow%1:11:00::
+through
+the
+porous porous%5:00:00:permeable:00
+anode anode%1:06:00::
+was
+varied vary%2:30:01::
+systematically systematically%4:02:00::
+between
+**f
+.
+and
+**f
+.
+The
+lower_limit lower_limit%1:23:00::
+was
+determined determine%2:32:03::
+by
+the
+fact fact%1:09:01::
+that
+for
+smaller smaller%5:00:00:small:00
+flow_rates flow_rate%1:28:00::
+the
+arc arc%1:19:00::
+started start%2:30:00::
+to
+strike strike%2:30:00::
+to
+the
+anode anode%1:06:00::
+holder holder%1:06:00::
+instead instead%4:02:01::
+of
+to
+the
+porous porous%5:00:00:permeable:00
+graphite graphite%1:27:00::
+plug plug%1:06:00::
+and
+that
+it
+became become%2:30:00::
+highly highly%4:02:02::
+unstable unstable%5:00:00:reactive:00
+.
+The
+upper_limit upper_limit%1:23:00::
+was
+determined determine%2:32:03::
+by
+the
+difficulty difficulty%1:07:00::
+of
+measuring measure%2:31:00::
+the
+characteristic characteristic%3:00:00::
+anode anode%1:06:00::
+surface surface%1:06:00::
+temperature temperature%1:07:00::
+(
+see see%4:02:00::
+below below%4:02:00::
+)
+since
+only only%4:02:02::
+a
+small small%3:00:00::
+region region%1:15:00::
+of
+the
+anode anode%1:06:00::
+was
+struck strike%2:30:00::
+by
+the
+arc arc%1:19:00::
+.
+This
+region region%1:15:00::
+which
+had have%2:42:00::
+a
+higher high%3:00:02::
+temperature temperature%1:07:00::
+than
+the
+rest rest%1:24:00::
+of
+the
+anode anode%1:06:00::
+surface surface%1:06:00::
+changed change%2:30:00::
+size size%1:07:00::
+and
+location location%1:03:00::
+continuously continuously%4:02:00::
+.
+For
+each each%5:00:00:all(a):00
+mass mass%1:07:00::
+flow_rate flow_rate%1:28:00::
+the
+arc arc%1:19:00::
+voltage voltage%1:19:02::
+was
+measured measure%2:31:00::
+.
+To
+measure measure%2:31:00::
+the
+surface surface%1:06:00::
+temperature temperature%1:07:00::
+of
+the
+anode anode%1:06:00::
+plug plug%1:06:00::
+,
+the
+surface surface%1:06:00::
+was
+scanned scan%2:39:01::
+with
+a
+pyrometer pyrometer%1:06:00::
+.
+As
+it
+turned_out turn_out%2:42:00::
+,
+a
+very very%4:02:00::
+hot hot%3:00:01::
+region region%1:15:00::
+occurred occur%2:42:00::
+on
+the
+plug plug%1:06:00::
+.
+Its
+temperature temperature%1:07:00::
+was
+denoted denote%2:32:01::
+by
+**f
+.
+The
+size size%1:07:00::
+of
+this
+hot hot%3:00:01::
+region region%1:15:00::
+was
+estimated estimate%2:31:01::
+by
+eye eye%1:08:00::
+.
+The
+rest rest%1:24:00::
+of
+the
+surface surface%1:06:00::
+had have%2:42:00::
+a
+temperature temperature%1:07:00::
+which
+decreased decrease%2:30:00::
+towards
+the
+outer outer%3:00:00::
+diameter diameter%1:25:00::
+of
+the
+plug plug%1:06:00::
+.
+The
+mean mean%5:00:00:normal:01
+temperature temperature%1:07:00::
+of
+this
+region region%1:15:00::
+was
+approximated approximate%2:31:00::
+by
+the
+temperature temperature%1:07:00::
+measured measure%2:31:00::
+halfways halfway%5:00:00:central:01
+between
+the
+edge edge%1:15:00::
+of
+the
+hot hot%3:00:01::
+spot spot%1:15:01::
+and
+the
+rim rim%1:25:00::
+of
+the
+plug plug%1:06:00::
+.
+It
+was
+denoted denote%2:32:01::
+by
+**f
+.
+The
+mean mean%5:00:00:normal:01
+temperature temperature%1:07:00::
+of
+the
+surface surface%1:06:00::
+was
+then then%4:02:00::
+computed compute%2:31:00::
+according
+to
+the
+following following%5:00:01:succeeding(a):00
+relation relation%1:03:00::
+:
+**f
+where
+x
+is be%2:42:07::
+the
+fraction fraction%1:06:00::
+of
+the
+plug plug%1:06:00::
+area area%1:07:00::
+covered cover%2:42:01::
+by
+the
+hot hot%3:00:01::
+spot spot%1:15:01::
+.
+Assuming assume%2:31:00::
+thermal thermal%3:01:00::
+equilibrium equilibrium%1:26:00::
+between
+the
+anode anode%1:06:00::
+surface surface%1:06:00::
+and
+the
+transpiring transpiring%3:44:00::
+argon argon%1:27:00::
+,
+the
+gas gas%1:27:00::
+enthalpy enthalpy%1:07:00::
+rise rise%1:11:00::
+through
+the
+anode anode%1:06:00::
+was
+calculated calculate%2:31:00::
+according_to
+the
+relation relation%1:03:00::
+**f
+whereby
+the
+specific_heat specific_heat%1:19:00::
+of
+argon argon%1:27:00::
+was
+taken take%2:30:08::
+as
+**f
+.
+This
+calculation calculation%1:04:00::
+results result%2:42:02::
+in
+an
+enthalpy enthalpy%1:07:00::
+rise rise%1:11:00::
+which
+is be%2:42:03::
+somewhat somewhat%4:02:01::
+high high%3:00:02::
+because
+it
+assumes assume%2:31:00::
+a
+mass mass%1:07:00::
+flow flow%1:11:00::
+equally equally%4:02:02::
+distributed distribute%2:35:01::
+over
+the
+plug plug%1:06:00::
+cross_section cross_section%1:15:00::
+whereas
+in_reality in_reality%4:02:00::
+the
+mass mass%1:07:00::
+velocity velocity%1:28:00::
+is
+expected expect%2:31:00::
+to
+be be%2:42:03::
+smaller smaller%5:00:00:small:00
+in
+the
+regions region%1:15:00::
+of
+higher high%3:00:02::
+temperatures temperature%1:07:00::
+.
+The
+upstream upstream%4:02:00::
+gas gas%1:27:00::
+temperature temperature%1:07:00::
+measured measure%2:31:00::
+with
+the
+thermocouple thermocouple%1:06:00::
+shown show%2:36:00::
+in
+figure figure%1:10:00::
+2
+was be%2:42:07::
+**f
+.
+The
+**f
+values value%1:09:00::
+are
+listed list%2:41:00::
+in
+Table table%1:14:00::
+1
+together together%4:02:03::
+with
+the
+measured measured%3:00:00::
+surface surface%1:06:00::
+temperatures temperature%1:07:00::
+and
+arc arc%1:19:00::
+voltages voltage%1:19:02::
+.
+Simultaneously simultaneously%4:02:00::
+with
+the
+anode anode%1:06:00::
+surface surface%1:06:00::
+temperature temperature%1:07:00::
+and
+voltage voltage%1:19:02::
+measurements measurement%1:04:00::
+pyrometer pyrometer%1:06:00::
+readings reading%1:09:02::
+were
+taken take%2:30:08::
+along
+the
+cylindrical cylindrical%5:00:00:rounded:00
+surface surface%1:06:00::
+of
+the
+carbon carbon%1:27:00::
+anode anode%1:06:00::
+holder holder%1:06:00::
+as
+indicated indicate%2:32:03::
+on
+figure figure%1:10:00::
+2
+.
+Some some%3:00:00::
+of
+these
+temperatures temperature%1:07:00::
+are
+plotted plot%2:36:00::
+in
+figure figure%1:10:00::
+4
+.
+They
+showed show%2:39:04::
+no
+marked marked%5:00:00:conspicuous:00
+dependence dependence%1:26:00::
+on
+the
+flow_rate flow_rate%1:28:00::
+within
+the
+accuracy accuracy%1:07:03::
+of
+these
+measurements measurement%1:07:00::
+.
+Thus thus%4:02:00::
+,
+the
+dotted dotted%5:00:00:broken:02
+line line%1:10:01::
+shown show%2:36:00::
+in
+figure figure%1:10:00::
+4
+was
+taken take%2:31:07::
+as
+typical typical%3:00:00::
+for
+the
+temperature temperature%1:07:00::
+distribution distribution%1:09:00::
+for
+all
+blowing blowing%1:22:00::
+rates rate%1:28:00::
+.
+The
+thermocouples thermocouple%1:06:00::
+in
+the
+aluminum aluminum%1:27:00::
+disk disk%1:06:00::
+shown show%2:36:00::
+in
+figure figure%1:10:00::
+2
+indicated indicate%2:32:03::
+an
+equilibrium equilibrium%1:26:00::
+temperature temperature%1:07:00::
+of
+the
+surface surface%1:06:00::
+of
+**f
+.
+This
+temperature temperature%1:07:00::
+was
+taken take%2:31:07::
+as
+environmental environmental%3:01:01::
+temperature temperature%1:07:00::
+to
+which
+the
+anode anode%1:06:00::
+holder holder%1:06:00::
+was
+exposed expose%2:39:02::
+as_far_as
+radiation radiation%1:19:00::
+is
+concerned concern%2:42:00::
+.
+It
+is be%2:42:03::
+sufficiently sufficiently%4:02:00::
+small small%3:00:00::
+compared compare%2:31:00::
+with
+the
+surface surface%1:06:00::
+temperature temperature%1:07:00::
+of
+the
+anode anode%1:06:00::
+holder holder%1:06:00::
+,
+to
+make make%2:30:00::
+the
+energy energy%1:19:00::
+flux flux%1:11:00::
+radiated radiate%2:43:00::
+from
+the
+environment environment%1:26:00::
+toward
+the
+anode anode%1:06:00::
+holder holder%1:06:00::
+negligible negligible%5:00:00:minimal:00
+within
+the
+accuracy accuracy%1:07:03::
+of
+the
+present present%3:00:01::
+measurements measurement%1:07:00::
+.
+The
+reflection reflection%1:19:00::
+of
+radiation radiation%1:19:00::
+originating originate%2:36:00::
+from
+the
+anode anode%1:06:00::
+holder holder%1:06:00::
+and
+reflected reflect%2:43:00::
+back back%4:02:04::
+to
+it
+by
+the
+surrounding surrounding%5:00:00:close:01
+metal metal%1:27:00::
+surfaces surface%1:06:00::
+should
+also also%4:02:00::
+be be%2:42:03::
+small small%3:00:00::
+because
+of
+the
+specular specular%5:00:00:reflective:00
+characteristic characteristic%1:09:00::
+of
+the
+metal metal%1:27:00::
+surfaces surface%1:06:00::
+and
+of
+the
+specific specific%3:00:00::
+geometry geometry%1:09:00::
+.
+The
+total total%5:00:00:whole:00
+heat heat%1:19:00::
+loss loss%1:22:00::
+through
+the
+anode anode%1:06:00::
+holder holder%1:06:00::
+included include%2:42:00::
+also also%4:02:00::
+the
+heat heat%1:19:00::
+conducted conduct%2:38:00::
+through
+the
+base base%1:06:01::
+of
+the
+cylindrical cylindrical%5:00:00:rounded:00
+piece piece%1:06:00::
+into
+the
+adjacent adjacent%5:00:00:connected:00
+metal metal%1:27:00::
+parts part%1:06:00::
+.
+It
+was
+calculated calculate%2:31:00::
+from
+the
+temperature_gradient temperature_gradient%1:24:00::
+**f
+at
+**f
+inch inch%1:23:00::
+as
+**f
+.
+The
+total total%5:00:00:whole:00
+heat heat%1:19:00::
+flux flux%1:11:00::
+from
+the
+porous porous%5:00:00:permeable:00
+plug plug%1:06:00::
+into
+the
+plug plug%1:06:00::
+holder holder%1:06:00::
+is be%2:42:07::
+thereby thereby%4:02:00::
+**f
+The
+temperature temperature%1:07:00::
+distribution distribution%1:09:00::
+of
+figure figure%1:10:00::
+4
+gives give%2:40:05::
+**f
+for
+all all%3:00:00::
+blowing blowing%1:22:00::
+rates rate%1:28:00::
+,
+assuming assume%2:31:00::
+**f
+.
+The
+temperature temperature%1:07:00::
+dependent dependent%3:00:00::
+value value%1:09:00::
+of
+|e
+was
+taken take%2:40:05::
+from
+Ref. reference%1:10:03::
+7 7%5:00:00:cardinal:00
+.
+The
+radiation radiation%1:19:00::
+loss loss%1:22:00::
+from
+the
+anode anode%1:06:00::
+surface surface%1:06:00::
+was
+computed compute%2:31:00::
+according_to
+**f
+where
+**f
+is be%2:42:07::
+the
+mean mean%1:09:00::
+of
+the
+fourth fourth%5:00:00:ordinal:00
+powers power%1:10:00::
+of
+the
+temperatures temperature%1:07:00::
+**f
+and
+**f
+calculated calculate%2:31:00::
+analogously analogously%4:02:00::
+to
+equation equation%1:10:00::
+(
+1
+)
+.

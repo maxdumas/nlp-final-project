@@ -1,0 +1,2355 @@
+Maude person%1:03:00::
+'s
+long long%3:00:01::
+nose nose%1:08:00::
+unexpectedly unexpectedly%4:02:01::
+wrinkled wrinkle%2:35:01::
+up
+.
+``
+Happened happen%2:41:00::
+to
+be be%2:42:05::
+in
+the
+hall hall%1:06:03::
+!
+Happened happen%2:41:00::
+to
+hear hear%2:39:00::
+you
+quarrel quarrel%2:32:00::
+about
+her
+!
+Oh
+,
+well
+,
+you
+can
+n't n't%4:02:00::
+really really%4:02:04::
+blame blame%2:32:01::
+Lolotte person%1:03:00::
+.
+She
+lost lose%2:37:00::
+her
+beau beau%1:18:00::
+to
+you
+''
+.
+But
+she
+was
+talking talk%2:32:01::
+of
+Emile person%1:03:00::
+when
+she
+saw see%2:39:00::
+the
+black black%5:00:00:dark:01
+line line%1:10:01::
+of
+the
+open open%3:00:01::
+door door%1:06:00::
+;
+Sarah person%1:03:00::
+remembered remember%2:31:00::
+it
+clearly clearly%4:02:02::
+.
+Maude person%1:03:00::
+went_on go_on%2:32:00::
+.
+``
+I
+'ve
+got
+to
+get get%2:30:00::
+busy busy%3:00:00::
+.
+Miss_Celie person%1:03:00::
+'s
+taken take%2:38:05::
+to
+her
+bed bed%1:06:00::
+,
+with
+the
+door door%1:06:00::
+locked locked%5:00:00:fastened:00
+.
+She
+opened open%2:35:00::
+it
+an
+inch inch%1:23:00::
+and
+poked poke%2:35:01::
+out
+the
+keys key%1:06:00::
+for
+me
+to
+give give%2:40:02::
+you
+.
+Here
+''
+-
+She
+thrust thrust%2:38:02::
+a
+bundle bundle%1:14:00::
+of
+keys key%1:06:00::
+strung strung%3:44:00::
+on
+a
+thick thick%3:00:01::
+red red%5:00:01:chromatic:00
+cord cord%1:06:00::
+into
+Sarah person%1:03:00::
+'s
+hand hand%1:08:00::
+.
+``
+Not not%4:02:00::
+that
+there
+'s be%2:42:00::
+much much%3:00:00::
+use use%1:07:00::
+in
+locking_up lock_up%2:35:01::
+the
+smokehouse smokehouse%1:06:00::
+and
+the
+storehouse storehouse%1:06:00::
+now now%4:02:00::
+.
+Drink drink%2:34:00::
+your
+coffee coffee%1:13:00::
+''
+-
+Coffee coffee%1:13:00::
+.
+``
+It
+'s be%2:42:03::
+-
+cold cold%3:00:01::
+''
+.
+Maude person%1:03:00::
+suddenly suddenly%4:02:02::
+looked look%2:39:01::
+quite quite%4:02:01::
+capable capable%3:00:00::
+of
+pouring pour%2:38:03::
+it
+down down%4:02:00::
+her
+throat throat%1:08:00::
+.
+``
+I
+do
+n't n't%4:02:00::
+want want%2:37:00::
+it
+''
+,
+Sarah person%1:03:00::
+said say%2:32:00::
+,
+firmly firmly%4:02:02::
+.
+``
+Oh
+.
+Well
+-
+I
+'ll
+take take%2:38:10::
+it
+down down%4:02:00::
+with
+me
+as
+I
+go go%2:38:00::
+''
+.
+Maude person%1:03:00::
+swooped_up swoop_up%2:35:00::
+the
+cup cup%1:06:00::
+and
+hiked_up hike_up%2:35:00::
+her
+top top%3:00:00::
+hoop hoop%1:06:01::
+as
+if
+about
+to
+take_off take_off%2:38:00::
+with
+a
+racing racing%1:04:00::
+start start%1:04:00::
+.
+At
+the
+door door%1:06:01::
+she
+turned turn%2:38:00::
+back back%4:02:00::
+,
+her
+Roman_nose roman_nose%1:08:00::
+looking look%2:39:01::
+very very%4:02:00::
+long long%3:00:01::
+now now%4:02:05::
+and
+satiric satiric%5:00:00:sarcastic:00
+.
+``
+I
+forgot forget%2:31:01::
+.
+Ben person%1:03:00::
+and
+Lucien person%1:03:00::
+have
+gone_after go_after%2:38:01::
+them
+.
+It
+'s be%2:42:03::
+just just%4:02:05::
+like
+that
+book book%1:10:00::
+your
+Northern northern%3:00:02::
+friend friend%1:18:00::
+wrote write%2:36:02::
+-
+except
+there
+are be%2:42:00::
+n't n't%4:02:00::
+any
+ice_floes ice_floe%1:17:00::
+to
+cross cross%2:38:00::
+and
+no no%3:00:00::
+bloodhounds bloodhound%1:05:00::
+''
+.
+``
+I
+do
+n't n't%4:02:00::
+know know%2:31:00::
+Mrs._Stowe person%1:03:00::
+.
+What
+can
+they
+do do%2:41:01::
+if
+they
+find find%2:40:00::
+them
+''
+?
+``
+They
+can
+n't n't%4:02:00::
+do do%2:41:01::
+anything
+.
+It
+'s be%2:42:03::
+silly silly%5:00:00:foolish:00
+,
+childish childish%5:00:00:immature:02
+,
+running run%2:38:00::
+after
+them
+like
+that
+.
+I
+told tell%2:32:04::
+Ben person%1:03:00::
+so
+.
+But
+of_course of_course%4:02:00::
+the
+paterollers patroller%1:18:00::
+won
+n't n't%4:02:00::
+be be%2:42:03::
+of
+any any%5:00:00:immoderate:00
+help help%1:07:01::
+,
+not not%4:02:00::
+with
+everything
+so so%4:02:02::
+upset upset%5:00:00:disorganized:00
+and
+that
+Yankee yankee%5:00:00:northern:02
+cavalry cavalry%1:14:01::
+outfit outfit%1:14:00::
+they
+say say%2:32:01::
+is
+running run%2:30:03::
+around around%4:02:01::
+,
+God_knows_where
+''
+.
+She
+had
+swished swish%2:38:00::
+away away%4:02:00::
+,
+she
+had
+been be%2:42:03::
+gone gone%5:00:00:absent:00
+for
+a
+long_time long_time%1:28:00::
+probably probably%4:02:00::
+when
+Sarah person%1:03:00::
+suddenly suddenly%4:02:00::
+realized realize%2:31:00::
+that
+she
+ought_to
+stop stop%2:41:00::
+her
+,
+pour_out pour_out%2:38:02::
+the
+coffee coffee%1:13:00::
+,
+so so%4:02:06::
+no_one
+would
+drink drink%2:34:00::
+it
+.
+But_then but_then%4:02:00::
+the
+so-called so-called%5:00:00:questionable:00
+coffee coffee%1:13:00::
+was be%2:42:03::
+bad bad%3:00:00::
+enough enough%4:02:00::
+at_best at_best%4:02:00::
+,
+cold cold%3:00:01::
+it
+was be%2:42:03::
+all_but all_but%4:02:00::
+undrinkable undrinkable%3:00:00::
+-
+especially especially%4:02:00::
+that
+cup cup%1:23:01::
+!
+She
+was be%2:42:03::
+deeply deeply%4:02:00::
+,
+horribly horribly%4:02:00::
+sure sure%3:00:00::
+that
+Lucien person%1:03:00::
+had
+filled fill%2:30:01::
+it
+with
+opium opium%1:06:00::
+.
+She
+had
+quarreled quarrel%2:32:00::
+with
+Lucien person%1:03:00::
+,
+she
+had
+resisted resist%2:33:00::
+his
+demands demand%1:10:00::
+for
+money money%1:21:00::
+-
+and
+if
+she
+died die%2:30:00::
+,
+by
+the
+provisions provision%1:10:00::
+of
+her
+marriage_contract marriage_contract%1:10:00::
+,
+Lucien person%1:03:00::
+would
+inherit inherit%2:40:00::
+legally legally%4:02:01::
+not_only not_only%4:02:00::
+the
+immediate immediate%5:00:00:close:01
+sum sum%1:21:00::
+of
+gold gold%1:21:00::
+under
+the
+floorboards floorboard%1:06:00::
+in
+the
+office office%1:06:00::
+,
+but
+later later%4:02:02::
+,
+when
+the
+war war%1:04:00::
+was be%2:42:03::
+over over%5:00:01:finished:01
+,
+her
+father father%1:18:00::
+'s
+entire entire%5:00:01:whole:00
+estate estate%1:21:02::
+.
+She
+felt feel%2:29:00::
+cold cold%3:00:01::
+and
+hot hot%3:00:01::
+,
+sticky sticky%5:00:02:wet:01
+and
+chilly chilly%5:00:00:cool:01
+at_the_same_time at_the_same_time%4:02:03::
+.
+Now now%4:02:02::
+wait wait%2:42:01::
+a
+minute minute%1:28:00::
+,
+she
+told tell%2:32:02::
+herself
+,
+think_about think_about%2:31:03::
+it
+;
+Lucien person%1:03:00::
+is be%2:42:06::
+not not%4:02:00::
+the
+only only%5:00:00:single(a):00
+person person%1:03:00::
+in
+this
+house house%1:06:00::
+who
+could
+have
+put put%2:35:00::
+opium opium%1:06:00::
+in
+that
+coffee coffee%1:13:00::
+.
+She
+had
+lost lose%2:40:01::
+a
+bottle bottle%1:06:00::
+of
+opium opium%1:06:00::
+-
+but
+that
+was be%2:42:04::
+on
+the
+trip trip%1:04:00::
+from
+New_Orleans new_orleans%1:15:00::
+.
+Or
+someone
+had
+taken take%2:40:01::
+it
+during
+her
+first first%3:00:00::
+day day%1:28:01::
+at
+Honotassa location%1:03:00::
+.
+Yes
+,
+she
+had
+missed miss%2:37:00::
+it
+after
+her
+talk talk%1:10:00::
+with
+Emile person%1:03:00::
+,
+after
+dinner dinner%1:13:00::
+,
+just just%4:02:01::
+before
+Emile person%1:03:00::
+was
+shot shoot%2:41:00::
+.
+Rilly person%1:03:00::
+or
+Glendora person%1:03:00::
+had
+entered enter%2:38:00::
+her
+room room%1:06:00::
+while
+she
+slept sleep%2:29:00::
+,
+bringing bring%2:38:00::
+back back%4:02:04::
+her
+washed washed%5:00:00:clean:01
+clothes clothes%1:06:00::
+.
+So
+somebody
+else else%5:00:00:added:00
+could
+have
+come_in come_in%2:38:02::
+,
+too too%4:02:01::
+-
+then then%4:02:01::
+or
+later later%4:02:01::
+while
+she
+was be%2:42:05::
+out
+of
+the
+room room%1:06:00::
+.
+It
+would
+have
+been be%2:42:03::
+easy easy%3:00:01::
+to
+identify identify%2:31:00::
+as
+opium opium%1:06:00::
+by
+its
+odor odor%1:07:00::
+.
+It
+was be%2:42:03::
+not not%4:02:00::
+very very%4:02:00::
+reasonable reasonable%3:00:00::
+to
+believe believe%2:31:00::
+that
+Lucien person%1:03:00::
+had
+procured procure%2:40:00::
+unprocurable unprocurable%5:00:00:unavailable:00
+opium opium%1:06:00::
+and
+come_back come_back%2:38:00::
+to
+Honotassa location%1:03:00::
+with
+a
+formed formed%5:00:00:definite:00
+plan plan%1:09:00::
+to
+murder murder%2:41:00::
+her
+.
+He
+did
+n't n't%4:02:00::
+even even%4:02:00::
+know know%2:31:01::
+that
+she
+was be%2:42:05::
+there there%4:02:00::
+.
+And
+he
+certainly certainly%4:02:00::
+could
+n't n't%4:02:00::
+have
+guessed guess%2:31:02::
+that
+she
+would
+resist resist%2:33:00::
+his
+demand demand%1:10:00::
+for
+the
+gold gold%1:21:00::
+or
+that
+she
+was be%2:42:03::
+not not%4:02:00::
+the
+yielding yielding%5:00:00:docile:00
+-
+yes
+,
+and
+credible credible%5:00:00:credulous:00
+fool fool%1:18:01::
+he
+had have%2:40:00::
+every
+right right%1:07:00::
+to
+expect expect%2:31:00::
+.
+No
+,
+he
+had
+been
+surprised surprise%2:31:00::
+,
+unpleasantly unpleasantly%4:02:00::
+surprised surprise%2:31:00::
+,
+but
+surprised surprise%2:31:00::
+.
+Then then%4:02:02::
+somebody
+else else%5:00:00:other:00
+?
+Do
+n't n't%4:02:00::
+question question%2:32:00::
+,
+Rev person%1:03:00::
+had
+said say%2:32:04::
+,
+do
+n't n't%4:02:00::
+invite invite%2:37:01::
+danger danger%1:26:00::
+.
+Her
+skin skin%1:08:00::
+crawled crawl%2:42:01::
+:
+Lolotte person%1:03:00::
+had
+told tell%2:32:00::
+Maude person%1:03:00::
+that
+she
+was be%2:42:05::
+in
+the
+hall hall%1:06:03::
+and
+the
+door door%1:06:00::
+was be%2:42:03::
+open open%3:00:01::
+.
+Sarah person%1:03:00::
+had
+begun begin%2:30:00::
+to
+tell tell%2:32:01::
+Lucien person%1:03:00::
+of
+Emile person%1:03:00::
+,
+she
+had
+begun begin%2:30:00::
+to
+question question%2:32:00::
+and
+a
+little little%3:00:01::
+draft draft%1:19:00::
+had
+crept creep%2:38:00::
+across
+the
+room room%1:06:00::
+from
+the
+bedroom bedroom%1:06:00::
+door door%1:06:00::
+,
+open open%3:00:01::
+barely barely%4:02:00::
+enough enough%4:02:00::
+to
+show show%2:39:00::
+a
+rim rim%1:25:00::
+of
+blackness blackness%1:26:00::
+in
+the
+hall hall%1:06:03::
+.
+So
+Lolotte person%1:03:00::
+-
+or
+anybody
+-
+could
+have
+listened listen%2:39:01::
+,
+and
+that
+somebody
+could
+have
+already already%4:02:00::
+been be%2:42:03::
+supplied_with supplied_with%5:00:00:furnished:00
+the
+missing missing%5:00:00:lost:01
+bottle bottle%1:06:00::
+of
+opium opium%1:06:00::
+.
+That
+was be%2:42:03::
+not not%4:02:00::
+reasonable reasonable%3:00:00::
+either
+.
+The
+opium opium%1:06:00::
+had
+disappeared disappear%2:30:00::
+before
+Emile person%1:03:00::
+'s
+death death%1:11:00::
+and
+whoever
+shot shoot%2:41:00::
+him
+could
+not not%4:02:00::
+by
+any
+stretch stretch%1:04:02::
+of
+the
+imagination imagination%1:09:01::
+have
+foreseen foresee%2:31:00::
+Sarah person%1:03:00::
+'s
+own own%5:00:00:personal:00
+doubts doubt%1:09:00::
+and
+suspicions suspicion%1:09:01::
+-
+and
+questions question%1:10:00::
+.
+She
+began begin%2:30:00::
+to
+doubt doubt%2:32:00::
+whether
+there
+had
+been be%2:42:04::
+in_fact in_fact%4:02:00::
+a
+lethal_dose lethal_dose%1:06:00::
+of
+opium opium%1:06:00::
+in
+the
+cup cup%1:06:00::
+.
+So
+suppose suppose%2:32:00::
+somebody
+only only%4:02:02::
+wished wish%2:37:02::
+to
+frighten frighten%2:37:00::
+her
+,
+so so%4:02:06::
+she
+would
+leave leave%2:38:00::
+Honotassa location%1:03:00::
+!
+That
+made make%2:36:08::
+a
+certain certain%5:00:00:definite:00
+amount amount%1:07:00::
+of
+logic logic%1:09:02::
+.
+Added added%3:00:00::
+to
+the
+argument argument%1:10:02::
+was be%2:42:03::
+the
+fact fact%1:10:01::
+that
+while
+she
+might
+have
+tasted taste%2:34:00::
+the
+coffee coffee%1:13:00::
+if
+it
+had
+been be%2:42:03::
+still still%4:02:01::
+hot hot%3:00:01::
+,
+she
+might
+even even%4:02:00::
+have
+drunk drink%2:34:00::
+some
+of
+it
+,
+she
+would
+n't n't%4:02:00::
+have
+taken take%2:34:00::
+enough enough%5:00:00:sufficient:00
+to
+kill kill%2:35:00::
+her
+,
+for
+she
+would
+have
+been
+warned warn%2:32:00::
+by
+its
+taste taste%1:09:02::
+.
+No
+.
+It
+was be%2:42:03::
+merely merely%4:02:00::
+an
+attempt attempt%1:04:00::
+to
+frighten frighten%2:37:00::
+her
+.
+She
+would
+n't n't%4:02:00::
+go_back go_back%2:38:00::
+to
+New_York new_york%1:15:00::;1:15:01::
+as
+Maude person%1:03:00::
+suggested suggest%2:32:00::
+;
+she
+would
+n't n't%4:02:00::
+run run%2:38:04::
+like
+a
+scared scared%5:00:00:afraid(p):00
+cat cat%1:05:00::
+.
+But
+-
+well
+,
+she
+'d
+be be%2:42:03::
+very very%4:02:01::
+careful careful%3:00:00::
+.
+She
+dressed dress%2:29:00::
+and
+the
+accustomed accustomed%3:00:00::
+routine routine%1:04:00::
+restored restore%2:40:00::
+to
+her
+a
+sense sense%1:09:05::
+of
+normal normal%3:00:01::
+everyday everyday%5:00:00:ordinary:00
+life life%1:26:01::
+.
+But
+before
+she
+left leave%2:38:00::
+her
+room room%1:06:00::
+she
+dug_into dig_into%2:35:00::
+her
+big big%3:00:01::
+moire moire%1:06:00::
+bag bag%1:06:02::
+,
+took_out take_out%2:35:01::
+the
+envelope envelope%1:06:01::
+holding hold%2:42:13::
+her
+marriage_contract marriage_contract%1:10:00::
+and
+the
+wax wax%1:27:00::
+seal seal%1:06:01::
+had
+been
+broken break%2:30:10::
+.
+So
+somebody
+else else%5:00:00:added:00
+knew know%2:31:01::
+what
+would
+happen happen%2:30:00::
+to
+her
+father father%1:18:00::
+'s
+money money%1:21:02::
+if
+she
+died die%2:30:00::
+.
+Rev person%1:03:00::
+had
+known know%2:31:01::
+all_along all_along%4:02:00::
+.
+Rev person%1:03:00::
+did
+n't n't%4:02:00::
+need need%2:42:01::
+to
+break break%2:30:10::
+the
+wax wax%1:27:00::
+seal seal%1:06:01::
+,
+read read%2:31:00::
+the
+contract contract%1:10:00::
+and
+find_out find_out%2:32:00::
+.
+He
+could
+conceivably conceivably%4:02:00::
+have
+wished wish%2:37:02::
+to
+make make%2:36:00::
+sure sure%5:00:00:careful:00
+;
+Rev person%1:03:00::
+loved love%2:37:00::
+Honotassa location%1:03:00::
+,
+it
+was be%2:42:03::
+like
+a
+part part%1:17:00::
+of
+his
+breath breath%1:27:00::
+and
+body body%1:08:00::
+;
+Rev person%1:03:00::
+had
+stressed stress%2:32:00::
+the
+need need%1:26:00::
+for
+money money%1:21:00::
+.
+Rev person%1:03:00::
+would
+never never%4:02:00::
+have
+tried try%2:41:00::
+to
+give give%2:40:13::
+her
+poison poison%1:27:00::
+!
+She
+thrust thrust%2:38:02::
+the
+envelope envelope%1:06:01::
+back back%4:02:04::
+in
+the
+bag bag%1:06:02::
+;
+there
+was be%2:42:00::
+no no%3:00:00::
+point point%1:10:01::
+in
+locking lock_up%2:35:00::
+it
+up
+in
+the
+armoire armoire%1:06:00::
+now now%4:02:00::
+,
+it
+was be%2:42:03::
+like
+locking lock%2:35:00::
+the
+barn barn%1:06:00::
+after
+the
+horse horse%1:05:00::
+was
+stolen steal%2:40:00::
+.
+And
+in_all_likelihood in_all_likelihood%4:02:00::
+,
+by
+now now%4:02:00::
+,
+there
+was be%2:42:04::
+more more%3:00:02::
+than
+one one%5:00:00:cardinal:00
+person person%1:03:00::
+in
+the
+house house%1:06:00::
+who
+knew know%2:31:01::
+the
+terms term%1:10:02::
+of
+her
+marriage_contract marriage_contract%1:10:00::
+.
+There
+was be%2:42:00::
+no no%3:00:00::
+point point%1:10:01::
+either
+in
+telling tell%2:32:04::
+herself
+again again%4:02:00::
+what
+a
+fool fool%1:18:01::
+she
+'d
+been be%2:42:03::
+.
+She
+went go%2:38:00::
+downstairs downstairs%4:02:00::
+and
+received receive%2:39:03::
+another another%5:00:00:added:00
+curious curious%5:00:00:strange:00
+shock shock%1:11:01::
+,
+for
+when
+Glendora person%1:03:00::
+flapped flap%2:38:00::
+into
+the
+dining_room dining_room%1:06:00::
+in
+her
+homemade homemade%3:00:00::
+moccasins moccasins%1:06:00::
+,
+Sarah person%1:03:00::
+asked ask%2:32:00::
+her
+when
+she
+had
+brought bring%2:35:00::
+coffee coffee%1:13:00::
+to
+her
+room room%1:06:00::
+and
+Glendora person%1:03:00::
+said say%2:32:00::
+she
+had
+n't n't%4:02:00::
+.
+``
+Too too%4:02:00::
+much much%3:00:00::
+work work%1:04:00::
+this
+morning morning%1:28:00::
+,
+Miss_Sarah person%1:03:00::
+-
+everybody
+gone gone%5:00:00:absent:00
+like
+that
+''
+-
+Sarah person%1:03:00::
+swallowed swallow%2:34:00::
+past
+another another%5:00:00:other:00
+kind kind%1:09:00::
+of
+constriction constriction%1:25:00::
+in
+her
+throat throat%1:08:00::
+.
+``
+Well
+,
+then then%4:02:02::
+who
+brought bring%2:35:00::
+it
+''
+?
+``
+Miss
+Maude person%1:03:00::
+.
+She
+come come%2:38:00::
+to
+the
+kitchen kitchen%1:06:00::
+and
+say say%2:32:04::
+she
+take take%2:38:10::
+it
+up
+to
+you
+''
+.
+Glendora person%1:03:00::
+put_down put_down%2:35:02::
+a
+dish dish%1:06:00::
+of
+lukewarm lukewarm%5:00:00:warm:01
+rice rice%1:13:00::
+.
+``
+Not not%4:02:00::
+much much%3:00:00::
+breakfast breakfast%1:13:00::
+this
+morning morning%1:28:00::
+.
+I
+do
+n't n't%4:02:00::
+know know%2:31:01::
+what
+we
+'re
+going_to
+do do%2:41:01::
+,
+Miss_Sarah person%1:03:00::
+''
+.
+``
+We
+'ve
+got
+to
+eat eat%2:34:00::
+''
+,
+Sarah person%1:03:00::
+said say%2:32:00::
+,
+curtly curtly%4:02:00::
+,
+because
+a
+chill chill%1:12:02::
+crawled crawl%2:38:00::
+over
+her
+again again%4:02:00::
+.
+Maude person%1:03:00::
+?
+Glendora person%1:03:00::
+flapped flap%2:38:00::
+away away%4:02:00::
+.
+The
+rice rice%1:13:00::
+was be%2:42:03::
+n't n't%4:02:00::
+dosed dosed%5:00:00:treated:02
+with
+opium opium%1:06:00::
+,
+indeed indeed%4:02:03::
+it
+had have%2:42:00::
+no no%3:00:00::
+taste taste%1:09:02::
+at_all at_all%4:02:00::
+,
+not not%4:02:00::
+a
+grain grain%1:17:00::
+of
+salt salt%1:13:00::
+.
+She
+ate eat%2:34:00::
+what
+she
+could
+and
+went_out go_out%2:38:00::
+along
+the
+covered covered%3:00:00::
+passageway passageway%1:06:00::
+,
+with
+the
+rain rain%1:27:00::
+dripping drip%2:38:00::
+from
+the
+vines vine%1:20:00::
+.
+In
+the
+kitchen kitchen%1:06:00::
+Glendora person%1:03:00::
+was
+despairingly despairingly%4:02:00::
+picking pick%2:30:01::
+chickens chicken%1:13:00::
+.
+``
+Get get%2:35:03::
+a
+basket basket%1:06:00::
+''
+,
+Sarah person%1:03:00::
+told tell%2:32:02::
+her
+.
+``
+We
+'ll
+go_to go_to%2:38:00::
+the
+storehouse storehouse%1:06:00::
+''
+.
+Glendora person%1:03:00::
+dropped drop%2:38:01::
+a
+chicken chicken%1:13:00::
+and
+a
+flurry flurry%1:19:00::
+of
+feathers feather%1:05:00::
+,
+and
+went go%2:38:00::
+with
+her
+through
+the
+drizzle drizzle%1:19:00::
+,
+to
+the
+storehouse storehouse%1:06:00::
+.
+Sarah person%1:03:00::
+found find%2:40:00::
+the
+right right%5:00:01:proper:00
+key key%1:06:00::
+and
+unlocked unlock%2:35:00::
+the
+door door%1:06:00::
+.
+It
+was be%2:42:03::
+a
+long long%3:00:01::
+,
+low low%3:00:01::
+room room%1:06:00::
+,
+like
+a
+root_cellar root_cellar%1:06:00::
+,
+for
+it
+was be%2:42:03::
+banked bank%2:35:00::
+up
+with
+soil soil%1:27:01::
+,
+and
+vines vine%1:20:00::
+had
+run run%2:42:07::
+rampant rampant%5:00:00:uncontrolled:00
+over
+that
+,
+too too%4:02:01::
+.
+It
+was be%2:42:03::
+dark dark%3:00:01::
+but
+dry dry%3:00:01::
+and
+cool cool%3:00:01::
+.
+She
+doled_out doled_out%5:00:00:distributed:00
+what
+Glendora person%1:03:00::
+vaguely vaguely%4:02:00::
+guessed guess%2:31:01::
+were be%2:42:03::
+the
+right right%5:00:01:proper:00
+amounts amount%1:07:00::
+of
+dried dried%5:00:00:preserved:02
+peas pea%1:13:00::
+,
+eggs egg%1:13:00::
+,
+cornmeal cornmeal%1:13:00::
+,
+a
+little little%1:23:00::
+salt salt%1:13:00::
+.
+The
+shelves shelf%1:06:00::
+looked look%2:39:01::
+emptier empty%3:00:00::
+than
+when
+Miss_Celie person%1:03:00::
+had
+shown show%2:32:01::
+her
+the
+storeroom storeroom%1:06:00::
+,
+and
+since
+the
+men man%1:18:00::
+from
+the
+Commissary commissary%1:06:00::
+had
+called call%2:41:00::
+;
+there
+were be%2:42:00::
+certainly certainly%4:02:00::
+now now%4:02:00::
+fewer fewer%3:00:00::
+mouths mouth%1:18:00::
+to
+feed feed%2:34:01::
+but
+there
+was be%2:42:00::
+less less%1:23:00::
+to
+feed feed%2:34:01::
+them
+with
+.
+She
+took take%2:38:09::
+Glendora person%1:03:00::
+to
+the
+smokehouse smokehouse%1:06:00::
+,
+unlocked unlock%2:35:00::
+it
+and
+saw see%2:39:00::
+with
+satisfaction satisfaction%1:12:00::
+there
+was be%2:42:00::
+still still%4:02:01::
+a
+quantity quantity%1:07:00::
+of
+hams ham%1:13:00::
+and
+sides side%1:13:00::
+of
+bacon bacon%1:13:00::
+,
+hanging hang%2:35:03::
+from
+the
+smoke smoke%1:19:00::
+stained stained%3:00:00::
+rafters rafter%1:06:00::
+.
+They
+would
+n't n't%4:02:00::
+go go%2:42:07::
+hungry hungry%3:00:00::
+,
+not_yet not_yet%4:02:00::
+.
+And
+the
+fields field%1:15:00::
+were be%2:42:03::
+green green%5:00:00:chromatic:00
+and
+growing growing%5:00:00:healthy:00
+.
+``
+Ca
+n't n't%4:02:00::
+you
+possibly possibly%4:02:00::
+imagine imagine%2:36:00::
+what
+life life%1:26:02::
+is
+going
+to
+be be%2:42:03::
+like
+,
+here here%4:02:00::
+''
+?
+Maude person%1:03:00::
+had
+said say%2:32:00::
+.
+Maude person%1:03:00::
+.
+She
+sent send%2:38:01::
+Glendora person%1:03:00::
+back back%4:02:04::
+to
+the
+house house%1:06:00::
+,
+her
+basket basket%1:06:00::
+and
+her
+apron apron%1:06:00::
+laden laden%5:00:00:full:00
+.
+She
+stood stand%2:35:00::
+for
+a
+moment moment%1:28:00::
+,
+rain rain%1:27:00::
+dripping drip%2:38:00::
+from
+the
+trees tree%1:20:00::
+over
+her
+head head%1:08:00::
+,
+thinking_of think_of%2:31:03::
+Maude person%1:03:00::
+.
+Maude person%1:03:00::
+had have%2:40:00::
+the
+opportunity opportunity%1:26:00::
+to
+take take%2:40:01::
+the
+bottle bottle%1:06:00::
+of
+opium opium%1:06:00::
+from
+Sarah person%1:03:00::
+'s
+room room%1:06:00::
+.
+Maude person%1:03:00::
+had have%2:40:00::
+the
+cool cool%5:00:00:composed:00
+ruthlessness ruthlessness%1:07:00::
+to
+do do%2:41:01::
+whatever
+she
+made make_up_one's_mind%2:31:00::
+up
+her
+mind
+to
+do do%2:41:01::
+.
+She
+could
+n't n't%4:02:00::
+see see%2:31:01::
+how
+her
+death death%1:11:00::
+could
+affect affect%2:30:00::
+Maude person%1:03:00::
+.
+She
+could
+n't n't%4:02:00::
+see see%2:31:01::
+any
+reason reason%1:16:00::
+why
+Maude person%1:03:00::
+would
+attempt attempt%2:41:00::
+to
+frighten frighten%2:37:00::
+her
+.
+Besides besides%4:02:01::
+,
+there
+was be%2:42:00::
+something
+hysterical hysterical%5:00:00:neurotic:00
+and
+silly silly%5:00:00:foolish:00
+,
+something
+almost almost%4:02:00::
+childish childish%5:00:00:immature:02
+about
+an
+attempt attempt%1:04:00::
+to
+frighten frighten%2:37:00::
+her
+.
+Maude person%1:03:00::
+was be%2:42:03::
+neither neither%4:02:00::
+hysterical hysterical%5:00:00:neurotic:00
+nor
+silly silly%5:00:00:foolish:00
+and
+Sarah person%1:03:00::
+rather rather%4:02:04::
+doubted doubt%2:31:00::
+if
+she
+had
+ever ever%4:02:04::
+been be%2:42:03::
+childish childish%5:00:00:immature:02
+.
+Yet
+Maude person%1:03:00::
+had
+suggested suggest%2:32:00::
+that
+Sarah person%1:03:00::
+return return%2:38:00::
+to
+New_York new_york%1:15:00::;1:15:01::
+.
+Maude person%1:03:00::
+could
+have
+shot shoot%2:41:00::
+Emile person%1:03:00::
+-
+if
+she
+'d
+had have%2:40:00::
+a
+reason reason%1:16:00::
+to
+kill kill%2:35:00::
+him
+.
+There
+was be%2:42:00::
+no no%3:00:00::
+use use%1:07:00::
+in
+standing stand%2:35:00::
+there there%4:02:00::
+in
+the
+drizzle drizzle%1:19:00::
+,
+trying try%2:41:00::
+to
+find find%2:32:00::
+a
+link link%1:24:00::
+between
+Emile person%1:03:00::
+'s
+murder murder%1:04:00::
+and
+opium opium%1:06:00::
+in
+a
+cup cup%1:06:00::
+of
+coffee coffee%1:13:00::
+.
+She
+started start%2:38:02::
+back back%4:02:04::
+for
+the
+house house%1:06:00::
+,
+saw see%2:39:00::
+a
+light light%1:15:00::;1:19:00::
+in
+the
+office office%1:06:00::
+,
+opened open%2:35:00::
+the
+door door%1:06:00::
+and
+surprised surprise%2:41:00::
+a
+domestic domestic%3:00:01::
+little little%5:00:00:minor:06
+scene scene%1:09:00::
+which
+was be%2:42:05::
+far far%4:02:02::
+outside
+the
+dark dark%5:00:00:evil:00
+realm realm%1:26:01::
+of
+murder murder%1:04:00::
+or
+attempted attempted%5:00:00:unsuccessful:00
+murder murder%1:04:00::
+.
+Rev person%1:03:00::
+,
+George person%1:03:00::
+and
+Lolotte person%1:03:00::
+were
+mending mend%2:30:00::
+shoes shoe%1:06:00::
+.
+a
+lighted lighted%3:00:00::
+lamp lamp%1:06:00::
+stood stand%2:42:03::
+on
+the
+table table%1:06:01::
+that
+dusky dusky%5:00:00:dark:01
+,
+drizzling drizzling%5:00:00:descending(a):00
+day day%1:28:01::
+.
+They
+were
+all all%3:00:00::
+three three%5:00:00:cardinal:00
+bent bend%2:38:00::
+over
+a
+shabby shabby%5:00:00:worn:00
+riding_boot riding_boot%1:06:00::
+;
+George person%1:03:00::
+had have%2:40:00::
+a
+tack_hammer tack_hammer%1:06:00::
+.
+Lolotte person%1:03:00::
+held hold%2:35:00::
+a
+patch patch%1:06:00::
+of
+leather leather%1:27:00::
+,
+Rev person%1:03:00::
+steadied steady%2:30:00::
+something
+,
+a
+tiny tiny%5:00:00:small:00
+brad brad%1:06:00::
+,
+waiting waiting%5:00:00:ready:00
+for
+George person%1:03:00::
+'s
+poised poised%5:00:00:balanced:00
+hammer hammer%1:06:00::
+.
+George person%1:03:00::
+said say%2:32:00::
+,
+``
+First first%3:00:00::
+thing thing%1:04:00::
+I
+do do%2:41:01::
+when
+I
+get get%2:38:00::
+to
+Vicksburg location%1:03:00::
+again again%4:02:00::
+,
+is be%2:42:06::
+get get%2:33:00::
+me
+a
+Yankee yankee%1:18:02::
+''
+-
+``
+With
+boots boot%1:06:00::
+on
+''
+,
+Lolotte person%1:03:00::
+laughed_softly laugh_softly%2:29:00::
+.
+Rev person%1:03:00::
+looked look%2:39:00::
+up up%4:02:00::
+and
+saw see%2:39:00::
+her
+.
+Lolotte person%1:03:00::
+looked look%2:39:00::
+up up%4:02:00::
+and
+stiffened stiffen%2:30:00::
+.
+George person%1:03:00::
+did
+n't n't%4:02:00::
+look look%2:39:00::
+up up%4:02:00::
+at_all at_all%4:02:00::
+.
+There
+was be%2:42:00::
+no no%3:00:00::
+way way%1:04:01::
+to
+know know%2:31:01::
+,
+no no%3:00:00::
+way way%1:04:01::
+to
+guess guess%2:31:02::
+whether
+any
+one
+of
+them
+was be%2:42:03::
+surprised surprised%3:00:00::
+at
+Sarah person%1:03:00::
+'s
+appearance appearance%1:04:00::
+,
+believing believe%2:31:03::
+her
+to
+be be%2:42:03::
+drugged drugged%5:00:00:intoxicated:00
+and
+senseless senseless%5:00:00:unconscious:00
+-
+and
+just just%4:02:04::
+possibly possibly%4:02:00::
+dead dead%3:00:01::
+.
+Rev person%1:03:00::
+said say%2:32:00::
+,
+``
+Come come%2:38:00::
+in
+,
+Sarah person%1:03:00::
+.
+Reckon reckon%2:31:02::
+you
+know know%2:31:01::
+the
+news news%1:10:00::
+''
+.
+And
+what
+news news%1:10:00::
+,
+Sarah person%1:03:00::
+thought think%2:31:00::
+as as%4:02:00::
+satirically satirically%4:02:00::
+as
+Maude person%1:03:00::
+might
+have
+said say%2:32:00::
+it
+.
+Rev person%1:03:00::
+'s
+face face%1:08:00::
+was be%2:42:03::
+suddenly suddenly%4:02:00::
+a_little a_little%4:02:00::
+fixed fixed%5:00:00:nonmoving:00
+and
+questioning questioning%5:00:00:perplexed:00
+.
+He
+turned_to turn_to%2:32:01::
+George person%1:03:00::
+and
+Lolotte person%1:03:00::
+.
+``
+Take take%2:30:00::
+your
+cobbler cobbler%1:18:00::
+'s
+shop shop%1:06:01::
+somewhere somewhere%4:02:00::
+else else%5:00:00:other:00
+.
+I
+want want%2:37:00::
+to
+talk talk%2:32:01::
+to
+Sarah person%1:03:00::
+''
+.
+Everything
+in
+the
+office office%1:06:00::
+,
+the
+spreading spreading%5:00:00:wide:00
+circle circle%1:25:00::
+of
+lamplight lamplight%1:19:00::
+,
+the
+patch patch%1:06:00::
+of
+leather leather%1:27:00::
+in
+Lolotte person%1:03:00::
+'s
+hands hand%1:08:00::
+.
+George person%1:03:00::
+poised poised%5:00:00:balanced:00
+with
+the
+tack_hammer tack_hammer%1:06:00::
+,
+the
+homely homely%5:00:00:comfortable:00
+,
+everyday everyday%5:00:00:ordinary:00
+atmosphere atmosphere%1:26:01::
+,
+all
+denied deny%2:32:00::
+an
+attempt attempt%1:04:00::
+at
+murder murder%1:04:00::
+.
+A
+rush rush%1:11:00::
+of
+panic panic%1:12:00::
+caught catch%2:30:00::
+Sarah person%1:03:00::
+.
+``
+No
+.
+Not not%4:02:00::
+now now%4:02:00::
+.
+I
+mean mean%2:32:01::
+I
+'ve
+got_to
+-
+to
+see see%2:41:14::
+to
+the
+kitchen kitchen%1:06:00::
+.
+Glendora person%1:03:00::
+''
+-
+Her
+words words%1:10:03::
+jumbled jumble%2:42:00::
+together together%4:02:02::
+and
+she
+all_but all_but%4:02:00::
+ran run%2:38:00::
+from
+the
+office office%1:06:00::
+and
+from
+the
+question question%1:10:00::
+in
+Rev person%1:03:00::
+'s
+face face%1:08:00::
+.
+Now now%4:02:02::
+why
+did
+I
+do do%2:41:01::
+that
+?
+she
+thought think%2:31:00::
+as
+warm warm%3:00:01::
+,
+drizzling drizzling%5:00:00:descending(a):00
+rain rain%1:27:00::
+touched touch%2:35:00::
+her
+face face%1:08:00::
+.
+She
+was be%2:42:03::
+no
+schoolgirl schoolgirl%1:18:00::
+,
+refusing refuse%2:32:00::
+to
+bear bear%2:35:00::
+tales tale%1:10:00::
+.
+As
+she
+reached reach%2:38:01::
+the
+kitchen kitchen%1:06:00::
+door door%1:06:01::
+the
+answer answer%1:10:02::
+presented present%2:39:00::
+itself
+;
+if
+she
+told tell%2:32:00::
+anyone
+of
+the
+opium opium%1:06:00::
+it
+must
+be be%2:42:06::
+Lucien person%1:03:00::
+,
+her
+husband husband%1:18:00::
+.
+It
+might
+be be%2:42:03::
+,
+indeed indeed%4:02:03::
+it
+had
+already already%4:02:00::
+proved prove%2:42:00::
+to
+be be%2:42:03::
+a
+marriage marriage%1:14:00::
+without
+love love%1:12:00::
+,
+but
+it
+was be%2:42:03::
+marriage marriage%1:26:00::
+.
+So
+she
+could
+n't n't%4:02:00::
+choose choose%2:31:00::
+Rev person%1:03:00::
+as
+a
+confidant confidant%1:18:00::
+;
+it
+must
+be be%2:42:06::
+Lucien person%1:03:00::
+.
+Always always%4:02:00::
+provided_that
+Lucien person%1:03:00::
+himself
+had
+not not%4:02:00::
+dosed dose%2:30:00::
+her
+coffee coffee%1:13:00::
+with
+opium opium%1:06:00::
+,
+she
+thought think%2:31:00::
+,
+as
+coldly coldly%4:02:00::
+and
+sharply sharply%4:02:00::
+,
+again again%4:02:00::
+,
+as
+Maude person%1:03:00::
+might
+have
+said say%2:32:00::
+it
+.
+She
+paused pause%2:42:00::
+at
+the
+kitchen kitchen%1:06:00::
+door door%1:06:01::
+,
+caught catch_one's_breath%2:32:00::
+her
+breath
+,
+told tell%2:32:04::
+herself
+firmly firmly%4:02:02::
+that
+the
+opium opium%1:06:00::
+was be%2:42:03::
+only only%4:02:02::
+an
+attempt attempt%1:04:00::
+to
+frighten frighten%2:37:00::
+her
+and
+went_into go_into%2:38:00::
+the
+kitchen kitchen%1:06:00::
+,
+where
+Glendora person%1:03:00::
+was
+eyeing eye%2:39:00::
+the
+chickens chicken%1:13:00::
+dismally dismally%4:02:01::
+and
+Maude person%1:03:00::
+was
+cleaning clean%2:35:00::
+lamp_chimneys lamp_chimney%1:06:00::
+.
+Glendora person%1:03:00::
+gave give%2:41:00::
+a
+gulp gulp%1:04:00::
+.
+``
+Miss_Sarah person%1:03:00::
+,
+I
+can
+n't n't%4:02:00::
+cut_up cut_up%2:35:00::
+no
+chicken chicken%1:13:00::
+.
+Miss_Maude person%1:03:00::
+say say%2:32:00::
+she
+won will%2:31:00::
+n't n't%4:02:00::
+''
+.
+Again again%4:02:00::
+the
+homely homely%5:00:00:comfortable:00
+,
+everyday everyday%5:00:00:ordinary:00
+details detail%1:09:00::
+of
+daily daily%5:00:00:regular:00
+living living%1:09:00::
+refuted refute%2:31:00::
+a
+vicious vicious%5:00:00:malevolent:00
+attempt attempt%1:04:00::
+to
+frighten frighten%2:37:00::
+her
+-
+or
+to
+murder murder%2:41:00::
+her
+.
+The
+homely homely%5:00:00:comfortable:00
+everyday everyday%5:00:00:ordinary:00
+details detail%1:09:00::
+of
+living living%1:09:00::
+and
+domestic domestic%3:00:01::
+requirements requirement%1:09:01::
+also also%4:02:00::
+pressed press%2:42:01::
+upon
+her
+with
+their
+immediate immediate%5:00:00:present(a):01
+urgency urgency%1:07:00::
+.
+No_matter no_matter%4:02:00::
+what
+had
+happened happen%2:30:00::
+or
+had
+n't n't%4:02:00::
+happened happen%2:30:00::
+,
+somebody
+had_to
+see see%2:41:14::
+about
+dinner dinner%1:13:00::
+.
+She
+eyed eye%2:39:00::
+the
+chickens chicken%1:13:00::
+with
+,
+if
+she
+had
+known know%2:31:01::
+it
+,
+something
+of
+Glendora person%1:03:00::
+'s
+dismal dismal%5:00:00:cheerless:00
+look look%1:07:01::
+and
+thought think%2:31:02::
+with
+a
+certain certain%5:00:00:definite:00
+fury fury%1:12:00::
+of
+the
+time time%1:28:05::
+she
+had
+spent spend%2:42:00::
+on
+Latin latin%3:01:00::
+verbs verb%1:10:01::
+.

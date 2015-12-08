@@ -1,0 +1,2267 @@
+``
+But
+tell tell%2:32:00::
+me
+,
+doctor doctor%1:18:00::
+,
+where
+do
+you
+plan plan%2:31:01::
+to
+conduct conduct%2:41:00::
+the
+hatching hatching%1:22:00::
+''
+?
+Alex person%1:03:00::
+asked ask%2:32:00::
+.
+``
+That
+will
+have
+to
+be be%2:42:04::
+in
+the
+hotel hotel%1:06:00::
+''
+,
+the
+doctor doctor%1:18:00::
+retorted retort%2:32:00::
+,
+confirming confirm%2:31:00::
+Alex person%1:03:00::
+'s
+anticipations anticipation%1:09:00::
+.
+``
+What
+I
+want want%2:37:00::
+you
+to
+do
+is
+to
+go_to go_to%2:38:00::
+the
+market market%1:06:00::
+with
+me
+early early%4:02:02::
+tomorrow tomorrow%4:02:00::
+morning morning%1:28:00::
+and
+help help%2:41:00::
+smuggle smuggle%2:40:00::
+the
+hen hen%1:05:01::
+back back%4:02:04::
+into
+the
+hotel hotel%1:06:00::
+''
+.
+The
+doctor doctor%1:18:00::
+paid pay%2:40:00::
+the
+bill bill%1:10:01::
+and
+they
+repaired_to repair_to%2:38:00::
+the
+hotel hotel%1:06:00::
+,
+room room%1:06:00::
+number number%1:23:00::
+nine nine%1:23:00::
+,
+to
+initiate initiate%2:41:01::
+Alex person%1:03:00::
+further further%4:02:02::
+into
+these
+undertakings undertaking%1:04:00::
+.
+The
+doctor doctor%1:18:00::
+opened open%2:35:00::
+the
+smallest smallest%5:00:00:small:00
+of
+his
+cases case%1:06:00::
+,
+an
+unimposing unimposing%5:00:00:unimpressive:00
+straw straw%1:27:00::
+bag bag%1:06:01::
+,
+and
+exposed expose%2:39:00::
+the
+contents content%1:14:00::
+for
+Alex person%1:03:00::
+'s
+inspection inspection%1:04:00::
+.
+Inside inside%4:02:01::
+,
+carefully carefully%4:02:00::
+packed pack%2:35:00::
+in
+straw straw%1:27:00::
+,
+were be%2:42:04::
+six six%5:00:00:cardinal:00
+eggs egg%1:05:00::
+,
+but
+the
+eye eye%1:09:00::
+of
+a
+poultry poultry%1:05:00::
+psychologist psychologist%1:18:00::
+was
+required require%2:42:00::
+to
+detect detect%2:39:00::
+what
+scientifically scientifically%4:02:00::
+valuable valuable%3:00:00::
+specimentalia
+lay lie%2:42:00::
+inside inside%4:02:01::
+;
+to
+Alex person%1:03:00::
+they
+were be%2:42:03::
+merely merely%4:02:00::
+six six%5:00:00:cardinal:00
+not not%4:02:00::
+unusual unusual%3:00:00::
+hens hen%1:05:01::
+'
+eggs egg%1:05:00::
+.
+There
+was
+little little%3:00:03::
+enough enough%5:00:00:sufficient:00
+time time%1:28:05::
+to
+contemplate contemplate%2:39:00::
+them
+,
+however however%4:02:00::
+;
+in
+an
+instant instant%1:28:01::
+the
+doctor doctor%1:18:00::
+was
+stalking stalk%2:38:00::
+across
+the
+room room%1:06:00::
+with
+an
+antique antique%5:00:00:unfashionable:00
+ledger ledger%1:21:00::
+in
+his
+hands hand%1:08:00::
+,
+thoroughly thoroughly%4:02:00::
+eared eared%5:00:00:worn:00
+and
+big big%3:00:01::
+as
+a
+table_top tabletop%1:06:00::
+.
+He
+placed place%2:35:00::
+it
+on
+Alex person%1:03:00::
+'s
+lap lap%1:08:00::
+.
+``
+This
+is be%2:42:06::
+my
+hen hen%1:05:01::
+ledger ledger%1:21:00::
+''
+,
+he
+informed inform%2:32:00::
+him
+in
+an
+absorbed absorbed%5:00:00:attentive:00
+way way%1:07:01::
+.
+``
+It
+'s
+been
+going go%2:42:03::
+since
+1908
+when
+I
+was be%2:42:03::
+a
+junior junior%1:18:01::
+in
+college college%1:14:00::
+.
+That
+first first%5:00:00:ordinal:00
+entry entry%1:21:00::
+there
+is be%2:42:06::
+the
+Vermont_Flumenophobe
+,
+the
+earliest early%3:00:00::
+and
+one
+of
+the
+most most%4:02:00::
+successful successful%3:00:00::
+of
+my
+eighty-three
+varieties variety%1:14:00::
+-
+great great%5:00:01:large:00
+big big%3:00:01::
+scapulars scapular%1:05:00::
+and
+hardly hardly%4:02:00::
+any any%5:00:00:some(a):00
+primaries primary%1:05:00::
+at_all at_all%4:02:00::
+.
+Could
+n't n't%4:02:00::
+take take%2:38:09::
+them
+near
+a
+river river%1:17:00::
+,
+though though%4:02:01::
+,
+or
+they
+'d
+squawk squawk%2:32:01::
+like
+a
+turkey_cock turkey_cock%1:05:00::
+the
+day day%1:28:00::
+before
+Thanksgiving thanksgiving%1:28:00::
+''
+.
+The
+ledger ledger%1:21:00::
+was be%2:42:03::
+full full%3:00:00::
+of
+most most%4:02:01::
+precise precise%3:00:00::
+information information%1:09:00::
+:
+date date%1:28:00::
+of
+laying laying%1:22:00::
+,
+length length%1:07:01::
+of
+incubation_period incubation_period%1:28:00::
+,
+number number%1:23:00::
+of
+chicks chick%1:05:00::
+reaching reach%2:38:00::
+the
+first first%5:00:00:ordinal:00
+week week%1:28:00::
+,
+second second%5:00:00:ordinal:00
+week week%1:28:00::
+,
+fifth fifth%5:00:00:ordinal:00
+week week%1:28:00::
+,
+weight weight%1:07:00::
+of
+hen hen%1:05:01::
+,
+size size%1:07:00::
+of
+rooster rooster%1:05:00::
+'s
+wattles wattle%1:06:00::
+and_so_on and_so_on%4:02:00::
+,
+all
+scrawled scrawl%2:36:00::
+out
+in
+a
+hand hand%1:10:00::
+that
+looked look%2:39:01::
+more more%4:02:00::
+Chinese chinese%1:10:00::
+than
+English english%1:10:00::
+,
+the
+most most%4:02:00::
+jagged jagged%5:00:00:uneven:00
+and
+sprawling sprawling%5:00:00:extended:00
+Alex person%1:03:00::
+had
+ever ever%4:02:04::
+seen see%2:39:00::
+.
+Below
+these
+particulars particular%1:09:00::
+was be%2:42:00::
+a
+series series%1:14:00::
+of
+alpha alpha%1:10:00::
+beta beta%1:10:00::
+gammas gamma%1:10:00::
+connected connect%2:42:02::
+by
+arrows arrow%1:10:00::
+and
+crosses cross%1:07:00::
+which
+denoted denote%2:32:01::
+the
+lineage lineage%1:14:00::
+of
+the
+breed breed%1:14:01::
+.
+Alex person%1:03:00::
+'s
+instruction instruction%1:04:01::
+was be%2:42:03::
+rapid rapid%5:00:00:fast:01
+,
+for
+the
+doctor doctor%1:18:00::
+had_to
+go_off go_off%2:38:00::
+to
+the
+Rue_Ecole_de_Medecine group%1:03:00::
+to
+hear hear%2:39:00::
+more more%3:00:01::
+speeches speech%1:10:01::
+with
+only only%4:02:02::
+time time%1:28:05::
+for
+one one%5:00:00:cardinal:00
+sip sip%1:04:01::
+of
+wine wine%1:13:00::
+to
+sustain sustain%2:34:01::
+him
+through
+them
+all all%3:00:00::
+.
+But
+after
+the
+doctor doctor%1:18:00::
+'s
+return return%1:04:01::
+that
+night night%1:28:00::
+Alex person%1:03:00::
+could
+see see%2:39:00::
+,
+from
+the
+high high%3:00:01::
+window window%1:06:00::
+in
+his
+own own%5:00:00:personal:00
+room room%1:06:00::
+,
+the
+now now%4:02:05::
+familiar familiar%3:00:00::
+figure figure%1:25:00::
+crouched crouch%2:38:00::
+on
+a
+truly truly%4:02:00::
+impressive impressive%3:00:00::
+heap heap%1:14:00::
+of
+towels towel%1:06:00::
+,
+apparently apparently%4:02:00::
+giving give%2:40:05::
+its
+egg egg%1:05:00::
+hatching hatching%1:22:00::
+powers power%1:09:01::
+one one%5:00:00:cardinal:00
+final final%5:00:00:closing:00
+chance chance%1:26:00::
+before
+it
+was
+replaced replace%2:30:00::
+in
+its
+office office%1:04:01::
+by
+a
+sure-enough sure-enough%5:00:00:genuine:00
+hen hen%1:05:01::
+.
+A
+knocking knocking%1:11:00::
+at
+Alex person%1:03:00::
+'s
+door door%1:06:00::
+roused rouse%2:38:01::
+him
+at
+six six%5:00:00:cardinal:00
+o'clock
+the
+following following%5:00:02:succeeding(a):00
+morning morning%1:28:00::
+.
+It
+was be%2:42:06::
+the
+doctor doctor%1:18:00::
+,
+dressed dressed%5:00:00:clothed:00
+and
+ready ready%3:00:00::
+for
+the
+expedition expedition%1:04:00::
+to
+the
+market market%1:06:00::
+,
+and
+Alex person%1:03:00::
+was
+obliged oblige%2:41:00::
+to
+prepare prepare%2:30:00::
+himself
+in_haste in_haste%4:02:01::
+.
+The
+doctor doctor%1:18:00::
+stood stand%2:35:00::
+about about%4:02:01::
+,
+waiting wait%2:31:00::
+for
+Alex person%1:03:00::
+to
+dress dress%2:29:00::
+,
+with
+a
+show show%1:10:03::
+of
+impatience impatience%1:26:00::
+,
+and
+soon soon%4:02:00::
+they
+were
+moving move%2:38:03::
+,
+as
+quietly quietly%4:02:00::
+as
+could
+be
+,
+through
+the
+still still%5:00:00:quiet:01
+dark dark%3:00:01::
+hallways hallway%1:06:00::
+,
+past past%4:02:00::
+the
+bedroom bedroom%1:06:00::
+of
+the
+patronne patronne%1:18:00::
+,
+and
+so
+into
+the
+street street%1:06:00::
+.
+The
+market market%1:06:00::
+was be%2:42:03::
+not not%4:02:00::
+far far%4:02:00::
+and
+,
+once once%4:02:02::
+there there%4:02:00::
+,
+the
+doctor doctor%1:18:00::
+'s
+sense sense%1:09:05::
+of
+immediacy immediacy%1:07:01::
+left leave%2:31:05::
+him
+and
+he
+fell fall%2:30:08::
+into
+a
+state state%1:03:00::
+of
+harmony harmony%1:07:01::
+with
+the
+birds bird%1:05:00::
+around
+him
+.
+He
+stroked stroke%2:35:00::
+the
+hens hen%1:05:01::
+and
+they
+responded respond%2:31:00::
+with
+delighted delighted%5:00:00:pleased:00
+clucks cluck%1:11:00::
+,
+he
+gobbled gobble%2:32:00::
+with
+the
+turkeys turkey%1:05:00::
+and
+they
+at_once at_once%4:02:00::
+were be%2:42:03::
+all
+attention attention%1:09:00::
+,
+he
+quacked quack%2:32:00::
+with
+the
+ducks duck%1:05:00::
+,
+and
+cackled cackle%2:32:00::
+with
+a
+pair pair%1:23:00::
+of
+exceedingly exceedingly%4:02:00::
+flattered flatter%2:32:00::
+geese goose%1:05:00::
+.
+The
+dawn dawn%1:28:00::
+progressed progress%2:30:00::
+and
+it
+seemed seem%2:39:01::
+that
+the
+doctor doctor%1:18:00::
+would
+never never%4:02:00::
+be be%2:42:03::
+done_with done_with%5:00:00:finished:01
+his
+ministrations ministration%1:04:00::
+when
+quite quite%4:02:01::
+abruptly abruptly%4:02:00::
+something
+broke break%2:30:03::
+his
+revery revery%1:09:00::
+.
+It
+was be%2:42:03::
+a
+fine fine%5:00:00:superior:02
+broody_hen broody_hen%1:05:00::
+,
+white white%3:00:01::
+,
+with
+a
+maternal maternal%3:00:00::
+eye eye%1:09:01::
+and
+a
+striking striking%5:00:00:impressive:00
+abundance abundance%1:07:00::
+of
+feathers feather%1:05:00::
+in
+the
+under under%5:00:00:low:01
+region region%1:15:00::
+of
+the
+abdomen abdomen%1:08:00::
+.
+The
+doctor doctor%1:18:00::
+,
+with
+the
+air air%1:07:00::
+of
+a
+man man%1:18:00::
+whose
+professional professional%3:01:01::
+interests interest%1:09:00::
+have
+found find%2:30:00::
+scope scope%1:07:00::
+,
+drew draw%2:37:03::
+Alex person%1:03:00::
+'s
+attention attention%1:09:00::
+to
+those
+excellences excellence%1:07:00::
+which
+might
+otherwise otherwise%4:02:01::
+have
+escaped escape%2:42:00::
+him
+:
+the
+fine fine%5:00:00:superior:02
+color color%1:07:00::
+in
+comb comb%1:05:01::
+and
+wattles wattle%1:08:00::
+,
+the
+length length%1:07:00::
+and
+quality quality%1:07:02::
+of
+neck neck%1:08:00::
+and
+saddle_hackles saddle_hackle%1:05:00::
+,
+the
+firm firm%5:00:00:forceful:00
+,
+wide wide%3:00:00::
+spread spread%1:07:02::
+of
+the
+toes toe%1:08:01::
+,
+and
+a
+rare rare%5:00:00:uncommon:00
+justness justness%1:07:01::
+in
+the
+formation formation%1:06:00::
+of
+the
+ear ear%1:08:00::
+lappets lappet%1:08:00::
+.
+All
+search search%1:04:00::
+was
+ended end%2:30:01::
+;
+he
+had
+found find%2:40:00::
+his
+fowl fowl%1:05:00::
+.
+The
+purchase purchase%1:04:00::
+was
+effected effect%2:41:15::
+and
+they
+made_their_way make_one's_way%2:38:00::
+towards
+the
+hotel hotel%1:06:00::
+again again%4:02:00::
+,
+the
+hen hen%1:05:01::
+,
+with
+whom
+some
+sort sort%1:09:00::
+of
+communication communication%1:10:01::
+had
+been
+set_up set_up%2:41:02::
+,
+nestling nestle%2:35:00::
+in
+the
+doctor doctor%1:18:00::
+'s
+arms arm%1:08:00::
+.
+The
+clocks clock%1:06:00::
+struck strike%2:32:00::
+seven-thirty
+as
+they
+approached approach%2:38:00::
+the
+hotel hotel%1:06:00::
+entrance entrance%1:06:00::
+;
+and
+hopes hope%1:12:01::
+that
+the
+chambermaid chambermaid%1:18:00::
+and
+patronne patronne%1:18:00::
+would
+still still%4:02:01::
+be be%2:42:03::
+abed abed%4:02:00::
+began begin%2:30:00::
+to
+rise rise%2:38:04::
+in
+Alex person%1:03:00::
+'s
+well well%4:02:00::
+exercised exercise%2:29:00::
+breast breast%1:08:01::
+.
+The
+doctor doctor%1:18:00::
+was
+wearing wear%2:29:00::
+a
+long long%3:00:01::
+New_England new_england%1:15:00::
+greatcoat greatcoat%1:06:00::
+,
+hardly hardly%4:02:00::
+necessary necessary%3:00:00::
+in
+the
+June june%1:28:00::
+weather weather%1:19:00::
+but
+a
+garment garment%1:06:00::
+which
+proved prove%2:31:00::
+well well%4:02:00::
+adapted adapted%5:00:00:modified:00
+to
+the
+sequestration sequestration%1:04:00::
+of
+hens hen%1:05:01::
+.
+Alex person%1:03:00::
+entered enter%2:38:00::
+first first%4:02:03::
+and
+was
+followed follow%2:38:00::
+by
+the
+doctor doctor%1:18:00::
+who
+,
+for
+all
+his
+care care%1:09:00::
+,
+manifested manifest%2:32:00::
+a
+perceptible perceptible%3:00:00::
+bulge bulge%1:25:00::
+on
+his
+left left%3:00:00::
+side side%1:08:00::
+where
+the
+hen hen%1:05:01::
+was
+cradled cradle%2:35:00::
+.
+They
+advanced advance%2:38:00::
+in
+a
+line line%1:14:01::
+across
+the
+entrance_hall entrance_hall%1:06:00::
+to
+the
+stairway stairway%1:06:00::
+and
+up up%4:02:00::
+,
+with
+gingerly gingerly%5:00:00:cautious:00
+steps step%1:04:00::
+,
+towards
+the
+first first%5:00:00:ordinal:00
+landing landing%1:06:01::
+.
+It
+was
+then then%4:02:01::
+that
+they
+heard hear%2:39:00::
+the
+tread tread%1:04:00::
+of
+one
+descending descend%2:38:00::
+and
+,
+in
+some
+perturbation perturbation%1:26:00::
+glancing glance%2:39:00::
+up up%4:02:00::
+,
+saw see%2:39:00::
+the
+patronne patronne%1:18:00::
+coming come%2:38:00::
+towards
+them
+as
+they
+gained gain%2:38:00::
+the
+landing landing%1:06:01::
+.
+``
+Bonjour
+,
+messieurs monsieur%1:18:00::
+,
+vous
+etes
+matinals
+''
+,
+she
+greeted greet%2:32:00::
+them
+pleasantly pleasantly%4:02:01::
+.
+Alex person%1:03:00::
+explained explain%2:32:00::
+that
+they
+had
+been
+out out%4:02:00::
+for
+a
+stroll stroll%1:04:00::
+before
+breakfast breakfast%1:13:00::
+while
+the
+doctor doctor%1:18:00::
+edged edge%2:38:00::
+around around%4:02:01::
+behind
+him
+,
+attempting attempt%2:41:00::
+to
+hide hide%2:39:00::
+the
+protuberance protuberance%1:25:00::
+at
+his
+left left%5:00:00:left-handed:00
+side side%1:08:00::
+behind
+Alex person%1:03:00::
+'s
+arm arm%1:08:00::
+and
+back back%1:08:00::
+.
+``
+Vous
+voulez
+vos
+petits
+dejeuners
+tout
+de
+suite
+alors
+''
+?
+their
+hostess hostess%1:18:00::
+enquired enquire%2:32:00::
+.
+Alex person%1:03:00::
+told tell%2:32:00::
+her
+that
+there
+was be%2:42:04::
+no
+hurry hurry%1:26:00::
+for
+their
+breakfasts breakfast%1:13:00::
+,
+trying try%2:41:00::
+at_the_same_time at_the_same_time%4:02:03::
+to
+effect effect%2:36:00::
+a
+speedy speedy%5:00:03:fast:01
+separation separation%1:04:00::
+of
+the
+persons person%1:03:00::
+before
+and
+behind
+him
+.
+The
+doctor doctor%1:18:00::
+,
+he
+noticed notice%2:39:04::
+,
+was
+attempting attempt%2:41:00::
+a
+transverse transverse%5:00:00:crosswise:00
+movement movement%1:04:04::
+towards
+the
+stairs stairs%1:06:00::
+,
+but
+before
+the
+movement movement%1:04:04::
+could
+be
+completed complete%2:30:02::
+a
+distinct distinct%3:00:00::
+and
+audible audible%3:00:00::
+cluck cluck%1:11:00::
+ruffled ruffle%2:38:00::
+the
+air air%1:15:00::
+in
+the
+hollow hollow%1:25:02::
+of
+the
+stair-well stairwell%1:06:00::
+.
+Eyes eye%1:08:00::
+swerved swerve%2:38:00::
+in
+the
+patronne patronne%1:18:00::
+'s
+head head%1:08:00::
+,
+Alex person%1:03:00::
+coughed cough%2:29:00::
+loudly loudly%4:02:00::
+,
+and
+the
+doctor doctor%1:18:00::
+,
+with
+a
+sforzando sforzando%1:10:01::
+of
+chicken chicken%1:05:01::
+noises noise%1:11:00::
+floating float%2:38:00::
+behind
+him
+,
+took take%2:38:05::
+to
+the
+stairs stairs%1:06:00::
+in
+long_shanked long-shanked%5:00:00:tall:00
+leaps leap%1:04:00::
+.
+``
+Comment
+''
+?
+ejaculated ejaculate%2:32:00::
+the
+surprised surprised%3:00:00::
+woman woman%1:18:00::
+,
+looking look%2:39:00::
+at
+Alex person%1:03:00::
+for
+an
+explanation explanation%1:10:00::
+but
+he
+,
+parting part%2:38:02::
+from
+her
+without
+ceremony ceremony%1:04:01::
+,
+only only%4:02:02::
+offered offer%2:41:00::
+a_few a_few%5:00:00:few:00
+words words%1:10:03::
+about
+the
+doctor doctor%1:18:00::
+'s
+provincial provincial%3:00:00::
+American american%3:01:01::
+speech speech%1:10:00::
+and
+a
+state state%1:03:00::
+of
+nerves nerves%1:26:00::
+brought_on bring_on%2:36:00::
+by
+the
+demands demand%1:09:00::
+of
+his
+work work%1:04:01::
+.
+With_that with_that%4:02:03::
+he
+hurried hurry%2:38:00::
+up_the_stairs up_the_stairs%4:02:00::
+,
+followed follow%2:41:02::
+by
+her
+suspicious suspicious%5:00:00:distrustful:00
+gaze gaze%1:04:00::
+.
+When
+Alex person%1:03:00::
+entered enter%2:38:00::
+his
+room room%1:06:00::
+,
+the
+doctor doctor%1:18:00::
+was
+already already%4:02:00::
+preparing prepare%2:30:00::
+a
+nest nest%1:17:00::
+in
+the
+straw straw%1:27:00::
+case case%1:06:00::
+,
+six six%5:00:00:cardinal:00
+eggs egg%1:05:00::
+ready ready%3:00:00::
+for
+the
+hen hen%1:05:01::
+'s
+attentions attention%1:04:01::
+.
+There
+was be%2:42:04::
+no
+reference reference%1:10:02::
+to
+the
+incident incident%1:11:00::
+on
+the
+stairs stairs%1:06:00::
+,
+his
+powers power%1:09:01::
+being
+absorbed absorb%2:31:06::
+by
+this
+more more%3:00:01::
+immediate immediate%5:00:00:present(a):01
+business business%1:09:00::
+.
+The
+hen hen%1:05:01::
+appeared appear%2:39:00::
+to
+have have%2:40:00::
+no
+doubts doubt%1:09:00::
+as
+to
+her
+duties duty%1:04:00::
+and
+was be%2:42:03::
+quick quick%5:00:00:fast:01
+to
+settle_down settle_down%2:30:00::
+to
+the
+performance performance%1:04:00::
+of
+them
+.
+One one%5:00:00:cardinal:00
+part part%1:17:00::
+of
+her
+audience audience%1:14:00::
+was be%2:42:03::
+totally totally%4:02:00::
+engaged engaged%5:00:02:busy:00
+,
+the
+connoisseur connoisseur%1:18:00::
+witnessing witness%2:39:00::
+a
+peculiarly peculiarly%4:02:01::
+fine fine%5:00:00:skilled:00
+performance performance%1:10:00::
+of
+some
+ancient ancient%5:00:00:past:00
+classic classic%1:06:00::
+,
+the
+other other%3:00:00::
+part part%1:17:00::
+,
+the
+guest guest%1:18:00::
+of
+the
+connoisseur connoisseur%1:18:00::
+,
+attentive attentive%3:00:00::
+as
+one
+who
+must
+take take%2:30:01::
+an
+intelligent intelligent%3:00:00::
+interest interest%1:09:00::
+in_that
+which
+he
+does
+not not%4:02:00::
+fully fully%4:02:02::
+understand understand%2:31:00::
+.
+The
+spectacle spectacle%1:10:00::
+progressed progress%2:30:00::
+towards
+a
+denouement denouement%1:11:00::
+which
+was be%2:42:03::
+obviously obviously%4:02:00::
+still still%4:02:01::
+remote remote%5:00:02:far:00
+;
+the
+audience audience%1:14:00::
+attended attend%2:39:00::
+.
+Time time%1:28:05::
+elapsed elapse%2:38:00::
+but
+the
+doctor doctor%1:18:00::
+was be%2:42:03::
+obviously obviously%4:02:00::
+unconscious unconscious%5:00:01:unaware:00
+of
+its
+passage passage%1:04:04::
+until
+an
+unwelcome unwelcome%3:00:00::
+knock knock%1:11:01::
+on
+the
+door door%1:06:00::
+interrupted interrupt%2:32:00::
+the
+processes process%1:22:00::
+of
+nature nature%1:17:00::
+.
+Startled startled%5:00:00:surprised:00
+,
+he
+jumped jump%2:38:04::
+up
+to
+pull pull%1:04:00::
+hen hen%1:05:01::
+and
+case case%1:06:00::
+out
+of
+view view%1:15:00::
+,
+and
+Alex person%1:03:00::
+went_to go_to%2:38:00::
+the
+door door%1:06:00::
+.
+He
+opened open%2:35:00::
+it
+a
+crack crack%1:06:00::
+and
+in
+doing do%2:41:01::
+so
+made make_noise%2:39:00::
+as
+much as_much_as_possible%4:02:00::
+shuffling shuffling%1:04:01::
+,
+coughing coughing%1:04:00::
+,
+and
+scraping scraping%1:11:00::
+noise noise%1:09:00::
+as
+possible possible%3:00:00::
+in_order
+to
+drown drown%2:35:00::
+emanations emanation%1:04:00::
+from
+the
+hen hen%1:05:01::
+who
+had
+begun begin%2:30:00::
+to
+protest protest%2:41:00::
+.
+It
+was be%2:42:06::
+Giselle person%1:03:00::
+,
+the
+fille_de_chambre fille_de_chambre%1:18:00::
+,
+come come%2:38:04::
+to
+clean clean%2:35:00::
+the
+room room%1:06:00::
+,
+and
+while
+she
+stood stand%2:35:00::
+before
+him
+with
+ears ear%1:08:00::
+pricked_up prick_up%2:38:00::
+and
+regard regard%1:04:00::
+all
+curiosity curiosity%1:09:00::
+,
+explaining explain%2:32:00::
+her
+errand errand%1:04:00::
+,
+Alex person%1:03:00::
+could
+see see%2:39:00::
+from
+the
+corner corner%1:25:00::
+of
+his
+eye eye%1:08:00::
+the
+doctor doctor%1:18:00::
+doing do%2:41:01::
+all
+he
+could
+to
+calm calm%2:37:00::
+the
+displeased displeased%3:00:00::
+bird bird%1:05:00::
+.
+Giselle person%1:03:00::
+was be%2:42:03::
+reluctant reluctant%5:00:00:unwilling:00
+but
+Alex person%1:03:00::
+succeeded succeed%2:41:00::
+in
+persuading persuade%2:41:00::
+her
+to
+come_back come_back%2:38:00::
+in
+five five%5:00:00:cardinal:00
+minutes minute%1:28:00::
+and
+the
+door door%1:06:00::
+was
+shut shut%2:35:00::
+again again%4:02:00::
+.
+``
+Who
+was be%2:42:06::
+that
+,
+young young%3:00:00::
+feller
+''
+?
+the
+doctor doctor%1:18:00::
+instantly instantly%4:02:00::
+asked ask%2:32:00::
+.
+``
+That
+was be%2:42:06::
+the
+fille_de_chambre fille_de_chambre%1:18:00::
+,
+the
+one
+you
+thought think%2:31:03::
+could
+n't n't%4:02:00::
+get get%2:35:03::
+the
+eggs egg%1:05:00::
+out out%4:02:00::
+.
+She
+looked look%2:29:00::
+mighty mighty%4:02:00::
+interested interested%3:00:00::
+,
+though though%4:02:01::
+.
+Anyhow anyhow%4:02:00::
+she
+'s
+coming_back come_back%2:38:00::
+in
+five five%5:00:00:cardinal:00
+minutes minute%1:28:00::
+to
+do do%2:41:02::
+the
+room room%1:06:00::
+''
+.
+The
+doctor doctor%1:18:00::
+'s
+mind mind%1:09:00::
+was
+working work%2:41:02::
+at
+a
+great great%5:00:00:high:02
+speed speed%1:07:00::
+;
+he
+rose rise%2:38:05::
+to
+put put_on%2:29:00::
+his
+greatcoat greatcoat%1:06:00::
+on
+and
+addressed address%2:32:00::
+Alex person%1:03:00::
+in
+a
+muted muted%5:00:02:soft:04
+voice voice%1:10:00::
+.
+``
+Have
+you
+got have_got%2:40:00::
+our
+keys key%1:06:00::
+handy handy%5:00:00:accessible:00
+''
+?
+``
+Right right%4:02:04::
+in
+my
+pocket pocket%1:06:00::
+''
+.
+``
+All_right all_right%4:02:00::
+.
+Now now%4:02:02::
+you
+go go%2:38:00::
+outside outside%4:02:00::
+and
+beckon beckon%2:32:00::
+me
+when
+it
+'s
+safe safe%3:00:01::
+''
+.
+The
+hall hall%1:06:03::
+was be%2:42:03::
+empty empty%3:00:00::
+and
+Alex person%1:03:00::
+beckoned beckon%2:32:00::
+;
+they
+climbed climb%2:38:00::
+the
+stairs stairs%1:06:00::
+which
+creaked creak%2:39:00::
+,
+very_loudly very_loudly%4:02:00::
+to
+their
+sensitive sensitive%3:00:01::
+ears ear%1:08:00::
+,
+and
+reached reach%2:38:01::
+the
+next next%5:00:00:succeeding(a):00
+floor floor%1:06:01::
+.
+A
+guest guest%1:18:00::
+was
+locking lock%2:35:00::
+his
+room room%1:06:00::
+;
+they
+passed pass%2:38:00::
+behind
+him
+and
+got get%2:38:00::
+to
+Alex person%1:03:00::
+'s
+room room%1:06:00::
+unnoticed unnoticed%3:00:00::
+.
+The
+doctor doctor%1:18:00::
+sat_down sit_down%2:38:00::
+rather rather%4:02:04::
+wearily wearily%4:02:00::
+,
+caressing caress%2:35:00::
+the
+hen hen%1:05:01::
+and
+remarking remark%2:32:00::
+that
+the
+city city%1:15:00::
+was be%2:42:03::
+not not%4:02:00::
+the
+place place%1:15:00::
+for
+a
+poultry poultry%1:05:00::
+loving loving%3:00:00::
+man man%1:18:00::
+,
+but
+no_sooner
+was be%2:42:04::
+the
+remark remark%1:10:00::
+out
+than
+a
+knock knock%1:11:01::
+at
+this
+door door%1:06:00::
+obliged oblige%2:41:00::
+him
+to
+cover cover%2:35:00::
+the
+hen hen%1:05:01::
+with
+his
+greatcoat greatcoat%1:06:00::
+once_more once_more%4:02:00::
+.
+At
+the
+door door%1:06:00::
+Alex person%1:03:00::
+managed manage%2:41:09::
+to
+persuade persuade%2:41:00::
+the
+increasingly increasingly%4:02:00::
+astonished astonished%5:00:00:surprised:00
+fille_de_chambre fille_de_chambre%1:18:00::
+to
+return return%2:38:00::
+in
+ten ten%5:00:00:cardinal:00
+minutes minute%1:28:00::
+.
+It
+was be%2:42:03::
+evident evident%5:00:00:obvious:00
+that
+a
+second second%5:00:00:ordinal:00
+transfer transfer%1:04:00::
+had
+to
+be
+effected effect%2:41:15::
+,
+and
+that
+it
+had
+to
+take_place take_place%2:30:00::
+between
+the
+time time%1:11:00::
+the
+fille fille_de_chambre%1:18:00::
+finished finish%2:30:02::
+the
+doctor doctor%1:18:00::
+'s
+room room%1:06:00::
+and
+the
+time time%1:11:00::
+she
+began begin%2:30:00::
+Alex person%1:03:00::
+'s
+.
+They
+waited wait%2:42:00::
+three three%5:00:00:cardinal:00
+minutes minute%1:28:00::
+and_then and_then%4:02:00::
+crept creep%2:38:04::
+out out%4:02:00::
+on
+tip-toe tiptoe%4:02:00::
+;
+the
+halls hall%1:06:03::
+were be%2:42:03::
+empty empty%3:00:00::
+and
+they
+passed pass%2:38:00::
+down_the_stairs down_the_stairs%4:02:00::
+to
+number number%1:23:00::
+nine nine%1:23:00::
+and
+listened listen%2:39:01::
+at
+the
+door door%1:06:00::
+.
+A
+bustle bustle%1:04:00::
+of
+sheets sheet%1:06:00::
+being
+smoothed smooth%2:35:00::
+and
+pillows pillow%1:06:00::
+being
+arranged arrange%2:35:00::
+indicated indicate%2:32:01::
+the
+fille_de_chambre fille_de_chambre%1:18:00::
+'s
+presence presence%1:26:00::
+inside inside%4:02:01::
+;
+they
+listened listen%2:39:01::
+and
+suddenly suddenly%4:02:02::
+a
+step step%1:23:00::
+towards
+the
+door door%1:06:00::
+announced announce%2:32:00::
+another
+important important%3:00:00::
+fact fact%1:09:01::
+.
+The
+doctor doctor%1:18:00::
+shot_down shoot_down%2:38:01::
+to
+the
+lavatory lavatory%1:06:00::
+and
+turned turn%2:38:02::
+the
+doorknob doorknob%1:06:00::
+,
+but
+to
+no
+effect effect%1:19:00::
+:
+the
+lavatory lavatory%1:06:00::
+was be%2:42:03::
+occupied occupied%3:00:00::
+.
+Although
+a
+look look%1:07:01::
+of
+alarm alarm%1:12:00::
+passed_over pass_over%2:38:01::
+his
+face face%1:08:00::
+,
+he
+did
+not not%4:02:00::
+arrest arrest%2:35:01::
+his
+movements movement%1:04:00::
+but
+disappeared disappear%2:30:00::
+into
+the
+shower_room shower_room%1:06:00::
+just just%4:02:01::
+as
+the
+chambermaid chambermaid%1:18:00::
+emerged emerge%2:30:00::
+from
+number number%1:23:00::
+nine nine%1:23:00::
+.
+Alex person%1:03:00::
+suppressed suppress%2:41:00::
+those
+expressions expression%1:07:00::
+of
+relief relief%1:26:00::
+which
+offered offer%2:41:00::
+to
+prevail prevail%2:42:01::
+in
+his
+face face%1:08:00::
+and
+escape escape%2:38:00::
+from
+his
+throat throat%1:08:00::
+;
+unwarranted unwarranted%5:00:00:inexcusable:00
+they
+were be%2:42:03::
+in_any_case in_any_case%4:02:00::
+for
+,
+as
+he
+stood stand%2:35:00::
+facing face%2:42:00::
+the
+fille_de_chambre fille_de_chambre%1:18:00::
+,
+his
+ears ear%1:08:00::
+were
+assailed assail%2:33:00::
+by
+new new%3:00:00::
+sounds sound%1:07:00::
+from
+the
+interior interior%1:15:01::
+of
+the
+shower_room shower_room%1:06:00::
+.
+The
+events event%1:26:00::
+of
+the
+last last%5:00:00:past:00
+quarter quarter%1:23:01::
+of
+an
+hour hour%1:28:00::
+,
+mysterious mysterious%5:00:00:esoteric:00
+to
+any
+bird bird%1:05:00::
+accustomed accustom%2:30:00::
+only only%4:02:01::
+to
+the
+predictable predictable%3:00:00::
+life life%1:26:01::
+of
+coop coop%1:06:01::
+and
+barnyard barnyard%1:06:00::
+,
+had
+overcome overcome%2:37:00::
+the
+doctor doctor%1:18:00::
+'s
+hen hen%1:05:01::
+and
+she
+gave_out give_out%2:43:00::
+a
+series series%1:14:00::
+of
+cackly cackly%5:00:00:cacophonous:00
+wails wail%1:10:00::
+,
+perhaps perhaps%4:02:00::
+mourning mourn%2:37:00::
+her
+nest nest%1:17:00::
+,
+but
+briefly briefly%4:02:00::
+enjoyed enjoy%2:37:00::
+.
+The
+doctor doctor%1:18:00::
+'s
+wits wit%1:09:00::
+had
+not not%4:02:00::
+left leave%2:31:05::
+him
+,
+however however%4:02:00::
+,
+for
+all
+his
+sixty-eight
+years years%1:28:00::
+,
+and
+the
+wails wail%1:10:00::
+were
+almost almost%4:02:00::
+immediately immediately%4:02:00::
+lost lose%2:40:02::
+in
+the
+sound sound%1:07:00::
+of
+water water%1:27:00::
+rushing_out rush_out%2:38:00::
+from
+the
+showerhead showerhead%1:06:00::
+.
+Alex person%1:03:00::
+nodded nod%2:32:01::
+to
+the
+maid maid%1:18:01::
+as
+though
+nothing nothing%1:23:00::
+unusual unusual%3:00:00::
+were
+taking_place take_place%2:30:00::
+and
+entered enter%2:38:00::
+the
+doctor doctor%1:18:00::
+'s
+room room%1:06:00::
+.
+Shortly shortly%4:02:01::
+,
+the
+doctor doctor%1:18:00::
+himself
+entered enter%2:38:00::
+,
+his
+hair hair%1:08:00::
+somewhat somewhat%4:02:01::
+wet wet%3:00:01::
+from
+the
+shower shower%1:04:00::
+,
+but
+evidently evidently%4:02:00::
+satisfied satisfied%5:00:00:contented:00
+with
+the
+outcome outcome%1:11:00::
+of
+their
+adventures adventure%1:04:00::
+.
+Without
+comment comment%1:10:00::
+he
+opened open%2:35:00::
+the
+closet closet%1:06:02::
+and
+from
+its
+shelves shelf%1:06:00::
+constructed construct%2:36:00::
+a
+highboard
+around
+the
+egg egg%1:05:00::
+case case%1:06:00::
+which
+he
+had
+placed place%2:35:00::
+on
+the
+floor floor%1:06:00::
+inside inside%4:02:01::
+.
+Next next%4:02:00::
+,
+the
+hen hen%1:05:01::
+was
+nested nest%2:42:00::
+and
+all
+seemed seem%2:39:00::
+well well%4:02:00::
+.
+The
+two two%5:00:00:cardinal:00
+men man%1:18:00::
+sat sit%2:35:00::
+for
+some some%5:00:00:many:00
+time time%1:28:00::
+,
+savoring savor%2:37:00::
+the
+pleasure pleasure%1:12:00::
+of
+escape escape%1:04:00::
+from
+peril peril%1:26:00::
+and
+the
+relief relief%1:26:00::
+such such%5:00:01:specified:00
+escape escape%1:04:00::
+brings bring%2:36:00::
+,
+before
+they
+got_up get_up%2:38:01::
+and
+left leave%2:38:01::
+the
+hotel hotel%1:06:00::
+,
+the
+doctor doctor%1:18:00::
+to
+go_to go_to%2:38:00::
+the
+conference_house conference_house%1:06:00::
+and
+Alex person%1:03:00::
+to
+go_to go_to%2:38:00::
+the
+main main%5:00:00:important:00
+post_office post_office%1:14:01::
+.
+Alex person%1:03:00::
+returned return%2:38:00::
+to
+the
+hotel hotel%1:06:00::
+,
+rather rather%4:02:04::
+weary weary%5:00:00:tired:00
+and
+with
+no
+new new%3:00:00::
+prospects prospect%1:26:00::
+of
+a
+role role%1:04:00::
+,
+in
+the
+late late%3:00:00::
+afternoon afternoon%1:28:00::
+,
+but
+found find%2:39:02::
+the
+doctor doctor%1:18:00::
+in
+an
+ebullient ebullient%5:00:00:spirited:00
+mood mood%1:12:00::
+.
+At
+the
+time time%1:11:00::
+Alex person%1:03:00::
+arrived arrive%2:38:00::
+he
+was
+engaged engage%2:41:06::
+in
+some
+sort sort%1:09:00::
+of
+intimate intimate%5:00:02:close:02
+communication communication%1:10:01::
+with
+the
+hen hen%1:05:01::
+,
+who
+had
+settled settle%2:38:01::
+herself
+on
+the
+nest nest%1:17:00::
+most most%4:02:01::
+peacefully peacefully%4:02:00::
+after
+the
+occurrences occurrence%1:11:00::
+of
+the
+morning morning%1:28:00::
+.
+``
+Chickens chicken%1:05:01::
+have have%2:40:00::
+short short%3:00:02::
+memories memory%1:09:00::
+''
+,
+the
+doctor doctor%1:18:00::
+remarked remark%2:32:00::
+,
+``
+that
+'s
+why
+they
+are be%2:42:03::
+better better%3:00:00::
+company company%1:26:00::
+than
+most most%3:00:02::
+people people%1:14:00::
+I
+know know%2:31:00::
+''
+,
+and
+he
+went_on go_on%2:42:00::
+to
+break break%2:32:00::
+some
+important important%3:00:00::
+news news%1:10:00::
+to
+Alex person%1:03:00::
+.
+``
+Well
+''
+,
+he
+began begin%2:30:00::
+,
+``
+It
+seems seem%2:39:00::
+like
+some
+people people%1:14:00::
+in
+Paris paris%1:15:00::
+want want%2:37:00::
+to
+hear hear%2:39:00::
+more more%3:00:01::
+from
+me
+than
+those
+fellers
+over
+at
+the
+conference_house conference_house%1:06:00::
+do
+.
+They
+'ve
+got get%2:40:00::
+a
+big big%3:00:01::
+vulture vulture%1:05:00::
+from
+Tanganika location%1:03:00::
+at
+the
+zoo zoo%1:06:00::
+here here%4:02:00::
+,
+with
+a
+wife wife%1:18:00::
+for
+him
+,
+too too%4:02:01::
+,
+very very%4:02:00::
+rare rare%5:00:00:scarce:00
+birds bird%1:05:00::
+,
+both
+of
+them
+,
+the
+only only%5:00:00:single(a):00
+Vulturidae
+of
+their
+species species%1:14:00::
+outside
+Africa africa%1:17:00::
+.
+Seems seem%2:39:00::
+like
+she
+'s
+willing willing%3:00:00::
+,
+but
+the
+male male%1:05:00::
+just just%4:02:00::
+flops flop%2:38:01::
+around
+all
+day day%1:28:02::
+like
+the
+bashful bashful%5:00:00:timid:00
+boy boy%1:18:00::
+who
+took take%2:38:09::
+Jeannie_May person%1:03:00::
+behind
+the
+barn barn%1:06:00::
+and_then and_then%4:02:00::
+did
+n't n't%4:02:00::
+know know%2:31:03::
+what
+to
+do do%2:41:01::
+,
+and
+the
+people people%1:14:00::
+at
+the
+zoo zoo%1:06:00::
+have
+n't n't%4:02:00::
+got get%2:40:00::
+any
+vulture vulture%1:05:00::
+chicks chick%1:05:00::
+to
+show show%2:32:03::
+for
+their
+trouble trouble%1:04:02::
+.
