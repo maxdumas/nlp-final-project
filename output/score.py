@@ -12,6 +12,11 @@ with open(args.result_file) as result:
             r_line = result.readline().strip().split()
             k_line = key.readline().strip().split()
 
+            if not r_line or not k_line:
+                break
+            if r_line[0] != k_line[0]:
+                raise Exception('Misalignment at line ' + str(all))
+
             if len(r_line) == 2:
                 r_key = r_line[1]
 
@@ -35,8 +40,6 @@ with open(args.result_file) as result:
 
             all += 1
 
-            if not r_line or not k_line:
-                break
 
 # print('\nFound senses for {} words versus {} found in key ({}%).'.format((n + q), m, (n + q) * 100 // m))
 # print('{} senses found matched the key ({}%).'.format(q, q * 100 // m))
