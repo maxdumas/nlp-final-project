@@ -51,7 +51,7 @@ def lemmatizer():
 
 def preprocess(file):
     print('  Tokenizing...')
-    tokens = nltk.word_tokenize(file.read())
+    tokens = [line.strip() for line in file]
 
     # Generate all word POS tags
     print('  Tagging parts of speech...')
