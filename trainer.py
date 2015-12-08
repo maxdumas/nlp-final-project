@@ -36,8 +36,8 @@ def extract_features(word_form, i, sentence):
     prev_form = sentence[cl(i - 1, 0, n)]
 
     if 'pos' in prev_form.attrib:
-        features['prev_pos'] = prev_form.attrib['pos']
-    features['prev_word'] = prev_form.text
+        features['pos-1'] = prev_form.attrib['pos']
+    features['word-1'] = prev_form.text
 
     return features
 
@@ -52,7 +52,6 @@ def calcA(filenames):
         # For each found feature, increment
         # count for that feature-value pair
         for feature, value in feature_set.items():
-            kvp = '{}-{}'.format(feature, value)
             output[key][1][feature][value] += 1
 
     parse_xml(filenames, operate)

@@ -2,22 +2,35 @@ import nltk
 from nltk.corpus import wordnet as wn
 from nltk.stem.wordnet import WordNetLemmatizer
 
-def find_word_sense(word, training_data):
+def find_word_sense(entry, training_data):
     A, B = training_data
-    # Use the lemma form that has the synset with the highest count
-    max_count = 0
-    max_sense_key = None
-    # for lemma in possible_lemmas:
+    word = entry['word']
     if word in B:
-        for sense_key, count in B[word][1].items():
-            if max_count < count:
-                max_sense_key = sense_key
-                max_count = count
+        max_sense_prob = 0
+        max_sense = None
 
-    # if max_sense_key == None:
-    #     print('Chosen form {} for {} after looking at {}'.format(max_sense_key, word, possible_lemmas))
+        word_total_count = B[word][0]
+        # Iterate through all senses found for this word:
+        for sense, sense_word_count in B[word][1].items():
+            sense_total_count = A[sense][0]
+            sense_features = A[sense][1]
+            
+            # Contribute probability that given word will have this sense
+            sense_prob = (sense_word_count / word_total_count)
+            # Contribute probability that given sense will have this word's lemma
+            sense_prob *= (sense_features['lemma'][entry['lemma']] + 1) / (sense_total_count + 1)
+            # Contribute probability that given sense will have this word's POS
+            sense_prob *= (sense_features['pos'][entry['pos']] + 1) / (sense_total_count + 1)
+            # # Contribute probability that given sense will have this word's antecedent
+            # sense_prob *= (sense_features['word-1'][entry['word-1']] + 1) / (sense_total_count + 1)
+            # Contribute probability that given sense will have this word's antecedent POS
+            sense_prob *= (sense_features['pos-1'][entry['pos-1']] + 1) / (sense_total_count + 1)
 
-    return max_sense_key
+            if sense_prob > max_sense_prob:
+                max_sense_prob = sense_prob
+                max_sense = sense
+
+        return max_sense
 
 def lemmatizer():
     lmtzr = WordNetLemmatizer()
@@ -49,6 +62,12 @@ def preprocess(file):
     l = lemmatizer()
     lemma_tagged = [{'word': token, 'lemma': l(token, pos), 'pos': pos} for (token, pos) in pos_tagged]
 
+    for i in range(1, len(lemma_tagged)):
+        lemma_tagged[i]['word-1'] = lemma_tagged[i - 1]['word']
+        lemma_tagged[i]['pos-1'] = lemma_tagged[i - 1]['pos']
+    lemma_tagged[0]['word-1'] = '.'
+    lemma_tagged[0]['pos-1'] = '.'
+
     return lemma_tagged
 
 def process(training_data, test_file):
@@ -59,7 +78,7 @@ def process(training_data, test_file):
 
     print(' Determining word senses...')
     for entry in data:
-        wf = find_word_sense(entry['word'], training_data)
+        wf = find_word_sense(entry, training_data)
         output_data.append((entry['word'], wf))
 
     return output_data
