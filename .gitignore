@@ -10,4 +10,4 @@ semcor*
 *.log
 *.synctex.gz
 
-result.txt
+output/br-*.txt
