@@ -16,17 +16,12 @@ def find_word_sense(entry, training_data):
         for sense, sense_word_count in B[word][1].items():
             sense_total_count = A[sense][0]
             sense_features = A[sense][1]
-            
+
             # Contribute probability that given word will have this sense
             sense_prob = (sense_word_count / word_total_count)
-            # Contribute probability that given sense will have this word's lemma
-            sense_prob *= (sense_features['lemma'][entry['lemma']] + 1) / (sense_total_count + 1)
-            # Contribute probability that given sense will have this word's POS
-            sense_prob *= (sense_features['pos'][entry['pos']] + 1) / (sense_total_count + 1)
-            # # Contribute probability that given sense will have this word's antecedent
-            # sense_prob *= (sense_features['word-1'][entry['word-1']] + 1) / (sense_total_count + 1)
-            # Contribute probability that given sense will have this word's antecedent POS
-            sense_prob *= (sense_features['pos-1'][entry['pos-1']] + 1) / (sense_total_count + 1)
+            # Contribute all feature-sense probabilities with Laplace Smoothing
+            for feature in sense_features:
+                sense_prob *= (sense_features[feature][entry[feature]] + 1) / (sense_total_count + 1)
 
             if sense_prob > max_sense_prob:
                 max_sense_prob = sense_prob
