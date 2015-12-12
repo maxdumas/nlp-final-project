@@ -1,6 +1,7 @@
 import nltk
 from nltk.corpus import wordnet as wn
 from nltk.stem.wordnet import WordNetLemmatizer
+from features import extract_features
 
 def find_word_sense(entry, training_data):
     A, B = training_data
@@ -63,13 +64,26 @@ def preprocess(file):
     l = lemmatizer()
     lemma_tagged = [{'word': token, 'lemma': l(token, pos), 'pos': pos} for (token, pos) in pos_tagged]
 
-    for i in range(1, len(lemma_tagged)):
-        lemma_tagged[i]['word-1'] = lemma_tagged[i - 1]['word']
-        lemma_tagged[i]['pos-1'] = lemma_tagged[i - 1]['pos']
-    lemma_tagged[0]['word-1'] = '.'
-    lemma_tagged[0]['pos-1'] = '.'
+    # Make a list of lists
+    # Go through all words, appending to a list within the list
+    # If the word POS is '.', then flush the current list to the sentence list with that word
+    # Then start working with a new list
+    sentence_chunked = []
+    current_sentence = []
+    for word_form in lemma_tagged:
+        current_sentence.append(word_form)
 
-    return lemma_tagged
+        if word_form['pos'] == '.':
+            sentence_chunked.append(current_sentence)
+            current_sentence = []
+
+    feature_tagged = []
+    for sentence in sentence_chunked:
+        for i in range(0, len(sentence)):
+            word_form = sentence[i]
+            feature_tagged.append(extract_features(word_form, i, sentence))
+
+    return feature_tagged
 
 def process(training_data, test_file):
     output_data = []

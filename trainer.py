@@ -2,12 +2,14 @@ from collections import defaultdict
 import os
 import xml.etree.ElementTree as ET
 
+from features import extract_features
+
 def cl(i, minv, maxv):
     return sorted((minv, maxv - 1, i))[1]
 
 def generate_key(word_form):
-    lemma = word_form.attrib['lemma']
-    lexsn = word_form.attrib['lexsn']
+    lemma = word_form['lemma']
+    lexsn = word_form['lexsn']
     return '{}%{}'.format(lemma, lexsn)
 
 def parse_xml(filenames, operation):
@@ -17,34 +19,22 @@ def parse_xml(filenames, operation):
         file = root[0]
         for paragraph in file:
             for sentence in paragraph:
-                for i in range(len(sentence)):
-                    word_form = sentence[i]
+                simplified_sentence = [];
+                for word_form in sentence:
                     # Choose only tagged words
                     if 'cmd' in word_form.attrib \
                     and 'lemma' in word_form.attrib \
                     and word_form.attrib['cmd'] == 'done' \
                     and 'ot' not in word_form.attrib:
-                        operation(word_form, i, sentence)
+                        simplified_word_form = defaultdict(lambda: None)
+                        simplified_word_form.update(word_form.attrib)
+                        simplified_word_form['word'] = word_form.text
 
-def extract_features(word_form, i, sentence):
-    n = len(sentence)
-    features = {}
-
-    features['pos'] = word_form.attrib['pos']
-    features['lemma'] = word_form.attrib['lemma']
-
-    # Extract collocation features from k previous and k following forms
-    for k in range(-5, 5):
-        if k == 0: continue
-
-        if i + k < -1 or i + k >= n:
-            features['pos{:+}'.format(k)] = None
-        elif i + k == -1:
-            features['pos{:+}'.format(k)] = '.'
-        elif 'pos' in sentence[i + k].attrib:
-            features['pos{:+}'.format(k)] = sentence[i + k].attrib['pos']
-
-    return features
+                        simplified_sentence.append(simplified_word_form)
+                
+                for i in range(0, len(simplified_sentence)):
+                    word_form = simplified_sentence[i]
+                    operation(word_form, i, simplified_sentence)
 
 def calcA(filenames):
     output = defaultdict(lambda: [0, defaultdict(lambda: defaultdict(int))])
@@ -67,7 +57,7 @@ def calcB(filenames):
     output = defaultdict(lambda: [0, defaultdict(int)])
 
     def operate(word_form, i, sentence):
-        word = word_form.text
+        word = word_form['word']
         key = generate_key(word_form)
         # Increment total count for word
         output[word][0] += 1
