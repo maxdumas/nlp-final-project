@@ -33,11 +33,16 @@ def extract_features(word_form, i, sentence):
     features['pos'] = word_form.attrib['pos']
     features['lemma'] = word_form.attrib['lemma']
 
-    prev_form = sentence[cl(i - 1, 0, n)]
+    # Extract collocation features from k previous and k following forms
+    for k in range(-5, 5):
+        if k == 0: continue
 
-    if 'pos' in prev_form.attrib:
-        features['pos-1'] = prev_form.attrib['pos']
-    features['word-1'] = prev_form.text
+        if i + k < -1 or i + k >= n:
+            features['pos{:+}'.format(k)] = None
+        elif i + k == -1:
+            features['pos{:+}'.format(k)] = '.'
+        elif 'pos' in sentence[i + k].attrib:
+            features['pos{:+}'.format(k)] = sentence[i + k].attrib['pos']
 
     return features
 

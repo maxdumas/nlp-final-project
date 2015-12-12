@@ -10,7 +10,8 @@ def find_word_sense(entry, training_data):
         max_sense = None
 
         word_total_count = B[word][0]
-        # Iterate through all senses found for this word:
+        # Iterate through all senses found for this word
+        # Note that none may exist, in which case max_sense will remain None
         for sense, sense_word_count in B[word][1].items():
             sense_total_count = A[sense][0]
             sense_features = A[sense][1]
