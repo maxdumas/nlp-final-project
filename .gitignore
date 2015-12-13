@@ -4,10 +4,11 @@ __pycache__
 thing
 semcor*
 
-*.aux
-*.fdb_latexmk
-*.fls
-*.log
-*.synctex.gz
+paper/*.pdf
+paper/*.aux
+paper/*.fdb_latexmk
+paper/*.fls
+paper/*.log
+paper/*.synctex.gz
 
 output/br-*.txt
