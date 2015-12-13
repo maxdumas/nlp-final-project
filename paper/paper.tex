@@ -15,11 +15,15 @@ Naive Bayes Classifier}
 \maketitle
 
 \begin{abstract}
-Beans beans beans. Right! This is a two column layout, so the title here is actually centered on the page.
+This paper examines an attempt to implement the Naive Bayes Classifier algorithm for the purpose of performing the task of Word Sense Disambiguation. In it we will discuss the problem of Word Sense Disambiguation broadly, along with a thorough explanation of the Naive Bayes algorithm. Finally, we will present an implementation of the algorithm in Python and analyze the results of the application of the alogrithm and difficulties that arose in its application.
 \end{abstract}
 
 \section{Introduction}
-Introduce our solution to the problem and necessary background information.
+An incredibly important aspect of computational understanding of human language is word meaning. Without word meaning, effective interpretation of sentences and texts at large is impossible. The meaning of a word occurrence most concisely is the triple of its part-of-speech, lemma form. We call each unique triple that can be assigned to a word form a \emph{sense} of that word. The information provided to us by identifying the sense of a word is critical in any natural language processing task that requires identifying the precise usage of a word. Examples of tasks where this is the case include text classification, question answering, text summarization, and information extraction.
+
+Knowledge of word sense is thus an essential element in natural language processing, but determining word senses by hand is often impractical. Humans are exceptionally good at determining the senses of words in context, and our language is built around that. However, this makes the task of word sense disambiguation difficult for computers, as our language is full of homonyms and homographs, and many words are often used with specific senses in very subtle ways. Yet computers must be able to parse and understand our words if we are to empower them with our language, and we cannot annotate all texts manually. Thus enters the field of word sense disambiguation, which aims to provide computers with the tools to automatically determine the sense of words in a given context. The desired end result of a word sense disambiguation task is that all words in the input have been assigned a single, correct sense that correctly reflects the text's real meaning.
+
+There are many approaches to word sense disambiguation — in particular machine learning tasks can be broadly adapted to solve the problem. One of the simpler and more efficient of such methods is the Naive Bayes Classifier, which is a probabilistic method that manages to achieve good results while still remaining fairly simple in implementation.
 
 \section{The Naive Bayes Classifier}
 Explain in exact detail the Naïve Bayes Classifier algorithm. This should more or less follow the format of project proposal
@@ -34,7 +38,11 @@ Switched to POS-informed lemmatizer instead of simply choosing lemma with larges
 \section{Analysis}
 Discuss here the performance and results of applying the algorithm.
 
+Discuss here the difficulty in applying features successfully.
+
 \section{Conclusion}
 Discuss here what went wrong, what went right, avenues for improvement, further reading, etc.
+
+Discuss here how it is difficult to analyze the decisions that the Naive Bayes Classifier makes and why.
 
 \end{document}
