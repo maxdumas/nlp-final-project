@@ -1,7 +1,6 @@
 .DS_Store
 
 __pycache__
-thing
 semcor*
 
 paper/*.pdf
@@ -12,3 +11,7 @@ paper/*.log
 paper/*.synctex.gz
 
 output/br-*.txt
+
+semcor3.0
+
+data*
