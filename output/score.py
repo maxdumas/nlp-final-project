@@ -22,28 +22,19 @@ with open(args.result_file) as result:
 
                 if len(k_line) == 2:
                     if k_line[1] == r_key:
-                        print('█', end='')
                         correct += 1
                     else:
-                        print('•', end='')
+                        print('Line {}: {} ≠ {}'.format(all + 1, r_line, k_line))
                         incorrect += 1
                 else:
-                    print('▒', end='')
                     new += 1
                 total += 1
             elif len(k_line) == 2:
-                print('░', end='')
                 missing += 1
                 total += 1
-            else:
-                print(' ', end='')
 
             all += 1
 
-
-# print('\nFound senses for {} words versus {} found in key ({}%).'.format((n + q), m, (n + q) * 100 // m))
-# print('{} senses found matched the key ({}%).'.format(q, q * 100 // m))
-# print('There were {} lines total ({}%).'.format(l, (n + q) * 100 // l))
 print()
 print('█ Correct Matches: {}/{} ({}%) [in both, equal]'.format(correct, total, correct * 100 // total))
 print('• Incorrect Matches: {}/{} ({}%) [in both but unequal]'.format(incorrect, total, incorrect * 100 // total))
