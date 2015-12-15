@@ -3,7 +3,6 @@
 __pycache__
 semcor*
 
-paper/*.pdf
 paper/*.aux
 paper/*.fdb_latexmk
 paper/*.fls
