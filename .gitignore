@@ -2,6 +2,7 @@
 
 __pycache__
 semcor*
+output.log
 
 paper/*.aux
 paper/*.fdb_latexmk
