@@ -7,8 +7,12 @@ if [ ! -d 'data_test' ]; then
     fi
 fi
 
+if [ ! -d 'output' ]; then
+    mkdir output
+fi
+
 echo "Evaluating with file $1..."
 python3 nbc.py data_train "data_test/$1.txt" "output/$1.txt" &&
 
 echo 'Scoring...' &&
-python3 output/score.py "data_key/$1.txt" "output/$1.txt" > "output/$1.score"
+python3 score.py "data_key/$1.txt" "output/$1.txt" > "output/$1.score"

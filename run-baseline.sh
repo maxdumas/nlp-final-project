@@ -11,4 +11,4 @@ echo "Evaluating with file $1..."
 python3 baseline.py data_train "data_test/$1.txt" "output/$1.baseline_txt" &&
 
 echo 'Scoring...' &&
-python3 output/score.py "data_key/$1.txt" "output/$1.baseline_txt" > "output/$1.baseline_score"
+python3 score.py "data_key/$1.txt" "output/$1.baseline_txt" > "output/$1.baseline_score"
