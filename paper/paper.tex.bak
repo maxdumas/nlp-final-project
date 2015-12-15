@@ -17,7 +17,7 @@ Na\"ive Bayes Classifier}
 \maketitle
 
 \begin{abstract}
-This paper examines an attempt to implement the Na\"ive Bayes Classifier algorithm for the purpose of performing the task of Word Sense Disambiguation. In it we will discuss the problem of Word Sense Disambiguation broadly, along with a thorough explanation of the Na\"ive Bayes algorithm. Finally, we will present an implementation of the algorithm in Python and analyze the results of the application of the algorithm and difficulties that arose in its application.
+This paper examines an attempt to implement the Na\"ive Bayes Classifier algorithm for the purpose of performing the task of Word Sense Disambiguation. In it we will discuss the problem of Word Sense Disambiguation broadly, along with a thorough explanation of the Na\"ive Bayes algorithm. Finally, we will present an implementation of the algorithm in Python and analyze the results of the application of the alogrithm and difficulties that arose in its application.
 \end{abstract}
 
 \section{Introduction}
@@ -39,7 +39,7 @@ s^*(w) &= \argmax_{s \in S(w)} P(s|F(w)) \\
 \end{split}
 \end{equation}
 
-The second form is derived using Bayes' Formula, hence Na\"ive \emph{Bayes} Classifier. This equation is simple and conceptually effective. But in practice, even the second form is difficult to use---meaningfully computing the probability that a given feature vector will occur requires that that entire feature vector have been encountered for that sense before. For large feature vectors the likelihood of this is extremely low, and requires prohibitively large sets of training data. The Na\"ive Bayes Classifier (NBC) is an attempt to minimize the combinations of the features by making the \emph{na\"ive} assumption that the occurrence of each feature is an independent event. With this assumption, we may say that ${P(F(w)|s) = \prod_{f \in F(w)} P(f|s)}$. This assumption is certainly not always true, and is what gives the NBC its na\"ive qualifier. Indeed this equation is often an approximation at best, but usually it is sufficiently accurate to be usable.
+The second form is derived using Bayes' Formula, hence Na\"ive \emph{Bayes} Classifier. This equation is simple and conceptually effective. But in practice, even the second form is difficult to use---meainingfully computing the probability that a given feature vector will occur requires that that entire feature vector have been encountered for that sense before. For large feature vectors the likelihood of this is extremely low, and requires prohibitively large sets of training data. The Na\"ive Bayes Classifier (NBC) is an attempt to minimize the combinations of the features by making the \emph{na\"ive} assumption that the occurrence of each feature is an independent event. With this assumption, we may say that ${P(F(w)|s) = \prod_{f \in F(w)} P(f|s)}$. This assumption is certainly not always true, and is what gives the NBC its na\"ive qualifier. Indeed this equation is often an approximation at best, but usually it is sufficiently accurate to be useable.
 
 Substituting this value in and removing $P(F(w))$, as it is constant for all $s$ and will not affect which sense is chosen for any given word, we arrive at the Na\"ive Bayes Classifier equation:
 
@@ -55,7 +55,7 @@ The implementation of the NBC included with this paper was developed in Python 3
 The general approach for word sense disambiguation using the NBC has 3 overall steps. These steps are Training, Pre-processing, and Disambiguation. Both the training and pre-processing steps involve feature extraction, and as it is identical in both steps, we will discuss that it separately.
 
 \subsection{Baseline}
-An important part of establishing the performance of an algorithm is to determine the most basic implementation that the algorithm should improve upon. We call this the baseline. In our case, we chose to implement a most-frequent-sense selector as our baseline upon which to improve. This algorithm simply trains on a set of sense-annotated data and determines which sense is most common for each word. When disambiguating, the algorithm simply chooses that most-frequent sense for each word.
+An important part of establishing the performance of an algorithm is to determine the most basic implmentation that the algorithm should improve upon. We call this the baseline. In our case, we chose to implement a most-frequent-sense selector as our baseline upon which to improve. This algorithm simply trains on a set of sense-annotated data and determines which sense is most common for each word. When disambiguating, the algorithm simply chooses that most-frequent sense for each word.
 
 See Analysis for discussion of the performance of this baseline in relation to the NBC.
 
@@ -81,7 +81,7 @@ In our implementation these value are stored in two separate maps, denoted $A$ a
 \subsection{Pre-processing}
 Discuss POS tagging, tokenizing, lemmatization, sentence chunking.
 
-For meaningful feature extraction, it is helpful to attempt to obtain additional metadata about the input that will be sense-disambiguated. This is called the pre-processing stage, the goal of which to attempt to determine as much data that will be useful for identifying sense-context as possible. To this effect, we utilized the Natural Language Toolkit for lemmatization and part-of-speech tagging. These two basic pieces of information can immediately rule out most plainly incorrect senses from being chosen.
+For meaningful feature extraction, it is helpful to attempt to obtain additional metadata about the input that will be sense-disambiguated. This is called the pre-processing stage, the goal of which to attempt to determine as much data that will be useful for identifying sense-context as possible. To this effect, we utilized the Natural Language ToolKit for lemmatization and part-of-speech tagging. These two basic pieces of information can immediately rule out most plainly incorrect senses from being chosen.
 
 \subsection{Feature Extraction}
 Feature extraction is the process of identifying desired features in both the training data and the input data and saving their values. We do this in our implementation in \emph{features.py}. The exact same process of feature extraction is performed in both the training data and the input data.
@@ -110,7 +110,7 @@ Unlike qualifying features, which must all have been observed in training for th
 With this, we simply choose the sense which yields the highest probability. This represents the calculation of the NBC formula.
 
 \section{Analysis}
-Overall, the accuracy of the Na\"ive Bayes Classifier in our implementation was disappointing and our results were somewhat inconsistent with what we expected. We were unable to identify any features that could be calculated within the scope of the project that significantly improved the accuracy of the sense disambiguation.
+Overall, the accuracy of the Na\"ive Bayes Classifier in our implementation was disappointing and our results were somehwat inconsistent with what we expected. We were unable to identify any features that could be calculated within the scope of the project that significantly improved the accuracy of the sense disambiguation.
 
 We applied the NBC to all files in SemCor, a subset of the Brown corpus, which comprises 660,000 words, 230,000 of which are sense-tagged. It was used as the training data for the algorithm, and versions of the files which were stripped of metadata were used as input. The file used as input was always omitted from the training data for that run.
 
@@ -135,7 +135,7 @@ These results were calculated with the following features applied:
 Other features, such as collocations of neighboring words or a bag of words for neighboring words, actually significantly decreased accuracy, probably due to insufficient training data. These features were omitted in the final results run.
 
 \section{Conclusion}
-The accuracy of the results obtained from the system were significantly less than we hoped. The difficulty in identifying and successfully extracting features that actually provided meaningful data that improved results was unexpected. This difficulty stemmed from the fact that the Na\"ive Bayes Classifier is difficult to reason about, as a probabilistic method. Choices are made as a unit, the product of a large number of factors that are calculated from large amounts of data. This is why other methods, like Decision Trees, are often preferred when developing Word Sense Disambiguation systems; it is generally easier to understand and follow the choices that those systems make, making tuning easier.
+The accuracy of the results obtained from the system were signficantly less than we hoped. The difficulty in identifying and successfully extracting features that actually provided meaningful data that improved results was unexpected. This difficulty stemmed from the fact that the Na\"ive Bayes Classifier is difficult to reason about, as a probabilistic method. Choices are made as a unit, the product of a large number of factors that are calculated from large amounts of data. This is why other methods, like Decision Trees, are often preferred when developing Word Sense Disambiguation systems; it is generally easier to understand and follow the choices that those systems make, making tuning easier.
 
 There is also a certain degree of unavoidable error that resulted from the fact that we are inferring the metadata that we in turn use to do word disambiguation, namely part-of-speech tagging and lemmatization. Because these systems all feed into one another they have a cascading error effect. For example, switching to a 23\% more accurate lemmatizer reduced the number of incorrectly matched senses by over half. In practice, around 15\% of incorrectly matched senses were a result of and incorrectly chosen lemma or part-of-speech making it impossible for the correct sense to be chosen.
 
