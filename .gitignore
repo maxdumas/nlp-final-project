@@ -10,7 +10,8 @@ paper/*.fls
 paper/*.log
 paper/*.synctex.gz
 
-output/br-*.txt
+output/br-*.*txt
+output/br-*.*score
 
 semcor3.0
 
