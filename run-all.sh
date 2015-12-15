@@ -15,8 +15,9 @@ for test_file in ./data_test/*; do
 
     if ! ./run.sh $file_name; then
         echo "Failed to process file $test_file"
+        mv "data_train_omit/$file_name.xml" data_train
         exit 2
     fi
-
+    
     mv "data_train_omit/$file_name.xml" data_train
 done

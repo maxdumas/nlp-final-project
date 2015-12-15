@@ -15,6 +15,7 @@ for test_file in ./data_test/*; do
 
     if ! ./run-baseline.sh $file_name; then
         echo "Failed to process file $test_file"
+        mv "data_train_omit/$file_name.xml" data_train
         exit 2
     fi
 
